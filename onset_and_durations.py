@@ -22,7 +22,8 @@ class OnsetsDurations:
         
         self.final_output = self.collapse_conditions(self.onsdurs_output, [['OVRL_r2p'], ['OVRL_p2r'], ['OVRL_wr'], ['OVRL_wp']], ['OVRL'])
 
-        print(self.final_output)
+        #print(self.final_output['subj-17_4'])
+
     def get_events_times(self, events_data, event_type):  
         '''Gets new events (name, onsets, durations) from the logfiles and the transcription data '''
         subjects = list(set([subj[0].lower() for subj in events_data]))
@@ -38,6 +39,7 @@ class OnsetsDurations:
         robot_CONV2 = ['2', '4', '6']
 
         for sub in subjects:
+
             for run in runs:
                 SubjRunID = sub + '_' + run
 
