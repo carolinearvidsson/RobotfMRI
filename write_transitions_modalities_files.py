@@ -6,7 +6,7 @@ import sys
 
 if __name__ == '__main__':
     path = sys.argv[1]
-    print(path)
+    #print(path)
     transfiles = FilesList.get_transfiles(path)
     datastr = DataStructure(transfiles)
     c = Conversations(datastr.structure, path)

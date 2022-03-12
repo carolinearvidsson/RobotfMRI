@@ -31,14 +31,16 @@ class Modality:
             utter_starttime = utterance[0]
             utter_endtime = utterance[1]
             for segm in vocal_tier_b:
-                silence_starttime = segm[0]
+                seg_starttime = segm[0]
                 silence_endtime = segm[1]
-                if utter_starttime < silence_starttime < utter_endtime or \
+                if utter_starttime < seg_starttime < utter_endtime or \
                     utter_starttime < silence_endtime < utter_endtime or \
-                        utter_starttime < silence_starttime and utter_endtime > silence_endtime or \
-                            utter_starttime > silence_starttime and utter_endtime < silence_endtime:
-                    latest_starttime = max(utter_starttime, silence_starttime)
+                        utter_starttime < seg_starttime and utter_endtime > silence_endtime or \
+                            utter_starttime > seg_starttime and utter_endtime < silence_endtime:
+                    latest_starttime = max(utter_starttime, seg_starttime)
                     earliest_endtime = min (utter_endtime, silence_endtime)
+
                     duration = earliest_endtime - latest_starttime
+                    print(latest_starttime, earliest_endtime, duration)
                     simultaneous.append([latest_starttime, duration, prod, comp])
         return simultaneous

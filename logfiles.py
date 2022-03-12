@@ -31,9 +31,8 @@ class LogFiles:
                             name_durations.append(duration)
                     onsets.append(name_onsets)
                     durations.append(name_durations)
-
             logfile_data[file_ID] = {}
-            logfile_data[file_ID]['names'] = names 
+            logfile_data[file_ID]['names'] = names
             logfile_data[file_ID]['onsets'] = onsets
             logfile_data[file_ID]['durations'] = durations
         return logfile_data

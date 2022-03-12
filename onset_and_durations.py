@@ -15,14 +15,20 @@ class OnsetsDurations:
         c = Conversations(datastr.structure, path)
         print('Creating onsets and durations for production and comprehension periods...')
         self.get_events_times(c.modality, 'modality')
+
         print('Creating onsets and durations for transition periods...')
         self.get_events_times(c.transitions_data, 'transitions')
+
         print('Removing old events from original event files...')
         self.remove_old_events(['CONV1', 'CONV2'])
         
         self.final_output = self.collapse_conditions(self.onsdurs_output, [['OVRL_r2p'], ['OVRL_p2r'], ['OVRL_wr'], ['OVRL_wp']], ['OVRL'])
 
-        #print(self.final_output['subj-17_4'])
+        #------------------------------------------------------------------#
+        #For onsdurs.mat files for marseille replication
+        #self.final_output = self.replicate_marseille() 
+        #------------------------------------------------------------------#
+        
 
     def get_events_times(self, events_data, event_type):  
         '''Gets new events (name, onsets, durations) from the logfiles and the transcription data '''
@@ -49,9 +55,9 @@ class OnsetsDurations:
                     prod_r_name, self.prod_r_onsets, self.prod_r_durs = 'PROD_r', [], []
                     prod_h_name, self.prod_h_onsets, self.prod_h_durs = 'PROD_h', [], []
 
-                    names = (comp_r_name, comp_h_name, prod_r_name, prod_h_name)
-                    onsets = (self.comp_r_onsets, self.comp_h_onsets, self.prod_r_onsets, self.prod_h_onsets)
-                    durations = (self.comp_r_durs, self.comp_h_durs, self.prod_r_durs, self.prod_h_durs)
+                    names = (comp_h_name, prod_h_name, comp_r_name, prod_r_name)
+                    onsets = (self.comp_h_onsets, self.prod_h_onsets, self.comp_r_onsets, self.prod_r_onsets)
+                    durations = (self.comp_h_durs, self.prod_h_durs, self.comp_r_durs, self.prod_r_durs)
                     
                 elif event_type == 'transitions':
                     gap_p2r_name, self.gap_p2r_onsets, self.gap_p2r_durs = 'GAP_p2r', [], []
@@ -211,4 +217,9 @@ class OnsetsDurations:
                 del names[evnt_indx]
                 del onsets[evnt_indx]
                 del durations[evnt_indx]
+
+    def replicate_marseille(self):
+        for subj in self.onsdurs_output:
+            self.onsdurs_output[subj]['names'] = [name for name in self.onsdurs_output[subj]['names']]
+        return self.onsdurs_output
 
