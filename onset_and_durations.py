@@ -22,7 +22,15 @@ class OnsetsDurations:
         print('Removing old events from original event files...')
         self.remove_old_events(['CONV1', 'CONV2'])
         
-        self.final_output = self.collapse_conditions(self.onsdurs_output, [['OVRL_r2p'], ['OVRL_p2r'], ['OVRL_wr'], ['OVRL_wp']], ['OVRL'])
+        collapsed_one = self.collapse_conditions(self.onsdurs_output, [['OVRL_wc_h'], ['COMP_h']], ['COMP_h'])
+        collapsed_two = self.collapse_conditions(collapsed_one, [['OVRL_p2c_h'], ['COMP_h']], ['COMP_h'])
+        collapsed_three = self.collapse_conditions(collapsed_two, [['OVRL_wp_h'], ['PROD_h']], ['PROD_h'])
+        collapsed_four = self.collapse_conditions(collapsed_three, [['OVRL_c2p_h'], ['PROD_h']], ['PROD_h'])
+
+        collapsed_five = self.collapse_conditions(collapsed_four, [['OVRL_wc_r'], ['COMP_r']], ['COMP_r'])
+        collapsed_six = self.collapse_conditions(collapsed_five, [['OVRL_p2c_r'], ['COMP_r']], ['COMP_r'])
+        collapsed_seven = self.collapse_conditions(collapsed_six, [['OVRL_wp_r'], ['PROD_r']], ['PROD_r'])
+        self.final_output = self.collapse_conditions(collapsed_seven, [['OVRL_c2p_r'], ['PROD_r']], ['PROD_r'])
 
         #------------------------------------------------------------------#
         #For onsdurs.mat files for marseille replication
@@ -60,23 +68,45 @@ class OnsetsDurations:
                     durations = (self.comp_h_durs, self.prod_h_durs, self.comp_r_durs, self.prod_r_durs)
                     
                 elif event_type == 'transitions':
-                    gap_p2r_name, self.gap_p2r_onsets, self.gap_p2r_durs = 'GAP_p2r', [], []
-                    gap_r2p_name, self.gap_r2p_onsets, self.gap_r2p_durs = 'GAP_r2p', [], []
-                    pause_r_name, self.pause_r_onsets, self.pause_r_durs = 'PAUSE_r', [], []
-                    pause_p_name, self.pause_p_onsets, self.pause_p_durs = 'PAUSE_p', [], []
-                    ovrl_p2r_name, self.ovrl_p2r_onsets, self.ovrl_p2r_durs = 'OVRL_p2r', [], []
-                    ovrl_r2p_name, self.ovrl_r2p_onsets, self.ovrl_r2p_durs = 'OVRL_r2p', [], []
-                    ovrl_wp_name, self.ovrl_wp_onsets, self.ovrl_wp_durs = 'OVRL_wp', [], []
-                    ovrl_wr_name, self.ovrl_wr_onsets, self.ovrl_wr_durs = 'OVRL_wr', [], []
+                    gap_p2c_name_h, self.gap_p2c_onsets_h, self.gap_p2c_durs_h = 'GAP_p2c_h', [], []
+                    gap_c2p_name_h, self.gap_c2p_onsets_h, self.gap_c2p_durs_h = 'GAP_c2p_h', [], []
+                    pause_c_name_h, self.pause_c_onsets_h, self.pause_c_durs_h = 'PAUSE_c_h', [], []
+                    pause_p_name_h, self.pause_p_onsets_h, self.pause_p_durs_h = 'PAUSE_p_h', [], []
+                    ovrl_p2c_name_h, self.ovrl_p2c_onsets_h, self.ovrl_p2c_durs_h = 'OVRL_p2c_h', [], []
+                    ovrl_c2p_name_h, self.ovrl_c2p_onsets_h, self.ovrl_c2p_durs_h = 'OVRL_c2p_h', [], []
+                    ovrl_wp_name_h, self.ovrl_wp_onsets_h, self.ovrl_wp_durs_h = 'OVRL_wp_h', [], []
+                    ovrl_wc_name_h, self.ovrl_wc_onsets_h, self.ovrl_wc_durs_h = 'OVRL_wc_h', [], []
                     
-                    names = (gap_p2r_name, gap_r2p_name, pause_r_name, pause_p_name,
-                        ovrl_p2r_name, ovrl_r2p_name, ovrl_wp_name, ovrl_wr_name)
-                    onsets = (self.gap_p2r_onsets, self.gap_r2p_onsets, self.pause_r_onsets,
-                        self.pause_p_onsets, self.ovrl_p2r_onsets, self.ovrl_r2p_onsets,
-                            self.ovrl_wp_onsets, self.ovrl_wr_onsets)
-                    durations = (self.gap_p2r_durs, self.gap_r2p_durs, self.pause_r_durs, 
-                        self.pause_p_durs, self.ovrl_p2r_durs, self.ovrl_r2p_durs, 
-                           self.ovrl_wp_durs, self.ovrl_wr_durs)
+                    gap_p2c_name_r, self.gap_p2c_onsets_r, self.gap_p2c_durs_r = 'GAP_p2c_r', [], []
+                    gap_c2p_name_r, self.gap_c2p_onsets_r, self.gap_c2p_durs_r = 'GAP_c2p_r', [], []
+                    pause_c_name_r, self.pause_c_onsets_r, self.pause_c_durs_r = 'PAUSE_c_r', [], []
+                    pause_p_name_r, self.pause_p_onsets_r, self.pause_p_durs_r = 'PAUSE_p_r', [], []
+                    ovrl_p2c_name_r, self.ovrl_p2c_onsets_r, self.ovrl_p2c_durs_r = 'OVRL_p2c_r', [], []
+                    ovrl_c2p_name_r, self.ovrl_c2p_onsets_r, self.ovrl_c2p_durs_r = 'OVRL_c2p_r', [], []
+                    ovrl_wp_name_r, self.ovrl_wp_onsets_r, self.ovrl_wp_durs_r = 'OVRL_wp_r', [], []
+                    ovrl_wc_name_r, self.ovrl_wc_onsets_r, self.ovrl_wc_durs_r = 'OVRL_wc_r', [], []                    
+
+                    names = (gap_p2c_name_h, gap_c2p_name_h, pause_c_name_h, pause_p_name_h,
+                        ovrl_p2c_name_h, ovrl_c2p_name_h, ovrl_wp_name_h, ovrl_wc_name_h,
+                        
+                        gap_p2c_name_r, gap_c2p_name_r, pause_c_name_r, pause_p_name_r,
+                        ovrl_p2c_name_r, ovrl_c2p_name_r, ovrl_wp_name_r, ovrl_wc_name_r)
+
+                    onsets = (self.gap_p2c_onsets_h, self.gap_c2p_onsets_h, self.pause_c_onsets_h,
+                        self.pause_p_onsets_h, self.ovrl_p2c_onsets_h, self.ovrl_c2p_onsets_h,
+                            self.ovrl_wp_onsets_h, self.ovrl_wc_onsets_h,
+                            
+                            self.gap_p2c_onsets_r, self.gap_c2p_onsets_r, self.pause_c_onsets_r,
+                        self.pause_p_onsets_r, self.ovrl_p2c_onsets_r, self.ovrl_c2p_onsets_r,
+                            self.ovrl_wp_onsets_r, self.ovrl_wc_onsets_r)
+
+                    durations = (self.gap_p2c_durs_h, self.gap_c2p_durs_h, self.pause_c_durs_h, 
+                        self.pause_p_durs_h, self.ovrl_p2c_durs_h, self.ovrl_c2p_durs_h, 
+                           self.ovrl_wp_durs_h, self.ovrl_wc_durs_h,
+                           
+                           self.gap_p2c_durs_r, self.gap_c2p_durs_r, self.pause_c_durs_r, 
+                        self.pause_p_durs_r, self.ovrl_p2c_durs_r, self.ovrl_c2p_durs_r, 
+                           self.ovrl_wp_durs_r, self.ovrl_wc_durs_r)
 
                 for conv in conversations:
                     for row in events_data:
@@ -97,7 +127,7 @@ class OnsetsDurations:
                                         self.prod_h_durs.append(duration)
 
                                 elif event_type == 'transitions':
-                                    self.append_transition_parameters(row, onset, duration, conv_onset)
+                                    self.append_transition_parameters(row, onset, duration, conv_onset, 'human')
 
                             elif conv in robot_CONV2:
                                 name_index = self.onsdurs_output[SubjRunID]['names'].index('CONV2')
@@ -112,7 +142,7 @@ class OnsetsDurations:
                                         self.prod_r_durs.append(duration)
 
                                 elif event_type == 'transitions':
-                                    self.append_transition_parameters(row, onset, duration, conv_onset)
+                                    self.append_transition_parameters(row, onset, duration, conv_onset, 'robot')
                     
                 for name, ons_list, dur_list in zip(names, onsets, durations):
                     self.append_name_onset_duration(SubjRunID, [name], ons_list, dur_list)
@@ -122,32 +152,59 @@ class OnsetsDurations:
                 #    print('name_type: ', type(name), 'ons_type: ','\n', [type(ons) for ons in ons_list if type(ons) == str], [type(dur) for dur in dur_list if type(dur) == str])
 
 
-    def append_transition_parameters(self, row, onset, duration, conv_onset):
+    def append_transition_parameters(self, row, onset, duration, conv_onset, condition):
         new_onset = float(conv_onset + onset)
-        if self.check_transition(row) == 'GAP_p2r':
-            self.gap_p2r_onsets.append(new_onset)
-            self.gap_p2r_durs.append(duration)
-        elif self.check_transition(row) == 'GAP_r2p':
-            self.gap_r2p_onsets.append(new_onset)
-            self.gap_r2p_durs.append(duration)
-        elif self.check_transition(row) == 'PAUSE_p':
-            self.pause_p_onsets.append(new_onset)
-            self.pause_p_durs.append(duration)
-        elif self.check_transition(row) == 'PAUSE_r':
-            self.pause_r_onsets.append(new_onset)
-            self.pause_r_durs.append(duration)
-        elif self.check_transition(row) == 'OVRL_p2r':
-            self.ovrl_p2r_onsets.append(new_onset)
-            self.ovrl_p2r_durs.append(duration)
-        elif self.check_transition(row) == 'OVRL_r2p':
-            self.ovrl_r2p_onsets.append(new_onset)
-            self.ovrl_r2p_durs.append(duration)
-        elif self.check_transition(row) == 'OVRL_wp':
-            self.ovrl_wp_onsets.append(new_onset)
-            self.ovrl_wp_durs.append(duration)
-        elif self.check_transition(row) == 'OVRL_wr':
-            self.ovrl_wr_onsets.append(new_onset)
-            self.ovrl_wr_durs.append(duration)
+        if condition == 'human':
+            if self.check_transition(row) == 'GAP_p2c':
+                self.gap_p2c_onsets_h.append(new_onset)
+                self.gap_p2c_durs_h.append(duration)
+            elif self.check_transition(row) == 'GAP_c2p':
+                self.gap_c2p_onsets_h.append(new_onset)
+                self.gap_c2p_durs_h.append(duration)
+            elif self.check_transition(row) == 'PAUSE_p':
+                self.pause_p_onsets_h.append(new_onset)
+                self.pause_p_durs_h.append(duration)
+            elif self.check_transition(row) == 'PAUSE_c':
+                self.pause_c_onsets_h.append(new_onset)
+                self.pause_c_durs_h.append(duration)
+            elif self.check_transition(row) == 'OVRL_p2c':
+                self.ovrl_p2c_onsets_h.append(new_onset)
+                self.ovrl_p2c_durs_h.append(duration)
+            elif self.check_transition(row) == 'OVRL_c2p':
+                self.ovrl_c2p_onsets_h.append(new_onset)
+                self.ovrl_c2p_durs_h.append(duration)
+            elif self.check_transition(row) == 'OVRL_wp':
+                self.ovrl_wp_onsets_h.append(new_onset)
+                self.ovrl_wp_durs_h.append(duration)
+            elif self.check_transition(row) == 'OVRL_wc':
+                self.ovrl_wc_onsets_h.append(new_onset)
+                self.ovrl_wc_durs_h.append(duration)
+
+        elif condition == 'robot':
+            if self.check_transition(row) == 'GAP_p2c':
+                self.gap_p2c_onsets_r.append(new_onset)
+                self.gap_p2c_durs_r.append(duration)
+            elif self.check_transition(row) == 'GAP_c2p':
+                self.gap_c2p_onsets_r.append(new_onset)
+                self.gap_c2p_durs_r.append(duration)
+            elif self.check_transition(row) == 'PAUSE_p':
+                self.pause_p_onsets_r.append(new_onset)
+                self.pause_p_durs_r.append(duration)
+            elif self.check_transition(row) == 'PAUSE_c':
+                self.pause_c_onsets_r.append(new_onset)
+                self.pause_c_durs_r.append(duration)
+            elif self.check_transition(row) == 'OVRL_p2c':
+                self.ovrl_p2c_onsets_r.append(new_onset)
+                self.ovrl_p2c_durs_r.append(duration)
+            elif self.check_transition(row) == 'OVRL_c2p':
+                self.ovrl_c2p_onsets_r.append(new_onset)
+                self.ovrl_c2p_durs_r.append(duration)
+            elif self.check_transition(row) == 'OVRL_wp':
+                self.ovrl_wp_onsets_r.append(new_onset)
+                self.ovrl_wp_durs_r.append(duration)
+            elif self.check_transition(row) == 'OVRL_wc':
+                self.ovrl_wc_onsets_r.append(new_onset)
+                self.ovrl_wc_durs_r.append(duration)
 
     def collapse_conditions(self, d, to_collapse, new_name):
         print('Collapsing following conditions: ', to_collapse, ' into: ', new_name)
@@ -188,14 +245,16 @@ class OnsetsDurations:
         previous_speaker = l[7]
         subsequent_speaker = l[8]
         typ = l[9]
-        patterns = [['GAP_p2r', 'participant', 'researcher', 'silence'],
-            ['GAP_r2p', 'researcher', 'participant', 'silence'],
-            ['PAUSE_r', 'researcher', 'researcher', 'silence'],
+        names_human = []
+        patterns = [['GAP_p2c', 'participant', 'researcher', 'silence'],
+            ['GAP_c2p', 'researcher', 'participant', 'silence'],
+            ['PAUSE_c', 'researcher', 'researcher', 'silence'],
             ['PAUSE_p', 'participant', 'participant', 'silence'],
-            ['OVRL_p2r', 'participant', 'researcher', 'speech'],
-            ['OVRL_r2p', 'researcher', 'participant', 'speech'],
+
+            ['OVRL_p2c', 'participant', 'researcher', 'speech'],
+            ['OVRL_c2p', 'researcher', 'participant', 'speech'],
             ['OVRL_wp', 'participant', 'participant', 'speech'],
-            ['OVRL_wr', 'researcher', 'researcher', 'speech']]
+            ['OVRL_wc', 'researcher', 'researcher', 'speech']]
         for pattern in patterns:
             if previous_speaker in pattern[1] and subsequent_speaker in pattern[2] and typ in pattern[3]:
                 return pattern[0]
