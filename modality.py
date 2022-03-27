@@ -41,6 +41,6 @@ class Modality:
                     earliest_endtime = min (utter_endtime, silence_endtime)
 
                     duration = earliest_endtime - latest_starttime
-                    print(latest_starttime, earliest_endtime, duration)
+                    #print(latest_starttime, earliest_endtime, duration)
                     simultaneous.append([latest_starttime, duration, prod, comp])
         return simultaneous

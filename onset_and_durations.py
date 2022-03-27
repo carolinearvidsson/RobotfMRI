@@ -116,6 +116,7 @@ class OnsetsDurations:
                             if conv in human_CONV1:
                                 name_index = self.onsdurs_output[SubjRunID]['names'].index('CONV1')
                                 conv_onset = float(self.onsdurs_output[SubjRunID]['onsets'][name_index][human_CONV1.index(conv)])
+                                
                                 if event_type == 'modality': 
                                 
                                     if self.check_modality((row[-2], row[-1])) == 'comprehension':  
