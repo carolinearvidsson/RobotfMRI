@@ -4,10 +4,14 @@ class Transitions:
         speaker_pauses = [pause for pause in conversation if pause[2] == '#']
         silences = self.get_segment_overlap(speaker_pauses, 'silence')
         speech = [overl for overl in conversation if overl[2][0].isalnum()]
-        speech_overlaps = self.get_segment_overlap(speech, 'speech')
+        
+        #---------- Commented out to ignore overlaps:
+        #speech_overlaps = self.get_segment_overlap(speech, 'speech')
 
-        self.get_segment_overlap_type([silences, speech_overlaps], conversation)
+        #self.get_segment_overlap_type([silences, speech_overlaps], conversation)
+        self.get_segment_overlap_type([silences], conversation)
 
+        
     def get_segment_overlap(self, segments, s_type):  
         segm_overl = [] 
         segments_copy = segments

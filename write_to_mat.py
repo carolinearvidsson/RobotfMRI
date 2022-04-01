@@ -15,7 +15,7 @@ if __name__== '__main__':
         #         print(cat)
         #         print(mdic[run][cat])
         #filename = 'marseille_onsdurs_' + run[0:3] + '-' + run[5:7] + '_' + 'run' + run[-1] + '.mat'
-        filename = 'onset_and_durations_noovrl_rh_' + run[0:3] + '-' + run[5:7] + '_' + 'run' + run[-1] + '.mat'
+        filename = 'onset_and_durations_ignore_ovrl' + run[0:3] + '-' + run[5:7] + '_' + 'run' + run[-1] + '.mat'
         savemat(filename, mdic[run])
 
         #python3 write_NamesOnsetDurations_to_m.py ~/Desktop/MasterYearOne/VT22/Thesis/Data/Resampled/
