@@ -16,6 +16,7 @@ if __name__ == '__main__':
         c.transitions_data.insert(0, transitions_header)
         writer = csv.writer(f)
         for row in c.transitions_data:
+            print(row)
             writer.writerow(row)
     f.close()
 
@@ -26,4 +27,5 @@ if __name__ == '__main__':
         for row in c.modality:
             writer.writerow(row)
     f.close()
+    
     

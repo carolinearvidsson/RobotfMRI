@@ -9,6 +9,7 @@ class OnsetsDurations:
         transfiles = FilesList.get_transfiles(path)
         datastr = DataStructure(transfiles)
         l = LogFiles()
+        self.allturninitdurs = []
         print('Parsing logfiles...')
         self.onsdurs_output = l.onsdurs_from_eventfiles
         
@@ -23,6 +24,7 @@ class OnsetsDurations:
         self.remove_old_events(['CONV1', 'CONV2'])
         
         self.final_output = self.collapse_conditions(self.onsdurs_output, [['PAUSE_c_h'], ['PAUSE_p_h'], ['PAUSE_c_r'], ['PAUSE_p_r']], ['PAUSES'])
+        print(len(self.allturninitdurs))
         # collapsed_one = self.collapse_conditions(self.onsdurs_output, [['OVRL_wc_h'], ['COMP_h']], ['COMP_h'])
         # collapsed_two = self.collapse_conditions(collapsed_one, [['OVRL_p2c_h'], ['COMP_h']], ['COMP_h'])
         # collapsed_three = self.collapse_conditions(collapsed_two, [['OVRL_wp_h'], ['PROD_h']], ['PROD_h'])
@@ -76,7 +78,7 @@ class OnsetsDurations:
                     pause_c_name_h, self.pause_c_onsets_h, self.pause_c_durs_h = 'PAUSE_c_h', [], []
                     pause_p_name_h, self.pause_p_onsets_h, self.pause_p_durs_h = 'PAUSE_p_h', [], []
                     # ovrl_p2c_name_h, self.ovrl_p2c_onsets_h, self.ovrl_p2c_durs_h = 'OVRL_p2c_h', [], []
-                    # ovrl_c2p_name_h, self.ovrl_c2p_onsets_h, self.ovrl_c2p_durs_h = 'OVRL_c2p_h', [], []
+                    #self.ovrl_c2p_name_h, self.ovrl_c2p_onsets_h, self.ovrl_c2p_durs_h = 'OVRL_c2p_h', [], []
                     # ovrl_wp_name_h, self.ovrl_wp_onsets_h, self.ovrl_wp_durs_h = 'OVRL_wp_h', [], []
                     # ovrl_wc_name_h, self.ovrl_wc_onsets_h, self.ovrl_wc_durs_h = 'OVRL_wc_h', [], []
                     turn_init_h_name, self.turn_init_h_onsets, self.turn_init_h_durs = 'TI_h', [], []
@@ -158,9 +160,11 @@ class OnsetsDurations:
 
                                 elif event_type == 'transitions':
                                     self.append_transition_parameters(row, onset, duration, conv_onset, 'robot')
-                    
+
                 for name, ons_list, dur_list in zip(names, onsets, durations):
                     self.append_name_onset_duration(SubjRunID, [name], ons_list, dur_list)
+
+                
                     #print(SubjRunID, name, ons_list, dur_list)
                     #print(type(SubjRunID), type(name), type(ons_list), type(dur_list))
                 #for name, ons_list, dur_list in zip(names, onsets, durations):
@@ -180,7 +184,8 @@ class OnsetsDurations:
                 TI_onset = (new_onset + duration) - 0.6
                 self.turn_init_h_onsets.append(TI_onset)
                 self.turn_init_h_durs.append(0.6)
-                
+                self.allturninitdurs.append(duration)
+
             elif self.check_transition(row) == 'PAUSE_p':
                 self.pause_p_onsets_h.append(new_onset)
                 self.pause_p_durs_h.append(duration)
@@ -190,9 +195,10 @@ class OnsetsDurations:
             # elif self.check_transition(row) == 'OVRL_p2c':
             #     self.ovrl_p2c_onsets_h.append(new_onset)
             #     self.ovrl_p2c_durs_h.append(duration)
-            # elif self.check_transition(row) == 'OVRL_c2p':
-            #     self.ovrl_c2p_onsets_h.append(new_onset)
-            #     self.ovrl_c2p_durs_h.append(duration)
+            elif self.check_transition(row) == 'OVRL_c2p':
+                TI_onset = (new_onset + duration) - 0.6
+                self.turn_init_r_onsets.append(TI_onset)
+                self.turn_init_r_durs.append(0.6)
             # elif self.check_transition(row) == 'OVRL_wp':
             #     self.ovrl_wp_onsets_h.append(new_onset)
             #     self.ovrl_wp_durs_h.append(duration)
@@ -221,9 +227,10 @@ class OnsetsDurations:
             # elif self.check_transition(row) == 'OVRL_p2c':
             #     self.ovrl_p2c_onsets_r.append(new_onset)
             #     self.ovrl_p2c_durs_r.append(duration)
-            # elif self.check_transition(row) == 'OVRL_c2p':
-            #     self.ovrl_c2p_onsets_r.append(new_onset)
-            #     self.ovrl_c2p_durs_r.append(duration)
+            elif self.check_transition(row) == 'OVRL_c2p':
+                TI_onset = (new_onset + duration) - 0.6
+                self.turn_init_r_onsets.append(TI_onset)
+                self.turn_init_r_durs.append(0.6)
             # elif self.check_transition(row) == 'OVRL_wp':
             #     self.ovrl_wp_onsets_r.append(new_onset)
             #     self.ovrl_wp_durs_r.append(duration)
@@ -270,7 +277,6 @@ class OnsetsDurations:
         previous_speaker = l[7]
         subsequent_speaker = l[8]
         typ = l[9]
-        names_human = []
         patterns = [['GAP_p2c', 'participant', 'researcher', 'silence'],
             ['GAP_c2p', 'researcher', 'participant', 'silence'],
             ['PAUSE_c', 'researcher', 'researcher', 'silence'],
