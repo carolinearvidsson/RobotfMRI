@@ -1,4 +1,3 @@
-from os import remove
 from logfiles import LogFiles
 from filereader import FilesList
 from ds import DataStructure
