@@ -6,7 +6,7 @@ Takes TextGrid-formatted transcriptions from the 'Multimodal corpus of bidirecti
 
 To run the program, type the following command in the terminal:
 
-```python3 main.py [PathToTextGridFiles]```
+```python3 main.py 'PathToTextGridFiles'```
 
 ## Required packages
 ```textgrid ```
