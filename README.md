@@ -1,2 +1,11 @@
 # RobotfMRI
 Scripts utilized for the RobotfMRI Project
+
+## Usage
+Takes TextGrid-formatted transcriptions from the 'Multimodal corpus of bidirectional conversation of human-human and human-robot interaction during fMRI scanning' (Rauchbauer et al., 2020) as input. Returns a folder with onset and duration files that can be utilized in fMRI analysis in SPM12.
+
+In the terminal, print the following command:
+```python3 main.py [PathToTextGridFiles]```
+
+##References
+Rauchbauer, B., Hmamouche, Y., Bigi, B., Prevot, L., Ochs, M., & Thierry, C. (2020, November). Multimodal corpus of bidirectional conversation of human-human and human-robot interaction during fMRI scanning. In Proceedings of The 12th Language Resources and Evaluation Conference (pp. 661-668). European Language Resources Association.
