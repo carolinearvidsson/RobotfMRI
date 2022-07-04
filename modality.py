@@ -4,17 +4,16 @@ class Modality:
         self.modality_data = [] # list where each element represents a production/comprehension segment, with following structure: [start time, duration, production (1 if yes), comprehension (1 if yes)]
         participant_production = [segment for segment in conversation if segment[2] != '#' \
             and segment[2] != '***' and segment[4] == 'participant']
-        participant_comprehension = [segment for segment in conversation if segment[2] == '#' \
-            and segment[4] == 'participant']
+        participant_comprehension = [segment for segment in conversation if segment[2] != '#' \
+            and segment[2] != '***' and segment[4] == 'researcher']
         confederate_speech = [segment for segment in conversation \
             if segment[4] == 'researcher' and segment[2] != '#']
         confederate_silence = [segment for segment in conversation \
             if segment[4] == 'researcher' and segment[2] == '#']
-        
+        print(conversation)
         comprehension = self.get_simultaneous(participant_comprehension, confederate_speech, 'comp')
         production = self.get_simultaneous(participant_production, confederate_silence, 'prod')
         self.modality_data = comprehension + production
-        
     
     def get_simultaneous(self, vocal_tier_a, vocal_tier_b, modality): #Takes two lists with utterances from respective speakers\
         # and computes the duration of overlaps of utterances if there are any. Output is a list where each section has the following structure:
