@@ -3,14 +3,15 @@ class Modality:
     def __init__(self, conversation):
         self.modality_data = [] # list where each element represents a production/comprehension segment, with following structure: [start time, duration, production (1 if yes), comprehension (1 if yes)]
         participant_production = [segment for segment in conversation if segment[4] == 'participant' \
-            and segment[2] != '#' or segment[4] == 'participant' and segment[2] != '***']
+            if segment[2] != '#' if segment[2] != '***']
+        print(participant_production)
         participant_comprehension = [segment for segment in conversation if segment[4] == 'researcher' \
-            and segment[2] != '#' or segment[4] == 'researcher' and segment[2] != '***']
+            if segment[2] != '#' if segment[2] != '***']
         confederate_speech = [segment for segment in conversation \
             if segment[4] == 'researcher' and segment[2] != '#']
         confederate_silence = [segment for segment in conversation \
             if segment[4] == 'researcher' and segment[2] == '#']
-        print(conversation)
+
         comprehension = self.get_simultaneous(participant_comprehension, confederate_speech, 'comp')
         production = self.get_simultaneous(participant_production, confederate_silence, 'prod')
         self.modality_data = comprehension + production
