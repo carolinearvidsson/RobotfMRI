@@ -3,9 +3,9 @@ class Modality:
     def __init__(self, conversation):
         self.modality_data = [] # list where each element represents a production/comprehension segment, with following structure: [start time, duration, production (1 if yes), comprehension (1 if yes)]
         participant_production = [segment for segment in conversation if segment[4] == 'participant' \
-            and segment[2] != '#' or segment[2] != '***' and segment[4]]
+            and segment[2] != '#' or segment[4] == 'participant' and segment[2] != '***']
         participant_comprehension = [segment for segment in conversation if segment[4] == 'researcher' \
-            and segment[2] != '#' or segment[2] != '***' and segment[4]]
+            and segment[2] != '#' or segment[4] == 'researcher' and segment[2] != '***']
         confederate_speech = [segment for segment in conversation \
             if segment[4] == 'researcher' and segment[2] != '#']
         confederate_silence = [segment for segment in conversation \
