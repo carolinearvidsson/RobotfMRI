@@ -1,3 +1,4 @@
+import pickle 
 from logfiles import LogFiles
 from filereader import FilesList
 from ds import DataStructure
@@ -24,16 +25,17 @@ class OnsetsDurations:
         self.remove_old_events(['CONV1', 'CONV2'])
 
         #prioritize TI (or not)
+        self.collapsed = self.collapse_conditions(self.onsdurs_output, [['PAUSE_c_h'], ['PAUSE_p_h'], ['GAP_p2c_h'], ['GAP_c2p_h']], ['SILENCE_h'])
+        self.final_output = self.collapse_conditions(self.collapsed, [['PAUSE_c_r'], ['PAUSE_p_r'], ['GAP_p2c_r'], ['GAP_c2p_r']], ['SILENCE_r'])
 
-        self.cropped_output = self.crop_duration() #remove events <300 ms
+        self.cropped_output = self.crop_duration(self.final_output) #remove events <300 ms
 
         #this piece saves ons durs output in a file that can be loaded later in the notebook
-        import pickle 
-        a_file = open("onsdurs_not_collapsed_not_cropped.pkl", "wb")
-        pickle.dump(self.onsdurs_output, a_file)
+
+        a_file = open("onsdurs_collapsed_cropped.pkl", "wb")
+        pickle.dump(self.final_output, a_file)
         a_file.close()
 
-        #self.final_output = self.collapse_conditions(self.cropped_output, [['PAUSE_c_h'], ['PAUSE_p_h'], ['PAUSE_c_r'], ['PAUSE_p_r'], ['GAP_p2c_h'], ['GAP_c2p_h'], ['GAP_p2c_r'], ['GAP_c2p_r']], ['SILENCE'])
         #print(len(self.allturninitdurs))
         
     
@@ -335,11 +337,11 @@ class OnsetsDurations:
             self.onsdurs_output[subj]['names'] = [name for name in self.onsdurs_output[subj]['names']]
         return self.onsdurs_output
 
-    def crop_duration(self): #remove events less than 300 ms
-        cropped_onsdurs = self.onsdurs_output
+    def crop_duration(self, onsdurs): #remove events less than 300 ms
+        cropped_onsdurs = onsdurs
 
-        for key in self.onsdurs_output:
-            current_subj = self.onsdurs_output[key]
+        for key in onsdurs:
+            current_subj = onsdurs[key]
             for cat in range(len(current_subj['names'])):
             # save the indexes of all the elements in testing_list['durations'][0] that are greater than 0.3 in a new list
                 indexes_to_keep = [i for i, x in enumerate(current_subj['durations'][cat]) if x > 0.3]
