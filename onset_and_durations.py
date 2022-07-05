@@ -13,6 +13,7 @@ class OnsetsDurations:
         self.onsdurs_output = l.onsdurs_from_eventfiles
         
         c = Conversations(datastr.structure, path)
+
         print('Creating onsets and durations for production and comprehension periods...')
         self.get_events_times(c.modality, 'modality')
 
@@ -21,9 +22,31 @@ class OnsetsDurations:
 
         print('Removing old events from original event files...')
         self.remove_old_events(['CONV1', 'CONV2'])
+
+        #prioritize TI (or not)
+
+        self.cropped_output = self.crop_duration() #remove events <300 ms
+
+        #this piece saves ons durs output in a file that can be loaded later in the notebook
+        import pickle 
+        a_file = open("onsdurs_not_collapsed_not_cropped.pkl", "wb")
+        pickle.dump(self.onsdurs_output, a_file)
+        a_file.close()
+
+        #self.final_output = self.collapse_conditions(self.cropped_output, [['PAUSE_c_h'], ['PAUSE_p_h'], ['PAUSE_c_r'], ['PAUSE_p_r'], ['GAP_p2c_h'], ['GAP_c2p_h'], ['GAP_p2c_r'], ['GAP_c2p_r']], ['SILENCE'])
+        #print(len(self.allturninitdurs))
         
-        self.final_output = self.collapse_conditions(self.onsdurs_output, [['PAUSE_c_h'], ['PAUSE_p_h'], ['PAUSE_c_r'], ['PAUSE_p_r']], ['PAUSES'])
-        print(len(self.allturninitdurs))
+    
+
+        # import pickle
+        # a_file = open("onsdurs.pkl", "wb")
+        # pickle.dump(self.final_output, a_file)
+        # a_file.close()
+        #import json
+        #with open('ons_durs_output.txt', 'w') as convert_file:
+        #    convert_file.write(json.dumps(self.final_output))
+
+        #print(self.onsdurs_output)
         # collapsed_one = self.collapse_conditions(self.onsdurs_output, [['OVRL_wc_h'], ['COMP_h']], ['COMP_h'])
         # collapsed_two = self.collapse_conditions(collapsed_one, [['OVRL_p2c_h'], ['COMP_h']], ['COMP_h'])
         # collapsed_three = self.collapse_conditions(collapsed_two, [['OVRL_wp_h'], ['PROD_h']], ['PROD_h'])
@@ -162,7 +185,7 @@ class OnsetsDurations:
 
                 for name, ons_list, dur_list in zip(names, onsets, durations):
                     self.append_name_onset_duration(SubjRunID, [name], ons_list, dur_list)
-
+                    
                 
                     #print(SubjRunID, name, ons_list, dur_list)
                     #print(type(SubjRunID), type(name), type(ons_list), type(dur_list))
@@ -311,4 +334,18 @@ class OnsetsDurations:
         for subj in self.onsdurs_output:
             self.onsdurs_output[subj]['names'] = [name for name in self.onsdurs_output[subj]['names']]
         return self.onsdurs_output
+
+    def crop_duration(self): #remove events less than 300 ms
+        cropped_onsdurs = self.onsdurs_output
+
+        for key in self.onsdurs_output:
+            current_subj = self.onsdurs_output[key]
+            for cat in range(len(current_subj['names'])):
+            # save the indexes of all the elements in testing_list['durations'][0] that are greater than 0.3 in a new list
+                indexes_to_keep = [i for i, x in enumerate(current_subj['durations'][cat]) if x > 0.3]
+                cropped_onsdurs[key]['durations'][cat] = [current_subj['durations'][cat][i] for i in indexes_to_keep]
+                cropped_onsdurs[key]['onsets'][cat] = [current_subj['onsets'][cat][i] for i in indexes_to_keep]
+
+        return cropped_onsdurs
+
 
