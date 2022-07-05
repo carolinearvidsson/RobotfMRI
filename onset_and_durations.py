@@ -37,8 +37,6 @@ class OnsetsDurations:
         a_file.close()
 
         #print(len(self.allturninitdurs))
-        
-    
 
         # import pickle
         # a_file = open("onsdurs.pkl", "wb")
