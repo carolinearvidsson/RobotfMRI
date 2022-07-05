@@ -28,7 +28,7 @@ class OnsetsDurations:
         self.collapsed = self.collapse_conditions(self.onsdurs_output, [['PAUSE_c_h'], ['PAUSE_p_h'], ['GAP_p2c_h'], ['GAP_c2p_h']], ['SILENCE_h'])
         self.final_output = self.collapse_conditions(self.collapsed, [['PAUSE_c_r'], ['PAUSE_p_r'], ['GAP_p2c_r'], ['GAP_c2p_r']], ['SILENCE_r'])
 
-        self.cropped_output = self.crop_duration(self.final_output) #remove events <300 ms
+        self.final_output = self.crop_duration(self.final_output) #remove events <300 ms
 
         #this piece saves ons durs output in a file that can be loaded later in the notebook
 
