@@ -4,7 +4,7 @@ from filereader import FilesList
 from ds import DataStructure
 from conversations import Conversations
 
-class OnsetsDurations:
+class OnsetsDurations: 
     def __init__(self, path):
         transfiles = FilesList.get_transfiles(path)
         datastr = DataStructure(transfiles)
