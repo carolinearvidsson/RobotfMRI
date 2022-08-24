@@ -186,7 +186,6 @@ class OnsetsDurations:
                 for name, ons_list, dur_list in zip(names, onsets, durations):
                     self.append_name_onset_duration(SubjRunID, [name], ons_list, dur_list)
                     
-                
                     #print(SubjRunID, name, ons_list, dur_list)
                     #print(type(SubjRunID), type(name), type(ons_list), type(dur_list))
                 #for name, ons_list, dur_list in zip(names, onsets, durations):
