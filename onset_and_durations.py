@@ -9,7 +9,7 @@ class OnsetsDurations:
         transfiles = FilesList.get_transfiles(path)
         datastr = DataStructure(transfiles)
         l = LogFiles()
-        self.allturninitdurs = []
+        #self.allturninitdurs = []
         print('Parsing logfiles...')
         self.onsdurs_output = l.onsdurs_from_eventfiles
         
@@ -103,8 +103,11 @@ class OnsetsDurations:
                     #self.ovrl_c2p_name_h, self.ovrl_c2p_onsets_h, self.ovrl_c2p_durs_h = 'OVRL_c2p_h', [], []
                     # ovrl_wp_name_h, self.ovrl_wp_onsets_h, self.ovrl_wp_durs_h = 'OVRL_wp_h', [], []
                     # ovrl_wc_name_h, self.ovrl_wc_onsets_h, self.ovrl_wc_durs_h = 'OVRL_wc_h', [], []
-                    turn_init_h_name, self.turn_init_h_onsets, self.turn_init_h_durs = 'TI_h', [], []
-                    
+                    turn_init_h_1200_name, self.turn_init_h_1200_onsets, self.turn_init_h_1200_durs = 'TI_h_1200', [], []
+                    turn_init_h_900_name, self.turn_init_h_900_onsets, self.turn_init_h_900_durs = 'TI_h_900', [], []
+                    turn_init_h_600_name, self.turn_init_h_600_onsets, self.turn_init_h_600_durs = 'TI_h_600', [], []
+                    turn_init_h_300_name, self.turn_init_h_300_onsets, self.turn_init_h_300_durs = 'TI_h_300', [], []
+
                     gap_p2c_name_r, self.gap_p2c_onsets_r, self.gap_p2c_durs_r = 'GAP_p2c_r', [], []
                     gap_c2p_name_r, self.gap_c2p_onsets_r, self.gap_c2p_durs_r = 'GAP_c2p_r', [], []
                     pause_c_name_r, self.pause_c_onsets_r, self.pause_c_durs_r = 'PAUSE_c_r', [], []
@@ -113,38 +116,41 @@ class OnsetsDurations:
                     # ovrl_c2p_name_r, self.ovrl_c2p_onsets_r, self.ovrl_c2p_durs_r = 'OVRL_c2p_r', [], []
                     # ovrl_wp_name_r, self.ovrl_wp_onsets_r, self.ovrl_wp_durs_r = 'OVRL_wp_r', [], []
                     # ovrl_wc_name_r, self.ovrl_wc_onsets_r, self.ovrl_wc_durs_r = 'OVRL_wc_r', [], []                    
-                    turn_init_r_name, self.turn_init_r_onsets, self.turn_init_r_durs = 'TI_r', [], []          
+                    turn_init_r_1200_name, self.turn_init_r_1200_onsets, self.turn_init_r_1200_durs = 'TI_r_1200', [], []
+                    turn_init_r_900_name, self.turn_init_r_900_onsets, self.turn_init_r_900_durs = 'TI_r_900', [], [] 
+                    turn_init_r_600_name, self.turn_init_r_600_onsets, self.turn_init_r_600_durs = 'TI_r_600', [], []
+                    turn_init_r_300_name, self.turn_init_r_300_onsets, self.turn_init_r_300_durs = 'TI_r_300', [], []
 
                     names = (gap_p2c_name_h, gap_c2p_name_h, pause_c_name_h, pause_p_name_h,
                         #ovrl_p2c_name_h, ovrl_c2p_name_h, ovrl_wp_name_h, ovrl_wc_name_h,
-                        turn_init_h_name,
+                        turn_init_h_1200_name, turn_init_h_900_name, turn_init_h_600_name, turn_init_h_300_name,
                         
                         gap_p2c_name_r, gap_c2p_name_r, pause_c_name_r, pause_p_name_r,
                         #ovrl_p2c_name_r, ovrl_c2p_name_r, ovrl_wp_name_r, ovrl_wc_name_r,
-                        turn_init_r_name)
+                        turn_init_r_1200_name, turn_init_r_900_name, turn_init_r_600_name, turn_init_r_300_name)
 
                     onsets = (self.gap_p2c_onsets_h, self.gap_c2p_onsets_h, self.pause_c_onsets_h,
                         self.pause_p_onsets_h, 
                         #self.ovrl_p2c_onsets_h, self.ovrl_c2p_onsets_h, self.ovrl_wp_onsets_h, self.ovrl_wc_onsets_h, 
-                        self.turn_init_h_onsets,
+                        self.turn_init_h_1200_onsets, self.turn_init_h_900_onsets, self.turn_init_h_600_onsets, self.turn_init_h_300_onsets,
                             
                             self.gap_p2c_onsets_r, self.gap_c2p_onsets_r, self.pause_c_onsets_r,
                         self.pause_p_onsets_r, 
                         #self.ovrl_p2c_onsets_r, self.ovrl_c2p_onsets_r,
                             #self.ovrl_wp_onsets_r, self.ovrl_wc_onsets_r, 
-                            self.turn_init_r_onsets)
+                            self.turn_init_r_1200_onsets, self.turn_init_r_900_onsets, self.turn_init_r_600_onsets, self.turn_init_r_300_onsets)
 
                     durations = (self.gap_p2c_durs_h, self.gap_c2p_durs_h, self.pause_c_durs_h, 
                         self.pause_p_durs_h, 
                         #self.ovrl_p2c_durs_h, self.ovrl_c2p_durs_h, 
                            #self.ovrl_wp_durs_h, self.ovrl_wc_durs_h, 
-                        self.turn_init_h_durs,
+                        self.turn_init_h_1200_durs, self.turn_init_h_900_durs, self.turn_init_h_600_durs, self.turn_init_h_300_durs,
                            
                            self.gap_p2c_durs_r, self.gap_c2p_durs_r, self.pause_c_durs_r, 
                         self.pause_p_durs_r, 
                         #self.ovrl_p2c_durs_r, self.ovrl_c2p_durs_r, 
                            #self.ovrl_wp_durs_r, self.ovrl_wc_durs_r, 
-                           self.turn_init_r_durs)
+                           self.turn_init_r_1200_durs, self.turn_init_r_900_durs, self.turn_init_r_600_durs, self.turn_init_r_300_durs)
 
                 for conv in conversations:
                     for row in events_data:
@@ -185,11 +191,6 @@ class OnsetsDurations:
 
                 for name, ons_list, dur_list in zip(names, onsets, durations):
                     self.append_name_onset_duration(SubjRunID, [name], ons_list, dur_list)
-                    
-                    #print(SubjRunID, name, ons_list, dur_list)
-                    #print(type(SubjRunID), type(name), type(ons_list), type(dur_list))
-                #for name, ons_list, dur_list in zip(names, onsets, durations):
-                #    print('name_type: ', type(name), 'ons_type: ','\n', [type(ons) for ons in ons_list if type(ons) == str], [type(dur) for dur in dur_list if type(dur) == str])
 
 
     def append_transition_parameters(self, row, onset, duration, conv_onset, condition):
@@ -202,10 +203,20 @@ class OnsetsDurations:
                 self.gap_c2p_onsets_h.append(new_onset)
                 self.gap_c2p_durs_h.append(duration)
 
-                TI_onset = (new_onset + duration) - 0.6
-                self.turn_init_h_onsets.append(TI_onset)
-                self.turn_init_h_durs.append(0.6)
-                self.allturninitdurs.append(duration)
+                TI_1200_onset = (new_onset + duration) - 1.2
+                TI_900_onset = (new_onset + duration) - 0.9
+                TI_600_onset = (new_onset + duration) - 0.6
+                TI_300_onset = (new_onset + duration) - 0.3
+                self.turn_init_h_1200_onsets.append(TI_1200_onset)
+                self.turn_init_h_900_onsets.append(TI_900_onset)
+                self.turn_init_h_600_onsets.append(TI_600_onset)
+                self.turn_init_h_300_onsets.append(TI_300_onset)
+                self.turn_init_h_1200_durs.append(0.3)
+                self.turn_init_h_900_durs.append(0.3)
+                self.turn_init_h_600_durs.append(0.3)
+                self.turn_init_h_300_durs.append(0.3)
+
+                #self.allturninitdurs.append(duration)
 
             elif self.check_transition(row) == 'PAUSE_p':
                 self.pause_p_onsets_h.append(new_onset)
@@ -217,9 +228,18 @@ class OnsetsDurations:
             #     self.ovrl_p2c_onsets_h.append(new_onset)
             #     self.ovrl_p2c_durs_h.append(duration)
             elif self.check_transition(row) == 'OVRL_c2p':
-                TI_onset = (new_onset + duration) - 0.6
-                self.turn_init_r_onsets.append(TI_onset)
-                self.turn_init_r_durs.append(0.6)
+                TI_1200_onset = new_onset - 1.2
+                TI_900_onset = new_onset - 0.9
+                TI_600_onset = new_onset - 0.6
+                TI_300_onset = new_onset - 0.3
+                self.turn_init_h_1200_onsets.append(TI_1200_onset)
+                self.turn_init_h_900_onsets.append(TI_900_onset)
+                self.turn_init_h_600_onsets.append(TI_600_onset)
+                self.turn_init_h_300_onsets.append(TI_300_onset)
+                self.turn_init_h_1200_durs.append(0.3)
+                self.turn_init_h_900_durs.append(0.3)
+                self.turn_init_h_600_durs.append(0.3)
+                self.turn_init_h_300_durs.append(0.3)
             # elif self.check_transition(row) == 'OVRL_wp':
             #     self.ovrl_wp_onsets_h.append(new_onset)
             #     self.ovrl_wp_durs_h.append(duration)
@@ -236,8 +256,18 @@ class OnsetsDurations:
                 self.gap_c2p_durs_r.append(duration)
 
                 TI_onset = (new_onset + duration) - 0.6
-                self.turn_init_r_onsets.append(TI_onset)
-                self.turn_init_r_durs.append(0.6)
+                TI_1200_onset = (new_onset + duration) - 1.2
+                TI_900_onset = (new_onset + duration) - 0.9
+                TI_600_onset = (new_onset + duration) - 0.6
+                TI_300_onset = (new_onset + duration) - 0.3
+                self.turn_init_r_1200_onsets.append(TI_1200_onset)
+                self.turn_init_r_900_onsets.append(TI_900_onset)
+                self.turn_init_r_600_onsets.append(TI_600_onset)
+                self.turn_init_r_300_onsets.append(TI_300_onset)
+                self.turn_init_r_1200_durs.append(0.3)
+                self.turn_init_r_900_durs.append(0.3)
+                self.turn_init_r_600_durs.append(0.3)
+                self.turn_init_r_300_durs.append(0.3)
 
             elif self.check_transition(row) == 'PAUSE_p':
                 self.pause_p_onsets_r.append(new_onset)
@@ -249,9 +279,18 @@ class OnsetsDurations:
             #     self.ovrl_p2c_onsets_r.append(new_onset)
             #     self.ovrl_p2c_durs_r.append(duration)
             elif self.check_transition(row) == 'OVRL_c2p':
-                TI_onset = (new_onset + duration) - 0.6
-                self.turn_init_r_onsets.append(TI_onset)
-                self.turn_init_r_durs.append(0.6)
+                TI_1200_onset = new_onset - 1.2
+                TI_900_onset = new_onset - 0.9
+                TI_600_onset = new_onset - 0.6
+                TI_300_onset = new_onset - 0.3
+                self.turn_init_r_1200_onsets.append(TI_1200_onset)
+                self.turn_init_r_900_onsets.append(TI_900_onset)
+                self.turn_init_r_600_onsets.append(TI_600_onset)
+                self.turn_init_r_300_onsets.append(TI_300_onset)
+                self.turn_init_r_1200_durs.append(0.3)
+                self.turn_init_r_900_durs.append(0.3)
+                self.turn_init_r_600_durs.append(0.3)
+                self.turn_init_r_300_durs.append(0.3)
             # elif self.check_transition(row) == 'OVRL_wp':
             #     self.ovrl_wp_onsets_r.append(new_onset)
             #     self.ovrl_wp_durs_r.append(duration)
@@ -341,7 +380,7 @@ class OnsetsDurations:
             current_subj = onsdurs[key]
             for cat in range(len(current_subj['names'])):
             # save the indexes of all the elements in testing_list['durations'][0] that are greater than 0.3 in a new list
-                indexes_to_keep = [i for i, x in enumerate(current_subj['durations'][cat]) if x > 0.3]
+                indexes_to_keep = [i for i, x in enumerate(current_subj['durations'][cat]) if x > 0.29]
                 cropped_onsdurs[key]['durations'][cat] = [current_subj['durations'][cat][i] for i in indexes_to_keep]
                 cropped_onsdurs[key]['onsets'][cat] = [current_subj['onsets'][cat][i] for i in indexes_to_keep]
 
