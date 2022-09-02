@@ -4,6 +4,7 @@ from logfiles import LogFiles
 from filereader import FilesList
 from ds import DataStructure
 from conversations import Conversations
+from itertools import repeat
 
 class OnsetsDurations: 
     def __init__(self, path):
@@ -36,6 +37,9 @@ class OnsetsDurations:
         a_file = open("onsdurs_collapsed_cropped.pkl", "wb")
         pickle.dump(self.final_output, a_file)
         a_file.close()
+
+        #this is an optional function for a model with 600ms events
+        #self.final_output_600 = self.model_600ms()  
 
         #print(len(self.allturninitdurs))
 
@@ -416,4 +420,78 @@ class OnsetsDurations:
 
         return cropped_onsdurs
 
+def model_600ms(self):
+        onsdurs_600ms = {}
+        for run in self.final_output:
+            # get onsets durations and name for each event
+            onsets = [i for i in self.final_output[run]['onsets']]
+            names = [i for i in self.final_output[run]['names']]
+            durations = [i for i in self.final_output[run]['durations']]
+            len_onsets = []
+            for i in onsets:
+                len_onsets.append(len(i))
+            names_ext = []
+            for ind,i in enumerate(names):
+                names_ext.extend(repeat(i, len_onsets[ind]))
+            #get onsets and endtimes sorted in time order
+            onsets_flat = [x for xs in self.final_output[run]['onsets'] for x in xs]
+            durations_flat = [x for xs in self.final_output[run]['durations'] for x in xs]
+            end_times = [a + b for a, b in zip(onsets_flat, durations_flat)]
+            onsets_endtimes = []
+            onsets_endtimes.extend([list(a) for a in zip(onsets_flat, end_times, names_ext)])
+            onsets_endtimes = sorted(onsets_endtimes, key=lambda x: x[0])
+            onsets_endtimes
+            #save only PROD_h nd PROD_r in a variable called prod_events
+            prod_events = []
+            for event in onsets_endtimes:
+                for item in event:
+                    if item == ['PROD_h'] or item == ['PROD_r']:
+                        prod_events.append(event)
+            #save only COMP_h and COMP_r in a variable called comp_events
+            comp_events = []
+            for event in onsets_endtimes:
+                for item in event:
+                    if item == ['COMP_h'] or item == ['COMP_r']:
+                        comp_events.append(event)
+            #if prod_events are longer than 600 ms, crop it to 600 ms. otherwise, extend it to 600 ms.
+            prod_events_cropped = []
+            for event in prod_events:
+                if event[1] - event[0] > 0.6:
+                    prod_events_cropped.append([event[0], event[0] + 0.6, event[2]])
+                else:
+                    prod_events_cropped.append([event[0], event[0] + 0.6, event[2]])
+            #if comp_events are longer than 600 ms, crop it to 600 ms. otherwise, extend it to 600 ms.
+            comp_events_cropped = []
+            for event in comp_events:
+                if event[1] - event[0] > 0.6:
+                    comp_events_cropped.append([event[0], event[0] + 0.6, event[2]])
+                else:
+                    comp_events_cropped.append([event[0], event[0] + 0.6, event[2]])
 
+            onsets_ISI = [i for i in onsets[0]]
+            durations_ISI = [i for i in durations[0]]
+            onsets_INSTR1 = [i for i in onsets[1]]
+            durations_INSTR1 = [i for i in durations[1]]
+            onsets_prod_h = [i[0] for i in prod_events_cropped if i[2] == ['PROD_h']]
+            durations_prod_h = [i[1] - i[0] for i in prod_events_cropped if i[2] == ['PROD_h']]
+            onsets_prod_r = [i[0] for i in prod_events_cropped if i[2] == ['PROD_r']]
+            durations_prod_r = [i[1] - i[0] for i in prod_events_cropped if i[2] == ['PROD_r']]
+            onsets_comp_h = [i[0] for i in comp_events_cropped if i[2] == ['COMP_h']]
+            durations_comp_h = [i[1] - i[0] for i in comp_events_cropped if i[2] == ['COMP_h']]
+            onsets_comp_r = [i[0] for i in comp_events_cropped if i[2] == ['COMP_r']]
+            durations_comp_r = [i[1] - i[0] for i in comp_events_cropped if i[2] == ['COMP_r']]
+            onsets_TI_h = [i for i in onsets[6]]
+            durations_TI_h = [i for i in durations[6]]
+            onsets_TI_r = [i for i in onsets[7]]
+            durations_TI_r = [i for i in durations[7]]
+            onsets_SILENCE_h = [i for i in onsets[8]]
+            durations_SILENCE_h = [i for i in durations[8]]
+            onsets_SILENCE_r = [i for i in onsets[9]]
+            durations_SILENCE_r = [i for i in durations[9]]
+
+            #combine prod_events_cropped, comp_events_cropped, TI_h, TI_h, SILENCE_h, SILENCE_r into the dictionary similar to onsdurs_to_crop
+            onsdurs_600ms[run] = {'names': [], 'onsets': [], 'durations': []}
+            onsdurs_600ms[run]['names'] = self.final_output[run]['names']
+            onsdurs_600ms[run]['onsets'].extend([onsets_ISI, onsets_INSTR1, onsets_comp_h, onsets_prod_h, onsets_comp_r, onsets_prod_r, onsets_TI_h, onsets_TI_r, onsets_SILENCE_h, onsets_SILENCE_r])
+            onsdurs_600ms[run]['durations'].extend([durations_ISI, durations_INSTR1, durations_comp_h, durations_prod_h, durations_comp_r, durations_prod_r, durations_TI_h, durations_TI_r, durations_SILENCE_h, durations_SILENCE_r])
+        return onsdurs_600ms
