@@ -67,16 +67,22 @@ class NonOverlappingModel:
             for conv in onsdurs_sorted[subjrun].keys():
 
                 events = list(onsdurs_sorted[subjrun][conv].keys())
+                print(events)
 
                 for current_event_index, event in enumerate(events):
                     less_prioritized_events = events[current_event_index +1:]
 
                     for lp_event in less_prioritized_events:
+                        if event[-1] != lp_event[-1]:
+                            continue
+
+                        print('Checking if ', event, ' overlaps with ', lp_event, 'in run: ', subjrun, ' conversation: ', conv, '...')
                         new_lp_times = []
                         seen = 0
                         new_seen = 0
 
                         if lp_event[-1] != event[-1]:
+
                             continue
  
                         for event_time in onsdurs_sorted[subjrun][conv][event]:
@@ -101,16 +107,18 @@ class NonOverlappingModel:
         '''Removes overlaps of less prioritized events and create new 
         that do not overlap with the prioritized event'''
         if e_start < lpe_start < e_end and e_end < lpe_end:
-            #print('the less prioritized event overlaps with the right side of the prioritized event')
+            print('the less prioritized event overlaps with the right side of the prioritized event')
+            print('overlaps with ', e_end - lpe_start, ' seconds')
             return [(e_end, lpe_end)], 1
         elif lpe_start < e_start < lpe_end and lpe_end < e_end:
-            #print('the less prioritized event overlaps with the left side of the prioritized event')
+            print('the less prioritized event overlaps with the left side of the prioritized event')
+            print('overlaps with ', lpe_end - e_end, ' seconds')
             return [(lpe_start, e_start)], 1
-        elif e_start < lpe_start and lpe_end < e_end or e_start == lpe_start and lpe_end == e_end:
-            #print('the less prioritized event is fully within the prioritized event')
+        elif (e_start < lpe_start or e_start == lpe_start) and (lpe_end < e_end or lpe_end == e_end):
+            print('the less prioritized event is fully within the prioritized event')
             return [], 1
         elif lpe_start < e_start and e_end < lpe_end:
-            #print('the prioritized event is fully within the less prioritized event')
+            print('the prioritized event is fully within the less prioritized event')
             return [(lpe_start, e_start), (e_end, lpe_end)], 1
         else:
             #print('no overlap')
