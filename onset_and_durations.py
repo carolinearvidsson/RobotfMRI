@@ -453,18 +453,25 @@ def model_600ms(self):
                 for item in event:
                     if item == ['COMP_h'] or item == ['COMP_r']:
                         comp_events.append(event)
-            #if prod_events are longer than 600 ms, crop it to 600 ms. otherwise, extend it to 600 ms.
+            #if prod_events are longer than 600 ms, crop it to 600 ms and save as prod_events_cropped, and save the rest as prod_res. otherwise, extend it to 600 ms. check that each event in prod_res is > 0.3 sec. 
             prod_events_cropped = []
+            prod_res = []
             for event in prod_events:
                 if event[1] - event[0] > 0.6:
                     prod_events_cropped.append([event[0], event[0] + 0.6, event[2]])
+                    if event[1] - (event[0] + 0.6) > 0.3:
+                        prod_res.append([event[0] + 0.6, event[1], event[2]])
                 else:
                     prod_events_cropped.append([event[0], event[0] + 0.6, event[2]])
-            #if comp_events are longer than 600 ms, crop it to 600 ms. otherwise, extend it to 600 ms.
+            
+            #if comp_events are longer than 600 ms, crop it to 600 ms and save as comp_events_cropped, and save the rest as comp_res. otherwise, extend it to 600 ms. check that each event in comp_res is > 0.3 sec. 
             comp_events_cropped = []
+            comp_res = []
             for event in comp_events:
                 if event[1] - event[0] > 0.6:
                     comp_events_cropped.append([event[0], event[0] + 0.6, event[2]])
+                    if event[1] - (event[0] + 0.6) > 0.3:
+                        comp_res.append([event[0] + 0.6, event[1], event[2]])
                 else:
                     comp_events_cropped.append([event[0], event[0] + 0.6, event[2]])
 
@@ -488,10 +495,24 @@ def model_600ms(self):
             durations_SILENCE_h = [i for i in durations[8]]
             onsets_SILENCE_r = [i for i in onsets[9]]
             durations_SILENCE_r = [i for i in durations[9]]
+            onsets_prod_h_res = [i[0] for i in prod_res if i[2] == ['PROD_h']]
+            durations_prod_h_res = [i[1] - i[0] for i in prod_res if i[2] == ['PROD_h']]
+            onsets_prod_r_res = [i[0] for i in prod_res if i[2] == ['PROD_r']]
+            durations_prod_r_res = [i[1] - i[0] for i in prod_res if i[2] == ['PROD_r']]
+            onsets_comp_h_res = [i[0] for i in comp_res if i[2] == ['COMP_h']]
+            durations_comp_h_res = [i[1] - i[0] for i in comp_res if i[2] == ['COMP_h']]
+            onsets_comp_r_res = [i[0] for i in comp_res if i[2] == ['COMP_r']]
+            durations_comp_r_res = [i[1] - i[0] for i in comp_res if i[2] == ['COMP_r']]
 
             #combine prod_events_cropped, comp_events_cropped, TI_h, TI_h, SILENCE_h, SILENCE_r into the dictionary similar to onsdurs_to_crop
             onsdurs_600ms[run] = {'names': [], 'onsets': [], 'durations': []}
-            onsdurs_600ms[run]['names'] = self.final_output[run]['names']
-            onsdurs_600ms[run]['onsets'].extend([onsets_ISI, onsets_INSTR1, onsets_comp_h, onsets_prod_h, onsets_comp_r, onsets_prod_r, onsets_TI_h, onsets_TI_r, onsets_SILENCE_h, onsets_SILENCE_r])
-            onsdurs_600ms[run]['durations'].extend([durations_ISI, durations_INSTR1, durations_comp_h, durations_prod_h, durations_comp_r, durations_prod_r, durations_TI_h, durations_TI_r, durations_SILENCE_h, durations_SILENCE_r])
+            names_600ms = self.final_output[run]['names']
+            names_600ms.append(['PROD_h_res'])
+            names_600ms.append(['PROD_r_res'])
+            names_600ms.append(['COMP_h_res'])
+            names_600ms.append(['COMP_r_res'])
+            onsdurs_600ms[run]['names'] = names_600ms
+            onsdurs_600ms[run]['onsets'].extend([onsets_ISI, onsets_INSTR1, onsets_comp_h, onsets_prod_h, onsets_comp_r, onsets_prod_r, onsets_TI_h, onsets_TI_r, onsets_SILENCE_h, onsets_SILENCE_r, onsets_prod_h_res, onsets_prod_r_res, onsets_comp_h_res, onsets_comp_r_res])
+            onsdurs_600ms[run]['durations'].extend([durations_ISI, durations_INSTR1, durations_comp_h, durations_prod_h, durations_comp_r, durations_prod_r, durations_TI_h, durations_TI_r, durations_SILENCE_h, durations_SILENCE_r, durations_prod_h_res, durations_prod_r_res, durations_comp_h_res, durations_comp_r_res])
+            
         return onsdurs_600ms
