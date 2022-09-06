@@ -7,11 +7,10 @@ class NonOverlappingModel:
     def __init__(self):
         a_file = open("onsdurs_collapsed_cropped.pkl", "rb") #read the self.onsdurs file into a dictionary
         self.od_file = pickle.load(a_file)
-        print(self.od_file)
 
         #--------Only run for one participant------------#
         onsdurs = {}
-        onsdurs['subj-03_1'] = self.od_file['subj-03_1']
+        onsdurs['subj-08_1'] = self.od_file['subj-08_1']
         ###--------------------------------------------###
 
         print('Sorting onsets and durations...')
@@ -60,10 +59,6 @@ class NonOverlappingModel:
                 for event in prioritized_order:
                     for name in names:
                         if name == 'INSTR1' or name == 'ISI':
-                            print(name)
-                            # self.ISIandINSTRdict[subj_run] = {}
-                            # self.ISIandINSTRdict[subj_run].setdefault('names', []).append(name)
-                            # self.ISIandINSTRdict[subj_run].setdefault('onsets', []).append(onsdurs[subj_run]['onsets'])
                             continue
 
                         else:
@@ -87,7 +82,6 @@ class NonOverlappingModel:
             for conv in onsdurs_sorted[subjrun].keys():
 
                 events = list(onsdurs_sorted[subjrun][conv].keys())
-                print(events)
 
                 for current_event_index, event in enumerate(events):
                     # Only check overlaps for events in the current condition:
@@ -103,11 +97,6 @@ class NonOverlappingModel:
                             continue
 
                         print('Checking if ', event, ' overlaps with ', lp_event, 'in run: ', subjrun, ' conversation: ', conv, '...')
-
-
-                        if lp_event[-1] != event[-1]: # if events are not in the same condition
-
-                            continue
  
                         for event_time in onsdurs_sorted[subjrun][conv][event]:
                             event_start, event_end = event_time[0], event_time[1]
@@ -134,18 +123,18 @@ class NonOverlappingModel:
     def check_overlap(self, e_start, e_end, lpe_start, lpe_end):
         '''Removes overlaps of less prioritized events and create new 
         that do not overlap with the prioritized event'''
-        if e_start < lpe_start < e_end and e_end < lpe_end:
+        if e_start <= lpe_start <= e_end and e_end <= lpe_end:
             print('the less prioritized event overlaps with the right side of the prioritized event')
             print('overlaps with ', e_end - lpe_start, ' seconds')
             return [(e_end, lpe_end)]
-        elif lpe_start < e_start < lpe_end and lpe_end < e_end:
+        elif lpe_start <= e_start <= lpe_end and lpe_end <= e_end:
             print('the less prioritized event overlaps with the left side of the prioritized event')
             print('overlaps with ', lpe_end - e_start, ' seconds')
             return [(lpe_start, e_start)]
-        elif (e_start < lpe_start or e_start == lpe_start) and (lpe_end < e_end or lpe_end == e_end):
+        elif e_start <= lpe_start and lpe_end <= e_end:
             print('the less prioritized event is fully within the prioritized event')
             return []
-        elif lpe_start < e_start and e_end < lpe_end:
+        elif lpe_start <= e_start and e_end <= lpe_end:
             print('the prioritized event is fully within the less prioritized event')
             return [(lpe_start, e_start), (e_end, lpe_end)]
         else:

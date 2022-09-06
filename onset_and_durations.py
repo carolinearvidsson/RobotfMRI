@@ -33,10 +33,10 @@ class OnsetsDurations:
         self.final_output = self.crop_duration(self.final_output) #remove events <300 ms
 
         #this piece saves ons durs output in a file that can be loaded later in the notebook
-
         a_file = open("onsdurs_collapsed_cropped.pkl", "wb")
         pickle.dump(self.final_output, a_file)
         a_file.close()
+        
 
         #this is an optional function for a model with 600ms events
         #self.final_output_600 = self.model_600ms()  
@@ -223,7 +223,7 @@ class OnsetsDurations:
                 self.gap_c2p_durs_h.append(duration)
 
 
-                TI_onset = (new_onset + duration) - 0.6
+                TI_onset = new_onset + duration - 0.6
                 self.turn_init_h_onsets.append(TI_onset)
                 self.turn_init_h_durs.append(0.6)
                 # TI_1200_onset = (new_onset + duration) - 1.2
@@ -250,7 +250,7 @@ class OnsetsDurations:
             #     self.ovrl_p2c_durs_h.append(duration)
             elif self.check_transition(row) == 'OVRL_c2p':
 
-                TI_onset = (new_onset + duration) - 0.6
+                TI_onset = new_onset - 0.6
                 self.turn_init_h_onsets.append(TI_onset)
                 self.turn_init_h_durs.append(0.6)
                 
@@ -277,11 +277,12 @@ class OnsetsDurations:
             if self.check_transition(row) == 'GAP_p2c':
                 self.gap_p2c_onsets_r.append(new_onset)
                 self.gap_p2c_durs_r.append(duration)
+
             elif self.check_transition(row) == 'GAP_c2p':
                 self.gap_c2p_onsets_r.append(new_onset)
                 self.gap_c2p_durs_r.append(duration)
 
-                TI_onset = (new_onset + duration) - 0.6
+                TI_onset = new_onset + duration - 0.6
                 self.turn_init_r_onsets.append(TI_onset)
                 self.turn_init_r_durs.append(0.6)
 
@@ -308,7 +309,7 @@ class OnsetsDurations:
             #     self.ovrl_p2c_onsets_r.append(new_onset)
             #     self.ovrl_p2c_durs_r.append(duration)
             elif self.check_transition(row) == 'OVRL_c2p':
-                TI_onset = (new_onset + duration) - 0.6
+                TI_onset = new_onset - 0.6
                 self.turn_init_r_onsets.append(TI_onset)
                 self.turn_init_r_durs.append(0.6)
 
@@ -420,7 +421,7 @@ class OnsetsDurations:
 
         return cropped_onsdurs
 
-def model_600ms(self):
+def model_600ms(self): 
         onsdurs_600ms = {}
         for run in self.final_output:
             # get onsets durations and name for each event
