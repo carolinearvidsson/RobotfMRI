@@ -242,6 +242,14 @@ class OnsetsDurations:
             elif self.check_transition(row) == 'PAUSE_p':
                 self.pause_p_onsets_h.append(new_onset)
                 self.pause_p_durs_h.append(duration)
+                
+                ###-------Include turn continuations------###
+                TC_onset = new_onset + duration - 0.6
+                self.turn_cont_h_onsets.append(TC_onset)
+                self.turn_cont_h_durs.append(0.6)
+                #-------------------------------------------#
+
+
             elif self.check_transition(row) == 'PAUSE_c':
                 self.pause_c_onsets_h.append(new_onset)
                 self.pause_c_durs_h.append(duration)
@@ -302,6 +310,14 @@ class OnsetsDurations:
             elif self.check_transition(row) == 'PAUSE_p':
                 self.pause_p_onsets_r.append(new_onset)
                 self.pause_p_durs_r.append(duration)
+
+                ###-------Include turn continuations------###
+                TC_onset = new_onset + duration - 0.6
+                self.turn_cont_r_onsets.append(TC_onset)
+                self.turn_cont_r_durs.append(0.6)
+                #-------------------------------------------#
+
+
             elif self.check_transition(row) == 'PAUSE_c':
                 self.pause_c_onsets_r.append(new_onset)
                 self.pause_c_durs_r.append(duration)
