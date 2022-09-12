@@ -86,7 +86,6 @@ class OnsetsDurations:
                     pause_p_name_h, self.pause_p_onsets_h, self.pause_p_durs_h = 'PAUSE_p_h', [], []
                     
                     turn_init_h_name, self.turn_init_h_onsets, self.turn_init_h_durs = 'TI_h', [], []
-                    turn_cont_h_name, self.turn_cont_h_onsets, self.turn_cont_h_durs = 'TC_h', [], []
 
                     gap_p2c_name_r, self.gap_p2c_onsets_r, self.gap_p2c_durs_r = 'GAP_p2c_r', [], []
                     gap_c2p_name_r, self.gap_c2p_onsets_r, self.gap_c2p_durs_r = 'GAP_c2p_r', [], []
@@ -94,29 +93,28 @@ class OnsetsDurations:
                     pause_p_name_r, self.pause_p_onsets_r, self.pause_p_durs_r = 'PAUSE_p_r', [], []
 
                     turn_init_r_name, self.turn_init_r_onsets, self.turn_init_r_durs = 'TI_r', [], []
-                    turn_cont_r_name, self.turn_cont_r_onsets, self.turn_cont_r_durs = 'TC_h', [], []
 
                     names = (gap_p2c_name_h, gap_c2p_name_h, pause_c_name_h, pause_p_name_h,
-                        turn_init_h_name, turn_cont_h_name, 
+                        turn_init_h_name, 
 
                         gap_p2c_name_r, gap_c2p_name_r, pause_c_name_r, pause_p_name_r,
-                        turn_init_r_name, turn_cont_r_name)
+                        turn_init_r_name)
 
                     onsets = (self.gap_p2c_onsets_h, self.gap_c2p_onsets_h, self.pause_c_onsets_h,
                         self.pause_p_onsets_h, 
-                        self.turn_init_h_onsets, self.turn_cont_h_onsets,
+                        self.turn_init_h_onsets,
                             
                         self.gap_p2c_onsets_r, self.gap_c2p_onsets_r, self.pause_c_onsets_r,
                         self.pause_p_onsets_r, 
-                        self.turn_init_r_onsets, self.turn_cont_r_onsets)
+                        self.turn_init_r_onsets)
 
                     durations = (self.gap_p2c_durs_h, self.gap_c2p_durs_h, self.pause_c_durs_h, 
                         self.pause_p_durs_h, 
-                        self.turn_init_h_durs, self.turn_cont_h_durs,
+                        self.turn_init_h_durs,
                            
                            self.gap_p2c_durs_r, self.gap_c2p_durs_r, self.pause_c_durs_r, 
                         self.pause_p_durs_r, 
-                        self.turn_init_r_durs, self.turn_cont_r_durs)
+                        self.turn_init_r_durs)
 
                 for conv in conversations:
                     for row in events_data:
@@ -191,9 +189,9 @@ class OnsetsDurations:
                 self.pause_p_durs_h.append(duration)
                 
                 ###-------Include turn continuations------###
-                TC_onset = new_onset + duration - 0.6
-                self.turn_cont_h_onsets.append(TC_onset)
-                self.turn_cont_h_durs.append(0.6)
+                # TC_onset = new_onset + duration - 0.6
+                # self.turn_cont_h_onsets.append(TC_onset)
+                # self.turn_cont_h_durs.append(0.6)
                 #-------------------------------------------#
 
 
@@ -226,9 +224,9 @@ class OnsetsDurations:
                 self.pause_p_durs_r.append(duration)
 
                 ###-------Include turn continuations------###
-                TC_onset = new_onset + duration - 0.6
-                self.turn_cont_r_onsets.append(TC_onset)
-                self.turn_cont_r_durs.append(0.6)
+                # TC_onset = new_onset + duration - 0.6
+                # self.turn_cont_r_onsets.append(TC_onset)
+                # self.turn_cont_r_durs.append(0.6)
                 #-------------------------------------------#
 
             elif self.check_transition(row) == 'PAUSE_c':
@@ -236,13 +234,12 @@ class OnsetsDurations:
                 self.pause_c_durs_r.append(duration)
 
 
-            '''TIs wont be retrieved from overlaps when TCs are retrieved'''
-            #elif self.check_transition(row) == 'OVRL_c2p':
+            elif self.check_transition(row) == 'OVRL_c2p':
                 
-                # TI_onset = new_onset - 0.6
-                # self.turn_init_r_onsets.append(TI_onset)
-                # self.turn_init_r_durs.append(0.6)
-            ''''''
+                TI_onset = new_onset - 0.6
+                self.turn_init_r_onsets.append(TI_onset)
+                self.turn_init_r_durs.append(0.6)
+
 
 
     def collapse_conditions(self, d, to_collapse, new_name):
