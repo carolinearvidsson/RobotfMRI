@@ -11,7 +11,6 @@ class OnsetsDurations:
         transfiles = FilesList.get_transfiles(path)
         datastr = DataStructure(transfiles)
         l = LogFiles()
-        #self.allturninitdurs = []
         print('Parsing logfiles...')
         self.onsdurs_output = l.onsdurs_from_eventfiles
         
@@ -26,7 +25,6 @@ class OnsetsDurations:
         print('Removing old events from original event files...')
         self.remove_old_events(['CONV1', 'CONV2'])
 
-        #prioritize TI (or not)
         self.collapsed = self.collapse_conditions(self.onsdurs_output, [['PAUSE_c_h'], ['PAUSE_p_h'], ['GAP_p2c_h'], ['GAP_c2p_h']], ['SILENCE_h'])
         self.final_output = self.collapse_conditions(self.collapsed, [['PAUSE_c_r'], ['PAUSE_p_r'], ['GAP_p2c_r'], ['GAP_c2p_r']], ['SILENCE_r'])
 
@@ -63,7 +61,6 @@ class OnsetsDurations:
         robot_CONV2 = ['2', '4', '6']
 
         for sub in subjects:
-
             for run in runs:
                 SubjRunID = sub + '_' + run
 

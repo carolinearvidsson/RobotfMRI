@@ -5,7 +5,7 @@ import glob
 class LogFiles:
 
     def __init__(self):
-        path_eventfiles = '/Users/carolinearvidsson/Desktop/MasterYearOne/VT22/Thesis/Data/Events/*.tsv'
+        path_eventfiles = '/Users/carolinearvidsson/Desktop/Master/VT22/Thesis/Data/Events/*.tsv'
         self.onsdurs_from_eventfiles = self.get_logfile_data(path_eventfiles) # Nested dict where each key is tuple(partID, run) and each element is {names = ['ISI', 'CONV1', 'INSTR'], onsets = [[onsets ISI], [onsets CONV1], ...], durations = [[durations ISI], [durations CONV1], ...]}
 
     def get_logfile_data(self, path):

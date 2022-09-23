@@ -14,6 +14,7 @@ class Conversations:
 
         def get_conversation(self, datastr, path):
             for participant in datastr:
+                print(participant)
                 for session in datastr[participant]:
                     for convers in datastr[participant][session]:
                         condition = self.check_condition(convers)
@@ -39,6 +40,7 @@ class Conversations:
                         for mod_data_row in Modality(grids_merged).modality_data:
                             modality_datarow = [participant, condition, session, convers] + mod_data_row
                             self.modality.append(modality_datarow)
+        
             
 
 

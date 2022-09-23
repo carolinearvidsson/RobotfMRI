@@ -8,4 +8,4 @@ if __name__== '__main__':
         filename = 'matfiles/onset_and_durations_ovrl_' + run[0:3] + '-' + run[5:7] + '_' + 'run' + run[-1] + '.mat'
         savemat(filename, mdic[run])
 
-        #python3 main.py ~/Desktop/MasterYearOne/VT22/Thesis/Data/Resampled/
+        #python3 main.py ~/Desktop/Master/VT22/Thesis/Data/Resampled/
