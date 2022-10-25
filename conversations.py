@@ -25,6 +25,10 @@ class Conversations:
                             for intervals in tgo:
                                 for interval in intervals:
                                     grids_merged.append(self.get_utterance(interval, condition, speaker))
+                                    
+                                    ''' Get a '''
+                                    if condition == 'human':
+                                        print(self.get_utterance(interval, condition, speaker), convers, session)
 
                         grids_merged = sorted(grids_merged, key=itemgetter(0)) # A sorted list with all utterances during a conversation\
                                                                                     # each utterance is a tuple: (min_time, max_time, \ 
@@ -40,8 +44,6 @@ class Conversations:
                         for mod_data_row in Modality(grids_merged).modality_data:
                             modality_datarow = [participant, condition, session, convers] + mod_data_row
                             self.modality.append(modality_datarow)
-        
-            
 
 
         def get_utterance(self, inter, human, speaker): 
