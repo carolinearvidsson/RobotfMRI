@@ -14,7 +14,6 @@ class Conversations:
 
         def get_conversation(self, datastr, path):
             for participant in datastr:
-                print(participant)
                 for session in datastr[participant]:
                     for convers in datastr[participant][session]:
                         condition = self.check_condition(convers)
@@ -25,21 +24,17 @@ class Conversations:
                             for intervals in tgo:
                                 for interval in intervals:
                                     grids_merged.append(self.get_utterance(interval, condition, speaker))
-                                    
-                                    ''' Get a '''
-                                    if condition == 'human':
-                                        print(self.get_utterance(interval, condition, speaker), convers, session)
 
                         grids_merged = sorted(grids_merged, key=itemgetter(0)) # A sorted list with all utterances during a conversation\
                                                                                     # each utterance is a tuple: (min_time, max_time, \ 
                                                                                     # # transcription, condition, speaker)
+
                         grids_merged = self.trim(grids_merged) #remove short IPUs
 
                         for transition in Transitions(grids_merged).transitions_data:
                             transitions_datarows = [participant, condition, session, convers] + transition
                             #print(transitions_datarows)
                             self.transitions_data.append(transitions_datarows)
-                            #print(self.transitions_data)    
                                             
                         for mod_data_row in Modality(grids_merged).modality_data:
                             modality_datarow = [participant, condition, session, convers] + mod_data_row

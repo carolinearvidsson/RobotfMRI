@@ -57,6 +57,7 @@ class Transitions:
                             surrounding_utterances.append(utterance)
                         if endtime == utterance_endtime:
                             surrounding_utterances.append(utterance)
+
                 within_speaker = 0
                 speaker_first_turn = 'n/a'
                 speaker_second_turn = 'n/a'

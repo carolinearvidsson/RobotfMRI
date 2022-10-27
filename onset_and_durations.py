@@ -8,11 +8,28 @@ from itertools import repeat
 
 class OnsetsDurations: 
     def __init__(self, path):
+
+
+        ###----------pmod----------###
+        self.pmod = False
+        print('Include pmod? (y/n)')
+        pmodinput = input()
+        if pmodinput == 'y':
+            self.pmod = True
+            print("pmod included")
+        ###-------------------------###
+
         transfiles = FilesList.get_transfiles(path)
         datastr = DataStructure(transfiles)
         l = LogFiles()
         print('Parsing logfiles...')
+
+
         self.onsdurs_output = l.onsdurs_from_eventfiles
+        print(self.onsdurs_output)
+
+
+
         
         c = Conversations(datastr.structure, path)
 
@@ -70,11 +87,15 @@ class OnsetsDurations:
                     prod_r_name, self.prod_r_onsets, self.prod_r_durs = 'PROD_r', [], []
                     prod_h_name, self.prod_h_onsets, self.prod_h_durs = 'PROD_h', [], []
 
-          
-
                     names = (comp_h_name, prod_h_name, comp_r_name, prod_r_name)
                     onsets = (self.comp_h_onsets, self.prod_h_onsets, self.comp_r_onsets, self.prod_r_onsets)
                     durations = (self.comp_h_durs, self.prod_h_durs, self.comp_r_durs, self.prod_r_durs)
+
+                    ###----------PMODS----------###
+                    if self.pmod == True:
+                        self.comp_h_pmod, self.prod_h_pmod, self.comp_r_pmod, self.prod_r_pmod = [], [], [], []
+                        pmods = (self.comp_h_pmod, self.prod_h_pmod, self.comp_r_pmod, self.prod_r_pmod)
+                    ###-------------------------###
                     
                 elif event_type == 'transitions':
                     gap_p2c_name_h, self.gap_p2c_onsets_h, self.gap_p2c_durs_h = 'GAP_p2c_h', [], []
@@ -109,14 +130,30 @@ class OnsetsDurations:
                         self.pause_p_durs_h, 
                         self.turn_init_h_durs,
                            
-                           self.gap_p2c_durs_r, self.gap_c2p_durs_r, self.pause_c_durs_r, 
-                        self.pause_p_durs_r, 
-                        self.turn_init_r_durs)
+                        self.gap_p2c_durs_r, self.gap_c2p_durs_r, self.pause_c_durs_r, 
+                        self.pause_p_durs_r, self.turn_init_r_durs)
+                    
+                    ###----------PMODS----------###
+                    if self.pmod == True:
+                        self.gap_p2c_pmod_h, self.gap_c2p_pmod_h, self.pause_c_pmod_h, \
+                            self.pause_p_pmod_h, self.turn_init_h_pmod = [], [], [], [], []
+                        
+                        self.gap_p2c_pmod_r, self.gap_c2p_pmod_r, self.pause_c_pmod_r, \
+                            self.pause_p_pmod_r, self.turn_init_r_pmod = [], [], [], [], []
 
+                        pmods = (self.gap_p2c_pmod_h, self.gap_c2p_pmod_h, self.pause_c_pmod_h, 
+                            self.pause_p_pmod_h, self.turn_init_h_pmod,
+                           
+                            self.gap_p2c_pmod_r, self.gap_c2p_pmod_r, self.pause_c_pmod_r, 
+                            self.pause_p_pmod_r, self.turn_init_r_pmod)
+                    ###-------------------------###
+
+                    
                 for conv in conversations:
                     for row in events_data:
                         onset = float(row[4])
                         duration = float(row[5])
+                        n_words = row[8]
                         if row[0] == sub and row[2] == run and row[3] == conv:
                             if conv in human_CONV1:
                                 name_index = self.onsdurs_output[SubjRunID]['names'].index('CONV1')
@@ -124,13 +161,17 @@ class OnsetsDurations:
                                 
                                 if event_type == 'modality': 
                                 
-                                    if self.check_modality((row[-2], row[-1])) == 'comprehension':  
+                                    if self.check_modality((row[6], row[7])) == 'comprehension':  
                                         self.comp_h_onsets.append(conv_onset + onset)
                                         self.comp_h_durs.append(duration)
+                                        if self.pmod == True:
+                                            self.comp_h_pmod.append(n_words)
 
-                                    elif self.check_modality((row[-2], row[-1])) == 'production':
+                                    elif self.check_modality((row[6], row[7])) == 'production':
                                         self.prod_h_onsets.append(conv_onset + onset)
                                         self.prod_h_durs.append(duration)
+                                        if self.pmod == True:
+                                            self.prod_h_pmod.append(n_words)
 
                                 elif event_type == 'transitions':
                                     self.append_transition_parameters(row, onset, duration, conv_onset, 'human')
@@ -140,16 +181,21 @@ class OnsetsDurations:
                                 conv_onset = float(self.onsdurs_output[SubjRunID]['onsets'][name_index][robot_CONV2.index(conv)])
                                 
                                 if event_type == 'modality':
-                                    if self.check_modality((row[-2], row[-1])) == 'comprehension':  
+                                    if self.check_modality((row[6], row[7])) == 'comprehension':  
                                         self.comp_r_onsets.append(conv_onset + onset)
                                         self.comp_r_durs.append(duration)
-                                    elif self.check_modality((row[-2], row[-1])) == 'production':
+                                        if self.pmod == True:
+                                            self.comp_r_pmod.append(n_words)
+
+                                    elif self.check_modality((row[6], row[7])) == 'production':
                                         self.prod_r_onsets.append(conv_onset + onset)
                                         self.prod_r_durs.append(duration)
+                                        if self.pmod == True:
+                                            self.prod_r_pmod.append(n_words)
 
                                 elif event_type == 'transitions':
                                     self.append_transition_parameters(row, onset, duration, conv_onset, 'robot')
-
+                
                 for name, ons_list, dur_list in zip(names, onsets, durations):
                     self.append_name_onset_duration(SubjRunID, [name], ons_list, dur_list)
 
@@ -303,6 +349,8 @@ class OnsetsDurations:
             names = self.onsdurs_output[subjrun]['names']
             onsets = self.onsdurs_output[subjrun]['onsets']
             durations = self.onsdurs_output[subjrun]['durations']
+            if pmod == True:
+                pmods = self.onsdurs_output[subjrun]['pmod']
             for evnt  in old_events:
                 evnt_indx = names.index(evnt)
                 del names[evnt_indx]

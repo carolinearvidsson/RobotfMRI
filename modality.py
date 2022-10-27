@@ -17,7 +17,7 @@ class Modality:
     
     def get_simultaneous(self, vocal_tier_a, vocal_tier_b, modality): #Takes two lists with utterances from respective speakers\
         # and computes the duration of overlaps of utterances if there are any. Output is a list where each section has the following structure:
-        # duration, production (1 if yes), comprehension (1 if yes).
+        # duration, production (1 if yes), comprehension (1 if yes), pmod (n words in utterance).
         simultaneous = []
         if modality == 'comp':
             comp = 1
@@ -27,10 +27,11 @@ class Modality:
         else: prod = 0
 
         for utterance in vocal_tier_a:
+            pmod = len(utterance[2].replace("'", " ").split(" "))
             utter_starttime = utterance[0]
             utter_endtime = utterance[1]
             duration = utter_endtime - utter_starttime
-            simultaneous.append([utter_starttime, duration, prod, comp])
+            simultaneous.append([utter_starttime, duration, prod, comp, pmod])
             #----------- If overlaps are not to be ignored:
             # for segm in vocal_tier_b:
             #     seg_starttime = segm[0]
