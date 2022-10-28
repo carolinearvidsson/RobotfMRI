@@ -172,7 +172,7 @@ class OnsetsDurations:
                                             self.prod_h_pmod.append(n_words)
 
                                 elif event_type == 'transitions':
-                                    trans_pmod = row[6]
+                                    trans_pmod = row[10]
                                     self.append_transition_parameters(row, onset, duration, conv_onset, 'human', SubjRunID, trans_pmod)
 
                             elif conv in robot_CONV2:
@@ -193,7 +193,7 @@ class OnsetsDurations:
                                             self.prod_r_pmod.append(n_words)
 
                                 elif event_type == 'transitions':
-                                    trans_pmod = row[6]
+                                    trans_pmod = row[10]
                                     self.append_transition_parameters(row, onset, duration, conv_onset, 'robot', SubjRunID, trans_pmod)
                 
                 if self.pmod == True: 
@@ -211,14 +211,14 @@ class OnsetsDurations:
                 self.gap_p2c_onsets_h.append(new_onset)
                 self.gap_p2c_durs_h.append(duration)
                 if self.pmod == True:
-                    self.gap_p2c_pmod_h.append(pmod)
+                    self.gap_p2c_pmod_h.append([])
 
             elif self.check_transition(row) == 'GAP_c2p':
                 prod_onset = new_onset + duration
                 self.gap_c2p_onsets_h.append(new_onset)
                 self.gap_c2p_durs_h.append(duration)
                 if self.pmod == True:
-                    self.gap_c2p_pmod_h.append(pmod)
+                    self.gap_c2p_pmod_h.append([])
 
                 TI_onset = new_onset + duration - 0.6
                 self.turn_init_h_onsets.append(TI_onset)
@@ -242,7 +242,7 @@ class OnsetsDurations:
                 self.pause_p_onsets_h.append(new_onset)
                 self.pause_p_durs_h.append(duration)
                 if self.pmod == True:
-                    self.pause_p_pmod_h.append(pmod)
+                    self.pause_p_pmod_h.append([])
                 
                 ###-------Include turn continuations------###
                 # TC_onset = new_onset + duration - 0.6
@@ -254,7 +254,7 @@ class OnsetsDurations:
                 self.pause_c_onsets_h.append(new_onset)
                 self.pause_c_durs_h.append(duration)
                 if self.pmod == True:
-                    self.pause_c_pmod_h.append(pmod)
+                    self.pause_c_pmod_h.append([])
             
             elif self.check_transition(row) == 'OVRL_c2p':
                 TI_onset = new_onset - 0.6
@@ -268,13 +268,13 @@ class OnsetsDurations:
                 self.gap_p2c_onsets_r.append(new_onset)
                 self.gap_p2c_durs_r.append(duration)
                 if self.pmod == True:
-                    self.gap_p2c_pmod_r.append(pmod)
+                    self.gap_p2c_pmod_r.append([])
 
             elif self.check_transition(row) == 'GAP_c2p':
                 self.gap_c2p_onsets_r.append(new_onset)
                 self.gap_c2p_durs_r.append(duration)
                 if self.pmod == True:
-                    self.gap_c2p_pmod_r.append(pmod)
+                    self.gap_c2p_pmod_r.append([])
 
                 TI_onset = new_onset + duration - 0.6
                 self.turn_init_r_onsets.append(TI_onset)
@@ -286,7 +286,7 @@ class OnsetsDurations:
                 self.pause_p_onsets_r.append(new_onset)
                 self.pause_p_durs_r.append(duration)
                 if self.pmod == True:
-                    self.pause_p_pmod_r.append(pmod)
+                    self.pause_p_pmod_r.append([])
 
                 ###-------Include turn continuations------###
                 # TC_onset = new_onset + duration - 0.6
@@ -298,7 +298,7 @@ class OnsetsDurations:
                 self.pause_c_onsets_r.append(new_onset)
                 self.pause_c_durs_r.append(duration)
                 if self.pmod == True:
-                    self.pause_c_pmod_r.append(pmod)
+                    self.pause_c_pmod_r.append([])
 
             elif self.check_transition(row) == 'OVRL_c2p':
                 TI_onset = new_onset - 0.6

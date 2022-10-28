@@ -57,15 +57,19 @@ class Transitions:
                             surrounding_utterances.append(utterance)
                         if endtime == utterance_endtime:
                             surrounding_utterances.append(utterance)
-
                 within_speaker = 0
                 speaker_first_turn = 'n/a'
                 speaker_second_turn = 'n/a'
-                pmod = []
+
+                #Get pmod from participants production#
+                if len(surrounding_utterances) > 1:
+                    pmod = self.pmod(surrounding_utterances[1])
+                elif len(surrounding_utterances) == 1:
+                    pmod = self.pmod(surrounding_utterances[0])
+
                 try:
                     speaker_first_turn = surrounding_utterances[0][4]
                     speaker_second_turn = surrounding_utterances[1][4]
-                    pmod = self.pmod(utterance)
                     if speaker_first_turn == speaker_second_turn:
                         within_speaker = 1
                 except: continue
