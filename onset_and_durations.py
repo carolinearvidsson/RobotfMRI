@@ -1,4 +1,3 @@
-import enum
 from hashlib import new
 import pickle
 from re import sub 
@@ -49,7 +48,7 @@ class OnsetsDurations:
         #For onsdurs.mat files for marseille replication
         #self.final_output = self.replicate_marseille() 
         #------------------------------------------------------------------#]
-        
+
     def add_pmod(self, logfiledict):
         '''This function adds pmods as an additional category, apart from names, onsets and durations'''
         subjectandruns = list(set([subjrun for subjrun in logfiledict]))
@@ -153,7 +152,7 @@ class OnsetsDurations:
                         duration = float(row[5])
                         n_words = row[8]
 
-                        if row[0] == sub and row[2] == run and row[3] == conv:
+                        if row[0] == sub and row[2] == run and row[3] == conv: 
                             if conv in human_CONV1:
                                 name_index = self.onsdurs_output[SubjRunID]['names'].index('CONV1')
                                 conv_onset = float(self.onsdurs_output[SubjRunID]['onsets'][name_index][human_CONV1.index(conv)])
@@ -173,7 +172,8 @@ class OnsetsDurations:
                                             self.prod_h_pmod.append(n_words)
 
                                 elif event_type == 'transitions':
-                                    self.append_transition_parameters(row, onset, duration, conv_onset, 'human')
+                                    trans_pmod = row[6]
+                                    self.append_transition_parameters(row, onset, duration, conv_onset, 'human', SubjRunID, trans_pmod)
 
                             elif conv in robot_CONV2:
                                 name_index = self.onsdurs_output[SubjRunID]['names'].index('CONV2')
@@ -193,7 +193,8 @@ class OnsetsDurations:
                                             self.prod_r_pmod.append(n_words)
 
                                 elif event_type == 'transitions':
-                                    self.append_transition_parameters(row, onset, duration, conv_onset, 'robot')
+                                    trans_pmod = row[6]
+                                    self.append_transition_parameters(row, onset, duration, conv_onset, 'robot', SubjRunID, trans_pmod)
                 
                 if self.pmod == True: 
                     for name, ons_list, dur_list, pmod_list in zip(names, onsets, durations, pmods):
@@ -203,26 +204,27 @@ class OnsetsDurations:
                     for name, ons_list, dur_list in zip(names, onsets, durations):
                         self.append_name_onset_duration(SubjRunID, [name], ons_list, dur_list)
 
-    def append_transition_parameters(self, row, onset, duration, conv_onset, condition):
+    def append_transition_parameters(self, row, onset, duration, conv_onset, condition, SubjRunID, pmod):
         new_onset = float(conv_onset + onset)
         if condition == 'human':
             if self.check_transition(row) == 'GAP_p2c':
                 self.gap_p2c_onsets_h.append(new_onset)
                 self.gap_p2c_durs_h.append(duration)
                 if self.pmod == True:
-                    self.gap_p2c_pmod_h.append([])
+                    self.gap_p2c_pmod_h.append(pmod)
 
             elif self.check_transition(row) == 'GAP_c2p':
+                prod_onset = new_onset + duration
                 self.gap_c2p_onsets_h.append(new_onset)
                 self.gap_c2p_durs_h.append(duration)
                 if self.pmod == True:
-                    self.gap_c2p_pmod_h.append([])
+                    self.gap_c2p_pmod_h.append(pmod)
 
                 TI_onset = new_onset + duration - 0.6
                 self.turn_init_h_onsets.append(TI_onset)
                 self.turn_init_h_durs.append(0.6)
                 if self.pmod == True:
-                    self.turn_init_h_pmod.append([])
+                    self.turn_init_h_pmod.append(pmod)
                 # TI_1200_onset = (new_onset + duration) - 1.2
                 # TI_900_onset = (new_onset + duration) - 0.9
                 # TI_600_onset = (new_onset + duration) - 0.6
@@ -240,7 +242,7 @@ class OnsetsDurations:
                 self.pause_p_onsets_h.append(new_onset)
                 self.pause_p_durs_h.append(duration)
                 if self.pmod == True:
-                    self.pause_p_pmod_h.append([])
+                    self.pause_p_pmod_h.append(pmod)
                 
                 ###-------Include turn continuations------###
                 # TC_onset = new_onset + duration - 0.6
@@ -252,39 +254,39 @@ class OnsetsDurations:
                 self.pause_c_onsets_h.append(new_onset)
                 self.pause_c_durs_h.append(duration)
                 if self.pmod == True:
-                    self.pause_c_pmod_h.append([])
+                    self.pause_c_pmod_h.append(pmod)
             
             elif self.check_transition(row) == 'OVRL_c2p':
                 TI_onset = new_onset - 0.6
                 self.turn_init_h_onsets.append(TI_onset)
                 self.turn_init_h_durs.append(0.6)
                 if self.pmod == True:
-                    self.turn_init_h_pmod.append([])
+                    self.turn_init_h_pmod.append(pmod)
 
         elif condition == 'robot':
             if self.check_transition(row) == 'GAP_p2c':
                 self.gap_p2c_onsets_r.append(new_onset)
                 self.gap_p2c_durs_r.append(duration)
                 if self.pmod == True:
-                    self.gap_p2c_pmod_r.append([])
+                    self.gap_p2c_pmod_r.append(pmod)
 
             elif self.check_transition(row) == 'GAP_c2p':
                 self.gap_c2p_onsets_r.append(new_onset)
                 self.gap_c2p_durs_r.append(duration)
                 if self.pmod == True:
-                    self.gap_c2p_pmod_r.append([])
+                    self.gap_c2p_pmod_r.append(pmod)
 
                 TI_onset = new_onset + duration - 0.6
                 self.turn_init_r_onsets.append(TI_onset)
                 self.turn_init_r_durs.append(0.6)
                 if self.pmod == True:
-                    self.turn_init_r_pmod.append([])
+                    self.turn_init_r_pmod.append(pmod)
 
             elif self.check_transition(row) == 'PAUSE_p':
                 self.pause_p_onsets_r.append(new_onset)
                 self.pause_p_durs_r.append(duration)
                 if self.pmod == True:
-                    self.pause_p_pmod_r.append([])
+                    self.pause_p_pmod_r.append(pmod)
 
                 ###-------Include turn continuations------###
                 # TC_onset = new_onset + duration - 0.6
@@ -296,14 +298,14 @@ class OnsetsDurations:
                 self.pause_c_onsets_r.append(new_onset)
                 self.pause_c_durs_r.append(duration)
                 if self.pmod == True:
-                    self.pause_c_pmod_r.append([])
+                    self.pause_c_pmod_r.append(pmod)
 
             elif self.check_transition(row) == 'OVRL_c2p':
                 TI_onset = new_onset - 0.6
                 self.turn_init_r_onsets.append(TI_onset)
                 self.turn_init_r_durs.append(0.6)
                 if self.pmod == True:
-                    self.turn_init_r_pmod.append([])
+                    self.turn_init_r_pmod.append(pmod)
 
     def collapse_conditions(self, d, to_collapse, new_name):
         print('Collapsing following conditions: ', to_collapse, ' into: ', new_name)

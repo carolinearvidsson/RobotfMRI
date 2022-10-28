@@ -27,10 +27,10 @@ class Modality:
         else: prod = 0
 
         for utterance in vocal_tier_a:
-            pmod = len(utterance[2].replace("'", " ").split(" "))
             utter_starttime = utterance[0]
             utter_endtime = utterance[1]
             duration = utter_endtime - utter_starttime
+            pmod = self.pmod(utterance)
             simultaneous.append([utter_starttime, duration, prod, comp, pmod])
             #----------- If overlaps are not to be ignored:
             # for segm in vocal_tier_b:
@@ -48,3 +48,6 @@ class Modality:
             #         simultaneous.append([latest_starttime, duration, prod, comp])
 
         return simultaneous
+    
+    def pmod(self, utterance):
+        return len(utterance[2].replace("'", " ").split(" "))

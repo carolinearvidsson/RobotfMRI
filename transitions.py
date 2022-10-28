@@ -1,6 +1,6 @@
 class Transitions:
     def __init__(self, conversation):
-        self.transitions_data = [] # list where each element represents a silence or speech overlap, with following structure: [start time, duration, condition, within speaker, speaker of the prior turn, speaker of the subsequent turn]
+        self.transitions_data = [] # list where each element represents a silence or speech overlap, with following structure: [start time, duration, condition, within speaker, speaker of the prior turn, speaker of the subsequent turn, pmod]
         speaker_pauses = [pause for pause in conversation if pause[2] == '#']
         silences = self.get_segment_overlap(speaker_pauses, 'silence')
         speech = [overl for overl in conversation if overl[2][0].isalnum()]
@@ -61,11 +61,16 @@ class Transitions:
                 within_speaker = 0
                 speaker_first_turn = 'n/a'
                 speaker_second_turn = 'n/a'
+                pmod = []
                 try:
                     speaker_first_turn = surrounding_utterances[0][4]
                     speaker_second_turn = surrounding_utterances[1][4]
+                    pmod = self.pmod(utterance)
                     if speaker_first_turn == speaker_second_turn:
                         within_speaker = 1
                 except: continue
                 
-                self.transitions_data.append([starttime, duration, within_speaker, speaker_first_turn, speaker_second_turn, s_type])
+                self.transitions_data.append([starttime, duration, within_speaker, speaker_first_turn, speaker_second_turn, s_type, pmod])
+
+    def pmod(self, utterance):
+        return len(utterance[2].replace("'", " ").split(" "))
