@@ -6,5 +6,3 @@ import csv
 
 if __name__== '__main__':
     mdic = OnsetsDurations(sys.argv[1]).final_output
-    for run in mdic:
-        print(mdic[run])
