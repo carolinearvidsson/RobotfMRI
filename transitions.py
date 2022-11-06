@@ -11,6 +11,10 @@ class Transitions:
         self.get_segment_overlap_type([silences, speech_overlaps], conversation)
         #self.get_segment_overlap_type([silences], conversation)
 
+
+        #Johanna
+        # for row in self.transitions_data:
+        #     print(row)
         
     def get_segment_overlap(self, segments, s_type):  
         segm_overl = [] 
@@ -75,6 +79,9 @@ class Transitions:
                 except: continue
                 
                 self.transitions_data.append([starttime, duration, within_speaker, speaker_first_turn, speaker_second_turn, s_type, pmod])
+
+
+
 
     def pmod(self, utterance):
         return len(utterance[2].replace("'", " ").split(" "))
