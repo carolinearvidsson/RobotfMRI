@@ -5,7 +5,7 @@ import gc
 class NonOverlappingModel:
 
     def __init__(self):
-        a_file = open("onsdurs_collapsed_cropped.pkl", "rb") #read the self.onsdurs file into a dictionary
+        a_file = open("pickles/onsdurs_collapsed_cropped.pkl", "rb") #read the self.onsdurs file into a dictionary
         self.od_file = pickle.load(a_file)
 
         #--------Only run for one participant------------#
@@ -28,7 +28,7 @@ class NonOverlappingModel:
         del overlaps_removed
         gc.collect()
 
-        output_file = open('nonoverlapping_model.pkl', 'wb')
+        output_file = open('pickles/nonoverlapping_model.pkl', 'wb')
         pickle.dump(matlab_structure, output_file)
         output_file.close()
         print('Model with no overlaps have successfully been pickled!')

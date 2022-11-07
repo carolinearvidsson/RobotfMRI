@@ -35,7 +35,7 @@ class OnsetsDurations:
         self.check_if_pmod_code_works(self.final_output)
 
         #this piece saves ons durs output in a file that can be loaded later in the notebook
-        a_file = open("onsdurs_collapsed_cropped.pkl", "wb")
+        a_file = open("pickles/onsdurs_collapsed_cropped.pkl", "wb")
         pickle.dump(self.final_output, a_file)
         a_file.close()
         
