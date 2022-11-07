@@ -24,6 +24,8 @@ class Conversations:
                             for intervals in tgo:
                                 for interval in intervals:
                                     grids_merged.append(self.get_utterance(interval, condition, speaker))
+                                    
+                                    #HÄR ÄR LITE INFO SOM KAN VARA ANVÄNDBAR FÖR JOHANNA
                                     print(participant, session, interval, condition, speaker)
 
                         grids_merged = sorted(grids_merged, key=itemgetter(0)) # A sorted list with all utterances during a conversation\
