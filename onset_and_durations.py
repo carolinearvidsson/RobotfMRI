@@ -204,7 +204,7 @@ class OnsetsDurations:
                     for name, ons_list, dur_list in zip(names, onsets, durations):
                         self.append_name_onset_duration(SubjRunID, [name], ons_list, dur_list)
 
-    def append_transition_parameters(self, row, onset, duration, conv_onset, condition, SubjRunID, pmod):
+    def append_transition_parameters(self, row, onset, duration, conv_onset, condition, SubjRunID, n_token):
         new_onset = float(conv_onset + onset)
         if condition == 'human':
             if self.check_transition(row) == 'GAP_p2c':
@@ -224,7 +224,7 @@ class OnsetsDurations:
                 self.turn_init_h_onsets.append(TI_onset)
                 self.turn_init_h_durs.append(0.6)
                 if self.pmod == True:
-                    self.turn_init_h_pmod.append(pmod)
+                    self.turn_init_h_pmod.append(n_token)
                 # TI_1200_onset = (new_onset + duration) - 1.2
                 # TI_900_onset = (new_onset + duration) - 0.9
                 # TI_600_onset = (new_onset + duration) - 0.6
@@ -261,7 +261,7 @@ class OnsetsDurations:
                 self.turn_init_h_onsets.append(TI_onset)
                 self.turn_init_h_durs.append(0.6)
                 if self.pmod == True:
-                    self.turn_init_h_pmod.append(pmod)
+                    self.turn_init_h_pmod.append(n_token)
 
         elif condition == 'robot':
             if self.check_transition(row) == 'GAP_p2c':
@@ -280,7 +280,7 @@ class OnsetsDurations:
                 self.turn_init_r_onsets.append(TI_onset)
                 self.turn_init_r_durs.append(0.6)
                 if self.pmod == True:
-                    self.turn_init_r_pmod.append(pmod)
+                    self.turn_init_r_pmod.append(n_token)
 
             elif self.check_transition(row) == 'PAUSE_p':
                 self.pause_p_onsets_r.append(new_onset)
@@ -305,7 +305,7 @@ class OnsetsDurations:
                 self.turn_init_r_onsets.append(TI_onset)
                 self.turn_init_r_durs.append(0.6)
                 if self.pmod == True:
-                    self.turn_init_r_pmod.append(pmod)
+                    self.turn_init_r_pmod.append(n_token)
 
     def collapse_conditions(self, d, to_collapse, new_name):
         print('Collapsing following conditions: ', to_collapse, ' into: ', new_name)

@@ -67,9 +67,9 @@ class Transitions:
 
                 #Get pmod from participants production#
                 if len(surrounding_utterances) > 1:
-                    pmod = self.pmod(surrounding_utterances[1])
+                    n_token, string  = self.pmod(surrounding_utterances[1])
                 elif len(surrounding_utterances) == 1:
-                    pmod = self.pmod(surrounding_utterances[0])
+                    n_token, string = self.pmod(surrounding_utterances[0])
 
                 try:
                     speaker_first_turn = surrounding_utterances[0][4]
@@ -78,10 +78,7 @@ class Transitions:
                         within_speaker = 1
                 except: continue
                 
-                self.transitions_data.append([starttime, duration, within_speaker, speaker_first_turn, speaker_second_turn, s_type, pmod])
-
-
-
+                self.transitions_data.append([starttime, duration, within_speaker, speaker_first_turn, speaker_second_turn, s_type, n_token, string])
 
     def pmod(self, utterance):
-        return len(utterance[2].replace("'", " ").split(" "))
+        return (len(utterance[2].replace("'", " ").split(" ")), utterance[2])

@@ -33,11 +33,13 @@ class Conversations:
 
                         for transition in Transitions(grids_merged).transitions_data:
                             transitions_datarows = [participant, condition, session, convers] + transition
+                            print(transitions_datarows)
                             #print(transitions_datarows)
                             self.transitions_data.append(transitions_datarows)
                                             
                         for mod_data_row in Modality(grids_merged).modality_data:
                             modality_datarow = [participant, condition, session, convers] + mod_data_row
+                            print(modality_datarow)
                             self.modality.append(modality_datarow)
 
 
