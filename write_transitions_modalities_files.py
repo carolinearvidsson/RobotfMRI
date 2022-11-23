@@ -12,7 +12,7 @@ if __name__ == '__main__':
     c = Conversations(datastr.structure, path)
 
     with open(path + 'transitions.csv', 'w') as f:
-        transitions_header = ['participantid', 'condition', 'session', 'conversation', 'onset', 'duration', 'within_speaker', 'speaker_prior_turn', 'speaker_subsequent_turn', 'type']
+        transitions_header = ['participantid', 'condition', 'session', 'conversation', 'onset', 'duration', 'within_speaker', 'speaker_prior_turn', 'speaker_subsequent_turn', 'type', 'n_token', 'subsequent_utterance']
         c.transitions_data.insert(0, transitions_header)
         writer = csv.writer(f)
         for row in c.transitions_data:
@@ -21,7 +21,7 @@ if __name__ == '__main__':
     f.close()
 
     with open(path + 'modalities.csv', 'w') as f:
-        modality_header = ['participantid', 'condition', 'session', 'conversation', 'onset', 'duration', 'production', 'comprehension']
+        modality_header = ['participantid', 'condition', 'session', 'conversation', 'onset', 'duration', 'production', 'comprehension', 'n_token', 'utterance']
         c.modality.insert(0, modality_header)
         writer = csv.writer(f)
         for row in c.modality:
