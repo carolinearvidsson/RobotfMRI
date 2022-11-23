@@ -76,7 +76,7 @@ class Transitions:
                     speaker_second_turn = surrounding_utterances[1][4]
                     if speaker_first_turn == speaker_second_turn:
                         within_speaker = 1
-                except: continue
+                except: continue 
                 
                 self.transitions_data.append([starttime, duration, within_speaker, speaker_first_turn, speaker_second_turn, s_type, n_token, string])
 
