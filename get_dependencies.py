@@ -4,6 +4,8 @@ import textdescriptives as td
 nlp = spacy.load("fr_dep_news_trf")
 nlp.add_pipe('textdescriptives')
 doc = nlp("c'est intéressant")
+for token in doc:
+    print(token._.dependency_distance)
 spacy.displacy.serve(doc, style="dep")
 
 doc = nlp("c'est une campagne de pub ciblant les enfants")
