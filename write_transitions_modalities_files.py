@@ -21,7 +21,7 @@ if __name__ == '__main__':
     f.close()
 
     with open(path + 'modalities.csv', 'w') as f:
-        modality_header = ['participantid', 'condition', 'session', 'conversation', 'onset', 'duration', 'production', 'comprehension', 'n_token', 'utterance']
+        modality_header = ['participantid', 'condition', 'session', 'conversation', 'onset', 'duration', 'production', 'comprehension', 'n_token', 'utterance', 'tdl']
         c.modality.insert(0, modality_header)
         writer = csv.writer(f)
         for row in c.modality:
