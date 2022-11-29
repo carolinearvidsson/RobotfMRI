@@ -1,6 +1,6 @@
 import textgrid 
 from operator import itemgetter
-from modality import Modality
+from giglio_modality import Modality
 from transitions import Transitions
 import csv
 
