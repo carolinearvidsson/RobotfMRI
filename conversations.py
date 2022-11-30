@@ -37,7 +37,6 @@ class Conversations:
                                             
                         for mod_data_row in Modality(grids_merged).modality_data:
                             modality_datarow = [participant, condition, session, convers] + mod_data_row
-                            print(mod_data_row)
                             self.modality.append(modality_datarow)
 
 
