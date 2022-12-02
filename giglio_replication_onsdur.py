@@ -87,53 +87,26 @@ class OnsetsDurations:
                     comp_rest_name, self.comp_rest_onsets, self.comp_rest_durs = 'COMP_rest', [], []
                     prod_rest_name, self.prod_rest_onsets, self.prod_rest_durs = 'PROD_rest', [], []
 
-                    comp_4_4_name, self.comp_4_4_onsets, self.comp_4_4_durs = 'COMP_4_4', [], []
-                    comp_4_5_name, self.comp_4_5_onsets, self.comp_4_5_durs = 'COMP_4_5', [], []
-                    comp_4_6_name, self.comp_4_6_onsets, self.comp_4_6_durs = 'COMP_4_6', [], []
+                    comp_1_name, self.comp_1_onsets, self.comp_1_durs = 'COMP_0-01', [], []
+                    comp_2_name, self.comp_2_onsets, self.comp_2_durs = 'COMP_01-10', [], []
+                    comp_3_name, self.comp_3_onsets, self.comp_3_durs = 'COMP_10-20', [], []
 
-                    comp_5_4_name, self.comp_5_4_onsets, self.comp_5_4_durs = 'COMP_5_4', [], []
-                    comp_5_5_name, self.comp_5_5_onsets, self.comp_5_5_durs = 'COMP_5_5', [], []
-                    comp_5_6_name, self.comp_5_6_onsets, self.comp_5_6_durs = 'COMP_5_6', [], []
+                    prod_1_name, self.prod_1_onsets, self.prod_1_durs = 'PROD_0-01', [], []
+                    prod_2_name, self.prod_2_onsets, self.prod_2_durs = 'PROD_01-10', [], []
+                    prod_3_name, self.prod_3_onsets, self.prod_3_durs = 'PROD_10-20', [], []
 
-                    comp_6_4_name, self.comp_6_4_onsets, self.comp_6_4_durs = 'COMP_6_4', [], []
-                    comp_6_5_name, self.comp_6_5_onsets, self.comp_6_5_durs = 'COMP_6_5', [], []
-                    comp_6_6_name, self.comp_6_6_onsets, self.comp_6_6_durs = 'COMP_6_6', [], []
 
-                    prod_4_4_name, self.prod_4_4_onsets, self.prod_4_4_durs = 'PROD_4_4', [], []
-                    prod_4_5_name, self.prod_4_5_onsets, self.prod_4_5_durs = 'PROD_4_5', [], []
-                    prod_4_6_name, self.prod_4_6_onsets, self.prod_4_6_durs = 'PROD_4_6', [], []
-
-                    prod_5_4_name, self.prod_5_4_onsets, self.prod_5_4_durs = 'PROD_5_4', [], []
-                    prod_5_5_name, self.prod_5_5_onsets, self.prod_5_5_durs = 'PROD_5_5', [], []
-                    prod_5_6_name, self.prod_5_6_onsets, self.prod_5_6_durs = 'PROD_5_6', [], []
-
-                    prod_6_4_name, self.prod_6_4_onsets, self.prod_6_4_durs = 'PROD_6_4', [], []
-                    prod_6_5_name, self.prod_6_5_onsets, self.prod_6_5_durs = 'PROD_6_5', [], []
-                    prod_6_6_name, self.prod_6_6_onsets, self.prod_6_6_durs = 'PROD_6_6', [], []
-
-                    names = (comp_4_4_name, comp_4_5_name, comp_4_6_name, \
-                                comp_5_4_name, comp_5_5_name, comp_5_6_name, \
-                                    comp_6_4_name, comp_6_5_name, comp_6_6_name, \
-                                        prod_4_4_name, prod_4_5_name, prod_4_6_name, \
-                                            prod_5_4_name, prod_5_5_name, prod_5_6_name, \
-                                                prod_6_4_name, prod_6_5_name, prod_6_6_name, \
+                    names = (comp_1_name, comp_2_name, comp_3_name, \
+                                        prod_1_name, prod_2_name, prod_3_name, \
                                                     comp_rest_name, prod_rest_name)
                     
-                    onsets = (self.comp_4_4_onsets, self.comp_4_5_onsets, self.comp_4_6_onsets, \
-                                self.comp_5_4_onsets, self.comp_5_5_onsets, self.comp_5_6_onsets, \
-                                    self.comp_6_4_onsets, self.comp_6_5_onsets, self.comp_6_6_onsets, \
-                                        self.prod_4_4_onsets, self.prod_4_5_onsets, self.prod_4_6_onsets, \
-                                            self.prod_5_4_onsets, self.prod_5_5_onsets, self.prod_5_6_onsets, \
-                                                self.prod_6_4_onsets, self.prod_6_5_onsets, self.prod_6_6_onsets, \
+                    onsets = (self.comp_1_onsets, self.comp_2_onsets, self.comp_3_onsets, \
+                                        self.prod_1_onsets, self.prod_2_onsets, self.prod_3_onsets, \
                                                     self.comp_rest_onsets, self.prod_rest_onsets)
 
 
-                    durations = (self.comp_4_4_durs, self.comp_4_5_durs, self.comp_4_6_durs, \
-                                self.comp_5_4_durs, self.comp_5_5_durs, self.comp_5_6_durs, \
-                                    self.comp_6_4_durs, self.comp_6_5_durs, self.comp_6_6_durs, \
-                                        self.prod_4_4_durs, self.prod_4_5_durs, self.prod_4_6_durs, \
-                                            self.prod_5_4_durs, self.prod_5_5_durs, self.prod_5_6_durs, \
-                                                self.prod_6_4_durs, self.prod_6_5_durs, self.prod_6_6_durs, \
+                    durations = (self.comp_1_durs, self.comp_2_durs, self.comp_3_durs, \
+                                        self.prod_1_durs, self.prod_2_durs, self.prod_3_durs, \
                                                     self.comp_rest_durs, self.prod_rest_durs)
 
                     ###----------PMODS----------###
@@ -196,90 +169,38 @@ class OnsetsDurations:
                                 
                                     if self.check_modality((row[6], row[7])) == 'comprehension': 
                                         tdl = row[10]
-                                        if n_words == 4:
-                                            if tdl == 4:
-                                                self.comp_4_4_onsets.append(conv_onset + onset)
-                                                self.comp_4_4_durs.append(duration)
-
-                                            elif tdl == 5:
-                                                self.comp_4_5_onsets.append(conv_onset + onset)
-                                                self.comp_4_5_durs.append(duration)
-
-                                            elif tdl == 6:
-                                                self.comp_4_6_onsets.append(conv_onset + onset)
-                                                self.comp_4_6_durs.append(duration)
-                                        
-                                        elif n_words == 5:
-                                            if tdl == 4:
-                                                self.comp_5_4_onsets.append(conv_onset + onset)
-                                                self.comp_5_4_durs.append(duration)
-
-                                            elif tdl == 5:
-                                                self.comp_5_5_onsets.append(conv_onset + onset)
-                                                self.comp_5_5_durs.append(duration)
-
-                                            elif tdl == 6:
-                                                self.comp_5_6_onsets.append(conv_onset + onset)
-                                                self.comp_5_6_durs.append(duration)
-
-                                        elif n_words == 6:
-                                            if tdl == 4:
-                                                self.comp_6_4_onsets.append(conv_onset + onset)
-                                                self.comp_6_4_durs.append(duration)
-
-                                            elif tdl == 5:
-                                                self.comp_6_5_onsets.append(conv_onset + onset)
-                                                self.comp_6_5_durs.append(duration)
-
-                                            elif tdl == 6:
-                                                self.comp_6_6_onsets.append(conv_onset + onset)
-                                                self.comp_6_6_durs.append(duration)
-
+                                        if tdl == 0:
+                                            mtdl = 0
+                                        else: 
+                                            mtdl = tdl/n_words
+                                        if mtdl <= 0.1:
+                                            self.comp_1_onsets.append(conv_onset + onset)
+                                            self.comp_1_durs.append(duration)
+                                        elif mtdl >= 0.1 and mtdl < 1:
+                                            self.comp_2_onsets.append(conv_onset + onset)
+                                            self.comp_2_durs.append(duration)
+                                        elif mtdl >= 1 and mtdl < 2:
+                                            self.comp_3_onsets.append(conv_onset + onset)
+                                            self.comp_3_durs.append(duration)
                                         else: 
                                             self.comp_rest_onsets.append(conv_onset + onset)
                                             self.comp_rest_durs.append(duration)
 
                                     elif self.check_modality((row[6], row[7])) == 'production':
-
-                                        if n_words == 4:
-                                            if tdl == 4:
-                                                self.prod_4_4_onsets.append(conv_onset + onset)
-                                                self.prod_4_4_durs.append(duration)
-
-                                            elif tdl == 5:
-                                                self.prod_4_5_onsets.append(conv_onset + onset)
-                                                self.prod_4_5_durs.append(duration)
-
-                                            elif tdl == 6:
-                                                self.prod_4_6_onsets.append(conv_onset + onset)
-                                                self.prod_4_6_durs.append(duration)
-                                        
-                                        elif n_words == 5:
-                                            if tdl == 4:
-                                                self.prod_5_4_onsets.append(conv_onset + onset)
-                                                self.prod_5_4_durs.append(duration)
-
-                                            elif tdl == 5:
-                                                self.prod_5_5_onsets.append(conv_onset + onset)
-                                                self.prod_5_5_durs.append(duration)
-
-                                            elif tdl == 6:
-                                                self.prod_5_6_onsets.append(conv_onset + onset)
-                                                self.prod_5_6_durs.append(duration)
-
-                                        elif n_words == 6:
-                                            if tdl == 4:
-                                                self.prod_6_4_onsets.append(conv_onset + onset)
-                                                self.prod_6_4_durs.append(duration)
-
-                                            elif tdl == 5:
-                                                self.prod_6_5_onsets.append(conv_onset + onset)
-                                                self.prod_6_5_durs.append(duration)
-
-                                            elif tdl == 6:
-                                                self.prod_6_6_onsets.append(conv_onset + onset)
-                                                self.prod_6_6_durs.append(duration)
-
+                                        tdl = row[10]
+                                        if tdl == 0:
+                                            mtdl = 0
+                                        else: 
+                                            mtdl = tdl/n_words
+                                        if mtdl <= 0.1:
+                                            self.prod_1_onsets.append(conv_onset + onset)
+                                            self.prod_1_durs.append(duration)
+                                        elif mtdl >= 0.1 and mtdl < 1:
+                                            self.prod_2_onsets.append(conv_onset + onset)
+                                            self.prod_2_durs.append(duration)
+                                        elif mtdl >= 1 and mtdl < 2:
+                                            self.prod_3_onsets.append(conv_onset + onset)
+                                            self.prod_3_durs.append(duration)
                                         else: 
                                             self.prod_rest_onsets.append(conv_onset + onset)
                                             self.prod_rest_durs.append(duration)

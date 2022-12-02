@@ -6,6 +6,7 @@ from filereader import FilesList
 from ds import DataStructure
 from conversations import Conversations
 from itertools import repeat
+import numpy as np
 
 class OnsetsDurations: 
     def __init__(self, path):
@@ -32,7 +33,7 @@ class OnsetsDurations:
         collapsed = self.collapse_conditions(collapsed, [['PAUSE_c_r'], ['PAUSE_p_r'], ['GAP_p2c_r'], ['GAP_c2p_r']], ['SILENCE_r'])
 
         # Add eventual orthogonalization info
-        #orths = self.set_orth(collapsed)
+        orths = self.set_orth(collapsed)
 
         self.final_output = self.crop_duration(collapsed) #remove events <300 ms
 
@@ -390,10 +391,11 @@ class OnsetsDurations:
         self.onsdurs_output[subjrunid]['durations'].append(d)#np.array(durations, dtype=float))
 
         #This chunks adds the pmod and orth stats to the mat-files.
+
         if n in self.with_pmod:
-            self.onsdurs_output[subjrunid]['pmod'].setdefault('name', []).append([n for pval in p])
+            self.onsdurs_output[subjrunid]['pmod'].setdefault('name', []).append(np.array('wl'))
             self.onsdurs_output[subjrunid]['pmod'].setdefault('param', []).append(p)
-            self.onsdurs_output[subjrunid]['pmod'].setdefault('poly', []).append([1 for pval in p])
+            self.onsdurs_output[subjrunid]['pmod'].setdefault('poly', []).append(np.array(1))
 
     def check_transition(self, l):
         previous_speaker = l[7]
