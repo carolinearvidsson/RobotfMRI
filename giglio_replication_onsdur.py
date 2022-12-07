@@ -87,13 +87,13 @@ class OnsetsDurations:
                     comp_rest_name, self.comp_rest_onsets, self.comp_rest_durs = 'COMP_rest', [], []
                     prod_rest_name, self.prod_rest_onsets, self.prod_rest_durs = 'PROD_rest', [], []
 
-                    comp_1_name, self.comp_1_onsets, self.comp_1_durs = 'COMP_0-01', [], []
-                    comp_2_name, self.comp_2_onsets, self.comp_2_durs = 'COMP_01-10', [], []
-                    comp_3_name, self.comp_3_onsets, self.comp_3_durs = 'COMP_10-20', [], []
+                    comp_1_name, self.comp_1_onsets, self.comp_1_durs = 'COMP_1', [], []
+                    comp_2_name, self.comp_2_onsets, self.comp_2_durs = 'COMP_2', [], []
+                    comp_3_name, self.comp_3_onsets, self.comp_3_durs = 'COMP_3', [], []
 
-                    prod_1_name, self.prod_1_onsets, self.prod_1_durs = 'PROD_0-01', [], []
-                    prod_2_name, self.prod_2_onsets, self.prod_2_durs = 'PROD_01-10', [], []
-                    prod_3_name, self.prod_3_onsets, self.prod_3_durs = 'PROD_10-20', [], []
+                    prod_1_name, self.prod_1_onsets, self.prod_1_durs = 'PROD_1', [], []
+                    prod_2_name, self.prod_2_onsets, self.prod_2_durs = 'PROD_2', [], []
+                    prod_3_name, self.prod_3_onsets, self.prod_3_durs = 'PROD_3', [], []
 
 
                     names = (comp_1_name, comp_2_name, comp_3_name, \
@@ -173,15 +173,16 @@ class OnsetsDurations:
                                             mtdl = 0
                                         else: 
                                             mtdl = tdl/n_words
-                                        if mtdl <= 0.1:
-                                            self.comp_1_onsets.append(conv_onset + onset)
-                                            self.comp_1_durs.append(duration)
-                                        elif mtdl >= 0.1 and mtdl < 1:
-                                            self.comp_2_onsets.append(conv_onset + onset)
-                                            self.comp_2_durs.append(duration)
-                                        elif mtdl >= 1 and mtdl < 2:
-                                            self.comp_3_onsets.append(conv_onset + onset)
-                                            self.comp_3_durs.append(duration)
+                                        if n_words == 5:
+                                            if  mtdl <= 0.8:
+                                                self.comp_1_onsets.append(conv_onset + onset)
+                                                self.comp_1_durs.append(duration)
+                                            elif mtdl > 0.8 and mtdl <= 1.30:
+                                                self.comp_2_onsets.append(conv_onset + onset)
+                                                self.comp_2_durs.append(duration)
+                                            elif mtdl > 1.30 and mtdl <= 2:
+                                                self.comp_3_onsets.append(conv_onset + onset)
+                                                self.comp_3_durs.append(duration)
                                         else: 
                                             self.comp_rest_onsets.append(conv_onset + onset)
                                             self.comp_rest_durs.append(duration)
@@ -192,15 +193,16 @@ class OnsetsDurations:
                                             mtdl = 0
                                         else: 
                                             mtdl = tdl/n_words
-                                        if mtdl <= 0.1:
-                                            self.prod_1_onsets.append(conv_onset + onset)
-                                            self.prod_1_durs.append(duration)
-                                        elif mtdl >= 0.1 and mtdl < 1:
-                                            self.prod_2_onsets.append(conv_onset + onset)
-                                            self.prod_2_durs.append(duration)
-                                        elif mtdl >= 1 and mtdl < 2:
-                                            self.prod_3_onsets.append(conv_onset + onset)
-                                            self.prod_3_durs.append(duration)
+                                        if n_words == 5:
+                                            if mtdl <= 0.8:
+                                                self.prod_1_onsets.append(conv_onset + onset)
+                                                self.prod_1_durs.append(duration)
+                                            elif mtdl > 0.8 and mtdl <= 1.30:
+                                                self.prod_2_onsets.append(conv_onset + onset)
+                                                self.prod_2_durs.append(duration)
+                                            elif mtdl > 1.30 and mtdl <= 2:
+                                                self.prod_3_onsets.append(conv_onset + onset)
+                                                self.prod_3_durs.append(duration)
                                         else: 
                                             self.prod_rest_onsets.append(conv_onset + onset)
                                             self.prod_rest_durs.append(duration)

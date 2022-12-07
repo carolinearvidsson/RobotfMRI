@@ -1,11 +1,10 @@
-import textgrid 
+import textgrid
 from operator import itemgetter
 from modality import Modality
 from transitions import Transitions
 import csv
 
 class Conversations:
-            
         def __init__(self, datastr, path):  
             self.transitions_data = []
             self.modality = []
