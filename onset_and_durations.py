@@ -393,9 +393,9 @@ class OnsetsDurations:
         #This chunks adds the pmod and orth stats to the mat-files.
 
         if n in self.with_pmod:
-            self.onsdurs_output[subjrunid]['pmod'].setdefault('name', np.array).append('wl')
+            self.onsdurs_output[subjrunid]['pmod'].setdefault('name', []).append('wl')
             self.onsdurs_output[subjrunid]['pmod'].setdefault('param', []).append(p)
-            self.onsdurs_output[subjrunid]['pmod'].setdefault('poly', np.array).append(1)
+            self.onsdurs_output[subjrunid]['pmod'].setdefault('poly', []).append(1)
 
     def check_transition(self, l):
         previous_speaker = l[7]
