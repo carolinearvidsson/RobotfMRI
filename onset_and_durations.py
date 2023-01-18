@@ -67,7 +67,7 @@ class OnsetsDurations:
     def add_pmod(self, logfiledict):
         '''This function adds pmods as an additional category, apart from names, onsets and durations'''
         first_cond = ['INSTR1', 'ISI']
-        self.with_pmod = [['PROD_h'], ['COMP_h'], ['TI_h']]
+        self.with_pmod = [['PROD_h'], ['COMP_h']] #, ['TI_h']]
         # self.without_pmod = ['ISI', 'INSTR1', ['PROD_r'], ['']]
         subjectandruns = list(set([subjrun for subjrun in logfiledict]))
         subjectandruns.sort()
@@ -105,8 +105,10 @@ class OnsetsDurations:
 
                     ###----------PMODS----------###
                     if self.pmod == True:
-                        self.comp_h_pmod, self.prod_h_pmod, self.comp_r_pmod, self.prod_r_pmod = [], [], [], []
-                        pmods = (self.comp_h_pmod, self.prod_h_pmod, self.comp_r_pmod, self.prod_r_pmod)
+                        self.comp_h_tdl, self.prod_h_tdl, self.comp_r_tdl, self.prod_r_tdl = [], [], [], []
+                        self.comp_h_wl, self.prod_h_wl, self.comp_r_wl, self.prod_r_wl = [], [], [], []
+                        #pmods is now a list of lists where the first list is wl and second list is tdl
+                        pmods = ([self.comp_h_wl,self.comp_h_tdl], [self.prod_h_wl, self.prod_h_tdl], [self.comp_r_wl, self.comp_r_tdl], [self.prod_r_wl, self.prod_r_tdl])
                     ###-------------------------###
                     
                 elif event_type == 'transitions':
@@ -148,16 +150,17 @@ class OnsetsDurations:
                     ###----------PMODS----------###
                     if self.pmod == True:
                         self.gap_p2c_pmod_h, self.gap_c2p_pmod_h, self.pause_c_pmod_h, \
-                            self.pause_p_pmod_h, self.turn_init_h_pmod = [], [], [], [], []
+                            self.pause_p_pmod_h, self.turn_init_h_wl = [], [], [], [], []
                         
                         self.gap_p2c_pmod_r, self.gap_c2p_pmod_r, self.pause_c_pmod_r, \
-                            self.pause_p_pmod_r, self.turn_init_r_pmod = [], [], [], [], []
+                            self.pause_p_pmod_r, self.turn_init_r_wl = [], [], [], [], [] 
+                        self.turn_init_r_tdl, self.turn_init_h_tdl = [], []
 
                         pmods = (self.gap_p2c_pmod_h, self.gap_c2p_pmod_h, self.pause_c_pmod_h, 
-                            self.pause_p_pmod_h, self.turn_init_h_pmod,
+                            self.pause_p_pmod_h, self.turn_init_h_wl, self.turn_init_r_tdl, self.turn_init_h_tdl,
                            
                             self.gap_p2c_pmod_r, self.gap_c2p_pmod_r, self.pause_c_pmod_r, 
-                            self.pause_p_pmod_r, self.turn_init_r_pmod)
+                            self.pause_p_pmod_r, self.turn_init_r_wl)
                     ###-------------------------###
 
                 for conv in conversations:
@@ -172,18 +175,20 @@ class OnsetsDurations:
                                 conv_onset = float(self.onsdurs_output[SubjRunID]['onsets'][name_index][human_CONV1.index(conv)])
                                 
                                 if event_type == 'modality': 
-                                
+                                    tdl = row[10]
                                     if self.check_modality((row[6], row[7])) == 'comprehension':  
                                         self.comp_h_onsets.append(conv_onset + onset)
                                         self.comp_h_durs.append(duration)
                                         if self.pmod == True:
-                                            self.comp_h_pmod.append(n_words)
+                                            self.comp_h_wl.append(n_words)
+                                            self.comp_h_tdl.append(tdl)
 
                                     elif self.check_modality((row[6], row[7])) == 'production':
                                         self.prod_h_onsets.append(conv_onset + onset)
                                         self.prod_h_durs.append(duration)
                                         if self.pmod == True:
-                                            self.prod_h_pmod.append(n_words)
+                                            self.prod_h_wl.append(n_words)
+                                            self.prod_h_tdl.append(tdl)
 
                                 elif event_type == 'transitions':
                                     trans_pmod = row[10]
@@ -198,13 +203,13 @@ class OnsetsDurations:
                                         self.comp_r_onsets.append(conv_onset + onset)
                                         self.comp_r_durs.append(duration)
                                         if self.pmod == True:
-                                            self.comp_r_pmod.append(n_words)
+                                            self.comp_r_wl.append(n_words)
 
                                     elif self.check_modality((row[6], row[7])) == 'production':
                                         self.prod_r_onsets.append(conv_onset + onset)
                                         self.prod_r_durs.append(duration)
                                         if self.pmod == True:
-                                            self.prod_r_pmod.append(n_words)
+                                            self.prod_r_wl.append(n_words)
 
                                 elif event_type == 'transitions':
                                     trans_pmod = row[10]
@@ -238,7 +243,7 @@ class OnsetsDurations:
                 self.turn_init_h_onsets.append(TI_onset)
                 self.turn_init_h_durs.append(0.6)
                 if self.pmod == True:
-                    self.turn_init_h_pmod.append(n_token)
+                    self.turn_init_h_wl.append(n_token)
                 # TI_1200_onset = (new_onset + duration) - 1.2
                 # TI_900_onset = (new_onset + duration) - 0.9
                 # TI_600_onset = (new_onset + duration) - 0.6
@@ -275,7 +280,7 @@ class OnsetsDurations:
                 self.turn_init_h_onsets.append(TI_onset)
                 self.turn_init_h_durs.append(0.6)
                 if self.pmod == True:
-                    self.turn_init_h_pmod.append(n_token)
+                    self.turn_init_h_wl.append(n_token)
 
         elif condition == 'robot':
             if self.check_transition(row) == 'GAP_p2c':
@@ -294,7 +299,7 @@ class OnsetsDurations:
                 self.turn_init_r_onsets.append(TI_onset)
                 self.turn_init_r_durs.append(0.6)
                 if self.pmod == True:
-                    self.turn_init_r_pmod.append(n_token)
+                    self.turn_init_r_wl.append(n_token)
 
             elif self.check_transition(row) == 'PAUSE_p':
                 self.pause_p_onsets_r.append(new_onset)
@@ -319,7 +324,7 @@ class OnsetsDurations:
                 self.turn_init_r_onsets.append(TI_onset)
                 self.turn_init_r_durs.append(0.6)
                 if self.pmod == True:
-                    self.turn_init_r_pmod.append(n_token)
+                    self.turn_init_r_wl.append(n_token)
 
     def collapse_conditions(self, d, to_collapse, new_name):
         print('Collapsing following conditions: ', to_collapse, ' into: ', new_name)
@@ -393,9 +398,11 @@ class OnsetsDurations:
         #This chunks adds the pmod and orth stats to the mat-files.
 
         if n in self.with_pmod:
-            self.onsdurs_output[subjrunid]['pmod'].setdefault('name', []).append('wl')
-            self.onsdurs_output[subjrunid]['pmod'].setdefault('param', []).append(p)
-            self.onsdurs_output[subjrunid]['pmod'].setdefault('poly', []).append(1)
+            self.onsdurs_output[subjrunid]['pmod'][''.join(n)] = {}
+            #wl is first list and tdl is second list in p
+            pmods = ['wl', 'tdl']
+            for i, pmodname in enumerate(pmods):
+                self.onsdurs_output[subjrunid]['pmod'][''.join(n)].setdefault(pmodname, p[i])
 
     def check_transition(self, l):
         previous_speaker = l[7]
@@ -455,9 +462,9 @@ class OnsetsDurations:
                 
                 if self.pmod == True and name in self.with_pmod:
                     for e, pname in enumerate(cropped_onsdurs[key]['pmod']):
-                        if name == pname:
-                            for stat in cropped_onsdurs[key]['pmod'][e]:
-                                cropped_onsdurs[key]['pmod'][e][stat] = [current_subj['pmod'][e][stat][i] for i in indexes_to_keep]
+                        if name == [pname]:
+                            for l, pmodname in enumerate(cropped_onsdurs[key]['pmod'][pname]):
+                                cropped_onsdurs[key]['pmod'][pname][pmodname] = [current_subj['pmod'][pname][pmodname][i] for i in indexes_to_keep]
 
         return cropped_onsdurs
 
@@ -467,7 +474,7 @@ class OnsetsDurations:
         for sub in d:
             for nameind, name in enumerate(d[sub]['names']):
                 if self.pmod == True:
-                    if len(d[sub]['onsets'][nameind]) == len(d[sub]['durations'][nameind]) == len(d[sub]['pmod'][nameind]):
+                    if len(d[sub]['onsets'][nameind]) == len(d[sub]['durations'][nameind]) == len(d[sub]['pmod'][nameind][0]):
 
                         continue
                     else: wrong.add(sub)
@@ -475,6 +482,7 @@ class OnsetsDurations:
                     if len(d[sub]['onsets'][nameind]) == len(d[sub]['durations'][nameind]):
                         continue
                     else: wrong.add(sub)
+
         if len(wrong) == 0:
             print('\nEverything seems to work!\n')
         else: 

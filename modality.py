@@ -1,4 +1,4 @@
-#from dependencies import Dependencies
+from dependencies import Dependencies
 
 class Modality:
     def __init__(self, conversation):
@@ -13,7 +13,7 @@ class Modality:
             if segment[4] == 'researcher' and segment[2] == '#']
 
         #To get tdl. Comment out if no tdl
-        #self.d = Dependencies()
+        self.d = Dependencies()
 
         comprehension = self.get_simultaneous(participant_comprehension, confederate_speech, 'comp')
         production = self.get_simultaneous(participant_production, confederate_silence, 'prod')
@@ -34,8 +34,8 @@ class Modality:
             utter_starttime = utterance[0]
             utter_endtime = utterance[1]
             duration = utter_endtime - utter_starttime
-            n_token, string = self.pmod(utterance)
-            simultaneous.append([utter_starttime, duration, prod, comp, n_token, string])
+            n_token, string, tdl = self.pmod(utterance)
+            simultaneous.append([utter_starttime, duration, prod, comp, n_token, string, tdl])
             #----------- If overlaps are not to be ignored:
             # for segm in vocal_tier_b:
             #     seg_starttime = segm[0]
@@ -55,6 +55,6 @@ class Modality:
     
     def pmod(self, utterance):
         utterance = utterance[2]
-        #tdl = self.d.get_tdl(utterance)
+        tdl = self.d.get_tdl(utterance)
         n_token = len(utterance.replace("'", " ").split(" "))
-        return (n_token, utterance)
+        return (n_token, utterance, tdl)

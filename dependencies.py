@@ -8,7 +8,7 @@ class Dependencies:
 
     def get_tdl(self, utterance): # Utterance is a string where tokens are surrounded by black spaces
         unwanted = ['ah', 'euh', '***', 'ouais', 'oui', 'ok', 'non', 'voilà', '******', '*']
-        print(utterance)
+        print(utterance) # oui och non är på gränsen om de ska tas bort eller ej
         for value in unwanted:
             if value in utterance.split():
                 utterance = utterance.split()
