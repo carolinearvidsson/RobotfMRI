@@ -99,6 +99,12 @@ class OnsetsDurations:
                     prod_r_name, self.prod_r_onsets, self.prod_r_durs = 'PROD_r', [], []
                     prod_h_name, self.prod_h_onsets, self.prod_h_durs = 'PROD_h', [], []
 
+
+                    ### THESE WILL BE USED WHEN WE TRY PMOD FOR ONLY 6-7 word utterances
+                    prod_h_nopmod_name, self.prod_h_nopmod_onsets, self.prod_h_npmod_durs = 'PROD_h_nopmod', [], []
+                    comp_h_nopmod_name, self.comp_h_nopmod_onsets, self.comp_h_npmod_durs = 'COMP_h_nopmod', [], []
+                    ###
+
                     names = (comp_h_name, prod_h_name, comp_r_name, prod_r_name)
                     onsets = (self.comp_h_onsets, self.prod_h_onsets, self.comp_r_onsets, self.prod_r_onsets)
                     durations = (self.comp_h_durs, self.prod_h_durs, self.comp_r_durs, self.prod_r_durs)
@@ -179,12 +185,14 @@ class OnsetsDurations:
                                 if event_type == 'modality': 
                                     tdl = row[10]
                                     if self.check_modality((row[6], row[7])) == 'comprehension':  
-                                        self.comp_h_onsets.append(conv_onset + onset)
-                                        self.comp_h_durs.append(duration)
                                         if self.pmod == True:
+                                            if tdl < 
                                             self.comp_h_ul.append(n_words)
                                             self.comp_h_tdl.append(tdl)
                                             self.comp_h_mtdl.append(tdl/n_words)
+                                        else: 
+                                            self.comp_h_onsets.append(conv_onset + onset)
+                                            self.comp_h_durs.append(duration)
 
                                     elif self.check_modality((row[6], row[7])) == 'production':
                                         self.prod_h_onsets.append(conv_onset + onset)
