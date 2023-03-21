@@ -84,8 +84,10 @@ class OnsetsDurations:
                 SubjRunID = sub + '_' + run
 
                 if event_type == 'modality': 
-                    comp_rest_name, self.comp_rest_onsets, self.comp_rest_durs = 'COMP_rest', [], []
-                    prod_rest_name, self.prod_rest_onsets, self.prod_rest_durs = 'PROD_rest', [], []
+                    comp_rest_name, self.comp_rest_onsets, self.comp_rest_durs = 'COMP_r', [], []
+                    prod_rest_name, self.prod_rest_onsets, self.prod_rest_durs = 'PROD_r', [], []
+                    comp_rest_name, self.comp_rest_onsets, self.comp_rest_durs = 'COMP_h', [], []
+                    prod_rest_name, self.prod_rest_onsets, self.prod_rest_durs = 'PROD_h', [], []
 
                     comp_1_name, self.comp_1_onsets, self.comp_1_durs = 'COMP_1', [], []
                     comp_2_name, self.comp_2_onsets, self.comp_2_durs = 'COMP_2', [], []
@@ -94,7 +96,7 @@ class OnsetsDurations:
                     prod_1_name, self.prod_1_onsets, self.prod_1_durs = 'PROD_1', [], []
                     prod_2_name, self.prod_2_onsets, self.prod_2_durs = 'PROD_2', [], []
                     prod_3_name, self.prod_3_onsets, self.prod_3_durs = 'PROD_3', [], []
-
+### REMOVE REST AND ADD PROD H COMPH PROD R COMP R
 
                     names = (comp_1_name, comp_2_name, comp_3_name, \
                                         prod_1_name, prod_2_name, prod_3_name, \
