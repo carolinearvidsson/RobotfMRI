@@ -25,6 +25,7 @@ class Dependencies:
 
 #c = Dependencies()
 
+#h = c.get_tdl("ça c'était l'autre")
 #h = c.get_tdl("attends euh répète ta phrase")
 #h = c.get_tdl("vision d'horreur c'était")
 #h = c.get_tdl("pas bien en point quoi")
