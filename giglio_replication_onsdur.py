@@ -176,12 +176,15 @@ class OnsetsDurations:
                                         else: 
                                             mtdl = tdl/n_words
                                         if n_words >= 4 or n_words <= 7:
-                                            if  mtdl <= 1.2:
+                                            if  mtdl <= 1:
                                                 self.comp_1_onsets.append(conv_onset + onset)
                                                 self.comp_1_durs.append(duration)
-                                            elif mtdl > 1.2:
+                                            elif mtdl >= 1.4:
                                                 self.comp_3_onsets.append(conv_onset + onset)
                                                 self.comp_3_durs.append(duration)
+                                            else: 
+                                                self.comp_rest_onsets.append(conv_onset + onset)
+                                                self.comp_rest_durs.append(duration)
                                         else: 
                                             self.comp_rest_onsets.append(conv_onset + onset)
                                             self.comp_rest_durs.append(duration)
@@ -193,12 +196,15 @@ class OnsetsDurations:
                                         else: 
                                             mtdl = tdl/n_words
                                         if n_words >= 4 or n_words <= 7:
-                                            if  mtdl <= 1.2:
+                                            if  mtdl <= 1:
                                                 self.prod_1_onsets.append(conv_onset + onset)
                                                 self.prod_1_durs.append(duration)
-                                            elif mtdl > 1.2:
+                                            elif mtdl >= 1.4:
                                                 self.prod_3_onsets.append(conv_onset + onset)
                                                 self.prod_3_durs.append(duration)
+                                            else: 
+                                                self.prod_rest_onsets.append(conv_onset + onset)
+                                                self.prod_rest_durs.append(duration)
                                         else: 
                                             self.prod_rest_onsets.append(conv_onset + onset)
                                             self.prod_rest_durs.append(duration)
