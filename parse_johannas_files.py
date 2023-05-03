@@ -1,7 +1,7 @@
 import os
 import json
 from scipy.io import savemat
-path = 'johannas_files/json/'
+path = 'surprisal-df/json/'
 fileslist = os.listdir(path)
 for file in fileslist:
     filename = file.replace('_', ',').replace('.', ',').split(',')
@@ -10,5 +10,5 @@ for file in fileslist:
     dic['names'][0] = ' '.join(dic['names'][0])
     #dic['names'] = [' '.join(name) for name in dic['names']]
     print(dic['pmod'])
-    matfilename = 'johannas_files/mat/johannas-' + sub +  '_' + run + '.mat'
+    matfilename = 'surprisal-df/mat/johannas-' + sub +  '_' + run + '.mat'
     savemat(matfilename, dic)
