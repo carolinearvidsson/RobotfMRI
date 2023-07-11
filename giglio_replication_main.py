@@ -1,7 +1,7 @@
 from scipy.io import savemat
 import sys
 from giglio_replication_onsdur import OnsetsDurations
-import csv
+
 
 if __name__== '__main__':
     mdic = OnsetsDurations(sys.argv[1]).final_output #check what is saved
