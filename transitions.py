@@ -90,5 +90,3 @@ class Transitions:
         #tdl = self.d.get_tdl(utterance)
         n_token = len(utterance.replace("'", " ").split(" "))
         return (n_token, utterance)
-
-                
