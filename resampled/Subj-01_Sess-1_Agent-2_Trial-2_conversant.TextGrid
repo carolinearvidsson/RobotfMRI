@@ -1,0 +1,78 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 60 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Transcription" 
+        xmin = 0 
+        xmax = 60 
+        intervals: size = 16 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.173 
+            text = "***" 
+        intervals [2]:
+            xmin = 0.173 
+            xmax = 5.679 
+            text = "#" 
+        intervals [3]:
+            xmin = 5.679 
+            xmax = 6.55 
+            text = "c'est une pomme" 
+        intervals [4]:
+            xmin = 6.55 
+            xmax = 10.966 
+            text = "#" 
+        intervals [5]:
+            xmin = 10.966 
+            xmax = 12.457 
+            text = "cette pomme a des grands yeux" 
+        intervals [6]:
+            xmin = 12.457 
+            xmax = 18.556 
+            text = "#" 
+        intervals [7]:
+            xmin = 18.556 
+            xmax = 20.534 
+            text = "on dirait un spider man cette pomme" 
+        intervals [8]:
+            xmin = 20.534 
+            xmax = 28.715 
+            text = "#" 
+        intervals [9]:
+            xmin = 28.715 
+            xmax = 32.116 
+            text = "quelqu'un a découpé un visage qui ressemble à un super héros" 
+        intervals [10]:
+            xmin = 32.116 
+            xmax = 40.858 
+            text = "#" 
+        intervals [11]:
+            xmin = 40.858 
+            xmax = 42.073 
+            text = "elle est appétissante" 
+        intervals [12]:
+            xmin = 42.073 
+            xmax = 42.303 
+            text = "#" 
+        intervals [13]:
+            xmin = 42.303 
+            xmax = 43.097 
+            text = "cette pomme" 
+        intervals [14]:
+            xmin = 43.097 
+            xmax = 56.537 
+            text = "#" 
+        intervals [15]:
+            xmin = 56.537 
+            xmax = 59.27 
+            text = "c'est peut-être une pub pour manger plus sainement" 
+        intervals [16]:
+            xmin = 59.27 
+            xmax = 59.9516 
+            text = "#" 

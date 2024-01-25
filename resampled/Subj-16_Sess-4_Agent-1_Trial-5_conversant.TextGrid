@@ -1,0 +1,122 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 60 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Transcription" 
+        xmin = 0 
+        xmax = 60 
+        intervals: size = 27 
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.946 
+            text = "#" 
+        intervals [2]:
+            xmin = 1.946 
+            xmax = 4.072 
+            text = "elle on dirait vraiment quelqu'un qui a été battu" 
+        intervals [3]:
+            xmin = 4.072 
+            xmax = 9.018 
+            text = "#" 
+        intervals [4]:
+            xmin = 9.018 
+            xmax = 9.582 
+            text = "ouais ouais ouais" 
+        intervals [5]:
+            xmin = 9.582 
+            xmax = 11.055 
+            text = "#" 
+        intervals [6]:
+            xmin = 11.055 
+            xmax = 12.773 
+            text = "ouais ouais ouais mais en même temps elle a" 
+        intervals [7]:
+            xmin = 12.773 
+            xmax = 13.575 
+            text = "#" 
+        intervals [8]:
+            xmin = 13.575 
+            xmax = 17.229 
+            text = "y a aussi le côté pitié tu sais comme si euh -fin elle a a vraiment l'air triste quoi" 
+        intervals [9]:
+            xmin = 17.229 
+            xmax = 17.718 
+            text = "#" 
+        intervals [10]:
+            xmin = 17.718 
+            xmax = 18.109 
+            text = "mais euh" 
+        intervals [11]:
+            xmin = 18.109 
+            xmax = 20.211 
+            text = "#" 
+        intervals [12]:
+            xmin = 20.211 
+            xmax = 23.137 
+            text = "ouais c'est ça elle s'est fait casser la gueule mais elle reste attirante quand même" 
+        intervals [13]:
+            xmin = 23.137 
+            xmax = 26.46 
+            text = "#" 
+        intervals [14]:
+            xmin = 26.46 
+            xmax = 27.173 
+            text = "ouais moi aussi" 
+        intervals [15]:
+            xmin = 27.173 
+            xmax = 30.58 
+            text = "#" 
+        intervals [16]:
+            xmin = 30.58 
+            xmax = 32.79 
+            text = "tu vois elle me fait plus envie que l'aubergine de tout à l'heure hein" 
+        intervals [17]:
+            xmin = 32.79 
+            xmax = 35.204 
+            text = "#" 
+        intervals [18]:
+            xmin = 35.204 
+            xmax = 35.758 
+            text = "et euh" 
+        intervals [19]:
+            xmin = 35.758 
+            xmax = 36.038 
+            text = "#" 
+        intervals [20]:
+            xmin = 36.038 
+            xmax = 39.659 
+            text = "tu penses que euh c'est euh moi je pense que c'est un truc en contraste" 
+        intervals [21]:
+            xmin = 39.659 
+            xmax = 39.929 
+            text = "#" 
+        intervals [22]:
+            xmin = 39.929 
+            xmax = 45.086 
+            text = "parce que comme on a deux trucs très différents tu vois y en a probablement euh une qui doit être valorisée par rapport à l'autre" 
+        intervals [23]:
+            xmin = 45.086 
+            xmax = 51.878 
+            text = "#" 
+        intervals [24]:
+            xmin = 51.878 
+            xmax = 54.251 
+            text = "euh moi je pense que c'est la poire et la" 
+        intervals [25]:
+            xmin = 54.251 
+            xmax = 54.475 
+            text = "#" 
+        intervals [26]:
+            xmin = 54.475 
+            xmax = 57.503 
+            text = "fraise mais la framboise elle me fait pas envie du coup je sais pas trop" 
+        intervals [27]:
+            xmin = 57.503 
+            xmax = 59.9516 
+            text = "#" 

@@ -1,0 +1,74 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 60 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Transcription" 
+        xmin = 0 
+        xmax = 60 
+        intervals: size = 15 
+        intervals [1]:
+            xmin = 0 
+            xmax = 12.961 
+            text = "#" 
+        intervals [2]:
+            xmin = 12.961 
+            xmax = 14.155 
+            text = "je je ne sais pas" 
+        intervals [3]:
+            xmin = 14.155 
+            xmax = 14.937 
+            text = "#" 
+        intervals [4]:
+            xmin = 14.937 
+            xmax = 16.309 
+            text = "elle ressemble à $Batman$" 
+        intervals [5]:
+            xmin = 16.309 
+            xmax = 22.512 
+            text = "#" 
+        intervals [6]:
+            xmin = 22.512 
+            xmax = 23.34 
+            text = "tu ne crois pas" 
+        intervals [7]:
+            xmin = 23.34 
+            xmax = 35.346 
+            text = "#" 
+        intervals [8]:
+            xmin = 35.346 
+            xmax = 36.286 
+            text = "oui bien sûr" 
+        intervals [9]:
+            xmin = 36.286 
+            xmax = 37.617 
+            text = "#" 
+        intervals [10]:
+            xmin = 37.617 
+            xmax = 39.659 
+            text = "elle a l'air plus méchante que la pomme" 
+        intervals [11]:
+            xmin = 39.659 
+            xmax = 40.345 
+            text = "#" 
+        intervals [12]:
+            xmin = 40.345 
+            xmax = 42.525 
+            text = "on dirait qu'elle a un rire sardonique" 
+        intervals [13]:
+            xmin = 42.525 
+            xmax = 50.344 
+            text = "#" 
+        intervals [14]:
+            xmin = 50.344 
+            xmax = 51.934 
+            text = "les deux sont de la même pub" 
+        intervals [15]:
+            xmin = 51.934 
+            xmax = 59.9516 
+            text = "#" 

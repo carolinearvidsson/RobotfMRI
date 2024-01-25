@@ -1,0 +1,106 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 60 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Transcription" 
+        xmin = 0 
+        xmax = 60 
+        intervals: size = 23 
+        intervals [1]:
+            xmin = 0 
+            xmax = 8.454 
+            text = "#" 
+        intervals [2]:
+            xmin = 8.454 
+            xmax = 8.794 
+            text = "oui" 
+        intervals [3]:
+            xmin = 8.794 
+            xmax = 11.665 
+            text = "#" 
+        intervals [4]:
+            xmin = 11.665 
+            xmax = 13.027 
+            text = "c'est une framboise moche" 
+        intervals [5]:
+            xmin = 13.027 
+            xmax = 17.488 
+            text = "#" 
+        intervals [6]:
+            xmin = 17.488 
+            xmax = 17.813 
+            text = "ouais" 
+        intervals [7]:
+            xmin = 17.813 
+            xmax = 22.202 
+            text = "#" 
+        intervals [8]:
+            xmin = 22.202 
+            xmax = 23.859 
+            text = "cette framboise n'est pas très jolie" 
+        intervals [9]:
+            xmin = 23.859 
+            xmax = 27.476 
+            text = "#" 
+        intervals [10]:
+            xmin = 27.476 
+            xmax = 28.741 
+            text = "oui exactement" 
+        intervals [11]:
+            xmin = 28.741 
+            xmax = 33.827 
+            text = "#" 
+        intervals [12]:
+            xmin = 33.827 
+            xmax = 35.153 
+            text = "elle est aussi un peu abîmée" 
+        intervals [13]:
+            xmin = 35.153 
+            xmax = 38.704 
+            text = "#" 
+        intervals [14]:
+            xmin = 38.704 
+            xmax = 39.126 
+            text = "ah oui" 
+        intervals [15]:
+            xmin = 39.126 
+            xmax = 40.691 
+            text = "#" 
+        intervals [16]:
+            xmin = 40.691 
+            xmax = 41.875 
+            text = "elle semble fatiguée" 
+        intervals [17]:
+            xmin = 41.875 
+            xmax = 44.014 
+            text = "#" 
+        intervals [18]:
+            xmin = 44.014 
+            xmax = 45.045 
+            text = "elle semble faible" 
+        intervals [19]:
+            xmin = 45.045 
+            xmax = 51.076 
+            text = "#" 
+        intervals [20]:
+            xmin = 51.076 
+            xmax = 51.792 
+            text = "comme la poire" 
+        intervals [21]:
+            xmin = 51.792 
+            xmax = 57.493 
+            text = "#" 
+        intervals [22]:
+            xmin = 57.493 
+            xmax = 58.905 
+            text = "tu as une idée du message" 
+        intervals [23]:
+            xmin = 58.905 
+            xmax = 59.9516 
+            text = "#" 

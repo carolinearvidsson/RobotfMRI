@@ -1,0 +1,94 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 60 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Transcription" 
+        xmin = 0 
+        xmax = 60 
+        intervals: size = 20 
+        intervals [1]:
+            xmin = 0 
+            xmax = 3.902 
+            text = "#" 
+        intervals [2]:
+            xmin = 3.902 
+            xmax = 5.111 
+            text = "notre super fraise ouais" 
+        intervals [3]:
+            xmin = 5.111 
+            xmax = 24.55 
+            text = "#" 
+        intervals [4]:
+            xmin = 24.55 
+            xmax = 27.913 
+            text = "ouais mais euh on on a pas envie de la manger celle là hein" 
+        intervals [5]:
+            xmin = 27.913 
+            xmax = 29.569 
+            text = "#" 
+        intervals [6]:
+            xmin = 29.569 
+            xmax = 31.307 
+            text = "non on a pas envie parce qu'elle fait peur" 
+        intervals [7]:
+            xmin = 31.307 
+            xmax = 36.933 
+            text = "#" 
+        intervals [8]:
+            xmin = 36.933 
+            xmax = 44.085 
+            text = "exactement et moi je me je me dit que peut-être en mangeant des fraise je serais mo- motivée pour pour ma journée quoi" 
+        intervals [9]:
+            xmin = 44.085 
+            xmax = 44.339 
+            text = "#" 
+        intervals [10]:
+            xmin = 44.339 
+            xmax = 45.106 
+            text = "le le matin" 
+        intervals [11]:
+            xmin = 45.106 
+            xmax = 45.695 
+            text = "#" 
+        intervals [12]:
+            xmin = 45.695 
+            xmax = 46.163 
+            text = "tu vois" 
+        intervals [13]:
+            xmin = 46.163 
+            xmax = 46.386 
+            text = "#" 
+        intervals [14]:
+            xmin = 46.386 
+            xmax = 49.379 
+            text = "alors que du coup je serai remontrée à bloc gonflée à bloc" 
+        intervals [15]:
+            xmin = 49.379 
+            xmax = 49.938 
+            text = "#" 
+        intervals [16]:
+            xmin = 49.938 
+            xmax = 51.304 
+            text = "comme elle elle fait avec ses bras" 
+        intervals [17]:
+            xmin = 51.304 
+            xmax = 52.808 
+            text = "#" 
+        intervals [18]:
+            xmin = 52.808 
+            xmax = 53.956 
+            text = "je me laisserais pas faire ouais" 
+        intervals [19]:
+            xmin = 53.956 
+            xmax = 57.98 
+            text = "#" 
+        intervals [20]:
+            xmin = 57.98 
+            xmax = 59.9044 
+            text = "ouais c'est c'est peut-être ça au final qu'ils essayent" 

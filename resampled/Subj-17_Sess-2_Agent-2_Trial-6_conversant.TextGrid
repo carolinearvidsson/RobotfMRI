@@ -1,0 +1,90 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 60 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Transcription" 
+        xmin = 0 
+        xmax = 60 
+        intervals: size = 19 
+        intervals [1]:
+            xmin = 0 
+            xmax = 9.242 
+            text = "#" 
+        intervals [2]:
+            xmin = 9.242 
+            xmax = 9.643 
+            text = "ah oui" 
+        intervals [3]:
+            xmin = 9.643 
+            xmax = 18.382 
+            text = "#" 
+        intervals [4]:
+            xmin = 18.382 
+            xmax = 18.768 
+            text = "oui" 
+        intervals [5]:
+            xmin = 18.768 
+            xmax = 20.429 
+            text = "#" 
+        intervals [6]:
+            xmin = 20.429 
+            xmax = 22.019 
+            text = "on dirait qu'elle a des cheveux verts" 
+        intervals [7]:
+            xmin = 22.019 
+            xmax = 27.176 
+            text = "#" 
+        intervals [8]:
+            xmin = 27.176 
+            xmax = 28.563 
+            text = "oui tu as raison" 
+        intervals [9]:
+            xmin = 28.563 
+            xmax = 37.333 
+            text = "#" 
+        intervals [10]:
+            xmin = 37.333 
+            xmax = 37.749 
+            text = "oui" 
+        intervals [11]:
+            xmin = 37.749 
+            xmax = 37.952 
+            text = "#" 
+        intervals [12]:
+            xmin = 37.952 
+            xmax = 38.704 
+            text = "ça se pourrait" 
+        intervals [13]:
+            xmin = 38.704 
+            xmax = 39.37 
+            text = "#" 
+        intervals [14]:
+            xmin = 39.37 
+            xmax = 40.472 
+            text = "je ne suis pas sûre" 
+        intervals [15]:
+            xmin = 40.472 
+            xmax = 49.47 
+            text = "#" 
+        intervals [16]:
+            xmin = 49.47 
+            xmax = 50.593 
+            text = "c'est une fraise moche" 
+        intervals [17]:
+            xmin = 50.593 
+            xmax = 54.129 
+            text = "#" 
+        intervals [18]:
+            xmin = 54.129 
+            xmax = 55.064 
+            text = "elle a l'air malade" 
+        intervals [19]:
+            xmin = 55.064 
+            xmax = 59.9516 
+            text = "#" 

@@ -1,0 +1,114 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 60 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Transcription" 
+        xmin = 0 
+        xmax = 60 
+        intervals: size = 25 
+        intervals [1]:
+            xmin = 0 
+            xmax = 6.523 
+            text = "#" 
+        intervals [2]:
+            xmin = 6.523 
+            xmax = 6.839 
+            text = "ah ouais" 
+        intervals [3]:
+            xmin = 6.839 
+            xmax = 8.469 
+            text = "#" 
+        intervals [4]:
+            xmin = 8.469 
+            xmax = 12.841 
+            text = "ouais je suis d'accord avec toi parce que euh ouais on va dire quand même que euh" 
+        intervals [5]:
+            xmin = 12.841 
+            xmax = 14.532 
+            text = "#" 
+        intervals [6]:
+            xmin = 14.532 
+            xmax = 16.248 
+            text = "que les c- que c'était des -fin" 
+        intervals [7]:
+            xmin = 16.248 
+            xmax = 16.908 
+            text = "#" 
+        intervals [8]:
+            xmin = 16.908 
+            xmax = 18.748 
+            text = "ouais c'est ça -fin pour moi ça ça colle pas" 
+        intervals [9]:
+            xmin = 18.748 
+            xmax = 24.963 
+            text = "#" 
+        intervals [10]:
+            xmin = 24.963 
+            xmax = 27.242 
+            text = "euh je sais pas des fois tu sais les pubs @" 
+        intervals [11]:
+            xmin = 27.242 
+            xmax = 27.806 
+            text = "#" 
+        intervals [12]:
+            xmin = 27.806 
+            xmax = 28.523 
+            text = "ça peut aller loin" 
+        intervals [13]:
+            xmin = 28.523 
+            xmax = 29.412 
+            text = "#" 
+        intervals [14]:
+            xmin = 29.412 
+            xmax = 30.372 
+            text = "euh" 
+        intervals [15]:
+            xmin = 30.372 
+            xmax = 39.178 
+            text = "#" 
+        intervals [16]:
+            xmin = 39.178 
+            xmax = 41.875 
+            text = "c'est c'est euh on disait quoi déjà" 
+        intervals [17]:
+            xmin = 41.875 
+            xmax = 42.371 
+            text = "#" 
+        intervals [18]:
+            xmin = 42.371 
+            xmax = 43.205 
+            text = "euh" 
+        intervals [19]:
+            xmin = 43.205 
+            xmax = 44.213 
+            text = "#" 
+        intervals [20]:
+            xmin = 44.213 
+            xmax = 46.68 
+            text = "je je je suis dé- je suis un peu fatiguée je euh" 
+        intervals [21]:
+            xmin = 46.68 
+            xmax = 53.88 
+            text = "#" 
+        intervals [22]:
+            xmin = 53.88 
+            xmax = 54.068 
+            text = "ouais" 
+        intervals [23]:
+            xmin = 54.068 
+            xmax = 54.482 
+            text = "#" 
+        intervals [24]:
+            xmin = 54.482 
+            xmax = 54.758 
+            text = "ouais" 
+        intervals [25]:
+            xmin = 57.538 
+            xmax = 59.9516 
+            text = "ouais on disait que c'est tu m'avais parlé de $Monsato$ je suis peut-être euh" 

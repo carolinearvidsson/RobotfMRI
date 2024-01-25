@@ -1,0 +1,102 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 60 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Transcription" 
+        xmin = 0 
+        xmax = 60 
+        intervals: size = 22 
+        intervals [1]:
+            xmin = 0 
+            xmax = 3.689 
+            text = "#" 
+        intervals [2]:
+            xmin = 3.689 
+            xmax = 4.217 
+            text = "la poire" 
+        intervals [3]:
+            xmin = 4.217 
+            xmax = 8.2 
+            text = "#" 
+        intervals [4]:
+            xmin = 8.2 
+            xmax = 11.167 
+            text = "elle au- ya- elle aussi elle a l'air un peu sympathique quand même mais euh" 
+        intervals [5]:
+            xmin = 11.167 
+            xmax = 13.84 
+            text = "#" 
+        intervals [6]:
+            xmin = 13.84 
+            xmax = 14.602 
+            text = "assez habillée" 
+        intervals [7]:
+            xmin = 14.602 
+            xmax = 20.211 
+            text = "#" 
+        intervals [8]:
+            xmin = 20.211 
+            xmax = 20.881 
+            text = "ouais" 
+        intervals [9]:
+            xmin = 20.881 
+            xmax = 34.843 
+            text = "#" 
+        intervals [10]:
+            xmin = 34.843 
+            xmax = 37.018 
+            text = "ben soit ça ou alors" 
+        intervals [11]:
+            xmin = 37.018 
+            xmax = 37.996 
+            text = "#" 
+        intervals [12]:
+            xmin = 37.996 
+            xmax = 40.229 
+            text = "ben comment ils ont été euh" 
+        intervals [13]:
+            xmin = 40.229 
+            xmax = 40.859 
+            text = "#" 
+        intervals [14]:
+            xmin = 40.859 
+            xmax = 43.48 
+            text = "je sais pas comment on les a fait pousser ou euh" 
+        intervals [15]:
+            xmin = 43.48 
+            xmax = 44.166 
+            text = "#" 
+        intervals [16]:
+            xmin = 44.166 
+            xmax = 46.854 
+            text = "en utilisant des choses euh -fin des produits pas" 
+        intervals [17]:
+            xmin = 46.854 
+            xmax = 52.097 
+            text = "#" 
+        intervals [18]:
+            xmin = 52.097 
+            xmax = 52.95 
+            text = "oui complètement" 
+        intervals [19]:
+            xmin = 52.95 
+            xmax = 55.618 
+            text = "#" 
+        intervals [20]:
+            xmin = 55.618 
+            xmax = 57.858 
+            text = "c'est possible que les trois de -fin" 
+        intervals [21]:
+            xmin = 57.858 
+            xmax = 58.703 
+            text = "#" 
+        intervals [22]:
+            xmin = 58.703 
+            xmax = 59.9044 
+            text = "les trois derniers fruits noi-" 

@@ -1,0 +1,130 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 60 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Transcription" 
+        xmin = 0 
+        xmax = 60 
+        intervals: size = 29 
+        intervals [1]:
+            xmin = 0 
+            xmax = 2.413 
+            text = "#" 
+        intervals [2]:
+            xmin = 2.413 
+            xmax = 2.81 
+            text = "c'est une" 
+        intervals [3]:
+            xmin = 2.81 
+            xmax = 2.937 
+            text = "#" 
+        intervals [4]:
+            xmin = 2.937 
+            xmax = 4.945 
+            text = "framboise qui a l'air un petit peu triste" 
+        intervals [5]:
+            xmin = 4.945 
+            xmax = 10.1 
+            text = "#" 
+        intervals [6]:
+            xmin = 10.1 
+            xmax = 10.822 
+            text = "des fruits d'avant" 
+        intervals [7]:
+            xmin = 10.822 
+            xmax = 11.752 
+            text = "#" 
+        intervals [8]:
+            xmin = 11.752 
+            xmax = 12.651 
+            text = "ouais ouais elle" 
+        intervals [9]:
+            xmin = 12.651 
+            xmax = 13.108 
+            text = "#" 
+        intervals [10]:
+            xmin = 13.108 
+            xmax = 14.636 
+            text = "elle a l'air un peu pourrie quoi" 
+        intervals [11]:
+            xmin = 14.636 
+            xmax = 23.539 
+            text = "#" 
+        intervals [12]:
+            xmin = 23.539 
+            xmax = 23.869 
+            text = "ouais" 
+        intervals [13]:
+            xmin = 23.869 
+            xmax = 26.323 
+            text = "#" 
+        intervals [14]:
+            xmin = 26.323 
+            xmax = 28.624 
+            text = "ouais moi au début elle m'a fait penser euh" 
+        intervals [15]:
+            xmin = 28.624 
+            xmax = 29 
+            text = "#" 
+        intervals [16]:
+            xmin = 29 
+            xmax = 30.311 
+            text = "à la pub d'$Oasis$" 
+        intervals [17]:
+            xmin = 30.311 
+            xmax = 32.689 
+            text = "#" 
+        intervals [18]:
+            xmin = 32.689 
+            xmax = 32.994 
+            text = "ouais" 
+        intervals [19]:
+            xmin = 32.994 
+            xmax = 34.086 
+            text = "#" 
+        intervals [20]:
+            xmin = 34.086 
+            xmax = 36.53 
+            text = "tu as tous les petits fruits qui dansent et" 
+        intervals [21]:
+            xmin = 36.53 
+            xmax = 36.835 
+            text = "#" 
+        intervals [22]:
+            xmin = 36.835 
+            xmax = 37.578 
+            text = "qui sautent et" 
+        intervals [23]:
+            xmin = 37.578 
+            xmax = 38.288 
+            text = "#" 
+        intervals [24]:
+            xmin = 38.288 
+            xmax = 39.741 
+            text = "enfin je sais pas ça m'a fait penser à ça" 
+        intervals [25]:
+            xmin = 39.741 
+            xmax = 50.812 
+            text = "#" 
+        intervals [26]:
+            xmin = 50.812 
+            xmax = 52.341 
+            text = "c'est plus un super héros" 
+        intervals [27]:
+            xmin = 52.341 
+            xmax = 56.476 
+            text = "#" 
+        intervals [28]:
+            xmin = 56.476 
+            xmax = 59.068 
+            text = "mais euh mais ça reste vivant on va dire" 
+        intervals [29]:
+            xmin = 59.068 
+            xmax = 59.9044 
+            text = "#" 

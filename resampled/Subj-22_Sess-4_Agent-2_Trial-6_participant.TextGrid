@@ -1,0 +1,90 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 60 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Transcription" 
+        xmin = 0 
+        xmax = 60 
+        intervals: size = 19 
+        intervals [1]:
+            xmin = 0 
+            xmax = 7.662 
+            text = "#" 
+        intervals [2]:
+            xmin = 7.662 
+            xmax = 8.607 
+            text = "je pense aussi ouais" 
+        intervals [3]:
+            xmin = 8.607 
+            xmax = 9.135 
+            text = "#" 
+        intervals [4]:
+            xmin = 9.135 
+            xmax = 10.171 
+            text = "moi je pense que c'est ça" 
+        intervals [5]:
+            xmin = 10.171 
+            xmax = 15.237 
+            text = "#" 
+        intervals [6]:
+            xmin = 15.237 
+            xmax = 16.126 
+            text = "je pense que" 
+        intervals [7]:
+            xmin = 16.126 
+            xmax = 17.604 
+            text = "#" 
+        intervals [8]:
+            xmin = 17.604 
+            xmax = 19.134 
+            text = "le fait de manger des fruits frais" 
+        intervals [9]:
+            xmin = 19.134 
+            xmax = 19.611 
+            text = "#" 
+        intervals [10]:
+            xmin = 19.611 
+            xmax = 23.523 
+            text = "c'est être un super héros et ce n'est pas une bonne idée" 
+        intervals [11]:
+            xmin = 23.523 
+            xmax = 24.148 
+            text = "#" 
+        intervals [12]:
+            xmin = 24.148 
+            xmax = 27.059 
+            text = "de les laisser pourrir parce que quand on les laisse pourrir" 
+        intervals [13]:
+            xmin = 27.059 
+            xmax = 27.425 
+            text = "#" 
+        intervals [14]:
+            xmin = 27.425 
+            xmax = 28.238 
+            text = "ils sont tristes" 
+        intervals [15]:
+            xmin = 28.238 
+            xmax = 38.577 
+            text = "#" 
+        intervals [16]:
+            xmin = 38.577 
+            xmax = 39.172 
+            text = "merci à toi" 
+        intervals [17]:
+            xmin = 39.172 
+            xmax = 49.983 
+            text = "#" 
+        intervals [18]:
+            xmin = 49.983 
+            xmax = 50.329 
+            text = "salut" 
+        intervals [19]:
+            xmin = 50.329 
+            xmax = 59.9044 
+            text = "#" 

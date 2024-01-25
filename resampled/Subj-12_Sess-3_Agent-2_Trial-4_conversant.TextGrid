@@ -1,0 +1,82 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 60 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Transcription" 
+        xmin = 0 
+        xmax = 60 
+        intervals: size = 17 
+        intervals [1]:
+            xmin = 0 
+            xmax = 2.347 
+            text = "#" 
+        intervals [2]:
+            xmin = 2.347 
+            xmax = 2.937 
+            text = "bonjour" 
+        intervals [3]:
+            xmin = 2.937 
+            xmax = 7.296 
+            text = "#" 
+        intervals [4]:
+            xmin = 7.296 
+            xmax = 7.631 
+            text = "ouais" 
+        intervals [5]:
+            xmin = 7.631 
+            xmax = 13.733 
+            text = "#" 
+        intervals [6]:
+            xmin = 13.733 
+            xmax = 14.642 
+            text = "je suis d'accord" 
+        intervals [7]:
+            xmin = 14.642 
+            xmax = 20.084 
+            text = "#" 
+        intervals [8]:
+            xmin = 20.084 
+            xmax = 21.207 
+            text = "je ne suis pas sûre" 
+        intervals [9]:
+            xmin = 21.207 
+            xmax = 25.291 
+            text = "#" 
+        intervals [10]:
+            xmin = 25.291 
+            xmax = 26.409 
+            text = "je ne suis pas sûre" 
+        intervals [11]:
+            xmin = 26.409 
+            xmax = 33.563 
+            text = "#" 
+        intervals [12]:
+            xmin = 33.563 
+            xmax = 33.949 
+            text = "ah non" 
+        intervals [13]:
+            xmin = 33.949 
+            xmax = 37.175 
+            text = "#" 
+        intervals [14]:
+            xmin = 37.175 
+            xmax = 38.521 
+            text = "elle ressemble à $Batman$" 
+        intervals [15]:
+            xmin = 38.521 
+            xmax = 48.815 
+            text = "#" 
+        intervals [16]:
+            xmin = 48.815 
+            xmax = 52.016 
+            text = "quelqu'un a découpé un visage qui ressemble à un super héros" 
+        intervals [17]:
+            xmin = 52.016 
+            xmax = 59.9516 
+            text = "#" 

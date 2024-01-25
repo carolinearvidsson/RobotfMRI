@@ -1,0 +1,90 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 60 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Transcription" 
+        xmin = 0 
+        xmax = 60 
+        intervals: size = 19 
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.422 
+            text = "#" 
+        intervals [2]:
+            xmin = 1.422 
+            xmax = 3.18 
+            text = "on est retombé sur le citron" 
+        intervals [3]:
+            xmin = 3.18 
+            xmax = 3.729 
+            text = "#" 
+        intervals [4]:
+            xmin = 3.729 
+            xmax = 7.306 
+            text = "du coup j'ai été coupé dans ta phrase j'ai pas su- entendu la suite tout à l'heure" 
+        intervals [5]:
+            xmin = 7.306 
+            xmax = 23.433 
+            text = "#" 
+        intervals [6]:
+            xmin = 23.433 
+            xmax = 26.978 
+            text = "ben j'ai l'impression que les légumes sont présentés sous un bon jour" 
+        intervals [7]:
+            xmin = 26.978 
+            xmax = 32.816 
+            text = "#" 
+        intervals [8]:
+            xmin = 32.816 
+            xmax = 33.136 
+            text = "ouais" 
+        intervals [9]:
+            xmin = 33.136 
+            xmax = 38.974 
+            text = "#" 
+        intervals [10]:
+            xmin = 38.974 
+            xmax = 39.903 
+            text = "l'aubergine avait l'air" 
+        intervals [11]:
+            xmin = 39.903 
+            xmax = 40.427 
+            text = "#" 
+        intervals [12]:
+            xmin = 40.427 
+            xmax = 40.98 
+            text = "mauvaise" 
+        intervals [13]:
+            xmin = 40.98 
+            xmax = 41.824 
+            text = "#" 
+        intervals [14]:
+            xmin = 41.824 
+            xmax = 44.598 
+            text = "après c'est plus dans le dans le motif" 
+        intervals [15]:
+            xmin = 44.598 
+            xmax = 45.609 
+            text = "#" 
+        intervals [16]:
+            xmin = 45.609 
+            xmax = 46.041 
+            text = "en soit" 
+        intervals [17]:
+            xmin = 46.041 
+            xmax = 49.816 
+            text = "#" 
+        intervals [18]:
+            xmin = 49.816 
+            xmax = 50.878 
+            text = "ouais dans la découpe" 
+        intervals [19]:
+            xmin = 50.878 
+            xmax = 59.9044 
+            text = "#" 

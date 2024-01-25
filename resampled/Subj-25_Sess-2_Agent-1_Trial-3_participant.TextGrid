@@ -1,0 +1,130 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 60 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Transcription" 
+        xmin = 0 
+        xmax = 60 
+        intervals: size = 29 
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.58 
+            text = "#" 
+        intervals [2]:
+            xmin = 1.58 
+            xmax = 2.318 
+            text = "c'est une fraise" 
+        intervals [3]:
+            xmin = 2.318 
+            xmax = 6.559 
+            text = "#" 
+        intervals [4]:
+            xmin = 6.559 
+            xmax = 8.83 
+            text = "ouais c'est ses bras comme ça euh" 
+        intervals [5]:
+            xmin = 8.83 
+            xmax = 10.873 
+            text = "#" 
+        intervals [6]:
+            xmin = 10.873 
+            xmax = 12 
+            text = "et comme ça enfin en" 
+        intervals [7]:
+            xmin = 12 
+            xmax = 12.361 
+            text = "#" 
+        intervals [8]:
+            xmin = 12.361 
+            xmax = 14.277 
+            text = "elle a une expression on dirait qu'elle va euh" 
+        intervals [9]:
+            xmin = 14.277 
+            xmax = 14.942 
+            text = "#" 
+        intervals [10]:
+            xmin = 14.942 
+            xmax = 16.065 
+            text = "ouais qu'elle s'énerve qu'elle" 
+        intervals [11]:
+            xmin = 16.065 
+            xmax = 16.482 
+            text = "#" 
+        intervals [12]:
+            xmin = 16.482 
+            xmax = 17.333 
+            text = "qu'elle va frapper quelqu'un" 
+        intervals [13]:
+            xmin = 17.333 
+            xmax = 23.589 
+            text = "#" 
+        intervals [14]:
+            xmin = 23.589 
+            xmax = 23.828 
+            text = "oui" 
+        intervals [15]:
+            xmin = 23.828 
+            xmax = 24.321 
+            text = "#" 
+        intervals [16]:
+            xmin = 24.321 
+            xmax = 25.271 
+            text = "elle avait les poings fermés" 
+        intervals [17]:
+            xmin = 25.271 
+            xmax = 26.77 
+            text = "#" 
+        intervals [18]:
+            xmin = 26.77 
+            xmax = 28.543 
+            text = "et puis elle avait le regard euh" 
+        intervals [19]:
+            xmin = 28.543 
+            xmax = 30.392 
+            text = "#" 
+        intervals [20]:
+            xmin = 30.392 
+            xmax = 32.77 
+            text = "euh oui c'est un petit peu énervé quoi" 
+        intervals [21]:
+            xmin = 32.77 
+            xmax = 33.405 
+            text = "#" 
+        intervals [22]:
+            xmin = 33.405 
+            xmax = 35.209 
+            text = "avec les pupilles vers le haut" 
+        intervals [23]:
+            xmin = 35.209 
+            xmax = 38.272 
+            text = "#" 
+        intervals [24]:
+            xmin = 38.272 
+            xmax = 39.659 
+            text = "exact un air de défi" 
+        intervals [25]:
+            xmin = 39.659 
+            xmax = 43.17 
+            text = "#" 
+        intervals [26]:
+            xmin = 43.17 
+            xmax = 43.419 
+            text = "ouais" 
+        intervals [27]:
+            xmin = 43.419 
+            xmax = 57.188 
+            text = "#" 
+        intervals [28]:
+            xmin = 57.188 
+            xmax = 59.474 
+            text = "euh je sais pas mais en tout cas y a" 
+        intervals [29]:
+            xmin = 59.474 
+            xmax = 59.9044 
+            text = "#" 

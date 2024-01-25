@@ -1,0 +1,134 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 60 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Transcription" 
+        xmin = 0 
+        xmax = 60 
+        intervals: size = 30 
+        intervals [1]:
+            xmin = 0 
+            xmax = 3.968 
+            text = "#" 
+        intervals [2]:
+            xmin = 3.968 
+            xmax = 5.579 
+            text = "c'est c'est la pomme que j'avais pas vu" 
+        intervals [3]:
+            xmin = 5.579 
+            xmax = 10.319 
+            text = "#" 
+        intervals [4]:
+            xmin = 10.319 
+            xmax = 13.261 
+            text = "ah ouais ouais clairement hein spider man et y a euh" 
+        intervals [5]:
+            xmin = 13.261 
+            xmax = 14.835 
+            text = "#" 
+        intervals [6]:
+            xmin = 14.835 
+            xmax = 15.069 
+            text = "ouais" 
+        intervals [7]:
+            xmin = 15.069 
+            xmax = 23.6 
+            text = "#" 
+        intervals [8]:
+            xmin = 23.6 
+            xmax = 25.914 
+            text = "ah bien vu" 
+        intervals [9]:
+            xmin = 25.914 
+            xmax = 26.099 
+            text = "#" 
+        intervals [10]:
+            xmin = 26.099 
+            xmax = 27.139 
+            text = "non j'aurais pas euh" 
+        intervals [11]:
+            xmin = 27.139 
+            xmax = 27.629 
+            text = "#" 
+        intervals [12]:
+            xmin = 27.629 
+            xmax = 28.624 
+            text = "j'avais pas pensé à ça" 
+        intervals [13]:
+            xmin = 28.624 
+            xmax = 28.929 
+            text = "#" 
+        intervals [14]:
+            xmin = 28.929 
+            xmax = 31.612 
+            text = "en tout cas on a quand même un fruit un légume et un agrume" 
+        intervals [15]:
+            xmin = 31.612 
+            xmax = 32.227 
+            text = "#" 
+        intervals [16]:
+            xmin = 32.227 
+            xmax = 36.335 
+            text = "mais tu vois si ça avait été vraiment que enfin moi je je sais pas c'est une idée" 
+        intervals [17]:
+            xmin = 36.335 
+            xmax = 36.484 
+            text = "#" 
+        intervals [18]:
+            xmin = 36.484 
+            xmax = 38.176 
+            text = "si ça avait vraiment que pour manger ils auraient" 
+        intervals [19]:
+            xmin = 38.176 
+            xmax = 39.131 
+            text = "#" 
+        intervals [20]:
+            xmin = 39.131 
+            xmax = 41.403 
+            text = "mis une orange plutôt qu'un citron ouais" 
+        intervals [21]:
+            xmin = 41.403 
+            xmax = 46.036 
+            text = "#" 
+        intervals [22]:
+            xmin = 46.036 
+            xmax = 46.447 
+            text = "c'est ça" 
+        intervals [23]:
+            xmin = 46.447 
+            xmax = 46.706 
+            text = "#" 
+        intervals [24]:
+            xmin = 46.706 
+            xmax = 47.341 
+            text = "***" 
+        intervals [25]:
+            xmin = 47.341 
+            xmax = 48.286 
+            text = "#" 
+        intervals [26]:
+            xmin = 48.286 
+            xmax = 50.288 
+            text = "ouais c'est pour faire le le thème super-héros" 
+        intervals [27]:
+            xmin = 50.288 
+            xmax = 55.872 
+            text = "#" 
+        intervals [28]:
+            xmin = 55.872 
+            xmax = 57.686 
+            text = "ah ça serait un truc" 
+        intervals [29]:
+            xmin = 57.686 
+            xmax = 58.011 
+            text = "#" 
+        intervals [30]:
+            xmin = 58.011 
+            xmax = 59.9516 
+            text = "qui ciblerait les enfants parce que comme ça" 

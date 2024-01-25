@@ -1,0 +1,90 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 60 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Transcription" 
+        xmin = 0 
+        xmax = 60 
+        intervals: size = 19 
+        intervals [1]:
+            xmin = 0 
+            xmax = 2.341 
+            text = "#" 
+        intervals [2]:
+            xmin = 2.341 
+            xmax = 3.506 
+            text = "c'est une aubergine" 
+        intervals [3]:
+            xmin = 3.506 
+            xmax = 4.791 
+            text = "#" 
+        intervals [4]:
+            xmin = 4.791 
+            xmax = 5.873 
+            text = "qui a" 
+        intervals [5]:
+            xmin = 5.873 
+            xmax = 6.734 
+            text = "#" 
+        intervals [6]:
+            xmin = 6.734 
+            xmax = 9.45 
+            text = "qui a des yeux méchants et un sourire euh" 
+        intervals [7]:
+            xmin = 9.45 
+            xmax = 12.356 
+            text = "#" 
+        intervals [8]:
+            xmin = 12.356 
+            xmax = 13.413 
+            text = "oui c'est ça" 
+        intervals [9]:
+            xmin = 13.413 
+            xmax = 19.347 
+            text = "#" 
+        intervals [10]:
+            xmin = 19.347 
+            xmax = 22.07 
+            text = "euh oui c'est vrai oui on voit avec son sourire" 
+        intervals [11]:
+            xmin = 22.07 
+            xmax = 31.378 
+            text = "#" 
+        intervals [12]:
+            xmin = 31.378 
+            xmax = 32.923 
+            text = "euh oui c'est vrai aussi oui" 
+        intervals [13]:
+            xmin = 32.923 
+            xmax = 38.469 
+            text = "#" 
+        intervals [14]:
+            xmin = 38.469 
+            xmax = 41.245 
+            text = "euh j'en pense qu'elle a l'ai mal intentionnée" 
+        intervals [15]:
+            xmin = 41.245 
+            xmax = 41.941 
+            text = "#" 
+        intervals [16]:
+            xmin = 41.941 
+            xmax = 44.445 
+            text = "avec ses sourcils froncés et son grand sourire" 
+        intervals [17]:
+            xmin = 44.445 
+            xmax = 47.768 
+            text = "#" 
+        intervals [18]:
+            xmin = 47.768 
+            xmax = 48.322 
+            text = "peut-être" 
+        intervals [19]:
+            xmin = 48.322 
+            xmax = 59.9044 
+            text = "#" 

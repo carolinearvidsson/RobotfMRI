@@ -1,0 +1,110 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 60 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Transcription" 
+        xmin = 0 
+        xmax = 60 
+        intervals: size = 24 
+        intervals [1]:
+            xmin = 0 
+            xmax = 2.778 
+            text = "#" 
+        intervals [2]:
+            xmin = 2.778 
+            xmax = 4.44 
+            text = "oui donc c'est une framboise" 
+        intervals [3]:
+            xmin = 4.44 
+            xmax = 5.187 
+            text = "#" 
+        intervals [4]:
+            xmin = 5.187 
+            xmax = 7.245 
+            text = "pareil aussi avec un corps euh" 
+        intervals [5]:
+            xmin = 7.245 
+            xmax = 7.956 
+            text = "#" 
+        intervals [6]:
+            xmin = 7.956 
+            xmax = 8.932 
+            text = "des pieds et des pieds" 
+        intervals [7]:
+            xmin = 8.932 
+            xmax = 9.287 
+            text = "#" 
+        intervals [8]:
+            xmin = 9.287 
+            xmax = 10.944 
+            text = "et des et des des bras" 
+        intervals [9]:
+            xmin = 10.944 
+            xmax = 12.414 
+            text = "#" 
+        intervals [10]:
+            xmin = 12.414 
+            xmax = 18.118 
+            text = "euh qui a l'air aussi un peu triste un peu déses- pas désespérée mais un peu blasée aussi" 
+        intervals [11]:
+            xmin = 18.118 
+            xmax = 24.23 
+            text = "#" 
+        intervals [12]:
+            xmin = 24.23 
+            xmax = 25.779 
+            text = "qu'est-ce que tu penses de ces émotions" 
+        intervals [13]:
+            xmin = 25.779 
+            xmax = 33.583 
+            text = "#" 
+        intervals [14]:
+            xmin = 33.583 
+            xmax = 37.099 
+            text = "malade je dirais pas qu'elle est malade je dirais qu'elle est plutôt euh" 
+        intervals [15]:
+            xmin = 37.099 
+            xmax = 38.182 
+            text = "#" 
+        intervals [16]:
+            xmin = 38.182 
+            xmax = 39.309 
+            text = "un peu dégoutée" 
+        intervals [17]:
+            xmin = 39.309 
+            xmax = 40.806 
+            text = "#" 
+        intervals [18]:
+            xmin = 40.806 
+            xmax = 42.296 
+            text = "un peu fatiguée un peu" 
+        intervals [19]:
+            xmin = 42.296 
+            xmax = 43.333 
+            text = "#" 
+        intervals [20]:
+            xmin = 43.333 
+            xmax = 43.74 
+            text = "triste" 
+        intervals [21]:
+            xmin = 43.74 
+            xmax = 49.404 
+            text = "#" 
+        intervals [22]:
+            xmin = 49.404 
+            xmax = 52.768 
+            text = "je sais pas si c'est le problème de santé *" 
+        intervals [23]:
+            xmin = 52.768 
+            xmax = 58.163 
+            text = "#" 
+        intervals [24]:
+            xmin = 58.163 
+            xmax = 59.9044 
+            text = "non elle a pas l'air contente c'est sûr" 

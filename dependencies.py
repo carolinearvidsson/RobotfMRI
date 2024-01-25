@@ -2,7 +2,7 @@ import spacy
 import textdescriptives as td
 
 nlp = spacy.load("fr_dep_news_trf")
-nlp.add_pipe('textdescriptives')
+nlp.add_pipe('textdescriptives/dependency_distance')
 
 class Dependencies:
 

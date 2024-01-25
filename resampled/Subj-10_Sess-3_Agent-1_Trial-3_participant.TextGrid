@@ -1,0 +1,90 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 60 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Transcription" 
+        xmin = 0 
+        xmax = 60 
+        intervals: size = 19 
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.357 
+            text = "#" 
+        intervals [2]:
+            xmin = 1.357 
+            xmax = 1.575 
+            text = "ouais" 
+        intervals [3]:
+            xmin = 1.575 
+            xmax = 16.487 
+            text = "#" 
+        intervals [4]:
+            xmin = 16.487 
+            xmax = 16.883 
+            text = "ouais" 
+        intervals [5]:
+            xmin = 16.883 
+            xmax = 17.223 
+            text = "#" 
+        intervals [6]:
+            xmin = 17.223 
+            xmax = 22.751 
+            text = "mais enfin si c'est une pub pour les enfants elle est vachement compliquée à comprendre déjà pour un adulte donc euh" 
+        intervals [7]:
+            xmin = 22.751 
+            xmax = 24.169 
+            text = "#" 
+        intervals [8]:
+            xmin = 24.169 
+            xmax = 25.637 
+            text = "donc après si c'est pour un enfant euh" 
+        intervals [9]:
+            xmin = 25.637 
+            xmax = 30.321 
+            text = "#" 
+        intervals [10]:
+            xmin = 30.321 
+            xmax = 31.022 
+            text = "oui ouais" 
+        intervals [11]:
+            xmin = 31.022 
+            xmax = 35.072 
+            text = "#" 
+        intervals [12]:
+            xmin = 35.072 
+            xmax = 35.31 
+            text = "ouais" 
+        intervals [13]:
+            xmin = 35.31 
+            xmax = 37.668 
+            text = "#" 
+        intervals [14]:
+            xmin = 37.668 
+            xmax = 38.156 
+            text = "euh" 
+        intervals [15]:
+            xmin = 38.156 
+            xmax = 38.506 
+            text = "#" 
+        intervals [16]:
+            xmin = 38.506 
+            xmax = 41.311 
+            text = "là pour le moment si c'est les deux campagnes sont liées je vois pas du tout le message" 
+        intervals [17]:
+            xmin = 41.311 
+            xmax = 50.563 
+            text = "#" 
+        intervals [18]:
+            xmin = 50.563 
+            xmax = 50.898 
+            text = "ouais" 
+        intervals [19]:
+            xmin = 50.898 
+            xmax = 59.9044 
+            text = "#" 

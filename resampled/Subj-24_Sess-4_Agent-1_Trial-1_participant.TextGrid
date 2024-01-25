@@ -1,0 +1,82 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 60 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Transcription" 
+        xmin = 0 
+        xmax = 60 
+        intervals: size = 17 
+        intervals [1]:
+            xmin = 0 
+            xmax = 3.373 
+            text = "#" 
+        intervals [2]:
+            xmin = 3.373 
+            xmax = 5.03 
+            text = "on a re la framboise éclatée" 
+        intervals [3]:
+            xmin = 5.03 
+            xmax = 11.254 
+            text = "#" 
+        intervals [4]:
+            xmin = 11.254 
+            xmax = 12.671 
+            text = "du succès des super héros" 
+        intervals [5]:
+            xmin = 12.671 
+            xmax = 23.112 
+            text = "#" 
+        intervals [6]:
+            xmin = 23.112 
+            xmax = 23.462 
+            text = "ouais" 
+        intervals [7]:
+            xmin = 23.462 
+            xmax = 32.938 
+            text = "#" 
+        intervals [8]:
+            xmin = 32.938 
+            xmax = 33.461 
+            text = "mh" 
+        intervals [9]:
+            xmin = 33.461 
+            xmax = 35.478 
+            text = "#" 
+        intervals [10]:
+            xmin = 35.478 
+            xmax = 36.936 
+            text = "pas grand chose je t'avoue là euh" 
+        intervals [11]:
+            xmin = 36.936 
+            xmax = 38.933 
+            text = "#" 
+        intervals [12]:
+            xmin = 38.933 
+            xmax = 39.944 
+            text = "euh" 
+        intervals [13]:
+            xmin = 39.944 
+            xmax = 45.629 
+            text = "#" 
+        intervals [14]:
+            xmin = 45.629 
+            xmax = 50.288 
+            text = "j'arrive pas à -fin comme tu disais la bonne question c'est qui on doit apprécier" 
+        intervals [15]:
+            xmin = 50.288 
+            xmax = 50.593 
+            text = "#" 
+        intervals [16]:
+            xmin = 50.593 
+            xmax = 51.975 
+            text = "à qui on doit s'identifier en fait" 
+        intervals [17]:
+            xmin = 51.975 
+            xmax = 59.9044 
+            text = "#" 

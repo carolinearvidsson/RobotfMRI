@@ -1,0 +1,106 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 60 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Transcription" 
+        xmin = 0 
+        xmax = 60 
+        intervals: size = 23 
+        intervals [1]:
+            xmin = 0 
+            xmax = 8.247 
+            text = "#" 
+        intervals [2]:
+            xmin = 8.247 
+            xmax = 8.652 
+            text = "c'est une" 
+        intervals [3]:
+            xmin = 8.652 
+            xmax = 8.8 
+            text = "#" 
+        intervals [4]:
+            xmin = 8.8 
+            xmax = 10.354 
+            text = "framboise abimée je dirais même" 
+        intervals [5]:
+            xmin = 10.354 
+            xmax = 15.303 
+            text = "#" 
+        intervals [6]:
+            xmin = 15.303 
+            xmax = 16.451 
+            text = "oui je suis d'accord avec toi" 
+        intervals [7]:
+            xmin = 16.451 
+            xmax = 21.964 
+            text = "#" 
+        intervals [8]:
+            xmin = 21.964 
+            xmax = 23.605 
+            text = "non elle est un petit peu fatiguée" 
+        intervals [9]:
+            xmin = 23.605 
+            xmax = 29.991 
+            text = "#" 
+        intervals [10]:
+            xmin = 29.991 
+            xmax = 30.331 
+            text = "oui" 
+        intervals [11]:
+            xmin = 30.331 
+            xmax = 30.868 
+            text = "#" 
+        intervals [12]:
+            xmin = 30.868 
+            xmax = 33.339 
+            text = "ce sont deux fruits qui ont l'air assez" 
+        intervals [13]:
+            xmin = 33.339 
+            xmax = 34.32 
+            text = "#" 
+        intervals [14]:
+            xmin = 34.32 
+            xmax = 34.984 
+            text = "assez vieux" 
+        intervals [15]:
+            xmin = 34.984 
+            xmax = 36.007 
+            text = "#" 
+        intervals [16]:
+            xmin = 36.007 
+            xmax = 37.5 
+            text = "vieux ou planter le *" 
+        intervals [17]:
+            xmin = 37.5 
+            xmax = 43.043 
+            text = "#" 
+        intervals [18]:
+            xmin = 43.043 
+            xmax = 43.683 
+            text = "c'est possible" 
+        intervals [19]:
+            xmin = 43.683 
+            xmax = 46.524 
+            text = "#" 
+        intervals [20]:
+            xmin = 46.524 
+            xmax = 48.297 
+            text = "peut-être à cause des insecticides" 
+        intervals [21]:
+            xmin = 48.297 
+            xmax = 56.828 
+            text = "#" 
+        intervals [22]:
+            xmin = 56.828 
+            xmax = 57.625 
+            text = "c'est possible" 
+        intervals [23]:
+            xmin = 57.625 
+            xmax = 59.9044 
+            text = "#" 

@@ -1,0 +1,82 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 60 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Transcription" 
+        xmin = 0 
+        xmax = 60 
+        intervals: size = 17 
+        intervals [1]:
+            xmin = 0 
+            xmax = 12.265 
+            text = "#" 
+        intervals [2]:
+            xmin = 12.265 
+            xmax = 13.484 
+            text = "la poire a l'air malade" 
+        intervals [3]:
+            xmin = 13.484 
+            xmax = 18.819 
+            text = "#" 
+        intervals [4]:
+            xmin = 18.819 
+            xmax = 19.093 
+            text = "oui" 
+        intervals [5]:
+            xmin = 19.093 
+            xmax = 25.373 
+            text = "#" 
+        intervals [6]:
+            xmin = 25.373 
+            xmax = 26.592 
+            text = "la poire a l'air malade" 
+        intervals [7]:
+            xmin = 26.592 
+            xmax = 33.222 
+            text = "#" 
+        intervals [8]:
+            xmin = 33.222 
+            xmax = 33.542 
+            text = "ouais" 
+        intervals [9]:
+            xmin = 33.542 
+            xmax = 38.054 
+            text = "#" 
+        intervals [10]:
+            xmin = 38.054 
+            xmax = 41.245 
+            text = "la framboise la framboise est triste parce qu'on l'a oublié" 
+        intervals [11]:
+            xmin = 41.245 
+            xmax = 41.433 
+            text = "#" 
+        intervals [12]:
+            xmin = 41.433 
+            xmax = 41.753 
+            text = "non" 
+        intervals [13]:
+            xmin = 41.753 
+            xmax = 52.458 
+            text = "#" 
+        intervals [14]:
+            xmin = 52.458 
+            xmax = 52.829 
+            text = "ah oui" 
+        intervals [15]:
+            xmin = 52.829 
+            xmax = 54.78 
+            text = "#" 
+        intervals [16]:
+            xmin = 54.78 
+            xmax = 57.32 
+            text = "peut-être qu'elle est malade et elle devenue pourrie" 
+        intervals [17]:
+            xmin = 57.32 
+            xmax = 59.9516 
+            text = "#" 

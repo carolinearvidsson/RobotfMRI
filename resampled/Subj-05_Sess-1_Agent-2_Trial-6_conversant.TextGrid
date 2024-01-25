@@ -1,0 +1,138 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 60 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Transcription" 
+        xmin = 0 
+        xmax = 60 
+        intervals: size = 31 
+        intervals [1]:
+            xmin = 0 
+            xmax = 2.21 
+            text = "#" 
+        intervals [2]:
+            xmin = 2.21 
+            xmax = 2.855 
+            text = "tu m'entends" 
+        intervals [3]:
+            xmin = 2.855 
+            xmax = 6.473 
+            text = "#" 
+        intervals [4]:
+            xmin = 6.473 
+            xmax = 6.818 
+            text = "bon" 
+        intervals [5]:
+            xmin = 6.818 
+            xmax = 8.403 
+            text = "#" 
+        intervals [6]:
+            xmin = 8.403 
+            xmax = 8.871 
+            text = "moi" 
+        intervals [7]:
+            xmin = 8.871 
+            xmax = 9.054 
+            text = "#" 
+        intervals [8]:
+            xmin = 9.054 
+            xmax = 10.517 
+            text = "je crois que c'est un citron" 
+        intervals [9]:
+            xmin = 10.517 
+            xmax = 13.687 
+            text = "#" 
+        intervals [10]:
+            xmin = 13.687 
+            xmax = 14.114 
+            text = "oui" 
+        intervals [11]:
+            xmin = 14.114 
+            xmax = 14.363 
+            text = "#" 
+        intervals [12]:
+            xmin = 14.363 
+            xmax = 16.471 
+            text = "tu as raison il ressemble à un ninja" 
+        intervals [13]:
+            xmin = 16.471 
+            xmax = 24.844 
+            text = "#" 
+        intervals [14]:
+            xmin = 24.844 
+            xmax = 25.271 
+            text = "non" 
+        intervals [15]:
+            xmin = 25.271 
+            xmax = 25.449 
+            text = "#" 
+        intervals [16]:
+            xmin = 25.449 
+            xmax = 26.999 
+            text = "je pense que tu as tort" 
+        intervals [17]:
+            xmin = 26.999 
+            xmax = 30.591 
+            text = "#" 
+        intervals [18]:
+            xmin = 30.591 
+            xmax = 31.617 
+            text = "qu'est ce que t'en penses" 
+        intervals [19]:
+            xmin = 31.617 
+            xmax = 35.077 
+            text = "#" 
+        intervals [20]:
+            xmin = 35.077 
+            xmax = 35.468 
+            text = "oui" 
+        intervals [21]:
+            xmin = 35.468 
+            xmax = 41.58 
+            text = "#" 
+        intervals [22]:
+            xmin = 41.58 
+            xmax = 42.362 
+            text = "je pense" 
+        intervals [23]:
+            xmin = 42.362 
+            xmax = 43.78 
+            text = "#" 
+        intervals [24]:
+            xmin = 43.78 
+            xmax = 46.224 
+            text = "c'est une campagne de pub ciblant les enfants" 
+        intervals [25]:
+            xmin = 46.224 
+            xmax = 52.138 
+            text = "#" 
+        intervals [26]:
+            xmin = 52.138 
+            xmax = 52.646 
+            text = "hum" 
+        intervals [27]:
+            xmin = 52.646 
+            xmax = 53.276 
+            text = "#" 
+        intervals [28]:
+            xmin = 53.276 
+            xmax = 54.089 
+            text = "peut-être" 
+        intervals [29]:
+            xmin = 54.089 
+            xmax = 55.12 
+            text = "#" 
+        intervals [30]:
+            xmin = 55.12 
+            xmax = 56.324 
+            text = "je ne suis pas sûr" 
+        intervals [31]:
+            xmin = 56.324 
+            xmax = 59.9516 
+            text = "#" 

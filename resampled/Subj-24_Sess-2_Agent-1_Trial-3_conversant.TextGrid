@@ -1,0 +1,110 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 60 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Transcription" 
+        xmin = 0 
+        xmax = 60 
+        intervals: size = 24 
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.819 
+            text = "#" 
+        intervals [2]:
+            xmin = 1.819 
+            xmax = 2.998 
+            text = "elle a l'air en colère cette fraise" 
+        intervals [3]:
+            xmin = 2.998 
+            xmax = 12.722 
+            text = "#" 
+        intervals [4]:
+            xmin = 12.722 
+            xmax = 12.874 
+            text = "ouais" 
+        intervals [5]:
+            xmin = 12.874 
+            xmax = 14.886 
+            text = "#" 
+        intervals [6]:
+            xmin = 14.886 
+            xmax = 15.034 
+            text = "ouais" 
+        intervals [7]:
+            xmin = 15.034 
+            xmax = 20.978 
+            text = "#" 
+        intervals [8]:
+            xmin = 20.978 
+            xmax = 21.146 
+            text = "ouais" 
+        intervals [9]:
+            xmin = 21.146 
+            xmax = 27.049 
+            text = "#" 
+        intervals [10]:
+            xmin = 27.049 
+            xmax = 27.568 
+            text = "ouais ok" 
+        intervals [11]:
+            xmin = 27.568 
+            xmax = 28.226 
+            text = "#" 
+        intervals [12]:
+            xmin = 28.226 
+            xmax = 28.479 
+            text = "oui" 
+        intervals [13]:
+            xmin = 28.479 
+            xmax = 28.995 
+            text = "#" 
+        intervals [14]:
+            xmin = 28.995 
+            xmax = 32.979 
+            text = "et du coup y a le côté assez mythique du super héros où euh" 
+        intervals [15]:
+            xmin = 32.979 
+            xmax = 33.989 
+            text = "#" 
+        intervals [16]:
+            xmin = 33.989 
+            xmax = 37.018 
+            text = "en fait c'est un super héros et ça a l'air cool mais en réalité ça existe pas" 
+        intervals [17]:
+            xmin = 37.018 
+            xmax = 43.531 
+            text = "#" 
+        intervals [18]:
+            xmin = 43.531 
+            xmax = 46.874 
+            text = "euh en tout cas j'ai réfléchi pour $Oasis$ et je crois que je vois de quelle pub tu parles" 
+        intervals [19]:
+            xmin = 46.874 
+            xmax = 50.923 
+            text = "#" 
+        intervals [20]:
+            xmin = 50.923 
+            xmax = 52.686 
+            text = "euh j'en ai absolument aucune idée" 
+        intervals [21]:
+            xmin = 52.686 
+            xmax = 53.379 
+            text = "#" 
+        intervals [22]:
+            xmin = 53.379 
+            xmax = 56.426 
+            text = "euh à mon avis ça doit être euh" 
+        intervals [23]:
+            xmin = 56.426 
+            xmax = 57.787 
+            text = "#" 
+        intervals [24]:
+            xmin = 57.787 
+            xmax = 59.9516 
+            text = "soit une campagne avec deux pans différents" 

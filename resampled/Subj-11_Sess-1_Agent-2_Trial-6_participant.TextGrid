@@ -1,0 +1,126 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 60 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Transcription" 
+        xmin = 0 
+        xmax = 60 
+        intervals: size = 28 
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.377 
+            text = "#" 
+        intervals [2]:
+            xmin = 1.377 
+            xmax = 3.567 
+            text = "là c'était la moitié d'un citron" 
+        intervals [3]:
+            xmin = 3.567 
+            xmax = 3.922 
+            text = "#" 
+        intervals [4]:
+            xmin = 3.922 
+            xmax = 7.895 
+            text = "avec comme un un casque et un turban" 
+        intervals [5]:
+            xmin = 7.895 
+            xmax = 8.414 
+            text = "#" 
+        intervals [6]:
+            xmin = 8.414 
+            xmax = 9.115 
+            text = "de ninja" 
+        intervals [7]:
+            xmin = 9.115 
+            xmax = 9.486 
+            text = "#" 
+        intervals [8]:
+            xmin = 9.486 
+            xmax = 10.436 
+            text = "sur le côté" 
+        intervals [9]:
+            xmin = 10.436 
+            xmax = 12.138 
+            text = "#" 
+        intervals [10]:
+            xmin = 12.138 
+            xmax = 16.009 
+            text = "et c'est beaucoup plus complexe que les autres images" 
+        intervals [11]:
+            xmin = 16.009 
+            xmax = 19.698 
+            text = "#" 
+        intervals [12]:
+            xmin = 19.698 
+            xmax = 20.787 
+            text = "en termes de découpe" 
+        intervals [13]:
+            xmin = 20.787 
+            xmax = 22.817 
+            text = "#" 
+        intervals [14]:
+            xmin = 22.817 
+            xmax = 25.596 
+            text = "ça fait toujours penser à des personnages de dessins animés" 
+        intervals [15]:
+            xmin = 25.596 
+            xmax = 30.689 
+            text = "#" 
+        intervals [16]:
+            xmin = 30.689 
+            xmax = 30.921 
+            text = "oui" 
+        intervals [17]:
+            xmin = 30.921 
+            xmax = 37.795 
+            text = "#" 
+        intervals [18]:
+            xmin = 37.795 
+            xmax = 38.339 
+            text = "euh" 
+        intervals [19]:
+            xmin = 38.339 
+            xmax = 39.106 
+            text = "#" 
+        intervals [20]:
+            xmin = 39.106 
+            xmax = 40.818 
+            text = "c'est parce qu'il n'y a pas de" 
+        intervals [21]:
+            xmin = 40.818 
+            xmax = 41.072 
+            text = "#" 
+        intervals [22]:
+            xmin = 41.072 
+            xmax = 42.017 
+            text = "visage ou d'yeux" 
+        intervals [23]:
+            xmin = 42.017 
+            xmax = 43.688 
+            text = "#" 
+        intervals [24]:
+            xmin = 43.688 
+            xmax = 44.923 
+            text = "pour * du haut" 
+        intervals [25]:
+            xmin = 44.923 
+            xmax = 58.036 
+            text = "#" 
+        intervals [26]:
+            xmin = 58.036 
+            xmax = 58.539 
+            text = "euh" 
+        intervals [27]:
+            xmin = 58.539 
+            xmax = 59.052 
+            text = "#" 
+        intervals [28]:
+            xmin = 59.052 
+            xmax = 59.9044 
+            text = "oui y a pas" 

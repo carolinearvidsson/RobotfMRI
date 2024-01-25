@@ -1,0 +1,130 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 60 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Transcription" 
+        xmin = 0 
+        xmax = 60 
+        intervals: size = 29 
+        intervals [1]:
+            xmin = 0 
+            xmax = 2.078 
+            text = "#" 
+        intervals [2]:
+            xmin = 2.078 
+            xmax = 2.347 
+            text = "ouais" 
+        intervals [3]:
+            xmin = 2.347 
+            xmax = 2.586 
+            text = "#" 
+        intervals [4]:
+            xmin = 2.586 
+            xmax = 6.046 
+            text = "donc la robot il suggère des choses @" 
+        intervals [5]:
+            xmin = 6.046 
+            xmax = 7.489 
+            text = "#" 
+        intervals [6]:
+            xmin = 7.489 
+            xmax = 12.322 
+            text = "euh alors elle suggère que peut-être c'est une pub contre violence" 
+        intervals [7]:
+            xmin = 12.322 
+            xmax = 17.538 
+            text = "#" 
+        intervals [8]:
+            xmin = 17.538 
+            xmax = 18.565 
+            text = "je sais pas bah y a" 
+        intervals [9]:
+            xmin = 18.565 
+            xmax = 19.032 
+            text = "#" 
+        intervals [10]:
+            xmin = 19.032 
+            xmax = 22.263 
+            text = "certes y a la deuxième série c'est les fruits qui" 
+        intervals [11]:
+            xmin = 22.263 
+            xmax = 22.614 
+            text = "#" 
+        intervals [12]:
+            xmin = 22.614 
+            xmax = 24.763 
+            text = "qui ont besoin d'être défendus entre guillemets" 
+        intervals [13]:
+            xmin = 24.763 
+            xmax = 25.276 
+            text = "#" 
+        intervals [14]:
+            xmin = 25.276 
+            xmax = 25.637 
+            text = "voilà" 
+        intervals [15]:
+            xmin = 25.637 
+            xmax = 26.47 
+            text = "#" 
+        intervals [16]:
+            xmin = 26.47 
+            xmax = 26.795 
+            text = "et" 
+        intervals [17]:
+            xmin = 26.795 
+            xmax = 28.248 
+            text = "#" 
+        intervals [18]:
+            xmin = 28.248 
+            xmax = 32.933 
+            text = "ouais mais sauf qu'ils ont pas l'air très -fin ils ont ils ont l'air un peu méchants sur les bords" 
+        intervals [19]:
+            xmin = 32.933 
+            xmax = 38.323 
+            text = "#" 
+        intervals [20]:
+            xmin = 38.323 
+            xmax = 40.879 
+            text = "les bourreaux je je sais pas je" 
+        intervals [21]:
+            xmin = 40.879 
+            xmax = 48.413 
+            text = "#" 
+        intervals [22]:
+            xmin = 48.413 
+            xmax = 50.085 
+            text = "ouais mais ils ont pas l'air" 
+        intervals [23]:
+            xmin = 50.085 
+            xmax = 50.456 
+            text = "#" 
+        intervals [24]:
+            xmin = 50.456 
+            xmax = 54.983 
+            text = "ils ont pas l'- leurs expressions n'est pas l'air d'être déterminés mais vraiment méchantes quoi" 
+        intervals [25]:
+            xmin = 54.983 
+            xmax = 55.232 
+            text = "#" 
+        intervals [26]:
+            xmin = 55.232 
+            xmax = 55.389 
+            text = "quoi" 
+        intervals [27]:
+            xmin = 55.389 
+            xmax = 58.575 
+            text = "#" 
+        intervals [28]:
+            xmin = 58.575 
+            xmax = 59.515 
+            text = "oui le citron non" 
+        intervals [29]:
+            xmin = 59.515 
+            xmax = 59.9044 
+            text = "#" 

@@ -1,0 +1,170 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 60 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Transcription" 
+        xmin = 0 
+        xmax = 60 
+        intervals: size = 39 
+        intervals [1]:
+            xmin = 0 
+            xmax = 2.21 
+            text = "#" 
+        intervals [2]:
+            xmin = 2.21 
+            xmax = 3.419 
+            text = "c'est c'est fou hein" 
+        intervals [3]:
+            xmin = 3.419 
+            xmax = 3.821 
+            text = "#" 
+        intervals [4]:
+            xmin = 3.821 
+            xmax = 7.103 
+            text = "ma- maintenant que tu m'as dit que c'est c'est $Spiderman$ je la v- je vois plus du tout la pomme" 
+        intervals [5]:
+            xmin = 7.103 
+            xmax = 7.535 
+            text = "#" 
+        intervals [6]:
+            xmin = 7.535 
+            xmax = 9.379 
+            text = "je vois juste le visage de $Spiderman$ dans ma tête" 
+        intervals [7]:
+            xmin = 9.379 
+            xmax = 12.056 
+            text = "#" 
+        intervals [8]:
+            xmin = 12.056 
+            xmax = 12.732 
+            text = "pour l'aubergine" 
+        intervals [9]:
+            xmin = 12.732 
+            xmax = 15.023 
+            text = "#" 
+        intervals [10]:
+            xmin = 15.023 
+            xmax = 15.435 
+            text = "ah" 
+        intervals [11]:
+            xmin = 15.435 
+            xmax = 17.422 
+            text = "#" 
+        intervals [12]:
+            xmin = 17.422 
+            xmax = 20.008 
+            text = "ouais c'est c'est c'est incroyable je suis sûre que maintenant" 
+        intervals [13]:
+            xmin = 20.008 
+            xmax = 20.419 
+            text = "#" 
+        intervals [14]:
+            xmin = 20.419 
+            xmax = 21.044 
+            text = "quand" 
+        intervals [15]:
+            xmin = 21.044 
+            xmax = 21.247 
+            text = "#" 
+        intervals [16]:
+            xmin = 21.247 
+            xmax = 24.804 
+            text = "quand l'Irm me prend en train de regarder l'au- l'aubergine je fabrique des images" 
+        intervals [17]:
+            xmin = 24.804 
+            xmax = 26.694 
+            text = "#" 
+        intervals [18]:
+            xmin = 26.694 
+            xmax = 27.669 
+            text = "c'est sûr et certain" 
+        intervals [19]:
+            xmin = 27.669 
+            xmax = 29.254 
+            text = "#" 
+        intervals [20]:
+            xmin = 29.254 
+            xmax = 32.054 
+            text = "et t- ma- -fin à mon avis c'est c'est c'est comme ça que la pub marche hein" 
+        intervals [21]:
+            xmin = 32.054 
+            xmax = 40.051 
+            text = "#" 
+        intervals [22]:
+            xmin = 40.051 
+            xmax = 42.423 
+            text = "exact ah peut peut-être peut-être bien" 
+        intervals [23]:
+            xmin = 42.423 
+            xmax = 43.714 
+            text = "#" 
+        intervals [24]:
+            xmin = 43.714 
+            xmax = 46.447 
+            text = "et je suppose oui pour pouvoir les rendre plus attractifs" 
+        intervals [25]:
+            xmin = 46.447 
+            xmax = 47.133 
+            text = "#" 
+        intervals [26]:
+            xmin = 47.133 
+            xmax = 47.687 
+            text = "peut-être bien" 
+        intervals [27]:
+            xmin = 47.687 
+            xmax = 48.312 
+            text = "#" 
+        intervals [28]:
+            xmin = 48.312 
+            xmax = 51.569 
+            text = "mais bon moi au début c'est ça m- ça ça m'inspirait du négatif" 
+        intervals [29]:
+            xmin = 51.569 
+            xmax = 51.823 
+            text = "#" 
+        intervals [30]:
+            xmin = 51.823 
+            xmax = 53.763 
+            text = "et maintenant que je les vois comme des super héros euh" 
+        intervals [31]:
+            xmin = 53.763 
+            xmax = 54.094 
+            text = "#" 
+        intervals [32]:
+            xmin = 54.094 
+            xmax = 56.487 
+            text = "je vois je vois plus le côté méchant que je te décrivais au début" 
+        intervals [33]:
+            xmin = 56.487 
+            xmax = 56.888 
+            text = "#" 
+        intervals [34]:
+            xmin = 56.888 
+            xmax = 57.259 
+            text = "tu vois" 
+        intervals [35]:
+            xmin = 57.259 
+            xmax = 57.935 
+            text = "#" 
+        intervals [36]:
+            xmin = 57.935 
+            xmax = 58.615 
+            text = "incroyable" 
+        intervals [37]:
+            xmin = 58.615 
+            xmax = 59.286 
+            text = "#" 
+        intervals [38]:
+            xmin = 59.286 
+            xmax = 59.515 
+            text = "ouais" 
+        intervals [39]:
+            xmin = 59.515 
+            xmax = 59.9044 
+            text = "#" 

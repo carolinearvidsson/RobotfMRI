@@ -1,0 +1,114 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 60 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Transcription" 
+        xmin = 0 
+        xmax = 60 
+        intervals: size = 25 
+        intervals [1]:
+            xmin = 0 
+            xmax = 3.541 
+            text = "#" 
+        intervals [2]:
+            xmin = 3.541 
+            xmax = 4.176 
+            text = "exactement" 
+        intervals [3]:
+            xmin = 4.176 
+            xmax = 13.291 
+            text = "#" 
+        intervals [4]:
+            xmin = 13.291 
+            xmax = 17.366 
+            text = "local on c'est discutable mais de saison je pense que c'est assez clair que" 
+        intervals [5]:
+            xmin = 17.366 
+            xmax = 18.618 
+            text = "#" 
+        intervals [6]:
+            xmin = 18.618 
+            xmax = 19.159 
+            text = "que euh" 
+        intervals [7]:
+            xmin = 19.159 
+            xmax = 24.778 
+            text = "#" 
+        intervals [8]:
+            xmin = 24.778 
+            xmax = 30.128 
+            text = "ouais mais même par exemple la poire ça pousse bien en France et elle a été elle a été abîmée" 
+        intervals [9]:
+            xmin = 30.128 
+            xmax = 31.845 
+            text = "#" 
+        intervals [10]:
+            xmin = 31.845 
+            xmax = 33.232 
+            text = "donc" 
+        intervals [11]:
+            xmin = 33.232 
+            xmax = 34.498 
+            text = "#" 
+        intervals [12]:
+            xmin = 34.498 
+            xmax = 36.509 
+            text = "voilà donc ouais voilà" 
+        intervals [13]:
+            xmin = 36.509 
+            xmax = 37.866 
+            text = "#" 
+        intervals [14]:
+            xmin = 37.866 
+            xmax = 38.806 
+            text = "c'est" 
+        intervals [15]:
+            xmin = 38.806 
+            xmax = 39.24 
+            text = "#" 
+        intervals [16]:
+            xmin = 39.24 
+            xmax = 40.188 
+            text = "ouais je sais pas" 
+        intervals [17]:
+            xmin = 40.188 
+            xmax = 40.953 
+            text = "#" 
+        intervals [18]:
+            xmin = 40.953 
+            xmax = 44.618 
+            text = "je commence à avoir un doute parce que y a pas tout qui est tout le temps cohérent mais" 
+        intervals [19]:
+            xmin = 44.618 
+            xmax = 45.182 
+            text = "#" 
+        intervals [20]:
+            xmin = 45.182 
+            xmax = 46.041 
+            text = "en soi" 
+        intervals [21]:
+            xmin = 46.041 
+            xmax = 46.468 
+            text = "#" 
+        intervals [22]:
+            xmin = 46.468 
+            xmax = 52.173 
+            text = "je je peux comprendre toujours pas pourquoi y en a qui sont abîmés et d'autres qui sont pas abîmés" 
+        intervals [23]:
+            xmin = 52.173 
+            xmax = 53.377 
+            text = "#" 
+        intervals [24]:
+            xmin = 53.377 
+            xmax = 59.111 
+            text = "parce que en fonction de la saison on peut avoir des poires on peut avoir des fraises on peut avoir de tout" 
+        intervals [25]:
+            xmin = 59.111 
+            xmax = 59.9044 
+            text = "#" 

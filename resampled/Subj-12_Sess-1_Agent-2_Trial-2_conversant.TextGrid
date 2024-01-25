@@ -1,0 +1,142 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 60 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Transcription" 
+        xmin = 0 
+        xmax = 60 
+        intervals: size = 32 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.295 
+            text = "*" 
+        intervals [2]:
+            xmin = 0.295 
+            xmax = 0.539 
+            text = "#" 
+        intervals [3]:
+            xmin = 0.539 
+            xmax = 0.681 
+            text = "*" 
+        intervals [4]:
+            xmin = 0.681 
+            xmax = 2.114 
+            text = "#" 
+        intervals [5]:
+            xmin = 2.114 
+            xmax = 3.328 
+            text = "bonjour bonjour" 
+        intervals [6]:
+            xmin = 3.328 
+            xmax = 5.64 
+            text = "#" 
+        intervals [7]:
+            xmin = 5.64 
+            xmax = 6.452 
+            text = "comment ça va" 
+        intervals [8]:
+            xmin = 6.452 
+            xmax = 11.188 
+            text = "#" 
+        intervals [9]:
+            xmin = 11.188 
+            xmax = 11.345 
+            text = "*" 
+        intervals [10]:
+            xmin = 11.345 
+            xmax = 13.037 
+            text = "#" 
+        intervals [11]:
+            xmin = 13.037 
+            xmax = 13.377 
+            text = "*" 
+        intervals [12]:
+            xmin = 13.377 
+            xmax = 15.151 
+            text = "#" 
+        intervals [13]:
+            xmin = 15.151 
+            xmax = 16.08 
+            text = "c'est une pomme" 
+        intervals [14]:
+            xmin = 16.08 
+            xmax = 16.614 
+            text = "#" 
+        intervals [15]:
+            xmin = 16.614 
+            xmax = 17.091 
+            text = "ah oui" 
+        intervals [16]:
+            xmin = 17.091 
+            xmax = 21.882 
+            text = "#" 
+        intervals [17]:
+            xmin = 21.882 
+            xmax = 23.168 
+            text = "je suis d'accord" 
+        intervals [18]:
+            xmin = 23.168 
+            xmax = 24.829 
+            text = "#" 
+        intervals [19]:
+            xmin = 24.829 
+            xmax = 26.277 
+            text = "cette pomme a des grands yeux" 
+        intervals [20]:
+            xmin = 26.277 
+            xmax = 28.579 
+            text = "#" 
+        intervals [21]:
+            xmin = 28.579 
+            xmax = 29.905 
+            text = "cette pomme a des grands yeux" 
+        intervals [22]:
+            xmin = 29.905 
+            xmax = 35.361 
+            text = "#" 
+        intervals [23]:
+            xmin = 35.361 
+            xmax = 37.947 
+            text = "oui je crois aussi cette pomme est à l'envers" 
+        intervals [24]:
+            xmin = 37.947 
+            xmax = 38.349 
+            text = "#" 
+        intervals [25]:
+            xmin = 38.349 
+            xmax = 38.801 
+            text = "*" 
+        intervals [26]:
+            xmin = 38.801 
+            xmax = 41.509 
+            text = "#" 
+        intervals [27]:
+            xmin = 41.509 
+            xmax = 41.661 
+            text = "*" 
+        intervals [28]:
+            xmin = 41.661 
+            xmax = 44.303 
+            text = "#" 
+        intervals [29]:
+            xmin = 44.303 
+            xmax = 45.146 
+            text = "oui en effet" 
+        intervals [30]:
+            xmin = 45.146 
+            xmax = 51.99 
+            text = "#" 
+        intervals [31]:
+            xmin = 51.99 
+            xmax = 54.19 
+            text = "quelqu'un a découpé un visage dans la pomme" 
+        intervals [32]:
+            xmin = 54.19 
+            xmax = 59.9516 
+            text = "#" 

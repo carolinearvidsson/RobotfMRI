@@ -1,0 +1,126 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 60 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Transcription" 
+        xmin = 0 
+        xmax = 60 
+        intervals: size = 28 
+        intervals [1]:
+            xmin = 0 
+            xmax = 2.317 
+            text = "#" 
+        intervals [2]:
+            xmin = 2.317 
+            xmax = 4.491 
+            text = "c'est toujours notre framboise de tout à l'heure" 
+        intervals [3]:
+            xmin = 4.491 
+            xmax = 5.665 
+            text = "#" 
+        intervals [4]:
+            xmin = 5.665 
+            xmax = 7.987 
+            text = "elle a elle a toujours son air triste" 
+        intervals [5]:
+            xmin = 7.987 
+            xmax = 9.013 
+            text = "#" 
+        intervals [6]:
+            xmin = 9.013 
+            xmax = 11.685 
+            text = "puis j'ai remarqué aussi que on dirait qu'elle a pas de bras" 
+        intervals [7]:
+            xmin = 11.685 
+            xmax = 12.697 
+            text = "#" 
+        intervals [8]:
+            xmin = 12.697 
+            xmax = 13.271 
+            text = "du coup ça" 
+        intervals [9]:
+            xmin = 13.271 
+            xmax = 13.774 
+            text = "#" 
+        intervals [10]:
+            xmin = 13.774 
+            xmax = 19.469 
+            text = "ça ça inspire encore plus de compassion tu sais tu te dis euh putain la pauvre on dirait qu'elle a raté sa vie et en plus elle a pas de bras" 
+        intervals [11]:
+            xmin = 19.469 
+            xmax = 21.445 
+            text = "#" 
+        intervals [12]:
+            xmin = 21.445 
+            xmax = 21.969 
+            text = "oui bah" 
+        intervals [13]:
+            xmin = 21.969 
+            xmax = 22.284 
+            text = "#" 
+        intervals [14]:
+            xmin = 22.284 
+            xmax = 23.615 
+            text = "exactement" 
+        intervals [15]:
+            xmin = 23.615 
+            xmax = 35.041 
+            text = "#" 
+        intervals [16]:
+            xmin = 35.041 
+            xmax = 35.422 
+            text = "ouais" 
+        intervals [17]:
+            xmin = 35.422 
+            xmax = 35.778 
+            text = "#" 
+        intervals [18]:
+            xmin = 35.778 
+            xmax = 36.946 
+            text = "je suis sure que ça doit être ça" 
+        intervals [19]:
+            xmin = 36.946 
+            xmax = 44.312 
+            text = "#" 
+        intervals [20]:
+            xmin = 44.312 
+            xmax = 46.64 
+            text = "ah peut-être ou en tout cas pas tous" 
+        intervals [21]:
+            xmin = 46.64 
+            xmax = 50.837 
+            text = "#" 
+        intervals [22]:
+            xmin = 50.837 
+            xmax = 51.152 
+            text = "ouais" 
+        intervals [23]:
+            xmin = 51.152 
+            xmax = 51.238 
+            text = "#" 
+        intervals [24]:
+            xmin = 51.238 
+            xmax = 51.884 
+            text = "je pense" 
+        intervals [25]:
+            xmin = 51.884 
+            xmax = 53.154 
+            text = "#" 
+        intervals [26]:
+            xmin = 53.154 
+            xmax = 55.46 
+            text = "tout à l'heure le robot il m'a dit que" 
+        intervals [27]:
+            xmin = 55.46 
+            xmax = 55.735 
+            text = "#" 
+        intervals [28]:
+            xmin = 55.735 
+            xmax = 59.9044 
+            text = "il m'a dit tiens peut-être que le citron c'est une pub pour les enfants tu sais pour euh" 

@@ -1,0 +1,194 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 60 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Transcription" 
+        xmin = 0 
+        xmax = 60 
+        intervals: size = 45 
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.072 
+            text = "#" 
+        intervals [2]:
+            xmin = 1.072 
+            xmax = 1.514 
+            text = "re $Fuhrat$" 
+        intervals [3]:
+            xmin = 1.514 
+            xmax = 2.749 
+            text = "#" 
+        intervals [4]:
+            xmin = 2.749 
+            xmax = 4.136 
+            text = "qui c'est qui peut financer cette campagne" 
+        intervals [5]:
+            xmin = 4.136 
+            xmax = 7.26 
+            text = "#" 
+        intervals [6]:
+            xmin = 7.26 
+            xmax = 11.381 
+            text = "qui c'est qui peut financer une campagne sur euh les fruits locaux et les fruits euh" 
+        intervals [7]:
+            xmin = 11.381 
+            xmax = 13.057 
+            text = "#" 
+        intervals [8]:
+            xmin = 13.057 
+            xmax = 14.947 
+            text = "ben c'est des locaux qui financent la campagne" 
+        intervals [9]:
+            xmin = 14.947 
+            xmax = 18.991 
+            text = "#" 
+        intervals [10]:
+            xmin = 18.991 
+            xmax = 19.337 
+            text = "ah oui" 
+        intervals [11]:
+            xmin = 19.337 
+            xmax = 20.282 
+            text = "#" 
+        intervals [12]:
+            xmin = 20.282 
+            xmax = 22.893 
+            text = "donc c'est les producteurs de fruits qui s'associent pour euh" 
+        intervals [13]:
+            xmin = 22.893 
+            xmax = 23.29 
+            text = "#" 
+        intervals [14]:
+            xmin = 23.29 
+            xmax = 23.869 
+            text = "faire la campagne" 
+        intervals [15]:
+            xmin = 23.869 
+            xmax = 24.667 
+            text = "#" 
+        intervals [16]:
+            xmin = 24.667 
+            xmax = 25.637 
+            text = "c'est euh c'est" 
+        intervals [17]:
+            xmin = 25.637 
+            xmax = 26.277 
+            text = "#" 
+        intervals [18]:
+            xmin = 26.277 
+            xmax = 26.816 
+            text = "elle s'est dit euh" 
+        intervals [19]:
+            xmin = 26.816 
+            xmax = 28.294 
+            text = "#" 
+        intervals [20]:
+            xmin = 28.294 
+            xmax = 29.254 
+            text = "ouais producteurs de fruits" 
+        intervals [21]:
+            xmin = 29.254 
+            xmax = 31.851 
+            text = "#" 
+        intervals [22]:
+            xmin = 31.851 
+            xmax = 33.197 
+            text = "producteurs de fruits bio locaux" 
+        intervals [23]:
+            xmin = 33.197 
+            xmax = 36.255 
+            text = "#" 
+        intervals [24]:
+            xmin = 36.255 
+            xmax = 36.53 
+            text = "non" 
+        intervals [25]:
+            xmin = 36.53 
+            xmax = 38.882 
+            text = "#" 
+        intervals [26]:
+            xmin = 38.882 
+            xmax = 40.168 
+            text = "est ce que c'est euh" 
+        intervals [27]:
+            xmin = 40.168 
+            xmax = 41.306 
+            text = "#" 
+        intervals [28]:
+            xmin = 41.306 
+            xmax = 43.135 
+            text = "pas c'est pas les mecs du $Noailles$ sûr" 
+        intervals [29]:
+            xmin = 43.135 
+            xmax = 44.603 
+            text = "#" 
+        intervals [30]:
+            xmin = 44.603 
+            xmax = 44.984 
+            text = "l'état" 
+        intervals [31]:
+            xmin = 44.984 
+            xmax = 46.503 
+            text = "#" 
+        intervals [32]:
+            xmin = 46.503 
+            xmax = 47.199 
+            text = "c'est euh" 
+        intervals [33]:
+            xmin = 47.199 
+            xmax = 48.236 
+            text = "#" 
+        intervals [34]:
+            xmin = 48.236 
+            xmax = 48.662 
+            text = "mais pourquoi" 
+        intervals [35]:
+            xmin = 48.662 
+            xmax = 49.333 
+            text = "#" 
+        intervals [36]:
+            xmin = 49.333 
+            xmax = 50.552 
+            text = "pourquoi l'état privilégie les locaux" 
+        intervals [37]:
+            xmin = 50.552 
+            xmax = 50.796 
+            text = "#" 
+        intervals [38]:
+            xmin = 50.796 
+            xmax = 51.548 
+            text = "pour l'économie locale" 
+        intervals [39]:
+            xmin = 51.548 
+            xmax = 54.465 
+            text = "#" 
+        intervals [40]:
+            xmin = 54.465 
+            xmax = 54.678 
+            text = "ok" 
+        intervals [41]:
+            xmin = 54.678 
+            xmax = 55.125 
+            text = "#" 
+        intervals [42]:
+            xmin = 55.125 
+            xmax = 55.45 
+            text = "d'accord" 
+        intervals [43]:
+            xmin = 55.45 
+            xmax = 56.121 
+            text = "#" 
+        intervals [44]:
+            xmin = 56.121 
+            xmax = 57.442 
+            text = "donc tu es tu es embauché par l'état quoi" 
+        intervals [45]:
+            xmin = 57.442 
+            xmax = 59.9044 
+            text = "#" 

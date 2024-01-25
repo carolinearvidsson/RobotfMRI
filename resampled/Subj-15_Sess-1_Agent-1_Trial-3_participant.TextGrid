@@ -1,0 +1,150 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 60 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Transcription" 
+        xmin = 0 
+        xmax = 60 
+        intervals: size = 34 
+        intervals [1]:
+            xmin = 0 
+            xmax = 2.337 
+            text = "#" 
+        intervals [2]:
+            xmin = 2.337 
+            xmax = 4.319 
+            text = "alors j'ai j'ai pas réussi à voir c'est un citron" 
+        intervals [3]:
+            xmin = 4.319 
+            xmax = 5.777 
+            text = "#" 
+        intervals [4]:
+            xmin = 5.777 
+            xmax = 6.29 
+            text = "un citron" 
+        intervals [5]:
+            xmin = 6.29 
+            xmax = 6.808 
+            text = "#" 
+        intervals [6]:
+            xmin = 6.808 
+            xmax = 7.753 
+            text = "c'est c'est un citron vert" 
+        intervals [7]:
+            xmin = 7.753 
+            xmax = 8.891 
+            text = "#" 
+        intervals [8]:
+            xmin = 8.891 
+            xmax = 9.11 
+            text = "ouais" 
+        intervals [9]:
+            xmin = 9.11 
+            xmax = 12.844 
+            text = "#" 
+        intervals [10]:
+            xmin = 12.844 
+            xmax = 14.581 
+            text = "ouais il ressemble un peu à un indien celui là" 
+        intervals [11]:
+            xmin = 14.581 
+            xmax = 20.185 
+            text = "#" 
+        intervals [12]:
+            xmin = 20.185 
+            xmax = 20.556 
+            text = "ouais euh" 
+        intervals [13]:
+            xmin = 20.556 
+            xmax = 21.283 
+            text = "#" 
+        intervals [14]:
+            xmin = 21.283 
+            xmax = 24.153 
+            text = "un bandeau voilà et les feuilles derrière moi ça me fait penser à des plumes d'indiens" 
+        intervals [15]:
+            xmin = 24.153 
+            xmax = 27.07 
+            text = "#" 
+        intervals [16]:
+            xmin = 27.07 
+            xmax = 27.918 
+            text = "ouais pourquoi pas" 
+        intervals [17]:
+            xmin = 27.918 
+            xmax = 29.691 
+            text = "#" 
+        intervals [18]:
+            xmin = 29.691 
+            xmax = 29.925 
+            text = "voilà" 
+        intervals [19]:
+            xmin = 29.925 
+            xmax = 36.789 
+            text = "#" 
+        intervals [20]:
+            xmin = 36.789 
+            xmax = 37.749 
+            text = "ouais clairement" 
+        intervals [21]:
+            xmin = 37.749 
+            xmax = 38.913 
+            text = "#" 
+        intervals [22]:
+            xmin = 38.913 
+            xmax = 39.253 
+            text = "c'est ça" 
+        intervals [23]:
+            xmin = 39.253 
+            xmax = 39.761 
+            text = "#" 
+        intervals [24]:
+            xmin = 39.761 
+            xmax = 41.387 
+            text = "ouais ou un cocktail éventuellement" 
+        intervals [25]:
+            xmin = 41.387 
+            xmax = 42.718 
+            text = "#" 
+        intervals [26]:
+            xmin = 42.718 
+            xmax = 46.869 
+            text = "ou un cocktail moi citron vert ça citron vert ça me fait penser aux mojitos aux cocktails" 
+        intervals [27]:
+            xmin = 46.869 
+            xmax = 50.065 
+            text = "#" 
+        intervals [28]:
+            xmin = 50.065 
+            xmax = 51.609 
+            text = "oui aubergine on aurait pas trop dit cocktail" 
+        intervals [29]:
+            xmin = 51.609 
+            xmax = 54.221 
+            text = "#" 
+        intervals [30]:
+            xmin = 54.221 
+            xmax = 54.617 
+            text = "c'est vrai" 
+        intervals [31]:
+            xmin = 54.617 
+            xmax = 56.7 
+            text = "#" 
+        intervals [32]:
+            xmin = 56.7 
+            xmax = 57.076 
+            text = "ben oui" 
+        intervals [33]:
+            xmin = 57.076 
+            xmax = 59.733 
+            text = "#" 
+        intervals [34]:
+            xmin = 59.733 
+            xmax = 59.9044 
+            text = "ah d'acc-" 

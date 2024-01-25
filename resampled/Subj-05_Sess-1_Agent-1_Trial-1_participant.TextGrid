@@ -1,0 +1,142 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 60 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Transcription" 
+        xmin = 0 
+        xmax = 60 
+        intervals: size = 32 
+        intervals [1]:
+            xmin = 0 
+            xmax = 2.764 
+            text = "#" 
+        intervals [2]:
+            xmin = 2.764 
+            xmax = 3.816 
+            text = "ouais ouais je t'entends" 
+        intervals [3]:
+            xmin = 3.816 
+            xmax = 7.235 
+            text = "#" 
+        intervals [4]:
+            xmin = 7.235 
+            xmax = 8.474 
+            text = "ouais ouais une aubergine euh" 
+        intervals [5]:
+            xmin = 8.474 
+            xmax = 12.524 
+            text = "#" 
+        intervals [6]:
+            xmin = 12.524 
+            xmax = 13.621 
+            text = "d'accord d'accord" 
+        intervals [7]:
+            xmin = 13.621 
+            xmax = 17.086 
+            text = "#" 
+        intervals [8]:
+            xmin = 17.086 
+            xmax = 19.454 
+            text = "on aurait une tête euh une tête de $Batman$ là" 
+        intervals [9]:
+            xmin = 19.454 
+            xmax = 22.284 
+            text = "#" 
+        intervals [10]:
+            xmin = 22.284 
+            xmax = 22.649 
+            text = "ouais" 
+        intervals [11]:
+            xmin = 22.649 
+            xmax = 23.462 
+            text = "#" 
+        intervals [12]:
+            xmin = 23.462 
+            xmax = 23.605 
+            text = "ouais" 
+        intervals [13]:
+            xmin = 23.605 
+            xmax = 24.077 
+            text = "#" 
+        intervals [14]:
+            xmin = 24.077 
+            xmax = 26.551 
+            text = "lève lève un petit peu le ton pour que je t'entende un petit peu mieux" 
+        intervals [15]:
+            xmin = 26.551 
+            xmax = 26.861 
+            text = "#" 
+        intervals [16]:
+            xmin = 26.861 
+            xmax = 27.222 
+            text = "et" 
+        intervals [17]:
+            xmin = 27.222 
+            xmax = 27.776 
+            text = "#" 
+        intervals [18]:
+            xmin = 27.776 
+            xmax = 28.198 
+            text = "super" 
+        intervals [19]:
+            xmin = 28.198 
+            xmax = 30.093 
+            text = "#" 
+        intervals [20]:
+            xmin = 30.093 
+            xmax = 30.453 
+            text = "ah voilà" 
+        intervals [21]:
+            xmin = 30.453 
+            xmax = 30.784 
+            text = "#" 
+        intervals [22]:
+            xmin = 30.784 
+            xmax = 31.998 
+            text = "ah c'est parfait c'est parfait" 
+        intervals [23]:
+            xmin = 31.998 
+            xmax = 38.75 
+            text = "#" 
+        intervals [24]:
+            xmin = 38.75 
+            xmax = 38.989 
+            text = "ouais" 
+        intervals [25]:
+            xmin = 38.989 
+            xmax = 39.781 
+            text = "#" 
+        intervals [26]:
+            xmin = 39.781 
+            xmax = 42.749 
+            text = "ouais tu sais moi ça m'a fait penser à comment tu peux euh" 
+        intervals [27]:
+            xmin = 42.749 
+            xmax = 43.14 
+            text = "#" 
+        intervals [28]:
+            xmin = 43.14 
+            xmax = 46.066 
+            text = "comment tu peux faire manger des des légumes à des gamins" 
+        intervals [29]:
+            xmin = 46.066 
+            xmax = 46.767 
+            text = "#" 
+        intervals [30]:
+            xmin = 46.767 
+            xmax = 48.723 
+            text = "tu sais pour rendre le truc fun @" 
+        intervals [31]:
+            xmin = 48.723 
+            xmax = 58.843 
+            text = "#" 
+        intervals [32]:
+            xmin = 58.843 
+            xmax = 59.9044 
+            text = "non c'est pas ce qu'on a s-" 

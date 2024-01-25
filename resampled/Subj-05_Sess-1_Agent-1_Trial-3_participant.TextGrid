@@ -1,0 +1,110 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 60 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Transcription" 
+        xmin = 0 
+        xmax = 60 
+        intervals: size = 24 
+        intervals [1]:
+            xmin = 0 
+            xmax = 3.353 
+            text = "#" 
+        intervals [2]:
+            xmin = 3.353 
+            xmax = 5.233 
+            text = "c'était la $Tortue Ninja$ là @" 
+        intervals [3]:
+            xmin = 5.233 
+            xmax = 5.69 
+            text = "#" 
+        intervals [4]:
+            xmin = 5.69 
+            xmax = 6.879 
+            text = "@" 
+        intervals [5]:
+            xmin = 6.879 
+            xmax = 11.518 
+            text = "#" 
+        intervals [6]:
+            xmin = 11.518 
+            xmax = 13.01 
+            text = "ouais complètement" 
+        intervals [7]:
+            xmin = 13.01 
+            xmax = 17.112 
+            text = "#" 
+        intervals [8]:
+            xmin = 17.112 
+            xmax = 18.329 
+            text = "le bandana euh" 
+        intervals [9]:
+            xmin = 18.329 
+            xmax = 18.666 
+            text = "#" 
+        intervals [10]:
+            xmin = 18.666 
+            xmax = 19.357 
+            text = "ouais ouais ouais" 
+        intervals [11]:
+            xmin = 19.357 
+            xmax = 19.926 
+            text = "#" 
+        intervals [12]:
+            xmin = 19.926 
+            xmax = 24.905 
+            text = "ouais ça touche bien ma génération c'est ce que je regardais quand j'étais petit comme je me suis en âge d'avoir des gosses c'est bien cib-" 
+        intervals [13]:
+            xmin = 24.905 
+            xmax = 25.246 
+            text = "#" 
+        intervals [14]:
+            xmin = 25.246 
+            xmax = 27.771 
+            text = "c'est bien ciblé en fait c'est très bien pensé tu vois" 
+        intervals [15]:
+            xmin = 27.771 
+            xmax = 36.459 
+            text = "#" 
+        intervals [16]:
+            xmin = 36.459 
+            xmax = 37.139 
+            text = "moi je pense que" 
+        intervals [17]:
+            xmin = 37.139 
+            xmax = 37.576 
+            text = "#" 
+        intervals [18]:
+            xmin = 37.576 
+            xmax = 42.627 
+            text = "moi je pense que c'est ça cible les enfants mais du coup ça peut cibler la génération qui aujourd'hui est parent" 
+        intervals [19]:
+            xmin = 42.627 
+            xmax = 48.673 
+            text = "#" 
+        intervals [20]:
+            xmin = 48.673 
+            xmax = 49.313 
+            text = "ouais c'est ça" 
+        intervals [21]:
+            xmin = 49.313 
+            xmax = 52.646 
+            text = "#" 
+        intervals [22]:
+            xmin = 52.646 
+            xmax = 53.113 
+            text = "ouais ben" 
+        intervals [23]:
+            xmin = 53.113 
+            xmax = 54.055 
+            text = "#" 
+        intervals [24]:
+            xmin = 54.055 
+            xmax = 59.9044 
+            text = "c- oui voilà je pense que c'est transgénérationnel c'est suffisamment étalé dans le temps pour que ça puisse toucher les parents et les enfants" 

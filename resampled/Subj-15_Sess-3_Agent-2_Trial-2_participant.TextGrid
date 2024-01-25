@@ -1,0 +1,138 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 60 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Transcription" 
+        xmin = 0 
+        xmax = 60 
+        intervals: size = 31 
+        intervals [1]:
+            xmin = 0 
+            xmax = 2.881 
+            text = "#" 
+        intervals [2]:
+            xmin = 2.881 
+            xmax = 4.684 
+            text = "moi cette pomme elle me donne envie de la manger quand même" 
+        intervals [3]:
+            xmin = 4.684 
+            xmax = 7.9 
+            text = "#" 
+        intervals [4]:
+            xmin = 7.9 
+            xmax = 10.131 
+            text = "elle est belle elle est rouge elle est brillante elle est" 
+        intervals [5]:
+            xmin = 10.131 
+            xmax = 10.74 
+            text = "#" 
+        intervals [6]:
+            xmin = 10.74 
+            xmax = 12.407 
+            text = "elle a l'air croquante juteuse" 
+        intervals [7]:
+            xmin = 12.407 
+            xmax = 17 
+            text = "#" 
+        intervals [8]:
+            xmin = 17 
+            xmax = 17.752 
+            text = "oui ça c'est" 
+        intervals [9]:
+            xmin = 17.752 
+            xmax = 20.348 
+            text = "#" 
+        intervals [10]:
+            xmin = 20.348 
+            xmax = 20.902 
+            text = "oui sûrement" 
+        intervals [11]:
+            xmin = 20.902 
+            xmax = 22.314 
+            text = "#" 
+        intervals [12]:
+            xmin = 22.314 
+            xmax = 22.751 
+            text = "sûrement" 
+        intervals [13]:
+            xmin = 22.751 
+            xmax = 25.49 
+            text = "#" 
+        intervals [14]:
+            xmin = 25.49 
+            xmax = 26.206 
+            text = "mais euh ouais" 
+        intervals [15]:
+            xmin = 26.206 
+            xmax = 28.828 
+            text = "#" 
+        intervals [16]:
+            xmin = 28.828 
+            xmax = 29.031 
+            text = "et" 
+        intervals [17]:
+            xmin = 29.031 
+            xmax = 31.871 
+            text = "#" 
+        intervals [18]:
+            xmin = 31.871 
+            xmax = 32.689 
+            text = "euh" 
+        intervals [19]:
+            xmin = 32.689 
+            xmax = 32.994 
+            text = "#" 
+        intervals [20]:
+            xmin = 32.994 
+            xmax = 36.611 
+            text = "mangez des fruits vous d- vous deviendrez un super héros ou quelque chose comme ça" 
+        intervals [21]:
+            xmin = 36.611 
+            xmax = 43.267 
+            text = "#" 
+        intervals [22]:
+            xmin = 43.267 
+            xmax = 43.582 
+            text = "oui" 
+        intervals [23]:
+            xmin = 43.582 
+            xmax = 44.308 
+            text = "#" 
+        intervals [24]:
+            xmin = 44.308 
+            xmax = 45.777 
+            text = "ou alors que ça donne des forces" 
+        intervals [25]:
+            xmin = 45.777 
+            xmax = 46.706 
+            text = "#" 
+        intervals [26]:
+            xmin = 46.706 
+            xmax = 48.154 
+            text = "des vitamines etcetera euh" 
+        intervals [27]:
+            xmin = 48.154 
+            xmax = 48.81 
+            text = "#" 
+        intervals [28]:
+            xmin = 48.81 
+            xmax = 50.837 
+            text = "aussi beau pour pour devenir un super héros" 
+        intervals [29]:
+            xmin = 50.837 
+            xmax = 55.199 
+            text = "#" 
+        intervals [30]:
+            xmin = 55.199 
+            xmax = 55.66 
+            text = "peut-être" 
+        intervals [31]:
+            xmin = 55.66 
+            xmax = 59.9044 
+            text = "#" 

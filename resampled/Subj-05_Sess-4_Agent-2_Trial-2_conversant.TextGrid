@@ -1,0 +1,106 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 60 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Transcription" 
+        xmin = 0 
+        xmax = 60 
+        intervals: size = 23 
+        intervals [1]:
+            xmin = 0 
+            xmax = 5.502 
+            text = "#" 
+        intervals [2]:
+            xmin = 5.502 
+            xmax = 5.904 
+            text = "oui" 
+        intervals [3]:
+            xmin = 5.904 
+            xmax = 6.107 
+            text = "#" 
+        intervals [4]:
+            xmin = 6.107 
+            xmax = 6.473 
+            text = "exactement" 
+        intervals [5]:
+            xmin = 6.473 
+            xmax = 6.671 
+            text = "#" 
+        intervals [6]:
+            xmin = 6.671 
+            xmax = 8.485 
+            text = "un des yeux et plus grand que l'autre" 
+        intervals [7]:
+            xmin = 8.485 
+            xmax = 9.155 
+            text = "#" 
+        intervals [8]:
+            xmin = 9.155 
+            xmax = 10.964 
+            text = "un des yeux et plus grand que l'autre" 
+        intervals [9]:
+            xmin = 10.964 
+            xmax = 17.899 
+            text = "#" 
+        intervals [10]:
+            xmin = 17.899 
+            xmax = 18.3 
+            text = "oui" 
+        intervals [11]:
+            xmin = 18.3 
+            xmax = 18.57 
+            text = "#" 
+        intervals [12]:
+            xmin = 18.57 
+            xmax = 19.256 
+            text = "tu as raison" 
+        intervals [13]:
+            xmin = 19.256 
+            xmax = 20.546 
+            text = "#" 
+        intervals [14]:
+            xmin = 20.546 
+            xmax = 22.263 
+            text = "elle est pourrie parce qu'elle vient de loin" 
+        intervals [15]:
+            xmin = 22.263 
+            xmax = 29.615 
+            text = "#" 
+        intervals [16]:
+            xmin = 29.615 
+            xmax = 31.449 
+            text = "peut-être qu'elle est malade et qu'elle pourrie" 
+        intervals [17]:
+            xmin = 31.449 
+            xmax = 40.625 
+            text = "#" 
+        intervals [18]:
+            xmin = 40.625 
+            xmax = 41.489 
+            text = "je ne sais pas" 
+        intervals [19]:
+            xmin = 41.489 
+            xmax = 45.37 
+            text = "#" 
+        intervals [20]:
+            xmin = 45.37 
+            xmax = 47.382 
+            text = "c'est une campagne pour les pesticides" 
+        intervals [21]:
+            xmin = 47.382 
+            xmax = 47.895 
+            text = "#" 
+        intervals [22]:
+            xmin = 47.895 
+            xmax = 48.703 
+            text = "tu ne crois pas" 
+        intervals [23]:
+            xmin = 48.703 
+            xmax = 59.9516 
+            text = "#" 

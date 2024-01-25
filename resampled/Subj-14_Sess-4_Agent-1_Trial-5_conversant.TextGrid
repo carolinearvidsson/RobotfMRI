@@ -1,0 +1,98 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 60 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Transcription" 
+        xmin = 0 
+        xmax = 60 
+        intervals: size = 21 
+        intervals [1]:
+            xmin = 0 
+            xmax = 8.5 
+            text = "#" 
+        intervals [2]:
+            xmin = 8.5 
+            xmax = 11.594 
+            text = "euh oui peut-être peut-être" 
+        intervals [3]:
+            xmin = 11.594 
+            xmax = 11.95 
+            text = "#" 
+        intervals [4]:
+            xmin = 11.95 
+            xmax = 15.074 
+            text = "là on se retrouve avec la pauvre poire qui a qui a qui a l'air euh" 
+        intervals [5]:
+            xmin = 15.074 
+            xmax = 15.41 
+            text = "#" 
+        intervals [6]:
+            xmin = 15.41 
+            xmax = 16.004 
+            text = "maltraitée" 
+        intervals [7]:
+            xmin = 16.004 
+            xmax = 25.815 
+            text = "#" 
+        intervals [8]:
+            xmin = 25.815 
+            xmax = 26.572 
+            text = "pourquoi elle serait quoi" 
+        intervals [9]:
+            xmin = 26.572 
+            xmax = 28.487 
+            text = "#" 
+        intervals [10]:
+            xmin = 28.487 
+            xmax = 29.458 
+            text = "ah elle serait punie" 
+        intervals [11]:
+            xmin = 29.458 
+            xmax = 34.188 
+            text = "#" 
+        intervals [12]:
+            xmin = 34.188 
+            xmax = 35.656 
+            text = "ah bah c'est peut-être ça" 
+        intervals [13]:
+            xmin = 35.656 
+            xmax = 35.885 
+            text = "#" 
+        intervals [14]:
+            xmin = 35.885 
+            xmax = 44.354 
+            text = "euh comme euh comme y a des des autres tout le monde préfère les fruits qui sont beaux euh mais euh avec des pesticides et du coup les autres ils sont tristes" 
+        intervals [15]:
+            xmin = 44.354 
+            xmax = 48.241 
+            text = "#" 
+        intervals [16]:
+            xmin = 48.241 
+            xmax = 48.459 
+            text = "ouais" 
+        intervals [17]:
+            xmin = 48.459 
+            xmax = 51.711 
+            text = "#" 
+        intervals [18]:
+            xmin = 51.711 
+            xmax = 52.3 
+            text = "oui c'est vrai" 
+        intervals [19]:
+            xmin = 52.3 
+            xmax = 52.63 
+            text = "#" 
+        intervals [20]:
+            xmin = 52.63 
+            xmax = 52.971 
+            text = "c'est vrai" 
+        intervals [21]:
+            xmin = 52.971 
+            xmax = 59.9516 
+            text = "#" 

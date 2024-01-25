@@ -1,0 +1,126 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 60 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Transcription" 
+        xmin = 0 
+        xmax = 60 
+        intervals: size = 28 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.132 
+            text = "*" 
+        intervals [2]:
+            xmin = 0.132 
+            xmax = 1.448 
+            text = "#" 
+        intervals [3]:
+            xmin = 1.448 
+            xmax = 2.103 
+            text = "salut" 
+        intervals [4]:
+            xmin = 2.103 
+            xmax = 2.886 
+            text = "#" 
+        intervals [5]:
+            xmin = 2.886 
+            xmax = 3.912 
+            text = "c'est une poire" 
+        intervals [6]:
+            xmin = 3.912 
+            xmax = 9.181 
+            text = "#" 
+        intervals [7]:
+            xmin = 9.181 
+            xmax = 10.598 
+            text = "c'est une poire moche" 
+        intervals [8]:
+            xmin = 10.598 
+            xmax = 14.551 
+            text = "#" 
+        intervals [9]:
+            xmin = 14.551 
+            xmax = 15.659 
+            text = "qu'est ce que t'en penses" 
+        intervals [10]:
+            xmin = 15.659 
+            xmax = 21.669 
+            text = "#" 
+        intervals [11]:
+            xmin = 21.669 
+            xmax = 23.117 
+            text = "elle n'a pas l'air contente" 
+        intervals [12]:
+            xmin = 23.117 
+            xmax = 24.687 
+            text = "#" 
+        intervals [13]:
+            xmin = 24.687 
+            xmax = 25.169 
+            text = "oui" 
+        intervals [14]:
+            xmin = 25.169 
+            xmax = 25.358 
+            text = "#" 
+        intervals [15]:
+            xmin = 25.358 
+            xmax = 26.104 
+            text = "tu as raison" 
+        intervals [16]:
+            xmin = 26.104 
+            xmax = 29.574 
+            text = "#" 
+        intervals [17]:
+            xmin = 29.574 
+            xmax = 30.779 
+            text = "elle semble fatiguée" 
+        intervals [18]:
+            xmin = 30.779 
+            xmax = 34.604 
+            text = "#" 
+        intervals [19]:
+            xmin = 34.604 
+            xmax = 36.652 
+            text = "les yeux sont pas de la même taille" 
+        intervals [20]:
+            xmin = 36.652 
+            xmax = 37.256 
+            text = "#" 
+        intervals [21]:
+            xmin = 37.256 
+            xmax = 39.131 
+            text = "un des yeux et plus grand que l'autre" 
+        intervals [22]:
+            xmin = 39.131 
+            xmax = 45.827 
+            text = "#" 
+        intervals [23]:
+            xmin = 45.827 
+            xmax = 47.687 
+            text = "peut-être qu'elle est malade et qu'elle pourrie" 
+        intervals [24]:
+            xmin = 47.687 
+            xmax = 51.609 
+            text = "#" 
+        intervals [25]:
+            xmin = 51.609 
+            xmax = 52.524 
+            text = "tu ne penses pas" 
+        intervals [26]:
+            xmin = 52.524 
+            xmax = 58.539 
+            text = "#" 
+        intervals [27]:
+            xmin = 58.539 
+            xmax = 59.515 
+            text = "qu'est ce que tu en dis" 
+        intervals [28]:
+            xmin = 59.515 
+            xmax = 59.9516 
+            text = "#" 

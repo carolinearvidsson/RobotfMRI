@@ -1,0 +1,110 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 60 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Transcription" 
+        xmin = 0 
+        xmax = 60 
+        intervals: size = 24 
+        intervals [1]:
+            xmin = 0 
+            xmax = 5.451 
+            text = "#" 
+        intervals [2]:
+            xmin = 5.451 
+            xmax = 9.765 
+            text = "euh ouais ouais c'est c'est mon côté un peu dispersée j'ai eu une autre idée en fait" 
+        intervals [3]:
+            xmin = 9.765 
+            xmax = 10.558 
+            text = "#" 
+        intervals [4]:
+            xmin = 10.558 
+            xmax = 10.756 
+            text = "euh" 
+        intervals [5]:
+            xmin = 10.756 
+            xmax = 12.58 
+            text = "#" 
+        intervals [6]:
+            xmin = 12.58 
+            xmax = 13.951 
+            text = "est ce qu'on a pas pris ça dans le mauvais sens" 
+        intervals [7]:
+            xmin = 13.951 
+            xmax = 14.769 
+            text = "#" 
+        intervals [8]:
+            xmin = 14.769 
+            xmax = 17.711 
+            text = "est ce que c'est euh on doit deviner quelque chose sur sur les fruits" 
+        intervals [9]:
+            xmin = 17.711 
+            xmax = 18.778 
+            text = "#" 
+        intervals [10]:
+            xmin = 18.778 
+            xmax = 21.735 
+            text = "euh en utilisant celles qui sont différents ou est ce que c'est pas" 
+        intervals [11]:
+            xmin = 21.735 
+            xmax = 21.999 
+            text = "#" 
+        intervals [12]:
+            xmin = 21.999 
+            xmax = 24.765 
+            text = "les fruits qui sont utilisés pour nous faire comprendre des trucs sur les différences" 
+        intervals [13]:
+            xmin = 24.765 
+            xmax = 28.599 
+            text = "#" 
+        intervals [14]:
+            xmin = 28.599 
+            xmax = 29.966 
+            text = "tu vois parce que je pense que y a plusieurs angles" 
+        intervals [15]:
+            xmin = 29.966 
+            xmax = 30.967 
+            text = "#" 
+        intervals [16]:
+            xmin = 30.967 
+            xmax = 31.378 
+            text = "et euh" 
+        intervals [17]:
+            xmin = 31.378 
+            xmax = 35.773 
+            text = "#" 
+        intervals [18]:
+            xmin = 35.773 
+            xmax = 39.456 
+            text = "ouais ouais ben par c'est ce que je te proposais tout à l'heure après moi je sais pas ce que t'en penses" 
+        intervals [19]:
+            xmin = 39.456 
+            xmax = 39.878 
+            text = "#" 
+        intervals [20]:
+            xmin = 39.878 
+            xmax = 40.98 
+            text = "c'est peut-être un peu farfelu" 
+        intervals [21]:
+            xmin = 40.98 
+            xmax = 47.514 
+            text = "#" 
+        intervals [22]:
+            xmin = 47.514 
+            xmax = 50.526 
+            text = "-fin toi t'aurais plutôt pensé à quoi -fin c'est parce que" 
+        intervals [23]:
+            xmin = 50.526 
+            xmax = 57.289 
+            text = "#" 
+        intervals [24]:
+            xmin = 57.289 
+            xmax = 59.9516 
+            text = "ouais c'est c'est euh c'est peut-être moi qui part en live quand c-" 

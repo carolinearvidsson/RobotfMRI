@@ -1,0 +1,114 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 60 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Transcription" 
+        xmin = 0 
+        xmax = 60 
+        intervals: size = 25 
+        intervals [1]:
+            xmin = 0 
+            xmax = 3.754 
+            text = "#" 
+        intervals [2]:
+            xmin = 3.754 
+            xmax = 4.319 
+            text = "c'est la même hein" 
+        intervals [3]:
+            xmin = 4.319 
+            xmax = 4.517 
+            text = "#" 
+        intervals [4]:
+            xmin = 4.517 
+            xmax = 5.838 
+            text = "c'était exactement la même" 
+        intervals [5]:
+            xmin = 5.838 
+            xmax = 7.972 
+            text = "#" 
+        intervals [6]:
+            xmin = 7.972 
+            xmax = 10.332 
+            text = "donc euh voilà donc euh y a des chances qui" 
+        intervals [7]:
+            xmin = 10.332 
+            xmax = 10.497 
+            text = "#" 
+        intervals [8]:
+            xmin = 10.497 
+            xmax = 11.635 
+            text = "qu'on revoit les mêmes images" 
+        intervals [9]:
+            xmin = 11.635 
+            xmax = 28.279 
+            text = "#" 
+        intervals [10]:
+            xmin = 28.279 
+            xmax = 29.823 
+            text = "ah dans ce sens là" 
+        intervals [11]:
+            xmin = 29.823 
+            xmax = 40.843 
+            text = "#" 
+        intervals [12]:
+            xmin = 40.843 
+            xmax = 41.854 
+            text = "ouais" 
+        intervals [13]:
+            xmin = 41.854 
+            xmax = 42.042 
+            text = "#" 
+        intervals [14]:
+            xmin = 42.042 
+            xmax = 44.252 
+            text = "ça fait en tout cas ça fait une ça fait une histoire" 
+        intervals [15]:
+            xmin = 44.252 
+            xmax = 44.628 
+            text = "#" 
+        intervals [16]:
+            xmin = 44.628 
+            xmax = 46.02 
+            text = "mais c'est un peu euh" 
+        intervals [17]:
+            xmin = 46.02 
+            xmax = 46.561 
+            text = "#" 
+        intervals [18]:
+            xmin = 46.561 
+            xmax = 50.131 
+            text = "parce que les pesticides normalement on les utilise pour pour rendre les légumes plus beaux" 
+        intervals [19]:
+            xmin = 50.131 
+            xmax = 51.32 
+            text = "#" 
+        intervals [20]:
+            xmin = 51.32 
+            xmax = 53.596 
+            text = "fin moi je sais que je j'ai j'ai mon producteur de" 
+        intervals [21]:
+            xmin = 53.596 
+            xmax = 53.987 
+            text = "#" 
+        intervals [22]:
+            xmin = 53.987 
+            xmax = 55.079 
+            text = "de légumes bio euh" 
+        intervals [23]:
+            xmin = 55.079 
+            xmax = 55.328 
+            text = "#" 
+        intervals [24]:
+            xmin = 55.328 
+            xmax = 59.271 
+            text = "ce qui nous ramène c'est pas joli quoi ça ressemble plus à la deuxième campagne qu'à celle des super-héros" 
+        intervals [25]:
+            xmin = 59.271 
+            xmax = 59.9516 
+            text = "#" 

@@ -1,0 +1,162 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 60 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Transcription" 
+        xmin = 0 
+        xmax = 60 
+        intervals: size = 37 
+        intervals [1]:
+            xmin = 0 
+            xmax = 4.232 
+            text = "#" 
+        intervals [2]:
+            xmin = 4.232 
+            xmax = 4.542 
+            text = "allo" 
+        intervals [3]:
+            xmin = 4.542 
+            xmax = 6.056 
+            text = "#" 
+        intervals [4]:
+            xmin = 6.056 
+            xmax = 6.432 
+            text = "bonjour" 
+        intervals [5]:
+            xmin = 6.432 
+            xmax = 7.961 
+            text = "#" 
+        intervals [6]:
+            xmin = 7.961 
+            xmax = 9.521 
+            text = "euh ben pour moi là c'est une" 
+        intervals [7]:
+            xmin = 9.521 
+            xmax = 13.047 
+            text = "#" 
+        intervals [8]:
+            xmin = 13.047 
+            xmax = 13.845 
+            text = "moi j'ai vu une" 
+        intervals [9]:
+            xmin = 13.845 
+            xmax = 14.637 
+            text = "#" 
+        intervals [10]:
+            xmin = 14.637 
+            xmax = 16.959 
+            text = "pomme une pomme qui ressemble à $Spiderman$" 
+        intervals [11]:
+            xmin = 16.959 
+            xmax = 18.57 
+            text = "#" 
+        intervals [12]:
+            xmin = 18.57 
+            xmax = 19.987 
+            text = "pomme découpée en" 
+        intervals [13]:
+            xmin = 19.987 
+            xmax = 20.571 
+            text = "#" 
+        intervals [14]:
+            xmin = 20.571 
+            xmax = 21.606 
+            text = "découpée en $Spiderman$" 
+        intervals [15]:
+            xmin = 21.606 
+            xmax = 25.993 
+            text = "#" 
+        intervals [16]:
+            xmin = 25.993 
+            xmax = 26.773 
+            text = "ouais tout à fait" 
+        intervals [17]:
+            xmin = 26.773 
+            xmax = 31.337 
+            text = "#" 
+        intervals [18]:
+            xmin = 31.337 
+            xmax = 32.623 
+            text = "pomme rouge voilà" 
+        intervals [19]:
+            xmin = 32.623 
+            xmax = 33.711 
+            text = "#" 
+        intervals [20]:
+            xmin = 33.711 
+            xmax = 34.246 
+            text = "ça fait" 
+        intervals [21]:
+            xmin = 34.246 
+            xmax = 35.839 
+            text = "#" 
+        intervals [22]:
+            xmin = 35.839 
+            xmax = 36.408 
+            text = "oui bah" 
+        intervals [23]:
+            xmin = 36.408 
+            xmax = 36.896 
+            text = "#" 
+        intervals [24]:
+            xmin = 36.896 
+            xmax = 38.151 
+            text = "exactement comme $Spiderman$ quoi" 
+        intervals [25]:
+            xmin = 38.151 
+            xmax = 39.542 
+            text = "#" 
+        intervals [26]:
+            xmin = 39.542 
+            xmax = 39.881 
+            text = "yep" 
+        intervals [27]:
+            xmin = 39.881 
+            xmax = 41.802 
+            text = "#" 
+        intervals [28]:
+            xmin = 41.802 
+            xmax = 43.544 
+            text = "c'est vrai c'est vrai c'est vrai" 
+        intervals [29]:
+            xmin = 43.544 
+            xmax = 46.139 
+            text = "#" 
+        intervals [30]:
+            xmin = 46.139 
+            xmax = 46.64 
+            text = "c'est vrai" 
+        intervals [31]:
+            xmin = 46.64 
+            xmax = 50.821 
+            text = "#" 
+        intervals [32]:
+            xmin = 50.821 
+            xmax = 52.849 
+            text = "oh elle a l'air elle a l'air bonne à manger" 
+        intervals [33]:
+            xmin = 52.849 
+            xmax = 54.14 
+            text = "#" 
+        intervals [34]:
+            xmin = 54.14 
+            xmax = 55.953 
+            text = "elle fait envie elle est bien rouge" 
+        intervals [35]:
+            xmin = 55.953 
+            xmax = 56.436 
+            text = "#" 
+        intervals [36]:
+            xmin = 56.436 
+            xmax = 57.249 
+            text = "bien brillante" 
+        intervals [37]:
+            xmin = 57.249 
+            xmax = 59.9044 
+            text = "#" 

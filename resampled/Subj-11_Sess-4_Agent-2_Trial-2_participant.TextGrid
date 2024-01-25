@@ -1,0 +1,154 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 60 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Transcription" 
+        xmin = 0 
+        xmax = 60 
+        intervals: size = 35 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.757 
+            text = "#" 
+        intervals [2]:
+            xmin = 0.757 
+            xmax = 12.666 
+            text = "alors c'est la poire cabossée et du coup j'ai bien fait attention effectivement elle est euh abîmée noire c'est ce que je pensais être des ombres mais en fait c'est vrai qu'elle est elle est pas trop trop en en bon état" 
+        intervals [3]:
+            xmin = 12.666 
+            xmax = 13.748 
+            text = "#" 
+        intervals [4]:
+            xmin = 13.748 
+            xmax = 16.984 
+            text = "oui voilà elle abîmée en fait j'avais pas vraiment vu ça" 
+        intervals [5]:
+            xmin = 16.984 
+            xmax = 17.282 
+            text = "#" 
+        intervals [6]:
+            xmin = 17.282 
+            xmax = 19.337 
+            text = "je me suis plutôt focalisé sur les yeux" 
+        intervals [7]:
+            xmin = 19.337 
+            xmax = 19.652 
+            text = "#" 
+        intervals [8]:
+            xmin = 19.652 
+            xmax = 22.487 
+            text = "euh du coup elle donne pas envie d'être mangée" 
+        intervals [9]:
+            xmin = 22.487 
+            xmax = 22.802 
+            text = "#" 
+        intervals [10]:
+            xmin = 22.802 
+            xmax = 23.158 
+            text = "euh" 
+        intervals [11]:
+            xmin = 23.158 
+            xmax = 24.433 
+            text = "#" 
+        intervals [12]:
+            xmin = 24.433 
+            xmax = 25.393 
+            text = "ouais @" 
+        intervals [13]:
+            xmin = 25.393 
+            xmax = 25.839 
+            text = "#" 
+        intervals [14]:
+            xmin = 25.839 
+            xmax = 26.856 
+            text = "euh" 
+        intervals [15]:
+            xmin = 26.856 
+            xmax = 27.451 
+            text = "#" 
+        intervals [16]:
+            xmin = 27.451 
+            xmax = 28.767 
+            text = "et elle a l'air euh" 
+        intervals [17]:
+            xmin = 28.767 
+            xmax = 29.828 
+            text = "#" 
+        intervals [18]:
+            xmin = 29.828 
+            xmax = 32.189 
+            text = "pensive ailleurs" 
+        intervals [19]:
+            xmin = 32.189 
+            xmax = 33.056 
+            text = "#" 
+        intervals [20]:
+            xmin = 33.056 
+            xmax = 33.481 
+            text = "euh" 
+        intervals [21]:
+            xmin = 33.481 
+            xmax = 35.368 
+            text = "#" 
+        intervals [22]:
+            xmin = 35.368 
+            xmax = 37.761 
+            text = "du coup non par rapport aux légumes si on compare" 
+        intervals [23]:
+            xmin = 37.761 
+            xmax = 41.798 
+            text = "#" 
+        intervals [24]:
+            xmin = 41.798 
+            xmax = 45.871 
+            text = "oui c'est un peu indéfinissable pour l'expression je sais pas trop triste ou neutre ou euh" 
+        intervals [25]:
+            xmin = 45.871 
+            xmax = 47.021 
+            text = "#" 
+        intervals [26]:
+            xmin = 47.021 
+            xmax = 48.195 
+            text = "euh ailleurs" 
+        intervals [27]:
+            xmin = 48.195 
+            xmax = 48.779 
+            text = "#" 
+        intervals [28]:
+            xmin = 48.779 
+            xmax = 49.414 
+            text = "un peu ailleurs" 
+        intervals [29]:
+            xmin = 49.414 
+            xmax = 50.046 
+            text = "#" 
+        intervals [30]:
+            xmin = 50.046 
+            xmax = 52.577 
+            text = "euh du coup on a pas envie de la" 
+        intervals [31]:
+            xmin = 52.577 
+            xmax = 54.026 
+            text = "#" 
+        intervals [32]:
+            xmin = 54.026 
+            xmax = 54.406 
+            text = "pour la" 
+        intervals [33]:
+            xmin = 54.406 
+            xmax = 55.154 
+            text = "#" 
+        intervals [34]:
+            xmin = 55.154 
+            xmax = 55.994 
+            text = "de lui faire un calin en fait" 
+        intervals [35]:
+            xmin = 55.994 
+            xmax = 59.9044 
+            text = "#" 

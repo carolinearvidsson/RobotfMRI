@@ -1,0 +1,106 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 60 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Transcription" 
+        xmin = 0 
+        xmax = 60 
+        intervals: size = 23 
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.148 
+            text = "#" 
+        intervals [2]:
+            xmin = 1.148 
+            xmax = 3.709 
+            text = "ouais je sais que tu as des informations $Thierry$ @" 
+        intervals [3]:
+            xmin = 3.709 
+            xmax = 3.887 
+            text = "#" 
+        intervals [4]:
+            xmin = 3.887 
+            xmax = 4.217 
+            text = "@" 
+        intervals [5]:
+            xmin = 4.217 
+            xmax = 4.649 
+            text = "#" 
+        intervals [6]:
+            xmin = 4.649 
+            xmax = 5.314 
+            text = "oh par avance" 
+        intervals [7]:
+            xmin = 5.314 
+            xmax = 9.887 
+            text = "#" 
+        intervals [8]:
+            xmin = 9.887 
+            xmax = 13.382 
+            text = "ouais ben du coup c'est l'impertinence du coup les" 
+        intervals [9]:
+            xmin = 13.382 
+            xmax = 13.718 
+            text = "#" 
+        intervals [10]:
+            xmin = 13.718 
+            xmax = 18.768 
+            text = "producteurs locaux pour inciter à consommer local en mettant des légumes en disant si ça vient de loin c'est des fruits pourris" 
+        intervals [11]:
+            xmin = 18.768 
+            xmax = 19.499 
+            text = "#" 
+        intervals [12]:
+            xmin = 19.499 
+            xmax = 19.738 
+            text = "voilà" 
+        intervals [13]:
+            xmin = 19.738 
+            xmax = 27.568 
+            text = "#" 
+        intervals [14]:
+            xmin = 27.568 
+            xmax = 27.832 
+            text = "ouais" 
+        intervals [15]:
+            xmin = 27.832 
+            xmax = 31.099 
+            text = "#" 
+        intervals [16]:
+            xmin = 31.099 
+            xmax = 34.701 
+            text = "c'est quoi du coup c'est agriculteurs qui se sont rebellés qui ont dit y en a marre il faut" 
+        intervals [17]:
+            xmin = 34.701 
+            xmax = 35.575 
+            text = "#" 
+        intervals [18]:
+            xmin = 35.575 
+            xmax = 39.639 
+            text = "prévenir de la conso locale et du coup donner plus de crédibilité au bio" 
+        intervals [19]:
+            xmin = 39.639 
+            xmax = 50.283 
+            text = "#" 
+        intervals [20]:
+            xmin = 50.283 
+            xmax = 50.715 
+            text = "d'accord ouais" 
+        intervals [21]:
+            xmin = 50.715 
+            xmax = 52.239 
+            text = "#" 
+        intervals [22]:
+            xmin = 52.239 
+            xmax = 57.625 
+            text = "et ouais c'est c'est intéressant mais c'est pas la première chose que tu vois quand tu vois une framboise euh aussi fracassée" 
+        intervals [23]:
+            xmin = 57.625 
+            xmax = 59.9044 
+            text = "#" 

@@ -1,0 +1,194 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 60 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Transcription" 
+        xmin = 0 
+        xmax = 60 
+        intervals: size = 45 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.62 
+            text = "#" 
+        intervals [2]:
+            xmin = 0.62 
+            xmax = 1.006 
+            text = "salut $Fuhrat$" 
+        intervals [3]:
+            xmin = 1.006 
+            xmax = 4.08 
+            text = "#" 
+        intervals [4]:
+            xmin = 4.08 
+            xmax = 4.278 
+            text = "*" 
+        intervals [5]:
+            xmin = 4.278 
+            xmax = 4.715 
+            text = "#" 
+        intervals [6]:
+            xmin = 4.715 
+            xmax = 4.908 
+            text = "*" 
+        intervals [7]:
+            xmin = 4.908 
+            xmax = 7.905 
+            text = "#" 
+        intervals [8]:
+            xmin = 7.905 
+            xmax = 8.403 
+            text = "j'ai pas compris" 
+        intervals [9]:
+            xmin = 8.403 
+            xmax = 11.045 
+            text = "#" 
+        intervals [10]:
+            xmin = 11.045 
+            xmax = 11.594 
+            text = "j'ai pas compris" 
+        intervals [11]:
+            xmin = 11.594 
+            xmax = 14.119 
+            text = "#" 
+        intervals [12]:
+            xmin = 14.119 
+            xmax = 19.398 
+            text = "oh euh y a trois branches qui sont déformés qui est en fait un peu *" 
+        intervals [13]:
+            xmin = 19.398 
+            xmax = 20.856 
+            text = "#" 
+        intervals [14]:
+            xmin = 20.856 
+            xmax = 21.085 
+            text = "voilà" 
+        intervals [15]:
+            xmin = 21.085 
+            xmax = 23.183 
+            text = "#" 
+        intervals [16]:
+            xmin = 23.183 
+            xmax = 23.95 
+            text = "et elle glisse" 
+        intervals [17]:
+            xmin = 23.95 
+            xmax = 24.235 
+            text = "#" 
+        intervals [18]:
+            xmin = 24.235 
+            xmax = 26.308 
+            text = "elle glisse elle c'est vraiment *" 
+        intervals [19]:
+            xmin = 26.308 
+            xmax = 26.912 
+            text = "#" 
+        intervals [20]:
+            xmin = 26.912 
+            xmax = 27.161 
+            text = "*" 
+        intervals [21]:
+            xmin = 27.161 
+            xmax = 30.636 
+            text = "#" 
+        intervals [22]:
+            xmin = 30.636 
+            xmax = 30.779 
+            text = "ouais" 
+        intervals [23]:
+            xmin = 30.779 
+            xmax = 31.246 
+            text = "#" 
+        intervals [24]:
+            xmin = 31.246 
+            xmax = 33.319 
+            text = "et des usages" 
+        intervals [25]:
+            xmin = 33.319 
+            xmax = 35.996 
+            text = "#" 
+        intervals [26]:
+            xmin = 35.996 
+            xmax = 37.058 
+            text = "tu sais pourquoi une framboise" 
+        intervals [27]:
+            xmin = 37.058 
+            xmax = 39.126 
+            text = "#" 
+        intervals [28]:
+            xmin = 39.126 
+            xmax = 40.005 
+            text = "framboise *" 
+        intervals [29]:
+            xmin = 40.005 
+            xmax = 42.713 
+            text = "#" 
+        intervals [30]:
+            xmin = 42.713 
+            xmax = 43.602 
+            text = "rose mal aimée" 
+        intervals [31]:
+            xmin = 43.602 
+            xmax = 44.222 
+            text = "#" 
+        intervals [32]:
+            xmin = 44.222 
+            xmax = 44.842 
+            text = "déjà framboise" 
+        intervals [33]:
+            xmin = 44.842 
+            xmax = 46.894 
+            text = "#" 
+        intervals [34]:
+            xmin = 46.894 
+            xmax = 47.951 
+            text = "alors * des framboise s" 
+        intervals [35]:
+            xmin = 47.951 
+            xmax = 48.637 
+            text = "#" 
+        intervals [36]:
+            xmin = 48.637 
+            xmax = 48.952 
+            text = "*" 
+        intervals [37]:
+            xmin = 48.952 
+            xmax = 50.42 
+            text = "#" 
+        intervals [38]:
+            xmin = 50.42 
+            xmax = 50.898 
+            text = "et euh" 
+        intervals [39]:
+            xmin = 50.898 
+            xmax = 51.64 
+            text = "#" 
+        intervals [40]:
+            xmin = 51.64 
+            xmax = 54.16 
+            text = "et le message est moins euh" 
+        intervals [41]:
+            xmin = 54.16 
+            xmax = 54.602 
+            text = "#" 
+        intervals [42]:
+            xmin = 54.602 
+            xmax = 57.808 
+            text = "ils sont moins dans le cerveau que les super héros qui sont déjà connus et euh" 
+        intervals [43]:
+            xmin = 57.808 
+            xmax = 58.473 
+            text = "#" 
+        intervals [44]:
+            xmin = 58.473 
+            xmax = 59.372 
+            text = "faudra en reparler" 
+        intervals [45]:
+            xmin = 59.372 
+            xmax = 59.9044 
+            text = "#" 

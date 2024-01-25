@@ -1,0 +1,106 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 60 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Transcription" 
+        xmin = 0 
+        xmax = 60 
+        intervals: size = 23 
+        intervals [1]:
+            xmin = 0 
+            xmax = 5.97 
+            text = "#" 
+        intervals [2]:
+            xmin = 5.97 
+            xmax = 6.747 
+            text = "mh oui" 
+        intervals [3]:
+            xmin = 6.747 
+            xmax = 6.945 
+            text = "#" 
+        intervals [4]:
+            xmin = 6.945 
+            xmax = 10.273 
+            text = "peut-être malade mais déterminée en tout cas tu vois elle serre les poings" 
+        intervals [5]:
+            xmin = 10.273 
+            xmax = 17.975 
+            text = "#" 
+        intervals [6]:
+            xmin = 17.975 
+            xmax = 18.219 
+            text = "ouais" 
+        intervals [7]:
+            xmin = 18.219 
+            xmax = 22.284 
+            text = "#" 
+        intervals [8]:
+            xmin = 22.284 
+            xmax = 22.528 
+            text = "ouais" 
+        intervals [9]:
+            xmin = 22.528 
+            xmax = 22.787 
+            text = "#" 
+        intervals [10]:
+            xmin = 22.787 
+            xmax = 24.682 
+            text = "un peu un peu blasée à bout" 
+        intervals [11]:
+            xmin = 24.682 
+            xmax = 26.216 
+            text = "#" 
+        intervals [12]:
+            xmin = 26.216 
+            xmax = 29.397 
+            text = "comme si elle avait ouais couru un marathon et que" 
+        intervals [13]:
+            xmin = 29.397 
+            xmax = 33.461 
+            text = "#" 
+        intervals [14]:
+            xmin = 33.461 
+            xmax = 33.827 
+            text = "ah ouais" 
+        intervals [15]:
+            xmin = 33.827 
+            xmax = 34.111 
+            text = "#" 
+        intervals [16]:
+            xmin = 34.111 
+            xmax = 37.844 
+            text = "parce que elle avait les poings tout serrés les bras un peu écartés un peu comme pour avoir l'air forte" 
+        intervals [17]:
+            xmin = 37.844 
+            xmax = 44.755 
+            text = "#" 
+        intervals [18]:
+            xmin = 44.755 
+            xmax = 45.329 
+            text = "*" 
+        intervals [19]:
+            xmin = 45.329 
+            xmax = 47.194 
+            text = "#" 
+        intervals [20]:
+            xmin = 47.194 
+            xmax = 48.175 
+            text = "ça t'a fait penser à quoi" 
+        intervals [21]:
+            xmin = 48.175 
+            xmax = 54.592 
+            text = "#" 
+        intervals [22]:
+            xmin = 54.592 
+            xmax = 55.775 
+            text = "ah oui oui" 
+        intervals [23]:
+            xmin = 55.775 
+            xmax = 59.9516 
+            text = "#" 

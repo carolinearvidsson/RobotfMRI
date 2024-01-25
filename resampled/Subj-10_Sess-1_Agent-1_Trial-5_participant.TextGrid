@@ -1,0 +1,98 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 60 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Transcription" 
+        xmin = 0 
+        xmax = 60 
+        intervals: size = 21 
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.311 
+            text = "#" 
+        intervals [2]:
+            xmin = 1.311 
+            xmax = 1.587 
+            text = "re" 
+        intervals [3]:
+            xmin = 1.587 
+            xmax = 3.389 
+            text = "#" 
+        intervals [4]:
+            xmin = 3.389 
+            xmax = 3.526 
+            text = "ouais" 
+        intervals [5]:
+            xmin = 3.526 
+            xmax = 5.985 
+            text = "#" 
+        intervals [6]:
+            xmin = 5.985 
+            xmax = 6.859 
+            text = "ouais la pomme $Spiderman$" 
+        intervals [7]:
+            xmin = 6.859 
+            xmax = 11.396 
+            text = "#" 
+        intervals [8]:
+            xmin = 11.396 
+            xmax = 11.777 
+            text = "c'est ça" 
+        intervals [9]:
+            xmin = 11.777 
+            xmax = 15.547 
+            text = "#" 
+        intervals [10]:
+            xmin = 15.547 
+            xmax = 16.004 
+            text = "comme dans le" 
+        intervals [11]:
+            xmin = 16.004 
+            xmax = 27.878 
+            text = "#" 
+        intervals [12]:
+            xmin = 27.878 
+            xmax = 30.799 
+            text = "ouais c'est bizarre c'est vrai que le citron j'ai pas trop compris par rapport aux autres" 
+        intervals [13]:
+            xmin = 30.799 
+            xmax = 39.065 
+            text = "#" 
+        intervals [14]:
+            xmin = 39.065 
+            xmax = 40.269 
+            text = "aubergine c'est ouais" 
+        intervals [15]:
+            xmin = 40.269 
+            xmax = 45.218 
+            text = "#" 
+        intervals [16]:
+            xmin = 45.218 
+            xmax = 48.479 
+            text = "peut-être c'est des -fin je sais que le citron c'est antioxydant l'aubergine je crois pas" 
+        intervals [17]:
+            xmin = 48.479 
+            xmax = 48.993 
+            text = "#" 
+        intervals [18]:
+            xmin = 48.993 
+            xmax = 49.755 
+            text = "la pomme peut-être" 
+        intervals [19]:
+            xmin = 49.755 
+            xmax = 54.668 
+            text = "#" 
+        intervals [20]:
+            xmin = 54.668 
+            xmax = 55.247 
+            text = "peut-être ouais" 
+        intervals [21]:
+            xmin = 55.247 
+            xmax = 59.9044 
+            text = "#" 

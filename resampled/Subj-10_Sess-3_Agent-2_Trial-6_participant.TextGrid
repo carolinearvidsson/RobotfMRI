@@ -1,0 +1,134 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 60 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Transcription" 
+        xmin = 0 
+        xmax = 60 
+        intervals: size = 30 
+        intervals [1]:
+            xmin = 0 
+            xmax = 2.54 
+            text = "#" 
+        intervals [2]:
+            xmin = 2.54 
+            xmax = 3.018 
+            text = "bonjour" 
+        intervals [3]:
+            xmin = 3.018 
+            xmax = 7.296 
+            text = "#" 
+        intervals [4]:
+            xmin = 7.296 
+            xmax = 7.55 
+            text = "ben" 
+        intervals [5]:
+            xmin = 7.55 
+            xmax = 11.497 
+            text = "#" 
+        intervals [6]:
+            xmin = 11.497 
+            xmax = 11.818 
+            text = "oui" 
+        intervals [7]:
+            xmin = 11.818 
+            xmax = 12.021 
+            text = "#" 
+        intervals [8]:
+            xmin = 12.021 
+            xmax = 14.053 
+            text = "c'est contre l'importation" 
+        intervals [9]:
+            xmin = 14.053 
+            xmax = 14.566 
+            text = "#" 
+        intervals [10]:
+            xmin = 14.566 
+            xmax = 15.171 
+            text = "américaine" 
+        intervals [11]:
+            xmin = 15.171 
+            xmax = 15.374 
+            text = "#" 
+        intervals [12]:
+            xmin = 15.374 
+            xmax = 16.126 
+            text = "de légumes" 
+        intervals [13]:
+            xmin = 16.126 
+            xmax = 18.727 
+            text = "#" 
+        intervals [14]:
+            xmin = 18.727 
+            xmax = 18.91 
+            text = "*" 
+        intervals [15]:
+            xmin = 18.91 
+            xmax = 25.744 
+            text = "#" 
+        intervals [16]:
+            xmin = 25.744 
+            xmax = 26.247 
+            text = "c'est ça ouais" 
+        intervals [17]:
+            xmin = 26.247 
+            xmax = 26.475 
+            text = "#" 
+        intervals [18]:
+            xmin = 26.475 
+            xmax = 27.486 
+            text = "ils ont du mal à" 
+        intervals [19]:
+            xmin = 27.486 
+            xmax = 28.69 
+            text = "#" 
+        intervals [20]:
+            xmin = 28.69 
+            xmax = 30.982 
+            text = "euh faire du chiffre en France euh" 
+        intervals [21]:
+            xmin = 30.982 
+            xmax = 31.454 
+            text = "#" 
+        intervals [22]:
+            xmin = 31.454 
+            xmax = 32.953 
+            text = "à cause de l'importation d'autres produits" 
+        intervals [23]:
+            xmin = 32.953 
+            xmax = 42.215 
+            text = "#" 
+        intervals [24]:
+            xmin = 42.215 
+            xmax = 42.53 
+            text = "oui" 
+        intervals [25]:
+            xmin = 42.53 
+            xmax = 51.599 
+            text = "#" 
+        intervals [26]:
+            xmin = 51.599 
+            xmax = 51.985 
+            text = "*" 
+        intervals [27]:
+            xmin = 51.985 
+            xmax = 55.648 
+            text = "#" 
+        intervals [28]:
+            xmin = 55.648 
+            xmax = 56.365 
+            text = "je sais pas quoi dire" 
+        intervals [29]:
+            xmin = 56.365 
+            xmax = 59.103 
+            text = "#" 
+        intervals [30]:
+            xmin = 59.103 
+            xmax = 59.9044 
+            text = "ben on a tout dit" 

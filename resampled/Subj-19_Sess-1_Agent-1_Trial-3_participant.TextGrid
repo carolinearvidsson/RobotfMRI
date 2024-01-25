@@ -1,0 +1,126 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 60 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Transcription" 
+        xmin = 0 
+        xmax = 60 
+        intervals: size = 28 
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.296 
+            text = "#" 
+        intervals [2]:
+            xmin = 1.296 
+            xmax = 3.983 
+            text = "ok là c'était clairement les $Tortues Ninjas$ non" 
+        intervals [3]:
+            xmin = 3.983 
+            xmax = 11.909 
+            text = "#" 
+        intervals [4]:
+            xmin = 11.909 
+            xmax = 17.874 
+            text = "c'était des c'est des tortues bizarres elles avaient un chef qui était un rat tu sais et elles étaient toutes dans les égouts mais elles étaient un peu justicières" 
+        intervals [5]:
+            xmin = 17.874 
+            xmax = 18.168 
+            text = "#" 
+        intervals [6]:
+            xmin = 18.168 
+            xmax = 20.124 
+            text = "c'était un délire ce dessin animé quoi mais bon" 
+        intervals [7]:
+            xmin = 20.124 
+            xmax = 21.075 
+            text = "#" 
+        intervals [8]:
+            xmin = 21.075 
+            xmax = 22.395 
+            text = "mais tu as peut-être pas dû connaître toi non" 
+        intervals [9]:
+            xmin = 22.395 
+            xmax = 28.477 
+            text = "#" 
+        intervals [10]:
+            xmin = 28.477 
+            xmax = 28.906 
+            text = "ouais" 
+        intervals [11]:
+            xmin = 28.906 
+            xmax = 36.245 
+            text = "#" 
+        intervals [12]:
+            xmin = 36.245 
+            xmax = 38.857 
+            text = "ouais tu sais elles avaient un bandana et là t'avais l'espèce de" 
+        intervals [13]:
+            xmin = 38.857 
+            xmax = 39.162 
+            text = "#" 
+        intervals [14]:
+            xmin = 39.162 
+            xmax = 41.235 
+            text = "de feuille derrière le citron tu sais qui euh" 
+        intervals [15]:
+            xmin = 41.235 
+            xmax = 42.051 
+            text = "#" 
+        intervals [16]:
+            xmin = 42.051 
+            xmax = 42.962 
+            text = "qui font comme les les" 
+        intervals [17]:
+            xmin = 42.962 
+            xmax = 43.587 
+            text = "#" 
+        intervals [18]:
+            xmin = 43.587 
+            xmax = 45.559 
+            text = "je sais pas comment s'appelle les brins du bandana là tu vois" 
+        intervals [19]:
+            xmin = 45.559 
+            xmax = 47.606 
+            text = "#" 
+        intervals [20]:
+            xmin = 47.606 
+            xmax = 48.469 
+            text = "ouais c'est ça ouais" 
+        intervals [21]:
+            xmin = 48.469 
+            xmax = 51.421 
+            text = "#" 
+        intervals [22]:
+            xmin = 51.421 
+            xmax = 53.977 
+            text = "ouais ça faisait comme un pochoir à l'envers un peu donc euh" 
+        intervals [23]:
+            xmin = 53.977 
+            xmax = 54.698 
+            text = "#" 
+        intervals [24]:
+            xmin = 54.698 
+            xmax = 56.985 
+            text = "le masque tu sais avec les yeux qui" 
+        intervals [25]:
+            xmin = 56.985 
+            xmax = 57.157 
+            text = "#" 
+        intervals [26]:
+            xmin = 57.157 
+            xmax = 58.407 
+            text = "ressortaient en vert là et" 
+        intervals [27]:
+            xmin = 58.407 
+            xmax = 58.986 
+            text = "#" 
+        intervals [28]:
+            xmin = 58.986 
+            xmax = 59.9044 
+            text = "comme si le foulard était d-" 

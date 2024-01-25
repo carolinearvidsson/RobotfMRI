@@ -1,0 +1,122 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 60 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Transcription" 
+        xmin = 0 
+        xmax = 60 
+        intervals: size = 27 
+        intervals [1]:
+            xmin = 0 
+            xmax = 2.52 
+            text = "#" 
+        intervals [2]:
+            xmin = 2.52 
+            xmax = 5.538 
+            text = "tu sais tu me disais qu'il y avait pas besoin de passer par euh par la pitié" 
+        intervals [3]:
+            xmin = 5.538 
+            xmax = 6.315 
+            text = "#" 
+        intervals [4]:
+            xmin = 6.315 
+            xmax = 11.98 
+            text = "mais euh moi cette cette poire elle pourrait me faire envie je pense hein parce que du coup elle a un petit côté où euh" 
+        intervals [5]:
+            xmin = 11.98 
+            xmax = 12.702 
+            text = "#" 
+        intervals [6]:
+            xmin = 12.702 
+            xmax = 15.211 
+            text = "je pense qu'elle pourrait être tu vois un petit peu mûre un peu sucrée" 
+        intervals [7]:
+            xmin = 15.211 
+            xmax = 18.829 
+            text = "#" 
+        intervals [8]:
+            xmin = 18.829 
+            xmax = 19.052 
+            text = "ouais" 
+        intervals [9]:
+            xmin = 19.052 
+            xmax = 24.565 
+            text = "#" 
+        intervals [10]:
+            xmin = 24.565 
+            xmax = 24.824 
+            text = "ouais" 
+        intervals [11]:
+            xmin = 24.824 
+            xmax = 30.484 
+            text = "#" 
+        intervals [12]:
+            xmin = 30.484 
+            xmax = 31.104 
+            text = "ah oui oui" 
+        intervals [13]:
+            xmin = 31.104 
+            xmax = 31.698 
+            text = "#" 
+        intervals [14]:
+            xmin = 31.698 
+            xmax = 34.934 
+            text = "bah la framboise pour moi elle ressemble plus à un bonbon qu'à une framboise en fait" 
+        intervals [15]:
+            xmin = 34.934 
+            xmax = 35.88 
+            text = "#" 
+        intervals [16]:
+            xmin = 35.88 
+            xmax = 36.123 
+            text = "ouais" 
+        intervals [17]:
+            xmin = 36.123 
+            xmax = 43.064 
+            text = "#" 
+        intervals [18]:
+            xmin = 43.064 
+            xmax = 43.399 
+            text = "mh mh" 
+        intervals [19]:
+            xmin = 43.399 
+            xmax = 45.584 
+            text = "#" 
+        intervals [20]:
+            xmin = 45.584 
+            xmax = 45.797 
+            text = "ouais" 
+        intervals [21]:
+            xmin = 45.797 
+            xmax = 51.401 
+            text = "#" 
+        intervals [22]:
+            xmin = 51.401 
+            xmax = 51.65 
+            text = "ah" 
+        intervals [23]:
+            xmin = 51.65 
+            xmax = 52.178 
+            text = "#" 
+        intervals [24]:
+            xmin = 52.178 
+            xmax = 58.58 
+            text = "tu sais la poire ça pourrait presque être les les les fruits que tu récupères dans dans dans le jardin ou euh" 
+        intervals [25]:
+            xmin = 58.58 
+            xmax = 59.195 
+            text = "#" 
+        intervals [26]:
+            xmin = 59.195 
+            xmax = 59.393 
+            text = "ouais" 
+        intervals [27]:
+            xmin = 59.393 
+            xmax = 59.9516 
+            text = "#" 

@@ -1,0 +1,158 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 60 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Transcription" 
+        xmin = 0 
+        xmax = 60 
+        intervals: size = 36 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.757 
+            text = "#" 
+        intervals [2]:
+            xmin = 0.757 
+            xmax = 3.313 
+            text = "bon alors Fuhrat elle te donne envie de la manger cette framboise" 
+        intervals [3]:
+            xmin = 3.313 
+            xmax = 5.694 
+            text = "#" 
+        intervals [4]:
+            xmin = 5.694 
+            xmax = 6.391 
+            text = "et pourquoi ça" 
+        intervals [5]:
+            xmin = 6.391 
+            xmax = 8.841 
+            text = "#" 
+        intervals [6]:
+            xmin = 8.841 
+            xmax = 10.11 
+            text = "pourquoi t'as pas envie de la manger" 
+        intervals [7]:
+            xmin = 10.11 
+            xmax = 13.113 
+            text = "#" 
+        intervals [8]:
+            xmin = 13.113 
+            xmax = 14.094 
+            text = "ah c'est une framboise" 
+        intervals [9]:
+            xmin = 14.094 
+            xmax = 14.607 
+            text = "#" 
+        intervals [10]:
+            xmin = 14.607 
+            xmax = 16.001 
+            text = "mais euh oui elle a l'air malade" 
+        intervals [11]:
+            xmin = 16.001 
+            xmax = 16.583 
+            text = "#" 
+        intervals [12]:
+            xmin = 16.583 
+            xmax = 18.727 
+            text = "et c'est pas parce qu'elle a l'air malade qu'elle est pas bonne hein" 
+        intervals [13]:
+            xmin = 18.727 
+            xmax = 19.82 
+            text = "#" 
+        intervals [14]:
+            xmin = 19.82 
+            xmax = 20.983 
+            text = "peut-être qu'elle est très bonne" 
+        intervals [15]:
+            xmin = 20.983 
+            xmax = 21.372 
+            text = "#" 
+        intervals [16]:
+            xmin = 21.372 
+            xmax = 21.816 
+            text = "tu sais pas" 
+        intervals [17]:
+            xmin = 21.816 
+            xmax = 22.629 
+            text = "#" 
+        intervals [18]:
+            xmin = 22.629 
+            xmax = 23.031 
+            text = "et ouais" 
+        intervals [19]:
+            xmin = 23.031 
+            xmax = 23.808 
+            text = "#" 
+        intervals [20]:
+            xmin = 23.808 
+            xmax = 24.844 
+            text = "peut-être qu'elle est pas jolie" 
+        intervals [21]:
+            xmin = 24.844 
+            xmax = 25.561 
+            text = "#" 
+        intervals [22]:
+            xmin = 25.561 
+            xmax = 28.015 
+            text = "mais que mais qu'elle est gentille un peu un peu comme toi" 
+        intervals [23]:
+            xmin = 28.015 
+            xmax = 30.022 
+            text = "#" 
+        intervals [24]:
+            xmin = 30.022 
+            xmax = 30.758 
+            text = "ah si si si" 
+        intervals [25]:
+            xmin = 30.758 
+            xmax = 31.754 
+            text = "#" 
+        intervals [26]:
+            xmin = 31.754 
+            xmax = 32.811 
+            text = "après tout euh" 
+        intervals [27]:
+            xmin = 32.811 
+            xmax = 33.929 
+            text = "#" 
+        intervals [28]:
+            xmin = 33.929 
+            xmax = 36.408 
+            text = "y en a plein des framboises qui sont pas jolies et qui sont très bonnes" 
+        intervals [29]:
+            xmin = 36.408 
+            xmax = 43.033 
+            text = "#" 
+        intervals [30]:
+            xmin = 43.033 
+            xmax = 43.363 
+            text = "ah" 
+        intervals [31]:
+            xmin = 43.363 
+            xmax = 44.674 
+            text = "#" 
+        intervals [32]:
+            xmin = 44.674 
+            xmax = 50.344 
+            text = "ben ouais si c- qu- ouais c'est ce que tu m'as dit tout à l'heure si c'est pour les pesticides ouais euh ça marche hein" 
+        intervals [33]:
+            xmin = 50.344 
+            xmax = 51.814 
+            text = "#" 
+        intervals [34]:
+            xmin = 51.814 
+            xmax = 52.524 
+            text = "mais bon c'est c-" 
+        intervals [35]:
+            xmin = 52.524 
+            xmax = 55.084 
+            text = "#" 
+        intervals [36]:
+            xmin = 55.084 
+            xmax = 59.9044 
+            text = "ah et j'hésite si les deux sont liés ça peut être un peu les pesticides et le" 

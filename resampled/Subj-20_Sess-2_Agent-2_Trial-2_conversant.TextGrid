@@ -1,0 +1,106 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 60 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Transcription" 
+        xmin = 0 
+        xmax = 60 
+        intervals: size = 23 
+        intervals [1]:
+            xmin = 0 
+            xmax = 10.136 
+            text = "#" 
+        intervals [2]:
+            xmin = 10.136 
+            xmax = 10.339 
+            text = "*" 
+        intervals [3]:
+            xmin = 10.339 
+            xmax = 13.103 
+            text = "#" 
+        intervals [4]:
+            xmin = 13.103 
+            xmax = 13.504 
+            text = "ah oui" 
+        intervals [5]:
+            xmin = 13.504 
+            xmax = 15.506 
+            text = "#" 
+        intervals [6]:
+            xmin = 15.506 
+            xmax = 16.349 
+            text = "c'est une poire" 
+        intervals [7]:
+            xmin = 16.349 
+            xmax = 20.302 
+            text = "#" 
+        intervals [8]:
+            xmin = 20.302 
+            xmax = 20.902 
+            text = "je crois" 
+        intervals [9]:
+            xmin = 20.902 
+            xmax = 25.393 
+            text = "#" 
+        intervals [10]:
+            xmin = 25.393 
+            xmax = 25.698 
+            text = "oui" 
+        intervals [11]:
+            xmin = 25.698 
+            xmax = 26.328 
+            text = "#" 
+        intervals [12]:
+            xmin = 26.328 
+            xmax = 27.425 
+            text = "c'est une poire pourrie" 
+        intervals [13]:
+            xmin = 27.425 
+            xmax = 33.1 
+            text = "#" 
+        intervals [14]:
+            xmin = 33.1 
+            xmax = 34.01 
+            text = "elle est déformée" 
+        intervals [15]:
+            xmin = 34.01 
+            xmax = 38.511 
+            text = "#" 
+        intervals [16]:
+            xmin = 38.511 
+            xmax = 40.127 
+            text = "les yeux sont pas de la même taille" 
+        intervals [17]:
+            xmin = 40.127 
+            xmax = 42.616 
+            text = "#" 
+        intervals [18]:
+            xmin = 42.616 
+            xmax = 43.561 
+            text = "qu'est ce que t'en penses" 
+        intervals [19]:
+            xmin = 43.561 
+            xmax = 50.883 
+            text = "#" 
+        intervals [20]:
+            xmin = 50.883 
+            xmax = 52.28 
+            text = "la poire semble triste" 
+        intervals [21]:
+            xmin = 52.28 
+            xmax = 56.609 
+            text = "#" 
+        intervals [22]:
+            xmin = 56.609 
+            xmax = 57.015 
+            text = "ah oui" 
+        intervals [23]:
+            xmin = 57.015 
+            xmax = 59.9516 
+            text = "#" 

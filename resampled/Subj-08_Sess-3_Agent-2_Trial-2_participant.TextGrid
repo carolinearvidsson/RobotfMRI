@@ -1,0 +1,162 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 60 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Transcription" 
+        xmin = 0 
+        xmax = 60 
+        intervals: size = 37 
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.377 
+            text = "#" 
+        intervals [2]:
+            xmin = 1.377 
+            xmax = 1.672 
+            text = "euh" 
+        intervals [3]:
+            xmin = 1.672 
+            xmax = 2.928 
+            text = "#" 
+        intervals [4]:
+            xmin = 2.928 
+            xmax = 4.501 
+            text = "c'était euh la pomme rouge" 
+        intervals [5]:
+            xmin = 4.501 
+            xmax = 5.904 
+            text = "#" 
+        intervals [6]:
+            xmin = 5.904 
+            xmax = 6.737 
+            text = "avec euh" 
+        intervals [7]:
+            xmin = 6.737 
+            xmax = 8.789 
+            text = "#" 
+        intervals [8]:
+            xmin = 8.789 
+            xmax = 9.521 
+            text = "et voilà" 
+        intervals [9]:
+            xmin = 9.521 
+            xmax = 10.014 
+            text = "#" 
+        intervals [10]:
+            xmin = 10.014 
+            xmax = 11.208 
+            text = "une pomme $Spiderman$" 
+        intervals [11]:
+            xmin = 11.208 
+            xmax = 13.588 
+            text = "#" 
+        intervals [12]:
+            xmin = 13.588 
+            xmax = 14.675 
+            text = "euh oui" 
+        intervals [13]:
+            xmin = 14.675 
+            xmax = 15.572 
+            text = "#" 
+        intervals [14]:
+            xmin = 15.572 
+            xmax = 17.386 
+            text = "la *" 
+        intervals [15]:
+            xmin = 17.386 
+            xmax = 18.29 
+            text = "#" 
+        intervals [16]:
+            xmin = 18.29 
+            xmax = 21.45 
+            text = "par rapport euh à ce qu'on a vu tout à l'heure" 
+        intervals [17]:
+            xmin = 21.45 
+            xmax = 23.264 
+            text = "#" 
+        intervals [18]:
+            xmin = 23.264 
+            xmax = 24.479 
+            text = "par rapport aux" 
+        intervals [19]:
+            xmin = 24.479 
+            xmax = 24.941 
+            text = "#" 
+        intervals [20]:
+            xmin = 24.941 
+            xmax = 26.023 
+            text = "à la *" 
+        intervals [21]:
+            xmin = 26.023 
+            xmax = 26.247 
+            text = "#" 
+        intervals [22]:
+            xmin = 26.247 
+            xmax = 27.629 
+            text = "et à la maltraitance" 
+        intervals [23]:
+            xmin = 27.629 
+            xmax = 28.889 
+            text = "#" 
+        intervals [24]:
+            xmin = 28.889 
+            xmax = 30.108 
+            text = "peut-être qu'elle veut sauver" 
+        intervals [25]:
+            xmin = 30.108 
+            xmax = 31.017 
+            text = "#" 
+        intervals [26]:
+            xmin = 31.017 
+            xmax = 31.429 
+            text = "une autre" 
+        intervals [27]:
+            xmin = 31.429 
+            xmax = 36.443 
+            text = "#" 
+        intervals [28]:
+            xmin = 36.443 
+            xmax = 37.028 
+            text = "euh oui" 
+        intervals [29]:
+            xmin = 37.028 
+            xmax = 39.426 
+            text = "#" 
+        intervals [30]:
+            xmin = 39.426 
+            xmax = 41.544 
+            text = "peut-être qu'elle veut sauver les autres fruits *" 
+        intervals [31]:
+            xmin = 41.544 
+            xmax = 51.96 
+            text = "#" 
+        intervals [32]:
+            xmin = 51.96 
+            xmax = 52.95 
+            text = "d'accord" 
+        intervals [33]:
+            xmin = 52.95 
+            xmax = 53.904 
+            text = "#" 
+        intervals [34]:
+            xmin = 53.904 
+            xmax = 54.312 
+            text = "euh" 
+        intervals [35]:
+            xmin = 54.312 
+            xmax = 54.754 
+            text = "#" 
+        intervals [36]:
+            xmin = 54.754 
+            xmax = 56.507 
+            text = "les enfants aiment les super héros" 
+        intervals [37]:
+            xmin = 56.507 
+            xmax = 59.9044 
+            text = "#" 

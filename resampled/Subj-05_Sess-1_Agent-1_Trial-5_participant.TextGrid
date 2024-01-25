@@ -1,0 +1,122 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 60 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Transcription" 
+        xmin = 0 
+        xmax = 60 
+        intervals: size = 27 
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.473 
+            text = "#" 
+        intervals [2]:
+            xmin = 1.473 
+            xmax = 1.631 
+            text = "eh" 
+        intervals [3]:
+            xmin = 1.631 
+            xmax = 5.091 
+            text = "#" 
+        intervals [4]:
+            xmin = 5.091 
+            xmax = 6.274 
+            text = "ouais c'est $Spiderman$" 
+        intervals [5]:
+            xmin = 6.274 
+            xmax = 10.903 
+            text = "#" 
+        intervals [6]:
+            xmin = 10.903 
+            xmax = 11.167 
+            text = "ouais" 
+        intervals [7]:
+            xmin = 11.167 
+            xmax = 11.858 
+            text = "#" 
+        intervals [8]:
+            xmin = 11.858 
+            xmax = 12.854 
+            text = "ouais la tête en bas" 
+        intervals [9]:
+            xmin = 12.854 
+            xmax = 13.982 
+            text = "#" 
+        intervals [10]:
+            xmin = 13.982 
+            xmax = 14.297 
+            text = "et ouais" 
+        intervals [11]:
+            xmin = 14.297 
+            xmax = 14.876 
+            text = "#" 
+        intervals [12]:
+            xmin = 14.876 
+            xmax = 15.029 
+            text = "ouais" 
+        intervals [13]:
+            xmin = 15.029 
+            xmax = 15.318 
+            text = "#" 
+        intervals [14]:
+            xmin = 15.318 
+            xmax = 16.797 
+            text = "bah c'est typique du personnage" 
+        intervals [15]:
+            xmin = 16.797 
+            xmax = 24.001 
+            text = "#" 
+        intervals [16]:
+            xmin = 24.001 
+            xmax = 29.945 
+            text = "oh $Spiderman$ $Batman$ on doit avoir on doit avoir peut-être du $Superman$ et encore si c'est au niveau de la tête c'est peut-être pas le plus significatif" 
+        intervals [17]:
+            xmin = 29.945 
+            xmax = 30.728 
+            text = "#" 
+        intervals [18]:
+            xmin = 30.728 
+            xmax = 31.551 
+            text = "y a pas de masque" 
+        intervals [19]:
+            xmin = 31.551 
+            xmax = 34.502 
+            text = "#" 
+        intervals [20]:
+            xmin = 34.502 
+            xmax = 34.979 
+            text = "@" 
+        intervals [21]:
+            xmin = 34.979 
+            xmax = 37.648 
+            text = "#" 
+        intervals [22]:
+            xmin = 37.648 
+            xmax = 40.168 
+            text = "ah un $Ironman$ en tomate ouais carrément @" 
+        intervals [23]:
+            xmin = 40.168 
+            xmax = 45.126 
+            text = "#" 
+        intervals [24]:
+            xmin = 45.126 
+            xmax = 52.808 
+            text = "ouais ouais non c'est vraiment on est vraiment pour moi on est vraiment tu sais dans le type campagne sensibilisation euh plus plus que publicitaire tu vois" 
+        intervals [25]:
+            xmin = 52.808 
+            xmax = 53.194 
+            text = "#" 
+        intervals [26]:
+            xmin = 53.194 
+            xmax = 54.007 
+            text = "plus euh" 
+        intervals [27]:
+            xmin = 54.007 
+            xmax = 59.9044 
+            text = "#" 

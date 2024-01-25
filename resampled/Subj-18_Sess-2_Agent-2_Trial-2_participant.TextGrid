@@ -1,0 +1,154 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 60 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Transcription" 
+        xmin = 0 
+        xmax = 60 
+        intervals: size = 35 
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.428 
+            text = "#" 
+        intervals [2]:
+            xmin = 1.428 
+            xmax = 2.937 
+            text = "alors c'est une poire" 
+        intervals [3]:
+            xmin = 2.937 
+            xmax = 3.689 
+            text = "#" 
+        intervals [4]:
+            xmin = 3.689 
+            xmax = 5.294 
+            text = "qui a des yeux et" 
+        intervals [5]:
+            xmin = 5.294 
+            xmax = 5.833 
+            text = "#" 
+        intervals [6]:
+            xmin = 5.833 
+            xmax = 6.33 
+            text = "des membres" 
+        intervals [7]:
+            xmin = 6.33 
+            xmax = 8.419 
+            text = "#" 
+        intervals [8]:
+            xmin = 8.419 
+            xmax = 8.998 
+            text = "elle a l'air" 
+        intervals [9]:
+            xmin = 8.998 
+            xmax = 9.684 
+            text = "#" 
+        intervals [10]:
+            xmin = 9.684 
+            xmax = 11.147 
+            text = "ouais elle a l'air euh" 
+        intervals [11]:
+            xmin = 11.147 
+            xmax = 11.746 
+            text = "#" 
+        intervals [12]:
+            xmin = 11.746 
+            xmax = 12.366 
+            text = "abîmée" 
+        intervals [13]:
+            xmin = 12.366 
+            xmax = 17.132 
+            text = "#" 
+        intervals [14]:
+            xmin = 17.132 
+            xmax = 18.519 
+            text = "euh du coup elle a des" 
+        intervals [15]:
+            xmin = 18.519 
+            xmax = 19.886 
+            text = "#" 
+        intervals [16]:
+            xmin = 19.886 
+            xmax = 20.089 
+            text = "non" 
+        intervals [17]:
+            xmin = 20.089 
+            xmax = 20.343 
+            text = "#" 
+        intervals [18]:
+            xmin = 20.343 
+            xmax = 21.247 
+            text = "et un peu décalé" 
+        intervals [19]:
+            xmin = 21.247 
+            xmax = 23.442 
+            text = "#" 
+        intervals [20]:
+            xmin = 23.442 
+            xmax = 24.848 
+            text = "elle a l'air triste" 
+        intervals [21]:
+            xmin = 24.848 
+            xmax = 29.635 
+            text = "#" 
+        intervals [22]:
+            xmin = 29.635 
+            xmax = 30.453 
+            text = "et euh" 
+        intervals [23]:
+            xmin = 30.453 
+            xmax = 32.435 
+            text = "#" 
+        intervals [24]:
+            xmin = 32.435 
+            xmax = 34.172 
+            text = "ben elle semble un peu" 
+        intervals [25]:
+            xmin = 34.172 
+            xmax = 36.535 
+            text = "#" 
+        intervals [26]:
+            xmin = 36.535 
+            xmax = 39.466 
+            text = "délaissée un peu pas très appétissante surtout" 
+        intervals [27]:
+            xmin = 39.466 
+            xmax = 42.998 
+            text = "#" 
+        intervals [28]:
+            xmin = 42.998 
+            xmax = 43.419 
+            text = "un peu" 
+        intervals [29]:
+            xmin = 43.419 
+            xmax = 50.375 
+            text = "#" 
+        intervals [30]:
+            xmin = 50.375 
+            xmax = 51.081 
+            text = "euh" 
+        intervals [31]:
+            xmin = 51.081 
+            xmax = 52.813 
+            text = "#" 
+        intervals [32]:
+            xmin = 52.813 
+            xmax = 55.735 
+            text = "mais ça me fait penser un peu aux campagnes de" 
+        intervals [33]:
+            xmin = 55.735 
+            xmax = 56.507 
+            text = "#" 
+        intervals [34]:
+            xmin = 56.507 
+            xmax = 57.95 
+            text = "de fruits et légumes moches" 
+        intervals [35]:
+            xmin = 57.95 
+            xmax = 59.9044 
+            text = "#" 

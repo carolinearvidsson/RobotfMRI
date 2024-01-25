@@ -1,0 +1,98 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 60 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Transcription" 
+        xmin = 0 
+        xmax = 60 
+        intervals: size = 21 
+        intervals [1]:
+            xmin = 0 
+            xmax = 7.265 
+            text = "#" 
+        intervals [2]:
+            xmin = 7.265 
+            xmax = 7.692 
+            text = "salut" 
+        intervals [3]:
+            xmin = 7.692 
+            xmax = 14.078 
+            text = "#" 
+        intervals [4]:
+            xmin = 14.078 
+            xmax = 14.602 
+            text = "ça va" 
+        intervals [5]:
+            xmin = 14.602 
+            xmax = 16.228 
+            text = "#" 
+        intervals [6]:
+            xmin = 16.228 
+            xmax = 16.553 
+            text = "ouais" 
+        intervals [7]:
+            xmin = 16.553 
+            xmax = 18.565 
+            text = "#" 
+        intervals [8]:
+            xmin = 18.565 
+            xmax = 19.439 
+            text = "il a l'air fort" 
+        intervals [9]:
+            xmin = 19.439 
+            xmax = 19.718 
+            text = "#" 
+        intervals [10]:
+            xmin = 19.718 
+            xmax = 20.45 
+            text = "comme les autres" 
+        intervals [11]:
+            xmin = 20.45 
+            xmax = 26.13 
+            text = "#" 
+        intervals [12]:
+            xmin = 26.13 
+            xmax = 27.181 
+            text = "il semble fiable" 
+        intervals [13]:
+            xmin = 27.181 
+            xmax = 36.205 
+            text = "#" 
+        intervals [14]:
+            xmin = 36.205 
+            xmax = 37.038 
+            text = "qu'est ce que tu en dis" 
+        intervals [15]:
+            xmin = 37.038 
+            xmax = 41.849 
+            text = "#" 
+        intervals [16]:
+            xmin = 41.849 
+            xmax = 44.252 
+            text = "il combat la mauvaise nourriture avec les autres" 
+        intervals [17]:
+            xmin = 44.252 
+            xmax = 47.829 
+            text = "#" 
+        intervals [18]:
+            xmin = 47.829 
+            xmax = 48.378 
+            text = "n'est ce pas" 
+        intervals [19]:
+            xmin = 48.378 
+            xmax = 54.52 
+            text = "#" 
+        intervals [20]:
+            xmin = 54.52 
+            xmax = 55.877 
+            text = "tu as une idée du message" 
+        intervals [21]:
+            xmin = 55.877 
+            xmax = 59.9516 
+            text = "#" 

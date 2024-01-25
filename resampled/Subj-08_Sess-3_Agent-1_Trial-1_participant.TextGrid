@@ -1,0 +1,94 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 60 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Transcription" 
+        xmin = 0 
+        xmax = 60 
+        intervals: size = 20 
+        intervals [1]:
+            xmin = 0 
+            xmax = 3.541 
+            text = "#" 
+        intervals [2]:
+            xmin = 3.541 
+            xmax = 5.284 
+            text = "ouais du coup c'est encore l'aubergine" 
+        intervals [3]:
+            xmin = 5.284 
+            xmax = 16.812 
+            text = "#" 
+        intervals [4]:
+            xmin = 16.812 
+            xmax = 21.491 
+            text = "euh bah voilà c'est pour mettre un masque de super héros" 
+        intervals [5]:
+            xmin = 21.491 
+            xmax = 23.229 
+            text = "#" 
+        intervals [6]:
+            xmin = 23.229 
+            xmax = 23.849 
+            text = "comme ça" 
+        intervals [7]:
+            xmin = 23.849 
+            xmax = 25.449 
+            text = "#" 
+        intervals [8]:
+            xmin = 25.449 
+            xmax = 27.629 
+            text = "je sais pas trop quoi dire de plus que tout à l'heure" 
+        intervals [9]:
+            xmin = 27.629 
+            xmax = 39.126 
+            text = "#" 
+        intervals [10]:
+            xmin = 39.126 
+            xmax = 43.155 
+            text = "euh oui c'est sûr que ça passe avec d'autres mais" 
+        intervals [11]:
+            xmin = 43.155 
+            xmax = 46.447 
+            text = "#" 
+        intervals [12]:
+            xmin = 46.447 
+            xmax = 49.333 
+            text = "je sais pas ça a toujours le même avis que tout à l'heure euh" 
+        intervals [13]:
+            xmin = 49.333 
+            xmax = 49.877 
+            text = "#" 
+        intervals [14]:
+            xmin = 49.877 
+            xmax = 52.219 
+            text = "elle a l'air quand même un peu en colère je sais pas" 
+        intervals [15]:
+            xmin = 52.219 
+            xmax = 52.92 
+            text = "#" 
+        intervals [16]:
+            xmin = 52.92 
+            xmax = 53.174 
+            text = "-fin euh" 
+        intervals [17]:
+            xmin = 53.174 
+            xmax = 53.895 
+            text = "#" 
+        intervals [18]:
+            xmin = 53.895 
+            xmax = 54.434 
+            text = "sévère" 
+        intervals [19]:
+            xmin = 54.434 
+            xmax = 56.939 
+            text = "#" 
+        intervals [20]:
+            xmin = 56.939 
+            xmax = 59.9044 
+            text = "un peu sévère ah peut-être que c'est euh" 

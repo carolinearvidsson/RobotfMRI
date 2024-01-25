@@ -1,0 +1,126 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 60 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Transcription" 
+        xmin = 0 
+        xmax = 60 
+        intervals: size = 28 
+        intervals [1]:
+            xmin = 0 
+            xmax = 2.027 
+            text = "#" 
+        intervals [2]:
+            xmin = 2.027 
+            xmax = 3.384 
+            text = "pour moi en fait ça pourrait être un" 
+        intervals [3]:
+            xmin = 3.384 
+            xmax = 3.795 
+            text = "#" 
+        intervals [4]:
+            xmin = 3.795 
+            xmax = 6.021 
+            text = "un message du ministère de l'agriculture plutôt" 
+        intervals [5]:
+            xmin = 6.021 
+            xmax = 8.662 
+            text = "#" 
+        intervals [6]:
+            xmin = 8.662 
+            xmax = 10.476 
+            text = "ou euh ou de je sais pas si si" 
+        intervals [7]:
+            xmin = 10.476 
+            xmax = 10.966 
+            text = "#" 
+        intervals [8]:
+            xmin = 10.966 
+            xmax = 13.078 
+            text = "si il y a ministère de l'écologie ou de" 
+        intervals [9]:
+            xmin = 13.078 
+            xmax = 13.677 
+            text = "#" 
+        intervals [10]:
+            xmin = 13.677 
+            xmax = 16.715 
+            text = "quelque chose comme ça mais pour favoriser les produits locaux euh" 
+        intervals [11]:
+            xmin = 16.715 
+            xmax = 22.619 
+            text = "#" 
+        intervals [12]:
+            xmin = 22.619 
+            xmax = 22.832 
+            text = "voilà" 
+        intervals [13]:
+            xmin = 22.832 
+            xmax = 23.95 
+            text = "#" 
+        intervals [14]:
+            xmin = 23.95 
+            xmax = 27.161 
+            text = "et comme ça ils sont pas abîmés euh y y ça pollue moins" 
+        intervals [15]:
+            xmin = 27.161 
+            xmax = 27.872 
+            text = "#" 
+        intervals [16]:
+            xmin = 27.872 
+            xmax = 29.166 
+            text = "finalement ils sont" 
+        intervals [17]:
+            xmin = 29.166 
+            xmax = 29.996 
+            text = "#" 
+        intervals [18]:
+            xmin = 29.996 
+            xmax = 32.384 
+            text = "sont voilà les produits locaux c'est très bon" 
+        intervals [19]:
+            xmin = 32.384 
+            xmax = 33.116 
+            text = "#" 
+        intervals [20]:
+            xmin = 33.116 
+            xmax = 38.285 
+            text = "pourquoi aller manger les produits qui viennent de 8000 kilomètres et qui ont fait un trajet qui sont tout abîmés etcetera" 
+        intervals [21]:
+            xmin = 38.285 
+            xmax = 43.358 
+            text = "#" 
+        intervals [22]:
+            xmin = 43.358 
+            xmax = 44.212 
+            text = "pour combattre" 
+        intervals [23]:
+            xmin = 44.212 
+            xmax = 45.523 
+            text = "#" 
+        intervals [24]:
+            xmin = 45.523 
+            xmax = 46.727 
+            text = "combattre voilà ces produits euh" 
+        intervals [25]:
+            xmin = 46.727 
+            xmax = 47.702 
+            text = "#" 
+        intervals [26]:
+            xmin = 47.702 
+            xmax = 48.662 
+            text = "produits qui viennent de trop loin" 
+        intervals [27]:
+            xmin = 48.662 
+            xmax = 57.269 
+            text = "#" 
+        intervals [28]:
+            xmin = 57.269 
+            xmax = 59.9044 
+            text = "autant l'autre l'autre campagne peut-être autant celle" 

@@ -1,0 +1,126 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 60 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Transcription" 
+        xmin = 0 
+        xmax = 60 
+        intervals: size = 28 
+        intervals [1]:
+            xmin = 0 
+            xmax = 2.906 
+            text = "#" 
+        intervals [2]:
+            xmin = 2.906 
+            xmax = 3.261 
+            text = "ok" 
+        intervals [3]:
+            xmin = 3.261 
+            xmax = 5.148 
+            text = "#" 
+        intervals [4]:
+            xmin = 5.148 
+            xmax = 6.203 
+            text = "là c'était une aubergine" 
+        intervals [5]:
+            xmin = 6.203 
+            xmax = 8.632 
+            text = "#" 
+        intervals [6]:
+            xmin = 8.632 
+            xmax = 9.186 
+            text = "on est d'accord" 
+        intervals [7]:
+            xmin = 9.186 
+            xmax = 12.107 
+            text = "#" 
+        intervals [8]:
+            xmin = 12.107 
+            xmax = 13.779 
+            text = "oui moi aussi je crois que c'est une aubergine" 
+        intervals [9]:
+            xmin = 13.779 
+            xmax = 15.359 
+            text = "#" 
+        intervals [10]:
+            xmin = 15.359 
+            xmax = 16.014 
+            text = "euh mh" 
+        intervals [11]:
+            xmin = 16.014 
+            xmax = 17.147 
+            text = "#" 
+        intervals [12]:
+            xmin = 17.147 
+            xmax = 20.058 
+            text = "déguisée un peu une sorte d'aubergine déguisée mais rigolote" 
+        intervals [13]:
+            xmin = 20.058 
+            xmax = 21.364 
+            text = "#" 
+        intervals [14]:
+            xmin = 21.364 
+            xmax = 21.725 
+            text = "ouais" 
+        intervals [15]:
+            xmin = 21.725 
+            xmax = 26.308 
+            text = "#" 
+        intervals [16]:
+            xmin = 26.308 
+            xmax = 29.082 
+            text = "ou oui j'ai pas entendu on a le même visage que" 
+        intervals [17]:
+            xmin = 29.082 
+            xmax = 32.623 
+            text = "#" 
+        intervals [18]:
+            xmin = 32.623 
+            xmax = 34.228 
+            text = "le citron plein d'agrume c'est ça" 
+        intervals [19]:
+            xmin = 34.228 
+            xmax = 36.028 
+            text = "#" 
+        intervals [20]:
+            xmin = 36.028 
+            xmax = 36.299 
+            text = "non" 
+        intervals [21]:
+            xmin = 36.299 
+            xmax = 37.863 
+            text = "#" 
+        intervals [22]:
+            xmin = 37.863 
+            xmax = 39.385 
+            text = "ah et si ouais je suis désolé c-" 
+        intervals [23]:
+            xmin = 39.385 
+            xmax = 43.338 
+            text = "#" 
+        intervals [24]:
+            xmin = 43.338 
+            xmax = 48.327 
+            text = "il a le même visage qu'un citron ou qu'un agrume je comprends pas mais ça doit pas être ça euh" 
+        intervals [25]:
+            xmin = 48.327 
+            xmax = 52.036 
+            text = "#" 
+        intervals [26]:
+            xmin = 52.036 
+            xmax = 52.879 
+            text = "tu peux répéter" 
+        intervals [27]:
+            xmin = 52.879 
+            xmax = 58.092 
+            text = "#" 
+        intervals [28]:
+            xmin = 58.092 
+            xmax = 59.9044 
+            text = "ha mais c'est terrible j'entends pas" 

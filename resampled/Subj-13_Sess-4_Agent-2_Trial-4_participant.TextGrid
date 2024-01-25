@@ -1,0 +1,118 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 60 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Transcription" 
+        xmin = 0 
+        xmax = 60 
+        intervals: size = 26 
+        intervals [1]:
+            xmin = 0 
+            xmax = 4.405 
+            text = "#" 
+        intervals [2]:
+            xmin = 4.405 
+            xmax = 4.755 
+            text = "ouais" 
+        intervals [3]:
+            xmin = 4.755 
+            xmax = 5.502 
+            text = "#" 
+        intervals [4]:
+            xmin = 5.502 
+            xmax = 6.747 
+            text = "et puis elle est déformée" 
+        intervals [5]:
+            xmin = 6.747 
+            xmax = 13.291 
+            text = "#" 
+        intervals [6]:
+            xmin = 13.291 
+            xmax = 14.139 
+            text = "euh peut-être" 
+        intervals [7]:
+            xmin = 14.139 
+            xmax = 14.744 
+            text = "#" 
+        intervals [8]:
+            xmin = 14.744 
+            xmax = 15.399 
+            text = "et puis elle" 
+        intervals [9]:
+            xmin = 15.399 
+            xmax = 15.496 
+            text = "#" 
+        intervals [10]:
+            xmin = 15.496 
+            xmax = 16.543 
+            text = "elle a pas de bras" 
+        intervals [11]:
+            xmin = 16.543 
+            xmax = 22.009 
+            text = "#" 
+        intervals [12]:
+            xmin = 22.009 
+            xmax = 22.538 
+            text = "oh" 
+        intervals [13]:
+            xmin = 22.538 
+            xmax = 23.401 
+            text = "#" 
+        intervals [14]:
+            xmin = 23.401 
+            xmax = 25.952 
+            text = "ouais mais il elle a pas de main quoi -fin" 
+        intervals [15]:
+            xmin = 25.952 
+            xmax = 26.577 
+            text = "#" 
+        intervals [16]:
+            xmin = 26.577 
+            xmax = 28.187 
+            text = "les bras ils sont pas normaux" 
+        intervals [17]:
+            xmin = 28.187 
+            xmax = 36.733 
+            text = "#" 
+        intervals [18]:
+            xmin = 36.733 
+            xmax = 38.369 
+            text = "euh sûrement j'ai pas fait attention" 
+        intervals [19]:
+            xmin = 38.369 
+            xmax = 42.576 
+            text = "#" 
+        intervals [20]:
+            xmin = 42.576 
+            xmax = 42.874 
+            text = "oui" 
+        intervals [21]:
+            xmin = 42.874 
+            xmax = 51.741 
+            text = "#" 
+        intervals [22]:
+            xmin = 51.741 
+            xmax = 53.489 
+            text = "euh oui c'est possible oui" 
+        intervals [23]:
+            xmin = 53.489 
+            xmax = 56.034 
+            text = "#" 
+        intervals [24]:
+            xmin = 56.034 
+            xmax = 56.553 
+            text = "mais alors ce" 
+        intervals [25]:
+            xmin = 56.553 
+            xmax = 58.128 
+            text = "#" 
+        intervals [26]:
+            xmin = 58.128 
+            xmax = 59.9044 
+            text = "ouais mais oui c'est s-" 

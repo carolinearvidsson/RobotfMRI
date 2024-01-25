@@ -1,0 +1,150 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 60 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Transcription" 
+        xmin = 0 
+        xmax = 60 
+        intervals: size = 34 
+        intervals [1]:
+            xmin = 0 
+            xmax = 2.403 
+            text = "#" 
+        intervals [2]:
+            xmin = 2.403 
+            xmax = 4.245 
+            text = "ça euh je crois que je vois ce que c'est" 
+        intervals [3]:
+            xmin = 4.245 
+            xmax = 4.745 
+            text = "#" 
+        intervals [4]:
+            xmin = 4.745 
+            xmax = 5.131 
+            text = "en fait" 
+        intervals [5]:
+            xmin = 5.131 
+            xmax = 7.108 
+            text = "#" 
+        intervals [6]:
+            xmin = 7.108 
+            xmax = 11.533 
+            text = "bah c'est c'est $Spiderman$ tu sais elle est à l'envers avec les yeux en fente et tout" 
+        intervals [7]:
+            xmin = 11.533 
+            xmax = 13.327 
+            text = "#" 
+        intervals [8]:
+            xmin = 13.327 
+            xmax = 13.647 
+            text = "mais oui" 
+        intervals [9]:
+            xmin = 13.647 
+            xmax = 16.095 
+            text = "#" 
+        intervals [10]:
+            xmin = 16.095 
+            xmax = 17.162 
+            text = "bah ouais -fin pour moi oui" 
+        intervals [11]:
+            xmin = 17.162 
+            xmax = 18.199 
+            text = "#" 
+        intervals [12]:
+            xmin = 18.199 
+            xmax = 19.235 
+            text = "en plus elle est même à l'envers" 
+        intervals [13]:
+            xmin = 19.235 
+            xmax = 25.373 
+            text = "#" 
+        intervals [14]:
+            xmin = 25.373 
+            xmax = 26.267 
+            text = "bah c'est euh" 
+        intervals [15]:
+            xmin = 26.267 
+            xmax = 26.897 
+            text = "#" 
+        intervals [16]:
+            xmin = 26.897 
+            xmax = 29.437 
+            text = "tu sais c'est ce que tu m'as dit sur les $Tortues Ninja$ qui m'a fait penser à ça" 
+        intervals [17]:
+            xmin = 29.437 
+            xmax = 30.911 
+            text = "#" 
+        intervals [18]:
+            xmin = 30.911 
+            xmax = 31.469 
+            text = "que euh" 
+        intervals [19]:
+            xmin = 31.469 
+            xmax = 32.308 
+            text = "#" 
+        intervals [20]:
+            xmin = 32.308 
+            xmax = 32.45 
+            text = "ouais" 
+        intervals [21]:
+            xmin = 32.45 
+            xmax = 39.451 
+            text = "#" 
+        intervals [22]:
+            xmin = 39.451 
+            xmax = 39.761 
+            text = "ouais" 
+        intervals [23]:
+            xmin = 39.761 
+            xmax = 41.91 
+            text = "#" 
+        intervals [24]:
+            xmin = 41.91 
+            xmax = 42.22 
+            text = "peut-être" 
+        intervals [25]:
+            xmin = 42.22 
+            xmax = 42.962 
+            text = "#" 
+        intervals [26]:
+            xmin = 42.962 
+            xmax = 43.724 
+            text = "ah bon tu trouves" 
+        intervals [27]:
+            xmin = 43.724 
+            xmax = 48.607 
+            text = "#" 
+        intervals [28]:
+            xmin = 48.607 
+            xmax = 49.333 
+            text = "ah ok" 
+        intervals [29]:
+            xmin = 49.333 
+            xmax = 50.014 
+            text = "#" 
+        intervals [30]:
+            xmin = 50.014 
+            xmax = 50.227 
+            text = "ouais" 
+        intervals [31]:
+            xmin = 50.227 
+            xmax = 51.558 
+            text = "#" 
+        intervals [32]:
+            xmin = 51.558 
+            xmax = 57.686 
+            text = "d'accord c'est peut-être pa- a- c'est peut-être parce que j'ai identifié à à $Spiderman$ parce que $Spiderman$ dans le film il est plutôt euh" 
+        intervals [33]:
+            xmin = 57.686 
+            xmax = 58.778 
+            text = "#" 
+        intervals [34]:
+            xmin = 58.778 
+            xmax = 59.9516 
+            text = "il est plutôt gentil et" 

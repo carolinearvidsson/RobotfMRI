@@ -1,0 +1,82 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 60 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Transcription" 
+        xmin = 0 
+        xmax = 60 
+        intervals: size = 17 
+        intervals [1]:
+            xmin = 0 
+            xmax = 3.821 
+            text = "#" 
+        intervals [2]:
+            xmin = 3.821 
+            xmax = 5.883 
+            text = "elle est peut-être triste car elle est pourrie" 
+        intervals [3]:
+            xmin = 5.883 
+            xmax = 13.372 
+            text = "#" 
+        intervals [4]:
+            xmin = 13.372 
+            xmax = 14.114 
+            text = "oui en effet" 
+        intervals [5]:
+            xmin = 14.114 
+            xmax = 15.13 
+            text = "#" 
+        intervals [6]:
+            xmin = 15.13 
+            xmax = 18.382 
+            text = "les fruits viennent de loin les légumes sont locaux non" 
+        intervals [7]:
+            xmin = 18.382 
+            xmax = 25.896 
+            text = "#" 
+        intervals [8]:
+            xmin = 25.896 
+            xmax = 26.267 
+            text = "ouais" 
+        intervals [9]:
+            xmin = 26.267 
+            xmax = 32.765 
+            text = "#" 
+        intervals [10]:
+            xmin = 32.765 
+            xmax = 34.152 
+            text = "oui je crois aussi" 
+        intervals [11]:
+            xmin = 34.152 
+            xmax = 41.377 
+            text = "#" 
+        intervals [12]:
+            xmin = 41.377 
+            xmax = 42.159 
+            text = "je ne sais pas" 
+        intervals [13]:
+            xmin = 42.159 
+            xmax = 44.781 
+            text = "#" 
+        intervals [14]:
+            xmin = 44.781 
+            xmax = 48.032 
+            text = "c'est une campagne pour les fruits locaux qui ne viennent pas de loin" 
+        intervals [15]:
+            xmin = 48.032 
+            xmax = 53.357 
+            text = "#" 
+        intervals [16]:
+            xmin = 53.357 
+            xmax = 54.779 
+            text = "tu as une idée du message" 
+        intervals [17]:
+            xmin = 54.779 
+            xmax = 59.9516 
+            text = "#" 

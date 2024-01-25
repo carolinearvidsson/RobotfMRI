@@ -1,0 +1,86 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 60 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Transcription" 
+        xmin = 0 
+        xmax = 60 
+        intervals: size = 18 
+        intervals [1]:
+            xmin = 0 
+            xmax = 6.544 
+            text = "#" 
+        intervals [2]:
+            xmin = 6.544 
+            xmax = 6.706 
+            text = "ouais" 
+        intervals [3]:
+            xmin = 6.706 
+            xmax = 23.528 
+            text = "#" 
+        intervals [4]:
+            xmin = 23.528 
+            xmax = 25.556 
+            text = "euh pour ce qui est de la manger je sais" 
+        intervals [5]:
+            xmin = 25.556 
+            xmax = 26.272 
+            text = "#" 
+        intervals [6]:
+            xmin = 26.272 
+            xmax = 27.629 
+            text = "pas moi j'ai" 
+        intervals [7]:
+            xmin = 27.629 
+            xmax = 29.981 
+            text = "#" 
+        intervals [8]:
+            xmin = 29.981 
+            xmax = 32.425 
+            text = "j'aime bien les poi- ouais elle fait un petit peu pitié en fait" 
+        intervals [9]:
+            xmin = 32.425 
+            xmax = 32.973 
+            text = "#" 
+        intervals [10]:
+            xmin = 32.973 
+            xmax = 33.969 
+            text = "mais euh" 
+        intervals [11]:
+            xmin = 33.969 
+            xmax = 34.564 
+            text = "#" 
+        intervals [12]:
+            xmin = 34.564 
+            xmax = 43.033 
+            text = "je sais pas parce que -fin je sais pas moi j'aime bien les poires et même si elle a l'air abîmée elle a pas l'air abîmée au délà de la raison quoi et finalement des poires comme ça ça fait un peu plus naturel des fois" 
+        intervals [13]:
+            xmin = 43.033 
+            xmax = 45.995 
+            text = "#" 
+        intervals [14]:
+            xmin = 45.995 
+            xmax = 46.224 
+            text = "ouais" 
+        intervals [15]:
+            xmin = 46.224 
+            xmax = 51.741 
+            text = "#" 
+        intervals [16]:
+            xmin = 51.741 
+            xmax = 53.174 
+            text = "ouais par rapport aux deux autres ouais" 
+        intervals [17]:
+            xmin = 53.174 
+            xmax = 55.303 
+            text = "#" 
+        intervals [18]:
+            xmin = 55.303 
+            xmax = 59.9516 
+            text = "mais tu vois celle là elle fait plus envie par exemple que les légumes de tout à l'heure tu sais qu'ont la peau presque brillante" 

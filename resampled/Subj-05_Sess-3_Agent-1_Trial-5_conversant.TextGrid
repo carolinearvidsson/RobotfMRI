@@ -1,0 +1,150 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 60 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Transcription" 
+        xmin = 0 
+        xmax = 60 
+        intervals: size = 34 
+        intervals [1]:
+            xmin = 0 
+            xmax = 6.366 
+            text = "#" 
+        intervals [2]:
+            xmin = 6.366 
+            xmax = 7.529 
+            text = "beaucoup trop beau" 
+        intervals [3]:
+            xmin = 7.529 
+            xmax = 9.978 
+            text = "#" 
+        intervals [4]:
+            xmin = 9.978 
+            xmax = 10.212 
+            text = "ouais" 
+        intervals [5]:
+            xmin = 10.212 
+            xmax = 19.098 
+            text = "#" 
+        intervals [6]:
+            xmin = 19.098 
+            xmax = 20.19 
+            text = "ah" 
+        intervals [7]:
+            xmin = 20.19 
+            xmax = 20.434 
+            text = "#" 
+        intervals [8]:
+            xmin = 20.434 
+            xmax = 20.739 
+            text = "mais alors" 
+        intervals [9]:
+            xmin = 20.739 
+            xmax = 22.543 
+            text = "#" 
+        intervals [10]:
+            xmin = 22.543 
+            xmax = 25.657 
+            text = "les les super héros seraient les locaux" 
+        intervals [11]:
+            xmin = 25.657 
+            xmax = 25.988 
+            text = "#" 
+        intervals [12]:
+            xmin = 25.988 
+            xmax = 27.791 
+            text = "et donc ils seraient beaux je fais des rimes hein" 
+        intervals [13]:
+            xmin = 27.791 
+            xmax = 32.994 
+            text = "#" 
+        intervals [14]:
+            xmin = 32.994 
+            xmax = 33.319 
+            text = "ah ouais" 
+        intervals [15]:
+            xmin = 33.319 
+            xmax = 33.73 
+            text = "#" 
+        intervals [16]:
+            xmin = 33.73 
+            xmax = 37.709 
+            text = "c'est ça que j'étais en train de dire est ce que ça pourrait pas est ce que les deux sont pas des contre messages" 
+        intervals [17]:
+            xmin = 37.709 
+            xmax = 37.973 
+            text = "#" 
+        intervals [18]:
+            xmin = 37.973 
+            xmax = 39.375 
+            text = "parce qu'en fait l'idée c'est que j-" 
+        intervals [19]:
+            xmin = 39.375 
+            xmax = 40.107 
+            text = "#" 
+        intervals [20]:
+            xmin = 40.107 
+            xmax = 41.651 
+            text = "si tu rajoutes un petit truc" 
+        intervals [21]:
+            xmin = 41.651 
+            xmax = 41.895 
+            text = "#" 
+        intervals [22]:
+            xmin = 41.895 
+            xmax = 42.604 
+            text = "un petit texte" 
+        intervals [23]:
+            xmin = 42.604 
+            xmax = 43.426 
+            text = "#" 
+        intervals [24]:
+            xmin = 43.426 
+            xmax = 45.873 
+            text = "tu dois trouver un le message entier" 
+        intervals [25]:
+            xmin = 45.873 
+            xmax = 49.841 
+            text = "#" 
+        intervals [26]:
+            xmin = 49.841 
+            xmax = 50.105 
+            text = "ouais" 
+        intervals [27]:
+            xmin = 50.105 
+            xmax = 52.331 
+            text = "#" 
+        intervals [28]:
+            xmin = 52.331 
+            xmax = 53.093 
+            text = "ben c-" 
+        intervals [29]:
+            xmin = 53.093 
+            xmax = 53.352 
+            text = "#" 
+        intervals [30]:
+            xmin = 53.352 
+            xmax = 55.369 
+            text = "c'est peut-être le but même de la discusssion" 
+        intervals [31]:
+            xmin = 55.369 
+            xmax = 55.755 
+            text = "#" 
+        intervals [32]:
+            xmin = 55.755 
+            xmax = 58.234 
+            text = "euh moi je serais plutôt" 
+        intervals [33]:
+            xmin = 58.234 
+            xmax = 58.621 
+            text = "#" 
+        intervals [34]:
+            xmin = 58.621 
+            xmax = 59.9516 
+            text = "local positif que ce soit" 

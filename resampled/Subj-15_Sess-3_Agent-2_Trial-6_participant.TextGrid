@@ -1,0 +1,122 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 60 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Transcription" 
+        xmin = 0 
+        xmax = 60 
+        intervals: size = 27 
+        intervals [1]:
+            xmin = 0 
+            xmax = 2.853 
+            text = "#" 
+        intervals [2]:
+            xmin = 2.853 
+            xmax = 3.948 
+            text = "c'est le demi-citron" 
+        intervals [3]:
+            xmin = 3.948 
+            xmax = 8.236 
+            text = "#" 
+        intervals [4]:
+            xmin = 8.236 
+            xmax = 10.354 
+            text = "il a l'air beaucoup plus commode que les deux autres" 
+        intervals [5]:
+            xmin = 10.354 
+            xmax = 10.761 
+            text = "#" 
+        intervals [6]:
+            xmin = 10.761 
+            xmax = 11.228 
+            text = "je trouve" 
+        intervals [7]:
+            xmin = 11.228 
+            xmax = 13.286 
+            text = "#" 
+        intervals [8]:
+            xmin = 13.286 
+            xmax = 13.647 
+            text = "voilà" 
+        intervals [9]:
+            xmin = 13.647 
+            xmax = 17.641 
+            text = "#" 
+        intervals [10]:
+            xmin = 17.641 
+            xmax = 18.239 
+            text = "et euh" 
+        intervals [11]:
+            xmin = 18.239 
+            xmax = 18.732 
+            text = "#" 
+        intervals [12]:
+            xmin = 18.732 
+            xmax = 19.926 
+            text = "c'est un peu bizarre parce que" 
+        intervals [13]:
+            xmin = 19.926 
+            xmax = 20.236 
+            text = "#" 
+        intervals [14]:
+            xmin = 20.236 
+            xmax = 21.633 
+            text = "le citron on le mange pas comme ça" 
+        intervals [15]:
+            xmin = 21.633 
+            xmax = 34.056 
+            text = "#" 
+        intervals [16]:
+            xmin = 34.056 
+            xmax = 36.713 
+            text = "combattre les pesticides ça me parait étonnant parce que" 
+        intervals [17]:
+            xmin = 36.713 
+            xmax = 37.282 
+            text = "#" 
+        intervals [18]:
+            xmin = 37.282 
+            xmax = 40.33 
+            text = "pour moi la pomme elle est trop belle elle a elle a certainement eu des pesticides" 
+        intervals [19]:
+            xmin = 40.33 
+            xmax = 41.786 
+            text = "#" 
+        intervals [20]:
+            xmin = 41.786 
+            xmax = 43.033 
+            text = "donc ça m'étonnerait que" 
+        intervals [21]:
+            xmin = 43.033 
+            xmax = 44.654 
+            text = "#" 
+        intervals [22]:
+            xmin = 44.654 
+            xmax = 45.919 
+            text = "ce soit contre les pesticides" 
+        intervals [23]:
+            xmin = 45.919 
+            xmax = 53.118 
+            text = "#" 
+        intervals [24]:
+            xmin = 53.118 
+            xmax = 53.865 
+            text = "ça oui peut-être" 
+        intervals [25]:
+            xmin = 53.865 
+            xmax = 57.945 
+            text = "#" 
+        intervals [26]:
+            xmin = 57.945 
+            xmax = 59.007 
+            text = "ouais peut-être" 
+        intervals [27]:
+            xmin = 59.007 
+            xmax = 59.9044 
+            text = "#" 

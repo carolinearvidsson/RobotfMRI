@@ -1,0 +1,106 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 60 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Transcription" 
+        xmin = 0 
+        xmax = 60 
+        intervals: size = 23 
+        intervals [1]:
+            xmin = 0 
+            xmax = 5.049 
+            text = "#" 
+        intervals [2]:
+            xmin = 5.049 
+            xmax = 5.336 
+            text = "ouais" 
+        intervals [3]:
+            xmin = 5.336 
+            xmax = 6.063 
+            text = "#" 
+        intervals [4]:
+            xmin = 6.063 
+            xmax = 6.81 
+            text = "c'est euh" 
+        intervals [5]:
+            xmin = 6.81 
+            xmax = 7.537 
+            text = "#" 
+        intervals [6]:
+            xmin = 7.537 
+            xmax = 8.243 
+            text = "c'est $Spiderman$" 
+        intervals [7]:
+            xmin = 8.243 
+            xmax = 21.052 
+            text = "#" 
+        intervals [8]:
+            xmin = 21.052 
+            xmax = 21.92 
+            text = "mh" 
+        intervals [9]:
+            xmin = 21.92 
+            xmax = 23.272 
+            text = "#" 
+        intervals [10]:
+            xmin = 23.272 
+            xmax = 25.033 
+            text = "ben en fait je me dis que ça peut être" 
+        intervals [11]:
+            xmin = 25.033 
+            xmax = 25.474 
+            text = "#" 
+        intervals [12]:
+            xmin = 25.474 
+            xmax = 29.723 
+            text = "soit un message où on utilise les super héros pour la nourriture soit" 
+        intervals [13]:
+            xmin = 29.723 
+            xmax = 30.993 
+            text = "#" 
+        intervals [14]:
+            xmin = 30.993 
+            xmax = 37.462 
+            text = "on ça peut aussi être quelque chose d'artistique tu sais pour décaler la nourriture de son euh de son contexte et jouer avec en quelque sorte" 
+        intervals [15]:
+            xmin = 37.462 
+            xmax = 41.233 
+            text = "#" 
+        intervals [16]:
+            xmin = 41.233 
+            xmax = 42.085 
+            text = "par exemple oui" 
+        intervals [17]:
+            xmin = 42.085 
+            xmax = 47.608 
+            text = "#" 
+        intervals [18]:
+            xmin = 47.608 
+            xmax = 48.379 
+            text = "tu euh" 
+        intervals [19]:
+            xmin = 48.379 
+            xmax = 49.821 
+            text = "#" 
+        intervals [20]:
+            xmin = 49.821 
+            xmax = 55.009 
+            text = "tu dirais quoi toi sur le euh sur le le du coup l'utilisation que euh" 
+        intervals [21]:
+            xmin = 55.009 
+            xmax = 55.535 
+            text = "#" 
+        intervals [22]:
+            xmin = 55.535 
+            xmax = 58.71 
+            text = "de ce qu'on voudrait pousser à faire aux gens parce que ça ressemble à une campagne de quelque chose" 
+        intervals [23]:
+            xmin = 58.71 
+            xmax = 59.9516 
+            text = "#" 

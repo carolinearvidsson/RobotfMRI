@@ -1,0 +1,122 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 60 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Transcription" 
+        xmin = 0 
+        xmax = 60 
+        intervals: size = 27 
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.199 
+            text = "#" 
+        intervals [2]:
+            xmin = 1.199 
+            xmax = 1.397 
+            text = "voilà" 
+        intervals [3]:
+            xmin = 1.397 
+            xmax = 3.18 
+            text = "#" 
+        intervals [4]:
+            xmin = 3.18 
+            xmax = 3.749 
+            text = "oui" 
+        intervals [5]:
+            xmin = 3.749 
+            xmax = 4.014 
+            text = "#" 
+        intervals [6]:
+            xmin = 4.014 
+            xmax = 4.461 
+            text = "ça y est" 
+        intervals [7]:
+            xmin = 4.461 
+            xmax = 10.715 
+            text = "#" 
+        intervals [8]:
+            xmin = 10.715 
+            xmax = 13.545 
+            text = "là je dois te parler de la première image que je viens de voir c'est ça" 
+        intervals [9]:
+            xmin = 13.545 
+            xmax = 15.242 
+            text = "#" 
+        intervals [10]:
+            xmin = 15.242 
+            xmax = 17.853 
+            text = "ok alors moi ça m'a fait penser à $Halloween$" 
+        intervals [11]:
+            xmin = 17.853 
+            xmax = 18.504 
+            text = "#" 
+        intervals [12]:
+            xmin = 18.504 
+            xmax = 19.54 
+            text = "et euh" 
+        intervals [13]:
+            xmin = 19.54 
+            xmax = 20.323 
+            text = "#" 
+        intervals [14]:
+            xmin = 20.323 
+            xmax = 21.633 
+            text = "c'est une aubergine" 
+        intervals [15]:
+            xmin = 21.633 
+            xmax = 22.568 
+            text = "#" 
+        intervals [16]:
+            xmin = 22.568 
+            xmax = 27.913 
+            text = "donc le rapport est pas évident au niveau de la saison mais bon elle fait un petit peu peur quand même" 
+        intervals [17]:
+            xmin = 27.913 
+            xmax = 39.746 
+            text = "#" 
+        intervals [18]:
+            xmin = 39.746 
+            xmax = 40.503 
+            text = "oui c'est vrai" 
+        intervals [19]:
+            xmin = 40.503 
+            xmax = 40.93 
+            text = "#" 
+        intervals [20]:
+            xmin = 40.93 
+            xmax = 41.448 
+            text = "c'est vrai" 
+        intervals [21]:
+            xmin = 41.448 
+            xmax = 46.056 
+            text = "#" 
+        intervals [22]:
+            xmin = 46.056 
+            xmax = 47.565 
+            text = "oui elle a la bouche euh" 
+        intervals [23]:
+            xmin = 47.565 
+            xmax = 48.175 
+            text = "#" 
+        intervals [24]:
+            xmin = 48.175 
+            xmax = 49.902 
+            text = "elle est un petit peu terrifiante quand même" 
+        intervals [25]:
+            xmin = 49.902 
+            xmax = 57.736 
+            text = "#" 
+        intervals [26]:
+            xmin = 57.736 
+            xmax = 59.25 
+            text = "ouais elle est terrifiante ouais plutôt" 
+        intervals [27]:
+            xmin = 59.25 
+            xmax = 59.9044 
+            text = "#" 

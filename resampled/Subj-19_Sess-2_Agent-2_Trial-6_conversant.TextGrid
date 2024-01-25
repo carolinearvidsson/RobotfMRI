@@ -1,0 +1,106 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 60 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Transcription" 
+        xmin = 0 
+        xmax = 60 
+        intervals: size = 23 
+        intervals [1]:
+            xmin = 0 
+            xmax = 3.796 
+            text = "#" 
+        intervals [2]:
+            xmin = 3.796 
+            xmax = 4.39 
+            text = "salut" 
+        intervals [3]:
+            xmin = 4.39 
+            xmax = 8.683 
+            text = "#" 
+        intervals [4]:
+            xmin = 8.683 
+            xmax = 9.064 
+            text = "oui" 
+        intervals [5]:
+            xmin = 9.064 
+            xmax = 9.683 
+            text = "#" 
+        intervals [6]:
+            xmin = 9.683 
+            xmax = 10.852 
+            text = "c'est une fraise" 
+        intervals [7]:
+            xmin = 10.852 
+            xmax = 13.817 
+            text = "#" 
+        intervals [8]:
+            xmin = 13.817 
+            xmax = 15.425 
+            text = "c'est une fraise rouge" 
+        intervals [9]:
+            xmin = 15.425 
+            xmax = 20.528 
+            text = "#" 
+        intervals [10]:
+            xmin = 20.528 
+            xmax = 21.969 
+            text = "cette fraise est déformée" 
+        intervals [11]:
+            xmin = 21.969 
+            xmax = 25.52 
+            text = "#" 
+        intervals [12]:
+            xmin = 25.52 
+            xmax = 26.501 
+            text = "oui bien sûr" 
+        intervals [13]:
+            xmin = 26.501 
+            xmax = 27.827 
+            text = "#" 
+        intervals [14]:
+            xmin = 27.827 
+            xmax = 28.838 
+            text = "elle a un visage" 
+        intervals [15]:
+            xmin = 28.838 
+            xmax = 34.167 
+            text = "#" 
+        intervals [16]:
+            xmin = 34.167 
+            xmax = 35.361 
+            text = "oui c'est possible" 
+        intervals [17]:
+            xmin = 35.361 
+            xmax = 37.886 
+            text = "#" 
+        intervals [18]:
+            xmin = 37.886 
+            xmax = 39.332 
+            text = "elle n'a pas l'air contente" 
+        intervals [19]:
+            xmin = 39.332 
+            xmax = 41.489 
+            text = "#" 
+        intervals [20]:
+            xmin = 41.489 
+            xmax = 42.946 
+            text = "elle n'a pas l'air contente" 
+        intervals [21]:
+            xmin = 42.946 
+            xmax = 55.857 
+            text = "#" 
+        intervals [22]:
+            xmin = 55.857 
+            xmax = 56.964 
+            text = "je suis d'accord" 
+        intervals [23]:
+            xmin = 56.964 
+            xmax = 59.9516 
+            text = "#" 

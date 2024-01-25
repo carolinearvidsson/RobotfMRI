@@ -1,0 +1,130 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 60 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Transcription" 
+        xmin = 0 
+        xmax = 60 
+        intervals: size = 29 
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.671 
+            text = "#" 
+        intervals [2]:
+            xmin = 1.671 
+            xmax = 2.307 
+            text = "ah ouais" 
+        intervals [3]:
+            xmin = 2.307 
+            xmax = 3.44 
+            text = "#" 
+        intervals [4]:
+            xmin = 3.44 
+            xmax = 4.379 
+            text = "non @" 
+        intervals [5]:
+            xmin = 4.379 
+            xmax = 5.502 
+            text = "#" 
+        intervals [6]:
+            xmin = 5.502 
+            xmax = 7.997 
+            text = "c'était pas un super héros celui là ou alors" 
+        intervals [7]:
+            xmin = 7.997 
+            xmax = 8.419 
+            text = "#" 
+        intervals [8]:
+            xmin = 8.419 
+            xmax = 8.607 
+            text = "pou-" 
+        intervals [9]:
+            xmin = 8.607 
+            xmax = 9.328 
+            text = "#" 
+        intervals [10]:
+            xmin = 9.328 
+            xmax = 11.416 
+            text = "à la rigueur un super méchant qui vient de perdre" 
+        intervals [11]:
+            xmin = 11.416 
+            xmax = 23.676 
+            text = "#" 
+        intervals [12]:
+            xmin = 23.676 
+            xmax = 24.682 
+            text = "ben" 
+        intervals [13]:
+            xmin = 24.682 
+            xmax = 25.576 
+            text = "#" 
+        intervals [14]:
+            xmin = 25.576 
+            xmax = 32.221 
+            text = "parce que c'est concorde du dans le fruits et légumes au moins y a ça qui reste et puis y a encore un visage au moins y a ces deux choses là qui restent quand même y a des choses en commun" 
+        intervals [15]:
+            xmin = 32.221 
+            xmax = 32.902 
+            text = "#" 
+        intervals [16]:
+            xmin = 32.902 
+            xmax = 33.888 
+            text = "euh" 
+        intervals [17]:
+            xmin = 33.888 
+            xmax = 38.542 
+            text = "#" 
+        intervals [18]:
+            xmin = 38.542 
+            xmax = 39.39 
+            text = "ah" 
+        intervals [19]:
+            xmin = 39.39 
+            xmax = 40.046 
+            text = "#" 
+        intervals [20]:
+            xmin = 40.046 
+            xmax = 42.139 
+            text = "ouais donc euh" 
+        intervals [21]:
+            xmin = 42.139 
+            xmax = 44.105 
+            text = "#" 
+        intervals [22]:
+            xmin = 44.105 
+            xmax = 46.833 
+            text = "y a mais euh ceux-là ils sont pas appetissants donc -fin je sais pas" 
+        intervals [23]:
+            xmin = 46.833 
+            xmax = 47.438 
+            text = "#" 
+        intervals [24]:
+            xmin = 47.438 
+            xmax = 50.155 
+            text = "ça dépend peut-être des goûts moi je me rends pas compte" 
+        intervals [25]:
+            xmin = 50.155 
+            xmax = 52.717 
+            text = "#" 
+        intervals [26]:
+            xmin = 52.717 
+            xmax = 53.174 
+            text = "ouais" 
+        intervals [27]:
+            xmin = 53.174 
+            xmax = 54.708 
+            text = "#" 
+        intervals [28]:
+            xmin = 54.708 
+            xmax = 59.108 
+            text = "ouais ouais ouais et puis c'est pas pourri pourri quoi c'est un fatigué euh -fin" 
+        intervals [29]:
+            xmin = 59.108 
+            xmax = 59.9516 
+            text = "#" 

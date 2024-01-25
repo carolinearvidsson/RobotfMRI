@@ -1,0 +1,126 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 60 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Transcription" 
+        xmin = 0 
+        xmax = 60 
+        intervals: size = 28 
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.026 
+            text = "#" 
+        intervals [2]:
+            xmin = 1.026 
+            xmax = 5.213 
+            text = "alors cette fraise c'est vrai qu'elle a les bras déterminé comme dit tout à l'heure" 
+        intervals [3]:
+            xmin = 5.213 
+            xmax = 5.914 
+            text = "#" 
+        intervals [4]:
+            xmin = 5.914 
+            xmax = 10.908 
+            text = "elle a quand même l'air malade parce que elle a le haut de la tête toute jaune elle est toute déformée" 
+        intervals [5]:
+            xmin = 10.908 
+            xmax = 11.482 
+            text = "#" 
+        intervals [6]:
+            xmin = 11.482 
+            xmax = 15.455 
+            text = "et euh elle a aussi au niveau des yeux euh" 
+        intervals [7]:
+            xmin = 15.455 
+            xmax = 15.963 
+            text = "#" 
+        intervals [8]:
+            xmin = 15.963 
+            xmax = 19.378 
+            text = "on dirait qu'elle a des cocards sous dans les yeux là qu'elle a les yeux tout" 
+        intervals [9]:
+            xmin = 19.378 
+            xmax = 19.916 
+            text = "#" 
+        intervals [10]:
+            xmin = 19.916 
+            xmax = 20.414 
+            text = "malades" 
+        intervals [11]:
+            xmin = 20.414 
+            xmax = 22.85 
+            text = "#" 
+        intervals [12]:
+            xmin = 22.85 
+            xmax = 25.734 
+            text = "et euh elle a une apparence de *" 
+        intervals [13]:
+            xmin = 25.734 
+            xmax = 27.629 
+            text = "#" 
+        intervals [14]:
+            xmin = 27.629 
+            xmax = 28.494 
+            text = "et elle euh" 
+        intervals [15]:
+            xmin = 28.494 
+            xmax = 28.894 
+            text = "#" 
+        intervals [16]:
+            xmin = 28.894 
+            xmax = 30.596 
+            text = "ça donne pas du tout envie de la manger" 
+        intervals [17]:
+            xmin = 30.596 
+            xmax = 37.82 
+            text = "#" 
+        intervals [18]:
+            xmin = 37.82 
+            xmax = 38.42 
+            text = "ouais même" 
+        intervals [19]:
+            xmin = 38.42 
+            xmax = 40.157 
+            text = "#" 
+        intervals [20]:
+            xmin = 40.157 
+            xmax = 41.356 
+            text = "fatiguée déformée" 
+        intervals [21]:
+            xmin = 41.356 
+            xmax = 43.546 
+            text = "#" 
+        intervals [22]:
+            xmin = 43.546 
+            xmax = 44.984 
+            text = "elle donne pas du tout envie de la manger" 
+        intervals [23]:
+            xmin = 44.984 
+            xmax = 51.101 
+            text = "#" 
+        intervals [24]:
+            xmin = 51.101 
+            xmax = 52.158 
+            text = "moche et euh" 
+        intervals [25]:
+            xmin = 52.158 
+            xmax = 53.423 
+            text = "#" 
+        intervals [26]:
+            xmin = 53.423 
+            xmax = 53.906 
+            text = "malade" 
+        intervals [27]:
+            xmin = 53.906 
+            xmax = 59.025 
+            text = "#" 
+        intervals [28]:
+            xmin = 59.025 
+            xmax = 59.9044 
+            text = "la couleur la for-" 

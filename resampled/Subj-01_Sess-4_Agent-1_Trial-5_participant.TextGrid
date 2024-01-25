@@ -1,0 +1,106 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 60 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Transcription" 
+        xmin = 0 
+        xmax = 60 
+        intervals: size = 23 
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.199 
+            text = "#" 
+        intervals [2]:
+            xmin = 1.199 
+            xmax = 4.231 
+            text = "là la pomme rouge euh elle y est en spiderman" 
+        intervals [3]:
+            xmin = 4.231 
+            xmax = 5.93 
+            text = "#" 
+        intervals [4]:
+            xmin = 5.93 
+            xmax = 6.569 
+            text = "donc du coup" 
+        intervals [5]:
+            xmin = 8.812 
+            xmax = 13.146 
+            text = "oui donc il il s'agit d'une pomme bio issue de l'agriculture biologique" 
+        intervals [6]:
+            xmin = 13.146 
+            xmax = 17.65 
+            text = "#" 
+        intervals [7]:
+            xmin = 17.65 
+            xmax = 19.895 
+            text = "et en faveur de l'agriculture biologique" 
+        intervals [8]:
+            xmin = 19.895 
+            xmax = 25.014 
+            text = "#" 
+        intervals [9]:
+            xmin = 25.014 
+            xmax = 25.831 
+            text = "***" 
+        intervals [10]:
+            xmin = 25.831 
+            xmax = 28.858 
+            text = "#" 
+        intervals [11]:
+            xmin = 28.858 
+            xmax = 29.886 
+            text = "d'accord" 
+        intervals [12]:
+            xmin = 29.886 
+            xmax = 31.429 
+            text = "#" 
+        intervals [13]:
+            xmin = 31.429 
+            xmax = 33.664 
+            text = "oui c'est ça fait assez sens" 
+        intervals [14]:
+            xmin = 33.664 
+            xmax = 33.923 
+            text = "#" 
+        intervals [15]:
+            xmin = 33.923 
+            xmax = 36.936 
+            text = "parce que bon c'est c'est une jolie pomme donc si elle est locale elle est" 
+        intervals [16]:
+            xmin = 36.936 
+            xmax = 37.216 
+            text = "#" 
+        intervals [17]:
+            xmin = 37.216 
+            xmax = 38.786 
+            text = "en bonne forme" 
+        intervals [18]:
+            xmin = 38.786 
+            xmax = 39.167 
+            text = "#" 
+        intervals [19]:
+            xmin = 39.167 
+            xmax = 39.836 
+            text = "et euh mais est ce qu'elle" 
+        intervals [20]:
+            xmin = 39.836 
+            xmax = 41.073 
+            text = "#" 
+        intervals [21]:
+            xmin = 41.073 
+            xmax = 45.997 
+            text = "mais est-ce qu'elle aurait frappé des fruits et légumes sur lesquels on a utilisé des pesticides" 
+        intervals [22]:
+            xmin = 45.997 
+            xmax = 50.863 
+            text = "#" 
+        intervals [23]:
+            xmin = 50.863 
+            xmax = 55.8325 
+            text = "elle a l'air méchante euh oui elle a le masque de superman mais *** c'est pas forcément de la méchanceté" 

@@ -1,0 +1,74 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 60 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Transcription" 
+        xmin = 0 
+        xmax = 60 
+        intervals: size = 15 
+        intervals [1]:
+            xmin = 0 
+            xmax = 2.515 
+            text = "#" 
+        intervals [2]:
+            xmin = 2.515 
+            xmax = 2.998 
+            text = "ouais" 
+        intervals [3]:
+            xmin = 2.998 
+            xmax = 8.078 
+            text = "#" 
+        intervals [4]:
+            xmin = 8.078 
+            xmax = 11.591 
+            text = "ouais c'était euh l'aubergine avec" 
+        intervals [5]:
+            xmin = 11.591 
+            xmax = 12.458 
+            text = "#" 
+        intervals [6]:
+            xmin = 12.458 
+            xmax = 12.712 
+            text = "ouais" 
+        intervals [7]:
+            xmin = 12.712 
+            xmax = 23.763 
+            text = "#" 
+        intervals [8]:
+            xmin = 23.763 
+            xmax = 25.06 
+            text = "ouais ouais on aurait dit $Batman$" 
+        intervals [9]:
+            xmin = 25.06 
+            xmax = 40.112 
+            text = "#" 
+        intervals [10]:
+            xmin = 40.112 
+            xmax = 40.615 
+            text = "ouais ouais" 
+        intervals [11]:
+            xmin = 40.615 
+            xmax = 51.208 
+            text = "#" 
+        intervals [12]:
+            xmin = 51.208 
+            xmax = 52.127 
+            text = "ouais normal hein" 
+        intervals [13]:
+            xmin = 52.127 
+            xmax = 57.62 
+            text = "#" 
+        intervals [14]:
+            xmin = 57.62 
+            xmax = 58.377 
+            text = "ouais je sais pas" 
+        intervals [15]:
+            xmin = 58.377 
+            xmax = 59.9044 
+            text = "#" 

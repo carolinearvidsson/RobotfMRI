@@ -1,0 +1,122 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 60 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Transcription" 
+        xmin = 0 
+        xmax = 60 
+        intervals: size = 27 
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.661 
+            text = "#" 
+        intervals [2]:
+            xmin = 1.661 
+            xmax = 2.185 
+            text = "salut" 
+        intervals [3]:
+            xmin = 2.185 
+            xmax = 4.131 
+            text = "#" 
+        intervals [4]:
+            xmin = 4.131 
+            xmax = 7.123 
+            text = "à ton avis c'est c'est quelle $Tortue Ninja$ ce citron" 
+        intervals [5]:
+            xmin = 7.123 
+            xmax = 13.885 
+            text = "#" 
+        intervals [6]:
+            xmin = 13.885 
+            xmax = 15.333 
+            text = "ah je vois je vois que tu as pas é-" 
+        intervals [7]:
+            xmin = 15.333 
+            xmax = 16.583 
+            text = "#" 
+        intervals [8]:
+            xmin = 16.583 
+            xmax = 19.845 
+            text = "je je vois que tu n'as été programmé pour reconnaitre les $Tortues Ninja$ toi" 
+        intervals [9]:
+            xmin = 19.845 
+            xmax = 23.793 
+            text = "#" 
+        intervals [10]:
+            xmin = 23.793 
+            xmax = 24.316 
+            text = "d'accord" 
+        intervals [11]:
+            xmin = 24.316 
+            xmax = 25.586 
+            text = "#" 
+        intervals [12]:
+            xmin = 25.586 
+            xmax = 28.949 
+            text = "je sais pas moi en tout cas je vois vraiment un $Tortue Ninja$ je vois même plus le citron" 
+        intervals [13]:
+            xmin = 28.949 
+            xmax = 29.981 
+            text = "#" 
+        intervals [14]:
+            xmin = 29.981 
+            xmax = 31.856 
+            text = "j'ai l'impression que c'est $Donatello$" 
+        intervals [15]:
+            xmin = 31.856 
+            xmax = 37.139 
+            text = "#" 
+        intervals [16]:
+            xmin = 37.139 
+            xmax = 38.074 
+            text = "exactement" 
+        intervals [17]:
+            xmin = 38.074 
+            xmax = 39.101 
+            text = "#" 
+        intervals [18]:
+            xmin = 39.101 
+            xmax = 42.119 
+            text = "un un $Tortue Ninja$ mais les $Tortues Ninja$ sont pas vraiment des super héros" 
+        intervals [19]:
+            xmin = 42.119 
+            xmax = 45.924 
+            text = "#" 
+        intervals [20]:
+            xmin = 45.924 
+            xmax = 46.955 
+            text = "exactement" 
+        intervals [21]:
+            xmin = 46.955 
+            xmax = 48.556 
+            text = "#" 
+        intervals [22]:
+            xmin = 48.556 
+            xmax = 50.085 
+            text = "un ninja tortue" 
+        intervals [23]:
+            xmin = 50.085 
+            xmax = 52.762 
+            text = "#" 
+        intervals [24]:
+            xmin = 52.762 
+            xmax = 53.296 
+            text = "tu as raison" 
+        intervals [25]:
+            xmin = 53.296 
+            xmax = 56.832 
+            text = "#" 
+        intervals [26]:
+            xmin = 56.832 
+            xmax = 59.393 
+            text = "oui exactement il semble plus fiable que les autres" 
+        intervals [27]:
+            xmin = 59.393 
+            xmax = 59.9044 
+            text = "#" 

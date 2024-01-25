@@ -1,0 +1,118 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 60 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Transcription" 
+        xmin = 0 
+        xmax = 60 
+        intervals: size = 26 
+        intervals [1]:
+            xmin = 0 
+            xmax = 3.155 
+            text = "#" 
+        intervals [2]:
+            xmin = 3.155 
+            xmax = 3.409 
+            text = "ouais" 
+        intervals [3]:
+            xmin = 3.409 
+            xmax = 8.495 
+            text = "#" 
+        intervals [4]:
+            xmin = 8.495 
+            xmax = 10.593 
+            text = "ouais je pense que ça veut dire ça y est on a fait le tour" 
+        intervals [5]:
+            xmin = 10.593 
+            xmax = 12.122 
+            text = "#" 
+        intervals [6]:
+            xmin = 12.122 
+            xmax = 13.058 
+            text = "euh mh" 
+        intervals [7]:
+            xmin = 13.058 
+            xmax = 13.946 
+            text = "#" 
+        intervals [8]:
+            xmin = 13.946 
+            xmax = 18.28 
+            text = "ok donc on a d'un côté trois super héros donc on a cette aubergine avec le masque" 
+        intervals [9]:
+            xmin = 18.28 
+            xmax = 22.365 
+            text = "#" 
+        intervals [10]:
+            xmin = 22.365 
+            xmax = 22.649 
+            text = "ouais" 
+        intervals [11]:
+            xmin = 22.649 
+            xmax = 26.013 
+            text = "#" 
+        intervals [12]:
+            xmin = 26.013 
+            xmax = 26.186 
+            text = "ouais" 
+        intervals [13]:
+            xmin = 26.186 
+            xmax = 35.189 
+            text = "#" 
+        intervals [14]:
+            xmin = 35.189 
+            xmax = 35.412 
+            text = "ouais" 
+        intervals [15]:
+            xmin = 35.412 
+            xmax = 36.83 
+            text = "#" 
+        intervals [16]:
+            xmin = 36.83 
+            xmax = 39.578 
+            text = "le euh manger 5 fruits et légumes par jour tu veux dire" 
+        intervals [17]:
+            xmin = 39.578 
+            xmax = 43.114 
+            text = "#" 
+        intervals [18]:
+            xmin = 43.114 
+            xmax = 43.419 
+            text = "et du coup" 
+        intervals [19]:
+            xmin = 43.419 
+            xmax = 46.798 
+            text = "#" 
+        intervals [20]:
+            xmin = 46.798 
+            xmax = 47.016 
+            text = "ouais" 
+        intervals [21]:
+            xmin = 47.016 
+            xmax = 48.922 
+            text = "#" 
+        intervals [22]:
+            xmin = 48.922 
+            xmax = 53.459 
+            text = "d'accord donc en fait s- les la version super héros ça serait pour un public jeune" 
+        intervals [23]:
+            xmin = 53.459 
+            xmax = 54.434 
+            text = "#" 
+        intervals [24]:
+            xmin = 54.434 
+            xmax = 56.581 
+            text = "et la version" 
+        intervals [25]:
+            xmin = 56.581 
+            xmax = 58.478 
+            text = "#" 
+        intervals [26]:
+            xmin = 58.478 
+            xmax = 59.9516 
+            text = "ah les fruits le les les pourris là" 

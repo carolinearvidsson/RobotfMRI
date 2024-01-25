@@ -1,0 +1,186 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 60 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Transcription" 
+        xmin = 0 
+        xmax = 60 
+        intervals: size = 43 
+        intervals [1]:
+            xmin = 0 
+            xmax = 3.384 
+            text = "#" 
+        intervals [2]:
+            xmin = 3.384 
+            xmax = 3.842 
+            text = "donc" 
+        intervals [3]:
+            xmin = 3.842 
+            xmax = 4.227 
+            text = "#" 
+        intervals [4]:
+            xmin = 4.227 
+            xmax = 4.984 
+            text = "ben c'est une poire" 
+        intervals [5]:
+            xmin = 4.984 
+            xmax = 6.788 
+            text = "#" 
+        intervals [6]:
+            xmin = 6.788 
+            xmax = 7.778 
+            text = "poire qui a" 
+        intervals [7]:
+            xmin = 7.778 
+            xmax = 8.692 
+            text = "#" 
+        intervals [8]:
+            xmin = 8.692 
+            xmax = 9.135 
+            text = "soit elle" 
+        intervals [9]:
+            xmin = 9.135 
+            xmax = 9.46 
+            text = "#" 
+        intervals [10]:
+            xmin = 9.46 
+            xmax = 11.944 
+            text = "soit elle est soit elle s'est faite frappée par un" 
+        intervals [11]:
+            xmin = 11.944 
+            xmax = 12.351 
+            text = "#" 
+        intervals [12]:
+            xmin = 12.351 
+            xmax = 13.728 
+            text = "par un méchant fruit soit euh" 
+        intervals [13]:
+            xmin = 13.728 
+            xmax = 14.46 
+            text = "#" 
+        intervals [14]:
+            xmin = 14.46 
+            xmax = 15.963 
+            text = "soit elle restée trop longtemps dans le" 
+        intervals [15]:
+            xmin = 15.963 
+            xmax = 16.151 
+            text = "#" 
+        intervals [16]:
+            xmin = 16.151 
+            xmax = 17.706 
+            text = "dans le bac du frigo et elle a pourri" 
+        intervals [17]:
+            xmin = 17.706 
+            xmax = 19.24 
+            text = "#" 
+        intervals [18]:
+            xmin = 19.24 
+            xmax = 19.459 
+            text = "ouais" 
+        intervals [19]:
+            xmin = 19.459 
+            xmax = 20.129 
+            text = "#" 
+        intervals [20]:
+            xmin = 20.129 
+            xmax = 22.832 
+            text = "après elle a elle a l'air triste fatiguée euh" 
+        intervals [21]:
+            xmin = 22.832 
+            xmax = 23.645 
+            text = "#" 
+        intervals [22]:
+            xmin = 23.645 
+            xmax = 24.504 
+            text = "elle est tout abîmée" 
+        intervals [23]:
+            xmin = 24.504 
+            xmax = 27.329 
+            text = "#" 
+        intervals [24]:
+            xmin = 27.329 
+            xmax = 28.665 
+            text = "elle donne pas vraiment envie de la manger" 
+        intervals [25]:
+            xmin = 28.665 
+            xmax = 33.141 
+            text = "#" 
+        intervals [26]:
+            xmin = 33.141 
+            xmax = 35.351 
+            text = "personnellement je man- je mangerais pas cette poire" 
+        intervals [27]:
+            xmin = 35.351 
+            xmax = 42.408 
+            text = "#" 
+        intervals [28]:
+            xmin = 42.408 
+            xmax = 42.85 
+            text = "ah d'accord" 
+        intervals [29]:
+            xmin = 42.85 
+            xmax = 43.81 
+            text = "#" 
+        intervals [30]:
+            xmin = 43.81 
+            xmax = 44.293 
+            text = "fais attention" 
+        intervals [31]:
+            xmin = 44.293 
+            xmax = 47.916 
+            text = "#" 
+        intervals [32]:
+            xmin = 47.916 
+            xmax = 49.292 
+            text = "oui elle est malade elle est" 
+        intervals [33]:
+            xmin = 49.292 
+            xmax = 50.09 
+            text = "#" 
+        intervals [34]:
+            xmin = 50.09 
+            xmax = 51.304 
+            text = "j'ai l'impression qu'elle a été frappée" 
+        intervals [35]:
+            xmin = 51.304 
+            xmax = 52.818 
+            text = "#" 
+        intervals [36]:
+            xmin = 52.818 
+            xmax = 53.519 
+            text = "après par un" 
+        intervals [37]:
+            xmin = 53.519 
+            xmax = 55.211 
+            text = "#" 
+        intervals [38]:
+            xmin = 55.211 
+            xmax = 55.979 
+            text = "par un des" 
+        intervals [39]:
+            xmin = 55.979 
+            xmax = 56.492 
+            text = "#" 
+        intervals [40]:
+            xmin = 56.492 
+            xmax = 57.95 
+            text = "un des fruits super héros peut-être" 
+        intervals [41]:
+            xmin = 57.95 
+            xmax = 59.174 
+            text = "#" 
+        intervals [42]:
+            xmin = 59.174 
+            xmax = 59.616 
+            text = "de la" 
+        intervals [43]:
+            xmin = 59.616 
+            xmax = 59.9044 
+            text = "#" 

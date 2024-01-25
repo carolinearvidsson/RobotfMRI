@@ -1,0 +1,130 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 60 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Transcription" 
+        xmin = 0 
+        xmax = 60 
+        intervals: size = 29 
+        intervals [1]:
+            xmin = 0 
+            xmax = 2.81 
+            text = "#" 
+        intervals [2]:
+            xmin = 2.81 
+            xmax = 4.42 
+            text = "c'était un kiwi ou un avocat" 
+        intervals [3]:
+            xmin = 4.42 
+            xmax = 4.781 
+            text = "#" 
+        intervals [4]:
+            xmin = 4.781 
+            xmax = 5.213 
+            text = "euh" 
+        intervals [5]:
+            xmin = 5.213 
+            xmax = 5.518 
+            text = "#" 
+        intervals [6]:
+            xmin = 5.518 
+            xmax = 7.184 
+            text = "pardon un citron vert ou un avocat" 
+        intervals [7]:
+            xmin = 7.184 
+            xmax = 13.728 
+            text = "#" 
+        intervals [8]:
+            xmin = 13.728 
+            xmax = 14.094 
+            text = "d'accord" 
+        intervals [9]:
+            xmin = 14.094 
+            xmax = 16.106 
+            text = "#" 
+        intervals [10]:
+            xmin = 16.106 
+            xmax = 16.339 
+            text = "ouais" 
+        intervals [11]:
+            xmin = 16.339 
+            xmax = 16.746 
+            text = "#" 
+        intervals [12]:
+            xmin = 16.746 
+            xmax = 18.748 
+            text = "ben cette fois-ci j'ai vu un visage" 
+        intervals [13]:
+            xmin = 18.748 
+            xmax = 20.826 
+            text = "#" 
+        intervals [14]:
+            xmin = 20.826 
+            xmax = 22.426 
+            text = "elle avait une sorte" 
+        intervals [15]:
+            xmin = 22.426 
+            xmax = 23.361 
+            text = "#" 
+        intervals [16]:
+            xmin = 23.361 
+            xmax = 26.511 
+            text = "de bandeau comme une $Tortue Ninja$" 
+        intervals [17]:
+            xmin = 26.511 
+            xmax = 33.476 
+            text = "#" 
+        intervals [18]:
+            xmin = 33.476 
+            xmax = 33.868 
+            text = "c'est ça" 
+        intervals [19]:
+            xmin = 33.868 
+            xmax = 34.244 
+            text = "#" 
+        intervals [20]:
+            xmin = 34.244 
+            xmax = 35.351 
+            text = "un fruit super héros" 
+        intervals [21]:
+            xmin = 35.351 
+            xmax = 36.997 
+            text = "#" 
+        intervals [22]:
+            xmin = 36.997 
+            xmax = 37.16 
+            text = "ouais" 
+        intervals [23]:
+            xmin = 37.16 
+            xmax = 46.163 
+            text = "#" 
+        intervals [24]:
+            xmin = 46.163 
+            xmax = 48.744 
+            text = "je pense que c'est détournement d'objet" 
+        intervals [25]:
+            xmin = 48.744 
+            xmax = 50.471 
+            text = "#" 
+        intervals [26]:
+            xmin = 50.471 
+            xmax = 51.833 
+            text = "on dirait que" 
+        intervals [27]:
+            xmin = 51.833 
+            xmax = 54.302 
+            text = "#" 
+        intervals [28]:
+            xmin = 54.302 
+            xmax = 56.73 
+            text = "ils ont transformé des fruits en super héros" 
+        intervals [29]:
+            xmin = 56.73 
+            xmax = 59.9044 
+            text = "#" 

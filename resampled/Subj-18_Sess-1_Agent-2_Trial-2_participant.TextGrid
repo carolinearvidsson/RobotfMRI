@@ -1,0 +1,114 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 60 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Transcription" 
+        xmin = 0 
+        xmax = 60 
+        intervals: size = 25 
+        intervals [1]:
+            xmin = 0 
+            xmax = 4.319 
+            text = "#" 
+        intervals [2]:
+            xmin = 4.319 
+            xmax = 4.877 
+            text = "salut" 
+        intervals [3]:
+            xmin = 4.877 
+            xmax = 8.139 
+            text = "#" 
+        intervals [4]:
+            xmin = 8.139 
+            xmax = 9.308 
+            text = "j'ai vu une pomme" 
+        intervals [5]:
+            xmin = 9.308 
+            xmax = 10.182 
+            text = "#" 
+        intervals [6]:
+            xmin = 10.182 
+            xmax = 11.045 
+            text = "avec des yeux" 
+        intervals [7]:
+            xmin = 11.045 
+            xmax = 15.313 
+            text = "#" 
+        intervals [8]:
+            xmin = 15.313 
+            xmax = 15.692 
+            text = "euh" 
+        intervals [9]:
+            xmin = 15.692 
+            xmax = 18.412 
+            text = "#" 
+        intervals [10]:
+            xmin = 18.412 
+            xmax = 18.798 
+            text = "oui" 
+        intervals [11]:
+            xmin = 18.798 
+            xmax = 19.977 
+            text = "#" 
+        intervals [12]:
+            xmin = 19.977 
+            xmax = 20.292 
+            text = "euh" 
+        intervals [13]:
+            xmin = 20.292 
+            xmax = 22.76 
+            text = "#" 
+        intervals [14]:
+            xmin = 22.76 
+            xmax = 24.661 
+            text = "elle avait plutôt l'air" 
+        intervals [15]:
+            xmin = 24.661 
+            xmax = 25.073 
+            text = "#" 
+        intervals [16]:
+            xmin = 25.073 
+            xmax = 27.303 
+            text = "elle me fait un peu peur comme d'habitude" 
+        intervals [17]:
+            xmin = 27.303 
+            xmax = 32.902 
+            text = "#" 
+        intervals [18]:
+            xmin = 32.902 
+            xmax = 38.336 
+            text = "avec c'est vrai qu'elle était ouais c'était elle était masquée un petit peu on dirait" 
+        intervals [19]:
+            xmin = 38.336 
+            xmax = 47.489 
+            text = "#" 
+        intervals [20]:
+            xmin = 47.489 
+            xmax = 48.214 
+            text = "ouais" 
+        intervals [21]:
+            xmin = 48.214 
+            xmax = 49.629 
+            text = "#" 
+        intervals [22]:
+            xmin = 49.629 
+            xmax = 50.645 
+            text = "c'était des trucs" 
+        intervals [23]:
+            xmin = 50.645 
+            xmax = 54.571 
+            text = "#" 
+        intervals [24]:
+            xmin = 54.571 
+            xmax = 56.5 
+            text = "euh pas trop pour l'instant" 
+        intervals [25]:
+            xmin = 56.5 
+            xmax = 59.9044 
+            text = "#" 

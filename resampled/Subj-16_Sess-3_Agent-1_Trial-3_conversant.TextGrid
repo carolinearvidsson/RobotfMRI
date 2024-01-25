@@ -1,0 +1,150 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 60 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Transcription" 
+        xmin = 0 
+        xmax = 60 
+        intervals: size = 34 
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.859 
+            text = "#" 
+        intervals [2]:
+            xmin = 1.859 
+            xmax = 3.363 
+            text = "mais euh j'ai trouvé je pense" 
+        intervals [3]:
+            xmin = 3.363 
+            xmax = 3.836 
+            text = "#" 
+        intervals [4]:
+            xmin = 3.836 
+            xmax = 4.42 
+            text = "pour le" 
+        intervals [5]:
+            xmin = 4.42 
+            xmax = 4.598 
+            text = "#" 
+        intervals [6]:
+            xmin = 4.598 
+            xmax = 5.172 
+            text = "j'y ai réfléchi" 
+        intervals [7]:
+            xmin = 5.172 
+            xmax = 5.573 
+            text = "#" 
+        intervals [8]:
+            xmin = 5.573 
+            xmax = 6.879 
+            text = "euh je crois que c'est $Batman$" 
+        intervals [9]:
+            xmin = 6.879 
+            xmax = 10.395 
+            text = "#" 
+        intervals [10]:
+            xmin = 10.395 
+            xmax = 10.578 
+            text = "ouais" 
+        intervals [11]:
+            xmin = 10.578 
+            xmax = 16.09 
+            text = "#" 
+        intervals [12]:
+            xmin = 16.09 
+            xmax = 16.329 
+            text = "ouais" 
+        intervals [13]:
+            xmin = 16.329 
+            xmax = 16.878 
+            text = "#" 
+        intervals [14]:
+            xmin = 16.878 
+            xmax = 17.244 
+            text = "ouais ouais" 
+        intervals [15]:
+            xmin = 17.244 
+            xmax = 20.958 
+            text = "#" 
+        intervals [16]:
+            xmin = 20.958 
+            xmax = 27.08 
+            text = "ouais je te dis je regardais pas trop forcément les euh les euh dessins animés à la télé mais les films de super héros j'en ai vu quelques uns" 
+        intervals [17]:
+            xmin = 27.08 
+            xmax = 31.058 
+            text = "#" 
+        intervals [18]:
+            xmin = 31.058 
+            xmax = 31.49 
+            text = "merci" 
+        intervals [19]:
+            xmin = 31.49 
+            xmax = 36.601 
+            text = "#" 
+        intervals [20]:
+            xmin = 36.601 
+            xmax = 38.278 
+            text = "euh oui" 
+        intervals [21]:
+            xmin = 38.278 
+            xmax = 38.613 
+            text = "#" 
+        intervals [22]:
+            xmin = 38.613 
+            xmax = 40.371 
+            text = "peut-être en même temps" 
+        intervals [23]:
+            xmin = 40.371 
+            xmax = 41.428 
+            text = "#" 
+        intervals [24]:
+            xmin = 41.428 
+            xmax = 46.102 
+            text = "euh l- la pomme peut-être mais euh $Batman$ ça fait partie du personne que d'être un peu euh" 
+        intervals [25]:
+            xmin = 46.102 
+            xmax = 46.508 
+            text = "#" 
+        intervals [26]:
+            xmin = 46.508 
+            xmax = 47.258 
+            text = "un peu rustre" 
+        intervals [27]:
+            xmin = 47.258 
+            xmax = 48.546 
+            text = "#" 
+        intervals [28]:
+            xmin = 48.546 
+            xmax = 51.725 
+            text = "alors que c'est vrai que $Spiderman$ il est sympa lui par contre donc euh" 
+        intervals [29]:
+            xmin = 51.725 
+            xmax = 55.166 
+            text = "#" 
+        intervals [30]:
+            xmin = 55.166 
+            xmax = 55.359 
+            text = "ouais" 
+        intervals [31]:
+            xmin = 55.359 
+            xmax = 57.325 
+            text = "#" 
+        intervals [32]:
+            xmin = 57.325 
+            xmax = 59.23 
+            text = "ouais -fin il l'est pas forcément mais il" 
+        intervals [33]:
+            xmin = 59.23 
+            xmax = 59.739 
+            text = "#" 
+        intervals [34]:
+            xmin = 59.739 
+            xmax = 59.9516 
+            text = "mh" 

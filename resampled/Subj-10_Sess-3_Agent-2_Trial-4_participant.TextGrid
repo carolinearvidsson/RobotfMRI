@@ -1,0 +1,114 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 60 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Transcription" 
+        xmin = 0 
+        xmax = 60 
+        intervals: size = 25 
+        intervals [1]:
+            xmin = 0 
+            xmax = 5.131 
+            text = "#" 
+        intervals [2]:
+            xmin = 5.131 
+            xmax = 5.579 
+            text = "salut" 
+        intervals [3]:
+            xmin = 5.579 
+            xmax = 10.51 
+            text = "#" 
+        intervals [4]:
+            xmin = 10.51 
+            xmax = 10.923 
+            text = "ok" 
+        intervals [5]:
+            xmin = 10.923 
+            xmax = 15.079 
+            text = "#" 
+        intervals [6]:
+            xmin = 15.079 
+            xmax = 15.394 
+            text = "ouais" 
+        intervals [7]:
+            xmin = 15.394 
+            xmax = 16.639 
+            text = "#" 
+        intervals [8]:
+            xmin = 16.639 
+            xmax = 18.565 
+            text = "donc c'est une pub pour la production locale" 
+        intervals [9]:
+            xmin = 18.565 
+            xmax = 23.894 
+            text = "#" 
+        intervals [10]:
+            xmin = 23.894 
+            xmax = 24.214 
+            text = "ok" 
+        intervals [11]:
+            xmin = 24.214 
+            xmax = 28.314 
+            text = "#" 
+        intervals [12]:
+            xmin = 28.314 
+            xmax = 29.417 
+            text = "donc c'est une pub française" 
+        intervals [13]:
+            xmin = 29.417 
+            xmax = 30.077 
+            text = "#" 
+        intervals [14]:
+            xmin = 30.077 
+            xmax = 30.941 
+            text = "pour les produits français" 
+        intervals [15]:
+            xmin = 30.941 
+            xmax = 37.109 
+            text = "#" 
+        intervals [16]:
+            xmin = 37.109 
+            xmax = 37.546 
+            text = "ok" 
+        intervals [17]:
+            xmin = 37.546 
+            xmax = 40.152 
+            text = "#" 
+        intervals [18]:
+            xmin = 40.152 
+            xmax = 40.859 
+            text = "oui c'est possible" 
+        intervals [19]:
+            xmin = 40.859 
+            xmax = 48.764 
+            text = "#" 
+        intervals [20]:
+            xmin = 48.764 
+            xmax = 50.381 
+            text = "par rapport aux produits étrangers" 
+        intervals [21]:
+            xmin = 50.381 
+            xmax = 54.525 
+            text = "#" 
+        intervals [22]:
+            xmin = 54.525 
+            xmax = 54.942 
+            text = "ok" 
+        intervals [23]:
+            xmin = 54.942 
+            xmax = 58.976 
+            text = "#" 
+        intervals [24]:
+            xmin = 58.976 
+            xmax = 59.657 
+            text = "ouais c'est possible" 
+        intervals [25]:
+            xmin = 59.657 
+            xmax = 59.9044 
+            text = "#" 

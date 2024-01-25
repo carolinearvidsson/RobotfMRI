@@ -1,0 +1,118 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 60 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Transcription" 
+        xmin = 0 
+        xmax = 60 
+        intervals: size = 26 
+        intervals [1]:
+            xmin = 0 
+            xmax = 2.51 
+            text = "#" 
+        intervals [2]:
+            xmin = 2.51 
+            xmax = 4.705 
+            text = "ouais elle est elle est assez belle" 
+        intervals [3]:
+            xmin = 4.705 
+            xmax = 5.512 
+            text = "#" 
+        intervals [4]:
+            xmin = 5.512 
+            xmax = 7.103 
+            text = "et en plus c'est l'heure de déjeuner euh @" 
+        intervals [5]:
+            xmin = 7.103 
+            xmax = 17.305 
+            text = "#" 
+        intervals [6]:
+            xmin = 17.305 
+            xmax = 17.975 
+            text = "euh ouais" 
+        intervals [7]:
+            xmin = 17.975 
+            xmax = 18.28 
+            text = "#" 
+        intervals [8]:
+            xmin = 18.28 
+            xmax = 21.857 
+            text = "oui c'est vrai euh on a on a on a" 
+        intervals [9]:
+            xmin = 21.857 
+            xmax = 22.045 
+            text = "#" 
+        intervals [10]:
+            xmin = 22.045 
+            xmax = 24.214 
+            text = "$Spiderman$ et on a $Batman$ et on a le" 
+        intervals [11]:
+            xmin = 24.214 
+            xmax = 24.504 
+            text = "#" 
+        intervals [12]:
+            xmin = 24.504 
+            xmax = 25.799 
+            text = "le citron mignon" 
+        intervals [13]:
+            xmin = 25.799 
+            xmax = 31.155 
+            text = "#" 
+        intervals [14]:
+            xmin = 31.155 
+            xmax = 31.327 
+            text = "ouais" 
+        intervals [15]:
+            xmin = 31.327 
+            xmax = 35.392 
+            text = "#" 
+        intervals [16]:
+            xmin = 35.392 
+            xmax = 35.778 
+            text = "ouais ouais" 
+        intervals [17]:
+            xmin = 35.778 
+            xmax = 36.555 
+            text = "#" 
+        intervals [18]:
+            xmin = 36.555 
+            xmax = 38.278 
+            text = "bah c'est $Spiderman$ ou $Deadpool$ hein pour moi" 
+        intervals [19]:
+            xmin = 38.278 
+            xmax = 46.239 
+            text = "#" 
+        intervals [20]:
+            xmin = 46.239 
+            xmax = 49.008 
+            text = "ouais ouais ouais c'est peut-être un côté très cool" 
+        intervals [21]:
+            xmin = 49.008 
+            xmax = 49.419 
+            text = "#" 
+        intervals [22]:
+            xmin = 49.419 
+            xmax = 51.406 
+            text = "tu sais pour le présenter et rendre ça populaire" 
+        intervals [23]:
+            xmin = 51.406 
+            xmax = 55.938 
+            text = "#" 
+        intervals [24]:
+            xmin = 55.938 
+            xmax = 57.726 
+            text = "ouais ouais ben c'est vrai que les super héros euh" 
+        intervals [25]:
+            xmin = 57.726 
+            xmax = 57.975 
+            text = "#" 
+        intervals [26]:
+            xmin = 57.975 
+            xmax = 59.9516 
+            text = "tu vas au cinéma poum a beaucoup de gens qui a-" 

@@ -1,0 +1,70 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 60 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Transcription" 
+        xmin = 0 
+        xmax = 60 
+        intervals: size = 14 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.274 
+            text = "*" 
+        intervals [2]:
+            xmin = 0.274 
+            xmax = 2.866 
+            text = "#" 
+        intervals [3]:
+            xmin = 2.866 
+            xmax = 3.498 
+            text = "bonjour" 
+        intervals [4]:
+            xmin = 3.536 
+            xmax = 6.867 
+            text = "#" 
+        intervals [5]:
+            xmin = 6.867 
+            xmax = 7.862 
+            text = "c'est une pomme" 
+        intervals [6]:
+            xmin = 7.862 
+            xmax = 15.041 
+            text = "#" 
+        intervals [7]:
+            xmin = 15.041 
+            xmax = 18.123 
+            text = "quelqu'un a découpé un visage dans la pomme ouais" 
+        intervals [8]:
+            xmin = 18.123 
+            xmax = 22.928 
+            text = "#" 
+        intervals [9]:
+            xmin = 22.928 
+            xmax = 24.019 
+            text = "qu'est ce que t'en penses" 
+        intervals [10]:
+            xmin = 24.057 
+            xmax = 26.182 
+            text = "#" 
+        intervals [11]:
+            xmin = 26.182 
+            xmax = 26.756 
+            text = "ah oui" 
+        intervals [12]:
+            xmin = 26.756 
+            xmax = 27.828 
+            text = "#" 
+        intervals [13]:
+            xmin = 27.828 
+            xmax = 29.206 
+            text = "cette pomme a des grands yeux" 
+        intervals [14]:
+            xmin = 29.206 
+            xmax = 59.9516 
+            text = "#" 

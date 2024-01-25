@@ -1,0 +1,134 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 60 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Transcription" 
+        xmin = 0 
+        xmax = 60 
+        intervals: size = 30 
+        intervals [1]:
+            xmin = 0 
+            xmax = 2.505 
+            text = "#" 
+        intervals [2]:
+            xmin = 2.505 
+            xmax = 3.409 
+            text = "ah allo allo" 
+        intervals [3]:
+            xmin = 3.409 
+            xmax = 21.039 
+            text = "#" 
+        intervals [4]:
+            xmin = 21.039 
+            xmax = 22.162 
+            text = "elle est toute moche euh" 
+        intervals [5]:
+            xmin = 22.162 
+            xmax = 23.01 
+            text = "#" 
+        intervals [6]:
+            xmin = 23.01 
+            xmax = 25.942 
+            text = "ah et donc elles descendent pas du ring mais elles descendent du cargo euh" 
+        intervals [7]:
+            xmin = 25.942 
+            xmax = 26.14 
+            text = "#" 
+        intervals [8]:
+            xmin = 26.14 
+            xmax = 27.71 
+            text = "et d'avoir passé trois" 
+        intervals [9]:
+            xmin = 27.71 
+            xmax = 29.117 
+            text = "#" 
+        intervals [10]:
+            xmin = 29.117 
+            xmax = 29.681 
+            text = "machins" 
+        intervals [11]:
+            xmin = 29.681 
+            xmax = 30.291 
+            text = "#" 
+        intervals [12]:
+            xmin = 30.291 
+            xmax = 32.872 
+            text = "et donc elle arrive elle est pourrie et donc euh" 
+        intervals [13]:
+            xmin = 32.872 
+            xmax = 33.837 
+            text = "#" 
+        intervals [14]:
+            xmin = 33.837 
+            xmax = 35.168 
+            text = "et donc c'est pas bon pour eux" 
+        intervals [15]:
+            xmin = 35.168 
+            xmax = 35.722 
+            text = "#" 
+        intervals [16]:
+            xmin = 35.722 
+            xmax = 36.794 
+            text = "donc ça serait les trois" 
+        intervals [17]:
+            xmin = 36.794 
+            xmax = 37.206 
+            text = "#" 
+        intervals [18]:
+            xmin = 37.206 
+            xmax = 38.623 
+            text = "framboise les fraises ouais enfin" 
+        intervals [19]:
+            xmin = 38.623 
+            xmax = 40.295 
+            text = "#" 
+        intervals [20]:
+            xmin = 40.295 
+            xmax = 40.589 
+            text = "euh" 
+        intervals [21]:
+            xmin = 40.589 
+            xmax = 45.07 
+            text = "#" 
+        intervals [22]:
+            xmin = 45.07 
+            xmax = 46.061 
+            text = "bon ben ça se défend ça" 
+        intervals [23]:
+            xmin = 46.061 
+            xmax = 46.935 
+            text = "#" 
+        intervals [24]:
+            xmin = 46.935 
+            xmax = 47.402 
+            text = "euh" 
+        intervals [25]:
+            xmin = 47.402 
+            xmax = 54.089 
+            text = "#" 
+        intervals [26]:
+            xmin = 54.089 
+            xmax = 55.552 
+            text = "je sais pas moi je les aime bien comme ça les" 
+        intervals [27]:
+            xmin = 55.552 
+            xmax = 56.614 
+            text = "#" 
+        intervals [28]:
+            xmin = 56.614 
+            xmax = 58.133 
+            text = "les les poires un petit peu plus juteuses" 
+        intervals [29]:
+            xmin = 58.133 
+            xmax = 58.377 
+            text = "#" 
+        intervals [30]:
+            xmin = 58.377 
+            xmax = 59.9516 
+            text = "euh autant la framboise j'aurais pas la" 

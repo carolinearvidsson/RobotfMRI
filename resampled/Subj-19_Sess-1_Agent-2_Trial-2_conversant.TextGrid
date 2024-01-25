@@ -1,0 +1,90 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 60 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Transcription" 
+        xmin = 0 
+        xmax = 60 
+        intervals: size = 19 
+        intervals [1]:
+            xmin = 0 
+            xmax = 4.458 
+            text = "#" 
+        intervals [2]:
+            xmin = 4.458 
+            xmax = 5.06 
+            text = "salut" 
+        intervals [3]:
+            xmin = 5.06 
+            xmax = 6.275 
+            text = "#" 
+        intervals [4]:
+            xmin = 6.275 
+            xmax = 7.377 
+            text = "je m'appelle $Furhat$" 
+        intervals [5]:
+            xmin = 7.377 
+            xmax = 13.032 
+            text = "#" 
+        intervals [6]:
+            xmin = 13.032 
+            xmax = 13.941 
+            text = "comment ça va" 
+        intervals [7]:
+            xmin = 13.941 
+            xmax = 21.765 
+            text = "#" 
+        intervals [8]:
+            xmin = 21.765 
+            xmax = 22.721 
+            text = "c'est une pomme" 
+        intervals [9]:
+            xmin = 22.721 
+            xmax = 26.607 
+            text = "#" 
+        intervals [10]:
+            xmin = 26.607 
+            xmax = 26.988 
+            text = "oui" 
+        intervals [11]:
+            xmin = 26.988 
+            xmax = 37.739 
+            text = "#" 
+        intervals [12]:
+            xmin = 37.739 
+            xmax = 38.166 
+            text = "ouais" 
+        intervals [13]:
+            xmin = 38.166 
+            xmax = 41.414 
+            text = "#" 
+        intervals [14]:
+            xmin = 41.414 
+            xmax = 42.921 
+            text = "cette pomme a des grands yeux" 
+        intervals [15]:
+            xmin = 42.921 
+            xmax = 45.662 
+            text = "#" 
+        intervals [16]:
+            xmin = 45.662 
+            xmax = 47.169 
+            text = "cette pomme a des grands yeux" 
+        intervals [17]:
+            xmin = 47.169 
+            xmax = 51.264 
+            text = "#" 
+        intervals [18]:
+            xmin = 51.264 
+            xmax = 51.66 
+            text = "oui" 
+        intervals [19]:
+            xmin = 51.66 
+            xmax = 59.9516 
+            text = "#" 

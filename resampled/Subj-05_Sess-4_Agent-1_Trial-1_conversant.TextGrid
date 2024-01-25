@@ -1,0 +1,130 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 60 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Transcription" 
+        xmin = 0 
+        xmax = 60 
+        intervals: size = 29 
+        intervals [1]:
+            xmin = 0 
+            xmax = 4.542 
+            text = "#" 
+        intervals [2]:
+            xmin = 4.542 
+            xmax = 6.574 
+            text = "euh du voyage" 
+        intervals [3]:
+            xmin = 6.574 
+            xmax = 7.24 
+            text = "#" 
+        intervals [4]:
+            xmin = 8.505 
+            xmax = 12.752 
+            text = "#" 
+        intervals [5]:
+            xmin = 12.752 
+            xmax = 16.004 
+            text = "donc la fraise vient de trop loin donc elle est fatiguée elle est moche" 
+        intervals [6]:
+            xmin = 16.004 
+            xmax = 17.574 
+            text = "#" 
+        intervals [7]:
+            xmin = 17.574 
+            xmax = 18.748 
+            text = "donc elle va finir à la poubelle en fait" 
+        intervals [8]:
+            xmin = 18.748 
+            xmax = 19.571 
+            text = "#" 
+        intervals [9]:
+            xmin = 19.571 
+            xmax = 21.349 
+            text = "elle a fait tout ça et elle va finir à la poubelle" 
+        intervals [10]:
+            xmin = 21.349 
+            xmax = 21.953 
+            text = "#" 
+        intervals [11]:
+            xmin = 21.953 
+            xmax = 23.777 
+            text = "alors que la pomme du" 
+        intervals [12]:
+            xmin = 23.777 
+            xmax = 26.059 
+            text = "#" 
+        intervals [13]:
+            xmin = 26.059 
+            xmax = 29.559 
+            text = "la pomme du producteur du coin elle est tellement belle elle brille tellement que" 
+        intervals [14]:
+            xmin = 29.559 
+            xmax = 40.508 
+            text = "#" 
+        intervals [15]:
+            xmin = 40.508 
+            xmax = 41.732 
+            text = "ouais peut-être" 
+        intervals [16]:
+            xmin = 41.732 
+            xmax = 42.144 
+            text = "#" 
+        intervals [17]:
+            xmin = 42.144 
+            xmax = 43.17 
+            text = "euh" 
+        intervals [18]:
+            xmin = 43.17 
+            xmax = 45.66 
+            text = "#" 
+        intervals [19]:
+            xmin = 45.66 
+            xmax = 51.833 
+            text = "on a rien contre les sa- après euh ça peut être subtil genre en France les règles font qu'on peut pas utiliser trop de pesticides" 
+        intervals [20]:
+            xmin = 51.833 
+            xmax = 52.722 
+            text = "#" 
+        intervals [21]:
+            xmin = 52.722 
+            xmax = 53.56 
+            text = "bon c'est pas vrai en fait" 
+        intervals [22]:
+            xmin = 53.56 
+            xmax = 54.155 
+            text = "#" 
+        intervals [23]:
+            xmin = 54.155 
+            xmax = 54.536 
+            text = "@" 
+        intervals [24]:
+            xmin = 54.536 
+            xmax = 55.836 
+            text = "#" 
+        intervals [25]:
+            xmin = 55.836 
+            xmax = 56.161 
+            text = "@" 
+        intervals [26]:
+            xmin = 56.161 
+            xmax = 56.502 
+            text = "#" 
+        intervals [27]:
+            xmin = 56.502 
+            xmax = 57.503 
+            text = "mais si c'était vrai" 
+        intervals [28]:
+            xmin = 57.503 
+            xmax = 57.833 
+            text = "#" 
+        intervals [29]:
+            xmin = 57.833 
+            xmax = 59.9516 
+            text = "soit s'ils voulaient préparer une nouvelle" 

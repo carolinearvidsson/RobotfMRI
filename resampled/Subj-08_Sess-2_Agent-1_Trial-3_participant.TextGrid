@@ -1,0 +1,146 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 60 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Transcription" 
+        xmin = 0 
+        xmax = 60 
+        intervals: size = 33 
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.814 
+            text = "#" 
+        intervals [2]:
+            xmin = 1.814 
+            xmax = 2.083 
+            text = "euh" 
+        intervals [3]:
+            xmin = 2.083 
+            xmax = 3.556 
+            text = "#" 
+        intervals [4]:
+            xmin = 3.556 
+            xmax = 6.066 
+            text = "ben du coup euh c'est une fraise euh" 
+        intervals [5]:
+            xmin = 6.066 
+            xmax = 6.529 
+            text = "#" 
+        intervals [6]:
+            xmin = 6.529 
+            xmax = 10.598 
+            text = "toujours avec euh un visage des jambes des bras" 
+        intervals [7]:
+            xmin = 10.598 
+            xmax = 11.511 
+            text = "#" 
+        intervals [8]:
+            xmin = 11.511 
+            xmax = 12 
+            text = "euh" 
+        intervals [9]:
+            xmin = 12 
+            xmax = 12.727 
+            text = "#" 
+        intervals [10]:
+            xmin = 12.727 
+            xmax = 16.289 
+            text = "bah les yeux sont un peu dépressif il a l'air un peu" 
+        intervals [11]:
+            xmin = 16.289 
+            xmax = 17.218 
+            text = "#" 
+        intervals [12]:
+            xmin = 17.218 
+            xmax = 20.069 
+            text = "franc -fin je sais pas déterminée un peu" 
+        intervals [13]:
+            xmin = 20.069 
+            xmax = 23.849 
+            text = "#" 
+        intervals [14]:
+            xmin = 23.849 
+            xmax = 24.296 
+            text = "ah ouais" 
+        intervals [15]:
+            xmin = 24.296 
+            xmax = 25.764 
+            text = "#" 
+        intervals [16]:
+            xmin = 25.764 
+            xmax = 28.523 
+            text = "ouais voilà peut-être un peu en colère je sais pas avec euh" 
+        intervals [17]:
+            xmin = 28.523 
+            xmax = 28.889 
+            text = "#" 
+        intervals [18]:
+            xmin = 28.889 
+            xmax = 32.262 
+            text = "des bras et ses mains sont en poing comme ça" 
+        intervals [19]:
+            xmin = 32.262 
+            xmax = 37.51 
+            text = "#" 
+        intervals [20]:
+            xmin = 37.51 
+            xmax = 40.696 
+            text = "bah ouais je sais pas au début je me suis dit on dirait un peu de" 
+        intervals [21]:
+            xmin = 40.696 
+            xmax = 42.677 
+            text = "#" 
+        intervals [22]:
+            xmin = 42.677 
+            xmax = 46.076 
+            text = "je sais pas ouais un peu déterminé un peu * personnage" 
+        intervals [23]:
+            xmin = 46.076 
+            xmax = 49.104 
+            text = "#" 
+        intervals [24]:
+            xmin = 49.104 
+            xmax = 50.776 
+            text = "ouais un truc * ça" 
+        intervals [25]:
+            xmin = 50.776 
+            xmax = 52.956 
+            text = "#" 
+        intervals [26]:
+            xmin = 52.956 
+            xmax = 54.149 
+            text = "euh ben voilà je sais pas" 
+        intervals [27]:
+            xmin = 54.149 
+            xmax = 54.646 
+            text = "#" 
+        intervals [28]:
+            xmin = 54.646 
+            xmax = 55.023 
+            text = "ouais" 
+        intervals [29]:
+            xmin = 55.023 
+            xmax = 55.892 
+            text = "#" 
+        intervals [30]:
+            xmin = 55.892 
+            xmax = 56.629 
+            text = "et euh" 
+        intervals [31]:
+            xmin = 56.629 
+            xmax = 57.218 
+            text = "#" 
+        intervals [32]:
+            xmin = 57.218 
+            xmax = 58.722 
+            text = "ouais ben" 
+        intervals [33]:
+            xmin = 58.722 
+            xmax = 59.9044 
+            text = "#" 

@@ -1,0 +1,150 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 60 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Transcription" 
+        xmin = 0 
+        xmax = 60 
+        intervals: size = 34 
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.829 
+            text = "#" 
+        intervals [2]:
+            xmin = 1.829 
+            xmax = 2.073 
+            text = "ouais" 
+        intervals [3]:
+            xmin = 2.073 
+            xmax = 4.452 
+            text = "#" 
+        intervals [4]:
+            xmin = 4.452 
+            xmax = 5.136 
+            text = "aubergine" 
+        intervals [5]:
+            xmin = 5.136 
+            xmax = 5.782 
+            text = "#" 
+        intervals [6]:
+            xmin = 5.782 
+            xmax = 6.127 
+            text = "ouais" 
+        intervals [7]:
+            xmin = 6.127 
+            xmax = 7.242 
+            text = "#" 
+        intervals [8]:
+            xmin = 7.242 
+            xmax = 11.37 
+            text = "mais c'est sûr qu'il y a un parallèle avec le avec le canard là de" 
+        intervals [9]:
+            xmin = 11.37 
+            xmax = 11.688 
+            text = "#" 
+        intervals [10]:
+            xmin = 11.688 
+            xmax = 12.468 
+            text = "de $Disney$" 
+        intervals [11]:
+            xmin = 12.468 
+            xmax = 14.002 
+            text = "#" 
+        intervals [12]:
+            xmin = 14.002 
+            xmax = 15.313 
+            text = "ah tu trouves pas" 
+        intervals [13]:
+            xmin = 15.313 
+            xmax = 18.971 
+            text = "#" 
+        intervals [14]:
+            xmin = 18.971 
+            xmax = 19.337 
+            text = "ah ouais" 
+        intervals [15]:
+            xmin = 19.337 
+            xmax = 20.023 
+            text = "#" 
+        intervals [16]:
+            xmin = 20.023 
+            xmax = 21.959 
+            text = "je vois pas du tout la cagoule par contre ça non" 
+        intervals [17]:
+            xmin = 21.959 
+            xmax = 24.458 
+            text = "#" 
+        intervals [18]:
+            xmin = 24.458 
+            xmax = 25.393 
+            text = "euh" 
+        intervals [19]:
+            xmin = 25.393 
+            xmax = 25.82 
+            text = "#" 
+        intervals [20]:
+            xmin = 25.82 
+            xmax = 32.582 
+            text = "je crois pas que c'est $Donald Duck$ euh je sais plus comment il s'appelle ce personnage mais c'est un personnage euh de dessins animés de $Disney" 
+        intervals [21]:
+            xmin = 32.582 
+            xmax = 34.142 
+            text = "#" 
+        intervals [22]:
+            xmin = 34.142 
+            xmax = 36.591 
+            text = "tu sais un canard noir comme ça qui parle pas bien" 
+        intervals [23]:
+            xmin = 36.591 
+            xmax = 38.735 
+            text = "#" 
+        intervals [24]:
+            xmin = 38.735 
+            xmax = 39.863 
+            text = "qui parle" 
+        intervals [25]:
+            xmin = 39.863 
+            xmax = 40.066 
+            text = "#" 
+        intervals [26]:
+            xmin = 40.066 
+            xmax = 40.696 
+            text = "comme" 
+        intervals [27]:
+            xmin = 40.696 
+            xmax = 48.342 
+            text = "#" 
+        intervals [28]:
+            xmin = 48.342 
+            xmax = 50.598 
+            text = "non mais $Donald Duck$ c'est celui qui est millionaire non" 
+        intervals [29]:
+            xmin = 50.598 
+            xmax = 50.933 
+            text = "#" 
+        intervals [30]:
+            xmin = 50.933 
+            xmax = 51.101 
+            text = "ah" 
+        intervals [31]:
+            xmin = 51.101 
+            xmax = 53.616 
+            text = "#" 
+        intervals [32]:
+            xmin = 53.616 
+            xmax = 53.865 
+            text = "ah" 
+        intervals [33]:
+            xmin = 53.865 
+            xmax = 54.668 
+            text = "#" 
+        intervals [34]:
+            xmin = 54.668 
+            xmax = 59.9044 
+            text = "oh je les connais pas très bien les les personnages mais en tout cas je je j'ai prêté attention à" 

@@ -1,0 +1,138 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 60 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Transcription" 
+        xmin = 0 
+        xmax = 60 
+        intervals: size = 31 
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.199 
+            text = "#" 
+        intervals [2]:
+            xmin = 1.199 
+            xmax = 3.729 
+            text = "là l'aubergine taillée est en forme de batman" 
+        intervals [3]:
+            xmin = 3.729 
+            xmax = 5.182 
+            text = "#" 
+        intervals [4]:
+            xmin = 5.182 
+            xmax = 5.699 
+            text = "donc euh" 
+        intervals [5]:
+            xmin = 9.018 
+            xmax = 10.318 
+            text = "peut-être oui mais euh" 
+        intervals [6]:
+            xmin = 10.318 
+            xmax = 12.239 
+            text = "#" 
+        intervals [7]:
+            xmin = 12.239 
+            xmax = 15.11 
+            text = "le fait qu'elle ait été taillée en enlevant de la peau" 
+        intervals [8]:
+            xmin = 15.11 
+            xmax = 15.501 
+            text = "#" 
+        intervals [9]:
+            xmin = 15.501 
+            xmax = 16.512 
+            text = "est-ce que c'est lié au fait" 
+        intervals [10]:
+            xmin = 16.512 
+            xmax = 16.731 
+            text = "#" 
+        intervals [11]:
+            xmin = 16.731 
+            xmax = 18.138 
+            text = "qu'il y ait des pesticides sur la peau" 
+        intervals [12]:
+            xmin = 18.138 
+            xmax = 18.636 
+            text = "#" 
+        intervals [13]:
+            xmin = 18.636 
+            xmax = 20.109 
+            text = "et enlever la peau du coup" 
+        intervals [14]:
+            xmin = 20.109 
+            xmax = 20.622 
+            text = "#" 
+        intervals [15]:
+            xmin = 20.622 
+            xmax = 24.153 
+            text = "c'est important d'enlever la peau des fruits et légumes qui ont été traités avec des pesticides" 
+        intervals [16]:
+            xmin = 24.153 
+            xmax = 26.983 
+            text = "#" 
+        intervals [17]:
+            xmin = 26.983 
+            xmax = 27.344 
+            text = "d'accord" 
+        intervals [18]:
+            xmin = 27.344 
+            xmax = 28.13 
+            text = "#" 
+        intervals [19]:
+            xmin = 28.13 
+            xmax = 28.494 
+            text = "ok" 
+        intervals [20]:
+            xmin = 34.485 
+            xmax = 34.734 
+            text = "ok" 
+        intervals [21]:
+            xmin = 36.672 
+            xmax = 36.997 
+            text = "oui elle" 
+        intervals [22]:
+            xmin = 36.997 
+            xmax = 39.577 
+            text = "#" 
+        intervals [23]:
+            xmin = 39.577 
+            xmax = 43.053 
+            text = "elle combattrait elle combattrait les les fruits et légumes sur ok" 
+        intervals [24]:
+            xmin = 43.053 
+            xmax = 43.379 
+            text = "#" 
+        intervals [25]:
+            xmin = 43.379 
+            xmax = 45.1 
+            text = "sur lesquels on a utilisé des pesticides" 
+        intervals [26]:
+            xmin = 45.1 
+            xmax = 46.041 
+            text = "#" 
+        intervals [27]:
+            xmin = 46.041 
+            xmax = 46.935 
+            text = "ça fait sens" 
+        intervals [28]:
+            xmin = 46.935 
+            xmax = 53.048 
+            text = "#" 
+        intervals [29]:
+            xmin = 53.048 
+            xmax = 53.494 
+            text = "d'accord" 
+        intervals [30]:
+            xmin = 53.494 
+            xmax = 57.599 
+            text = "#" 
+        intervals [31]:
+            xmin = 57.599 
+            xmax = 59.9044 
+            text = "c'est c'est vrai qu'elle a un aspect plutôt ludique" 

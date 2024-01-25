@@ -1,0 +1,130 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 60 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Transcription" 
+        xmin = 0 
+        xmax = 60 
+        intervals: size = 29 
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.737 
+            text = "#" 
+        intervals [2]:
+            xmin = 1.737 
+            xmax = 7.742 
+            text = "peut-être y a un côté plus naturel dans ces fruits euh avec des bras et des des jambes" 
+        intervals [3]:
+            xmin = 7.742 
+            xmax = 10.517 
+            text = "#" 
+        intervals [4]:
+            xmin = 10.517 
+            xmax = 12.544 
+            text = "@ c'est vrai peut-être un peu" 
+        intervals [5]:
+            xmin = 12.544 
+            xmax = 15.195 
+            text = "#" 
+        intervals [6]:
+            xmin = 15.195 
+            xmax = 15.546 
+            text = "oui" 
+        intervals [7]:
+            xmin = 15.546 
+            xmax = 15.782 
+            text = "#" 
+        intervals [8]:
+            xmin = 15.782 
+            xmax = 19.459 
+            text = "c'est vrai que par rapport aux autres fruits euh celle là un peu différente mais euh" 
+        intervals [9]:
+            xmin = 19.459 
+            xmax = 23.528 
+            text = "#" 
+        intervals [10]:
+            xmin = 23.528 
+            xmax = 24.6 
+            text = "le citron av-" 
+        intervals [11]:
+            xmin = 24.6 
+            xmax = 25.008 
+            text = "#" 
+        intervals [12]:
+            xmin = 25.008 
+            xmax = 26.475 
+            text = "il avait l'air plus gentil" 
+        intervals [13]:
+            xmin = 26.475 
+            xmax = 27.334 
+            text = "#" 
+        intervals [14]:
+            xmin = 27.334 
+            xmax = 30.413 
+            text = "et euh peut-être que dans les premiers fruits faut y avait euh" 
+        intervals [15]:
+            xmin = 30.413 
+            xmax = 31.094 
+            text = "#" 
+        intervals [16]:
+            xmin = 31.094 
+            xmax = 34.03 
+            text = "du j'allais dire écorché mais épluché en tout cas" 
+        intervals [17]:
+            xmin = 34.03 
+            xmax = 34.94 
+            text = "#" 
+        intervals [18]:
+            xmin = 34.94 
+            xmax = 38.399 
+            text = "peut-être que ça veut dire attention aux pesticides euh épluchez bien les fruits" 
+        intervals [19]:
+            xmin = 38.399 
+            xmax = 39.009 
+            text = "#" 
+        intervals [20]:
+            xmin = 39.009 
+            xmax = 41.163 
+            text = "alors que ceux là sont peut-être plus naturels" 
+        intervals [21]:
+            xmin = 41.163 
+            xmax = 41.539 
+            text = "#" 
+        intervals [22]:
+            xmin = 41.539 
+            xmax = 42.972 
+            text = "justement moins calibrés" 
+        intervals [23]:
+            xmin = 42.972 
+            xmax = 43.511 
+            text = "#" 
+        intervals [24]:
+            xmin = 43.511 
+            xmax = 45.777 
+            text = "et dû à un bon lavage ou en tout cas" 
+        intervals [25]:
+            xmin = 45.777 
+            xmax = 49.084 
+            text = "#" 
+        intervals [26]:
+            xmin = 49.084 
+            xmax = 56.075 
+            text = "oui c'est ça et que et que peut-être justement ils sont ils ont l'air au départ tristes et sont certainement meilleurs" 
+        intervals [27]:
+            xmin = 56.075 
+            xmax = 56.786 
+            text = "#" 
+        intervals [28]:
+            xmin = 56.786 
+            xmax = 58.681 
+            text = "un peu comme les apparences sont trompeuses" 
+        intervals [29]:
+            xmin = 58.681 
+            xmax = 59.9044 
+            text = "#" 

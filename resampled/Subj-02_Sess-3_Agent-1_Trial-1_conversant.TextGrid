@@ -1,0 +1,118 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 60 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Transcription" 
+        xmin = 0 
+        xmax = 60 
+        intervals: size = 26 
+        intervals [1]:
+            xmin = 0 
+            xmax = 4.634 
+            text = "#" 
+        intervals [2]:
+            xmin = 4.634 
+            xmax = 6.249 
+            text = "ouais c'est l'aubergine de tout à l'heure ça" 
+        intervals [3]:
+            xmin = 6.249 
+            xmax = 13.469 
+            text = "#" 
+        intervals [4]:
+            xmin = 13.469 
+            xmax = 14.338 
+            text = "ah ouais tu trouves" 
+        intervals [5]:
+            xmin = 14.338 
+            xmax = 15.039 
+            text = "#" 
+        intervals [6]:
+            xmin = 15.039 
+            xmax = 15.293 
+            text = "ouais" 
+        intervals [7]:
+            xmin = 15.293 
+            xmax = 15.471 
+            text = "#" 
+        intervals [8]:
+            xmin = 15.471 
+            xmax = 15.863 
+            text = "c'est c-" 
+        intervals [9]:
+            xmin = 15.863 
+            xmax = 18.275 
+            text = "#" 
+        intervals [10]:
+            xmin = 18.275 
+            xmax = 18.524 
+            text = "mh" 
+        intervals [11]:
+            xmin = 18.524 
+            xmax = 22.02 
+            text = "#" 
+        intervals [12]:
+            xmin = 22.02 
+            xmax = 23.889 
+            text = "ouais c'est euh c'est c'est possible" 
+        intervals [13]:
+            xmin = 23.889 
+            xmax = 24.692 
+            text = "#" 
+        intervals [14]:
+            xmin = 24.692 
+            xmax = 24.844 
+            text = "*" 
+        intervals [15]:
+            xmin = 24.844 
+            xmax = 25.901 
+            text = "#" 
+        intervals [16]:
+            xmin = 25.901 
+            xmax = 26.541 
+            text = "euh" 
+        intervals [17]:
+            xmin = 26.541 
+            xmax = 27.217 
+            text = "#" 
+        intervals [18]:
+            xmin = 27.217 
+            xmax = 32.547 
+            text = "tu sais je me disais les super héros sur les euh sur les fruits et légumes c'est peut-être un truc du ministère de la santé" 
+        intervals [19]:
+            xmin = 32.547 
+            xmax = 36.159 
+            text = "#" 
+        intervals [20]:
+            xmin = 36.159 
+            xmax = 37.762 
+            text = "mais du coup si ils sont méchants" 
+        intervals [21]:
+            xmin = 37.762 
+            xmax = 38.09 
+            text = "#" 
+        intervals [22]:
+            xmin = 38.09 
+            xmax = 38.948 
+            text = "euh je -fin" 
+        intervals [23]:
+            xmin = 38.948 
+            xmax = 57.051 
+            text = "#" 
+        intervals [24]:
+            xmin = 57.051 
+            xmax = 58.214 
+            text = "euh donc du coup" 
+        intervals [25]:
+            xmin = 58.214 
+            xmax = 58.514 
+            text = "#" 
+        intervals [26]:
+            xmin = 58.514 
+            xmax = 59.9516 
+            text = "ceux qui seraient présentés comme" 

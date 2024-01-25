@@ -1,0 +1,154 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 60 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Transcription" 
+        xmin = 0 
+        xmax = 60 
+        intervals: size = 35 
+        intervals [1]:
+            xmin = 0 
+            xmax = 4.796 
+            text = "#" 
+        intervals [2]:
+            xmin = 4.796 
+            xmax = 5.07 
+            text = "quoi" 
+        intervals [3]:
+            xmin = 5.07 
+            xmax = 6.508 
+            text = "#" 
+        intervals [4]:
+            xmin = 6.508 
+            xmax = 6.737 
+            text = "ah" 
+        intervals [5]:
+            xmin = 6.737 
+            xmax = 6.93 
+            text = "#" 
+        intervals [6]:
+            xmin = 6.93 
+            xmax = 7.712 
+            text = "ouais salut" 
+        intervals [7]:
+            xmin = 7.712 
+            xmax = 12.971 
+            text = "#" 
+        intervals [8]:
+            xmin = 12.971 
+            xmax = 14.622 
+            text = "ah c'est pour ça qu'elle est à l'envers" 
+        intervals [9]:
+            xmin = 14.622 
+            xmax = 20.236 
+            text = "#" 
+        intervals [10]:
+            xmin = 20.236 
+            xmax = 22.258 
+            text = "ouais ben oui c'est carrément possible ouais" 
+        intervals [11]:
+            xmin = 22.258 
+            xmax = 22.898 
+            text = "#" 
+        intervals [12]:
+            xmin = 22.898 
+            xmax = 23.3 
+            text = "ouais ouais" 
+        intervals [13]:
+            xmin = 23.3 
+            xmax = 23.828 
+            text = "#" 
+        intervals [14]:
+            xmin = 23.828 
+            xmax = 26.389 
+            text = "avec les yeux en en fente comme ça toute rouge" 
+        intervals [15]:
+            xmin = 26.389 
+            xmax = 28.548 
+            text = "#" 
+        intervals [16]:
+            xmin = 28.548 
+            xmax = 28.807 
+            text = "ouais" 
+        intervals [17]:
+            xmin = 28.807 
+            xmax = 30.088 
+            text = "#" 
+        intervals [18]:
+            xmin = 30.088 
+            xmax = 31.165 
+            text = "non non c'est ça doit être ça" 
+        intervals [19]:
+            xmin = 31.165 
+            xmax = 32.069 
+            text = "#" 
+        intervals [20]:
+            xmin = 32.069 
+            xmax = 37.282 
+            text = "ça doit être ça doit être $Spiderman$ ça ça me donne encore plus faim mais euh mais ça doit être $Spiderman$ oui @" 
+        intervals [21]:
+            xmin = 37.282 
+            xmax = 38.725 
+            text = "#" 
+        intervals [22]:
+            xmin = 38.725 
+            xmax = 39.781 
+            text = "euh ouais" 
+        intervals [23]:
+            xmin = 39.781 
+            xmax = 40.462 
+            text = "#" 
+        intervals [24]:
+            xmin = 40.462 
+            xmax = 41.732 
+            text = "elle est brillante en tout cas" 
+        intervals [25]:
+            xmin = 41.732 
+            xmax = 42.195 
+            text = "#" 
+        intervals [26]:
+            xmin = 42.195 
+            xmax = 42.688 
+            text = "elle est jolie" 
+        intervals [27]:
+            xmin = 42.688 
+            xmax = 46.925 
+            text = "#" 
+        intervals [28]:
+            xmin = 46.925 
+            xmax = 47.966 
+            text = "euh" 
+        intervals [29]:
+            xmin = 47.966 
+            xmax = 51.238 
+            text = "#" 
+        intervals [30]:
+            xmin = 51.238 
+            xmax = 52.889 
+            text = "une pub de pommes euh" 
+        intervals [31]:
+            xmin = 52.889 
+            xmax = 54.144 
+            text = "#" 
+        intervals [32]:
+            xmin = 54.144 
+            xmax = 57.726 
+            text = "fruits et légumes ouais c'est possible c'est peut-être pour inciter les gens à à manger des fruits" 
+        intervals [33]:
+            xmin = 57.726 
+            xmax = 58.168 
+            text = "#" 
+        intervals [34]:
+            xmin = 58.168 
+            xmax = 58.763 
+            text = "ou des légumes" 
+        intervals [35]:
+            xmin = 58.763 
+            xmax = 59.9516 
+            text = "#" 

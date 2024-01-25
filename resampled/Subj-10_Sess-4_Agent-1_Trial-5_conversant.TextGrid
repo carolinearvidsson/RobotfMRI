@@ -1,0 +1,158 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 60 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Transcription" 
+        xmin = 0 
+        xmax = 60 
+        intervals: size = 36 
+        intervals [1]:
+            xmin = 0 
+            xmax = 2.718 
+            text = "#" 
+        intervals [2]:
+            xmin = 2.718 
+            xmax = 4.339 
+            text = "ouais on est reparti euh" 
+        intervals [3]:
+            xmin = 4.339 
+            xmax = 5.172 
+            text = "#" 
+        intervals [4]:
+            xmin = 5.172 
+            xmax = 7.408 
+            text = "bon mais là c'est bon on a @" 
+        intervals [5]:
+            xmin = 7.408 
+            xmax = 8.144 
+            text = "#" 
+        intervals [6]:
+            xmin = 8.144 
+            xmax = 12.651 
+            text = "on a fini on peut passer à autre chose quoi @ on a trouvé on a trouvé ce que c'était" 
+        intervals [7]:
+            xmin = 12.651 
+            xmax = 13.118 
+            text = "#" 
+        intervals [8]:
+            xmin = 13.118 
+            xmax = 14.007 
+            text = "euh" 
+        intervals [9]:
+            xmin = 14.007 
+            xmax = 15.887 
+            text = "#" 
+        intervals [10]:
+            xmin = 15.887 
+            xmax = 19.317 
+            text = "ouais puis o- c'est peut-être pas les trucs finaux non plus parce que" 
+        intervals [11]:
+            xmin = 19.317 
+            xmax = 19.916 
+            text = "#" 
+        intervals [12]:
+            xmin = 19.916 
+            xmax = 20.414 
+            text = "ah euh" 
+        intervals [13]:
+            xmin = 20.414 
+            xmax = 20.82 
+            text = "#" 
+        intervals [14]:
+            xmin = 20.82 
+            xmax = 24.743 
+            text = "au pire on leur dira que il faudrait qu'ils changent deux trois petits trucs pour que pour que ça passe bien" 
+        intervals [15]:
+            xmin = 24.743 
+            xmax = 25.358 
+            text = "#" 
+        intervals [16]:
+            xmin = 25.358 
+            xmax = 26.028 
+            text = "euh" 
+        intervals [17]:
+            xmin = 26.028 
+            xmax = 26.993 
+            text = "#" 
+        intervals [18]:
+            xmin = 26.993 
+            xmax = 30.067 
+            text = "surtout qu'en plus j'ai l'impression que y a y a des choses qui sont un peu bizarres quoi" 
+        intervals [19]:
+            xmin = 30.067 
+            xmax = 30.382 
+            text = "#" 
+        intervals [20]:
+            xmin = 30.382 
+            xmax = 33.177 
+            text = "genre les aubergines c'est pas le truc que tu importes vraiment de loin" 
+        intervals [21]:
+            xmin = 33.177 
+            xmax = 33.517 
+            text = "#" 
+        intervals [22]:
+            xmin = 33.517 
+            xmax = 36.144 
+            text = "ça fait partie des rares trucs euh qui sont difficiles" 
+        intervals [23]:
+            xmin = 36.144 
+            xmax = 36.804 
+            text = "#" 
+        intervals [24]:
+            xmin = 36.804 
+            xmax = 40.066 
+            text = "à qui sont difficiles à à transporter euh" 
+        intervals [25]:
+            xmin = 40.066 
+            xmax = 40.721 
+            text = "#" 
+        intervals [26]:
+            xmin = 40.721 
+            xmax = 42.342 
+            text = "qui pourrissent facilement et euh" 
+        intervals [27]:
+            xmin = 42.342 
+            xmax = 44.852 
+            text = "#" 
+        intervals [28]:
+            xmin = 44.852 
+            xmax = 45.863 
+            text = "bah ouais" 
+        intervals [29]:
+            xmin = 45.863 
+            xmax = 46.346 
+            text = "#" 
+        intervals [30]:
+            xmin = 46.346 
+            xmax = 51.304 
+            text = "on on est en surproduction de de pommes on sait plus quoi en faire on en fait tous les produits dérivés qu'on peut imaginer" 
+        intervals [31]:
+            xmin = 51.304 
+            xmax = 51.975 
+            text = "#" 
+        intervals [32]:
+            xmin = 51.975 
+            xmax = 52.549 
+            text = "bah" 
+        intervals [33]:
+            xmin = 52.549 
+            xmax = 52.727 
+            text = "#" 
+        intervals [34]:
+            xmin = 52.727 
+            xmax = 54.393 
+            text = "ou alors c'est pas ça mais bon euh" 
+        intervals [35]:
+            xmin = 54.393 
+            xmax = 55.374 
+            text = "#" 
+        intervals [36]:
+            xmin = 55.374 
+            xmax = 59.9516 
+            text = "y avait la ouais mais pourtant ça marchait bien parce que y a la piste pesticides plus transports plu-" 

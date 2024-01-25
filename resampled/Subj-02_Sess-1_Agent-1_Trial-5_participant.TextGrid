@@ -1,0 +1,90 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 60 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Transcription" 
+        xmin = 0 
+        xmax = 60 
+        intervals: size = 19 
+        intervals [1]:
+            xmin = 0 
+            xmax = 4.293 
+            text = "#" 
+        intervals [2]:
+            xmin = 4.293 
+            xmax = 5.599 
+            text = "c'est une pomme à l'envers" 
+        intervals [3]:
+            xmin = 5.599 
+            xmax = 7.555 
+            text = "#" 
+        intervals [4]:
+            xmin = 7.555 
+            xmax = 10.415 
+            text = "coupée avec un petit peu la même forme que l'aubergine" 
+        intervals [5]:
+            xmin = 10.415 
+            xmax = 26.562 
+            text = "#" 
+        intervals [6]:
+            xmin = 26.562 
+            xmax = 26.958 
+            text = "oui" 
+        intervals [7]:
+            xmin = 26.958 
+            xmax = 35.534 
+            text = "#" 
+        intervals [8]:
+            xmin = 35.534 
+            xmax = 36.774 
+            text = "ah ouais c'est pas bête" 
+        intervals [9]:
+            xmin = 36.774 
+            xmax = 37.114 
+            text = "#" 
+        intervals [10]:
+            xmin = 37.114 
+            xmax = 38.176 
+            text = "j'avais pas pensé à ça" 
+        intervals [11]:
+            xmin = 38.176 
+            xmax = 40.636 
+            text = "#" 
+        intervals [12]:
+            xmin = 40.636 
+            xmax = 41.265 
+            text = "c'est pas bête" 
+        intervals [13]:
+            xmin = 41.265 
+            xmax = 53.697 
+            text = "#" 
+        intervals [14]:
+            xmin = 53.697 
+            xmax = 55.186 
+            text = "oui on a une aubergine" 
+        intervals [15]:
+            xmin = 55.186 
+            xmax = 56.034 
+            text = "#" 
+        intervals [16]:
+            xmin = 56.034 
+            xmax = 57.223 
+            text = "on a un citron vert" 
+        intervals [17]:
+            xmin = 57.223 
+            xmax = 57.645 
+            text = "#" 
+        intervals [18]:
+            xmin = 57.645 
+            xmax = 58.661 
+            text = "et la pomme à l'envers" 
+        intervals [19]:
+            xmin = 58.661 
+            xmax = 59.9044 
+            text = "#" 

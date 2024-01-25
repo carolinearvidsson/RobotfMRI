@@ -1,0 +1,162 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 60 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Transcription" 
+        xmin = 0 
+        xmax = 60 
+        intervals: size = 37 
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.885 
+            text = "#" 
+        intervals [2]:
+            xmin = 1.885 
+            xmax = 2.124 
+            text = "re" 
+        intervals [3]:
+            xmin = 2.124 
+            xmax = 3.856 
+            text = "#" 
+        intervals [4]:
+            xmin = 3.856 
+            xmax = 5.619 
+            text = "euh ben c'est euh tu tu" 
+        intervals [5]:
+            xmin = 5.619 
+            xmax = 6.087 
+            text = "#" 
+        intervals [6]:
+            xmin = 6.087 
+            xmax = 7.306 
+            text = "je te je te laisse deviner" 
+        intervals [7]:
+            xmin = 7.306 
+            xmax = 9.806 
+            text = "#" 
+        intervals [8]:
+            xmin = 9.806 
+            xmax = 10.436 
+            text = "ouais c'est ça" 
+        intervals [9]:
+            xmin = 10.436 
+            xmax = 10.944 
+            text = "#" 
+        intervals [10]:
+            xmin = 10.944 
+            xmax = 15.211 
+            text = "et euh comme on a dit le robot du coup c'est une pub pour manger plus sainement donc je pense que c'est une pub pour attirer les enfants" 
+        intervals [11]:
+            xmin = 15.211 
+            xmax = 15.638 
+            text = "#" 
+        intervals [12]:
+            xmin = 15.638 
+            xmax = 18.809 
+            text = "pour euh faire le lien entre super héros et du coup que" 
+        intervals [13]:
+            xmin = 18.809 
+            xmax = 19.459 
+            text = "#" 
+        intervals [14]:
+            xmin = 19.459 
+            xmax = 22.527 
+            text = "soient attirés vers les fruits et euh ***" 
+        intervals [15]:
+            xmin = 22.527 
+            xmax = 25.358 
+            text = "#" 
+        intervals [16]:
+            xmin = 25.358 
+            xmax = 25.865 
+            text = "ouais" 
+        intervals [17]:
+            xmin = 25.865 
+            xmax = 26.15 
+            text = "#" 
+        intervals [18]:
+            xmin = 26.15 
+            xmax = 29.051 
+            text = "ben ouais ils sont trop nuls du coup je pense que c'est vraiment pour euh" 
+        intervals [19]:
+            xmin = 29.051 
+            xmax = 29.386 
+            text = "#" 
+        intervals [20]:
+            xmin = 29.386 
+            xmax = 32.531 
+            text = "pour rentrer dans leurs dans leurs esprits et * avec euh" 
+        intervals [21]:
+            xmin = 32.531 
+            xmax = 33.136 
+            text = "#" 
+        intervals [22]:
+            xmin = 33.136 
+            xmax = 34.635 
+            text = "leur faire passer le message sur ben je sais pas" 
+        intervals [23]:
+            xmin = 34.635 
+            xmax = 38.1 
+            text = "#" 
+        intervals [24]:
+            xmin = 38.1 
+            xmax = 39.126 
+            text = "je pense qu'ils le disent encore" 
+        intervals [25]:
+            xmin = 39.126 
+            xmax = 41.067 
+            text = "#" 
+        intervals [26]:
+            xmin = 41.067 
+            xmax = 45.858 
+            text = "je sais qu'ils ont refait des ils ont remasteré -fin ils ont remasterisés et ça doit rater" 
+        intervals [27]:
+            xmin = 45.858 
+            xmax = 48.739 
+            text = "#" 
+        intervals [28]:
+            xmin = 48.739 
+            xmax = 48.993 
+            text = "ouais" 
+        intervals [29]:
+            xmin = 48.993 
+            xmax = 50.019 
+            text = "#" 
+        intervals [30]:
+            xmin = 50.019 
+            xmax = 50.796 
+            text = "ouais mais" 
+        intervals [31]:
+            xmin = 50.796 
+            xmax = 51.212 
+            text = "#" 
+        intervals [32]:
+            xmin = 51.212 
+            xmax = 53.052 
+            text = "c'est excellent les $Tortues Ninjas$ quoi c'est pas de la *" 
+        intervals [33]:
+            xmin = 53.052 
+            xmax = 54.449 
+            text = "#" 
+        intervals [34]:
+            xmin = 54.449 
+            xmax = 55.409 
+            text = "on fait plein de remake" 
+        intervals [35]:
+            xmin = 55.409 
+            xmax = 57.894 
+            text = "#" 
+        intervals [36]:
+            xmin = 57.894 
+            xmax = 58.092 
+            text = "ouais" 
+        intervals [37]:
+            xmin = 58.092 
+            xmax = 59.9044 
+            text = "#" 

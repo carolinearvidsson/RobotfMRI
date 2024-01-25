@@ -1,0 +1,202 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 60 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Transcription" 
+        xmin = 0 
+        xmax = 60 
+        intervals: size = 47 
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.575 
+            text = "#" 
+        intervals [2]:
+            xmin = 1.575 
+            xmax = 2.063 
+            text = "donc là il" 
+        intervals [3]:
+            xmin = 2.063 
+            xmax = 4.644 
+            text = "#" 
+        intervals [4]:
+            xmin = 4.644 
+            xmax = 6.737 
+            text = "c'est ça il s'agissait euh d'une fraise" 
+        intervals [5]:
+            xmin = 6.737 
+            xmax = 7.108 
+            text = "#" 
+        intervals [6]:
+            xmin = 7.108 
+            xmax = 8.139 
+            text = "elle est bel et bien abimée" 
+        intervals [7]:
+            xmin = 8.139 
+            xmax = 8.581 
+            text = "#" 
+        intervals [8]:
+            xmin = 8.581 
+            xmax = 10.83 
+            text = "avec une expression assez assez triste" 
+        intervals [9]:
+            xmin = 10.83 
+            xmax = 11.345 
+            text = "#" 
+        intervals [10]:
+            xmin = 11.345 
+            xmax = 11.731 
+            text = "***" 
+        intervals [11]:
+            xmin = 11.731 
+            xmax = 12.224 
+            text = "#" 
+        intervals [12]:
+            xmin = 12.224 
+            xmax = 12.996 
+            text = "par rapport à" 
+        intervals [13]:
+            xmin = 12.996 
+            xmax = 13.464 
+            text = "#" 
+        intervals [14]:
+            xmin = 13.464 
+            xmax = 14.927 
+            text = "par rapport à tout à l'heure donc euh" 
+        intervals [15]:
+            xmin = 14.927 
+            xmax = 22.385 
+            text = "#" 
+        intervals [16]:
+            xmin = 22.385 
+            xmax = 24.452 
+            text = "c'est ça non et avec une expression assez assez" 
+        intervals [17]:
+            xmin = 24.452 
+            xmax = 24.59 
+            text = "#" 
+        intervals [18]:
+            xmin = 24.59 
+            xmax = 25.982 
+            text = "triste assez désespérée" 
+        intervals [19]:
+            xmin = 25.982 
+            xmax = 27.014 
+            text = "#" 
+        intervals [20]:
+            xmin = 27.014 
+            xmax = 27.954 
+            text = "par rapport à" 
+        intervals [21]:
+            xmin = 27.954 
+            xmax = 29.046 
+            text = "#" 
+        intervals [22]:
+            xmin = 29.046 
+            xmax = 29.193 
+            text = "***" 
+        intervals [23]:
+            xmin = 29.193 
+            xmax = 29.422 
+            text = "#" 
+        intervals [24]:
+            xmin = 29.422 
+            xmax = 31.632 
+            text = "à à l'image que j'ai vu précédemment il s'agirait" 
+        intervals [25]:
+            xmin = 31.632 
+            xmax = 31.81 
+            text = "#" 
+        intervals [26]:
+            xmin = 31.81 
+            xmax = 32.547 
+            text = "probablement" 
+        intervals [27]:
+            xmin = 32.547 
+            xmax = 33.172 
+            text = "#" 
+        intervals [28]:
+            xmin = 33.172 
+            xmax = 33.807 
+            text = "de fruits et légumes" 
+        intervals [29]:
+            xmin = 33.807 
+            xmax = 33.906 
+            text = "#" 
+        intervals [30]:
+            xmin = 33.906 
+            xmax = 34.904 
+            text = "qui viendraient de loin" 
+        intervals [31]:
+            xmin = 34.904 
+            xmax = 35.397 
+            text = "#" 
+        intervals [32]:
+            xmin = 35.397 
+            xmax = 36.245 
+            text = "et euh liés aux" 
+        intervals [33]:
+            xmin = 36.245 
+            xmax = 36.454 
+            text = "#" 
+        intervals [34]:
+            xmin = 36.454 
+            xmax = 37.424 
+            text = "transports" 
+        intervals [35]:
+            xmin = 37.424 
+            xmax = 38.283 
+            text = "#" 
+        intervals [36]:
+            xmin = 38.283 
+            xmax = 41.631 
+            text = "et voilà le fait qu'ils viennent loin qui étaient transportés du coup ils sont abimés" 
+        intervals [37]:
+            xmin = 41.631 
+            xmax = 42.576 
+            text = "#" 
+        intervals [38]:
+            xmin = 42.576 
+            xmax = 45.269 
+            text = "ça va voilà dans le sens de faut manger local" 
+        intervals [39]:
+            xmin = 45.269 
+            xmax = 45.558 
+            text = "#" 
+        intervals [40]:
+            xmin = 45.558 
+            xmax = 46.529 
+            text = "voilà faut manger local" 
+        intervals [41]:
+            xmin = 46.529 
+            xmax = 47.047 
+            text = "#" 
+        intervals [42]:
+            xmin = 47.047 
+            xmax = 49.13 
+            text = "c'est c'est étrange parce que les fraises on en produit" 
+        intervals [43]:
+            xmin = 49.13 
+            xmax = 50.542 
+            text = "#" 
+        intervals [44]:
+            xmin = 50.542 
+            xmax = 51.629 
+            text = "bon après euh" 
+        intervals [45]:
+            xmin = 51.629 
+            xmax = 53.779 
+            text = "#" 
+        intervals [46]:
+            xmin = 53.779 
+            xmax = 54.17 
+            text = "***" 
+        intervals [47]:
+            xmin = 54.17 
+            xmax = 59.9044 
+            text = "#" 

@@ -1,0 +1,186 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 60 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Transcription" 
+        xmin = 0 
+        xmax = 60 
+        intervals: size = 43 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.894 
+            text = "#" 
+        intervals [2]:
+            xmin = 0.894 
+            xmax = 1.392 
+            text = "salut $Fuhrat$" 
+        intervals [3]:
+            xmin = 1.392 
+            xmax = 3.47 
+            text = "#" 
+        intervals [4]:
+            xmin = 3.47 
+            xmax = 8.886 
+            text = "le la poire elle est assez * une poire qui est pas une jolie chose" 
+        intervals [5]:
+            xmin = 8.886 
+            xmax = 9.379 
+            text = "#" 
+        intervals [6]:
+            xmin = 9.379 
+            xmax = 10.232 
+            text = "un peu mûre" 
+        intervals [7]:
+            xmin = 10.232 
+            xmax = 11.249 
+            text = "#" 
+        intervals [8]:
+            xmin = 11.249 
+            xmax = 11.553 
+            text = "aussi" 
+        intervals [9]:
+            xmin = 11.553 
+            xmax = 12.885 
+            text = "#" 
+        intervals [10]:
+            xmin = 12.885 
+            xmax = 13.425 
+            text = "ouais t-" 
+        intervals [11]:
+            xmin = 13.425 
+            xmax = 14.937 
+            text = "#" 
+        intervals [12]:
+            xmin = 14.937 
+            xmax = 15.211 
+            text = "ouais" 
+        intervals [13]:
+            xmin = 15.211 
+            xmax = 15.46 
+            text = "#" 
+        intervals [14]:
+            xmin = 15.46 
+            xmax = 16.573 
+            text = "oh c'est pas bien de dire ça" 
+        intervals [15]:
+            xmin = 16.573 
+            xmax = 17.005 
+            text = "#" 
+        intervals [16]:
+            xmin = 17.005 
+            xmax = 17.813 
+            text = "*" 
+        intervals [17]:
+            xmin = 17.813 
+            xmax = 19.601 
+            text = "#" 
+        intervals [18]:
+            xmin = 19.601 
+            xmax = 20.363 
+            text = "oui on est d'accord" 
+        intervals [19]:
+            xmin = 20.363 
+            xmax = 20.942 
+            text = "#" 
+        intervals [20]:
+            xmin = 20.942 
+            xmax = 23.701 
+            text = "euh la poire est assez vieille elle a l'air triste" 
+        intervals [21]:
+            xmin = 23.701 
+            xmax = 26.582 
+            text = "#" 
+        intervals [22]:
+            xmin = 26.582 
+            xmax = 26.755 
+            text = "ouais" 
+        intervals [23]:
+            xmin = 26.755 
+            xmax = 28.66 
+            text = "#" 
+        intervals [24]:
+            xmin = 28.66 
+            xmax = 29.701 
+            text = "c'est vrai que" 
+        intervals [25]:
+            xmin = 29.701 
+            xmax = 30.885 
+            text = "#" 
+        intervals [26]:
+            xmin = 30.885 
+            xmax = 35.392 
+            text = "alors je crois que par rapport à fallait parler pour obtenir les images" 
+        intervals [27]:
+            xmin = 35.392 
+            xmax = 35.686 
+            text = "#" 
+        intervals [28]:
+            xmin = 35.686 
+            xmax = 37.769 
+            text = "si t'avais pas dit que la poire était * on en parlerait pas" 
+        intervals [29]:
+            xmin = 37.769 
+            xmax = 44.903 
+            text = "#" 
+        intervals [30]:
+            xmin = 44.903 
+            xmax = 47.28 
+            text = "mais euh c'est du coup un message pour les enfants" 
+        intervals [31]:
+            xmin = 47.28 
+            xmax = 47.616 
+            text = "#" 
+        intervals [32]:
+            xmin = 47.616 
+            xmax = 48.114 
+            text = "heureusement" 
+        intervals [33]:
+            xmin = 48.114 
+            xmax = 48.952 
+            text = "#" 
+        intervals [34]:
+            xmin = 48.952 
+            xmax = 49.313 
+            text = "*" 
+        intervals [35]:
+            xmin = 49.313 
+            xmax = 52.066 
+            text = "#" 
+        intervals [36]:
+            xmin = 52.066 
+            xmax = 53.103 
+            text = "et euh" 
+        intervals [37]:
+            xmin = 53.103 
+            xmax = 53.936 
+            text = "#" 
+        intervals [38]:
+            xmin = 53.936 
+            xmax = 55.775 
+            text = "je tiens à leur dire que" 
+        intervals [39]:
+            xmin = 55.775 
+            xmax = 56.598 
+            text = "#" 
+        intervals [40]:
+            xmin = 56.598 
+            xmax = 57.828 
+            text = "et c'est l'opposé de tout à l'heure" 
+        intervals [41]:
+            xmin = 57.828 
+            xmax = 58.067 
+            text = "#" 
+        intervals [42]:
+            xmin = 58.067 
+            xmax = 59.327 
+            text = "tout à l'heure c'était des super héros" 
+        intervals [43]:
+            xmin = 59.327 
+            xmax = 59.9044 
+            text = "#" 

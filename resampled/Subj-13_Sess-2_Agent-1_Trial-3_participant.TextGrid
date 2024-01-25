@@ -1,0 +1,114 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 60 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Transcription" 
+        xmin = 0 
+        xmax = 60 
+        intervals: size = 25 
+        intervals [1]:
+            xmin = 0 
+            xmax = 2.977 
+            text = "#" 
+        intervals [2]:
+            xmin = 2.977 
+            xmax = 3.348 
+            text = "salut" 
+        intervals [3]:
+            xmin = 3.348 
+            xmax = 6.041 
+            text = "#" 
+        intervals [4]:
+            xmin = 6.041 
+            xmax = 7.245 
+            text = "donc ça c'est une fraise" 
+        intervals [5]:
+            xmin = 7.245 
+            xmax = 9.348 
+            text = "#" 
+        intervals [6]:
+            xmin = 9.348 
+            xmax = 11.35 
+            text = "euh elle a une forme étrange" 
+        intervals [7]:
+            xmin = 11.35 
+            xmax = 15.354 
+            text = "#" 
+        intervals [8]:
+            xmin = 15.354 
+            xmax = 16.248 
+            text = "ouais ouais c'est vrai" 
+        intervals [9]:
+            xmin = 16.248 
+            xmax = 17.696 
+            text = "#" 
+        intervals [10]:
+            xmin = 17.696 
+            xmax = 18.443 
+            text = "et puis euh" 
+        intervals [11]:
+            xmin = 18.443 
+            xmax = 21.471 
+            text = "#" 
+        intervals [12]:
+            xmin = 21.471 
+            xmax = 21.959 
+            text = "oui" 
+        intervals [13]:
+            xmin = 21.959 
+            xmax = 23.183 
+            text = "#" 
+        intervals [14]:
+            xmin = 23.183 
+            xmax = 28.457 
+            text = "et puis elle a elle a les mêmes cheveux bizarres que la framboise de tout à l'heure je sais pas si tu as fait attention" 
+        intervals [15]:
+            xmin = 28.457 
+            xmax = 42.083 
+            text = "#" 
+        intervals [16]:
+            xmin = 42.083 
+            xmax = 42.469 
+            text = "ouais" 
+        intervals [17]:
+            xmin = 42.469 
+            xmax = 49.262 
+            text = "#" 
+        intervals [18]:
+            xmin = 49.262 
+            xmax = 49.536 
+            text = "euh ouais" 
+        intervals [19]:
+            xmin = 49.536 
+            xmax = 49.826 
+            text = "#" 
+        intervals [20]:
+            xmin = 49.826 
+            xmax = 51.264 
+            text = "et ouais c'est vrai que là euh" 
+        intervals [21]:
+            xmin = 51.264 
+            xmax = 51.726 
+            text = "#" 
+        intervals [22]:
+            xmin = 51.726 
+            xmax = 54.251 
+            text = "cette série elles sont bien plus humaines que tout à l'heure" 
+        intervals [23]:
+            xmin = 54.251 
+            xmax = 54.876 
+            text = "#" 
+        intervals [24]:
+            xmin = 54.876 
+            xmax = 56.588 
+            text = "-fin ils sont plus humains les fruits" 
+        intervals [25]:
+            xmin = 56.588 
+            xmax = 59.9044 
+            text = "#" 

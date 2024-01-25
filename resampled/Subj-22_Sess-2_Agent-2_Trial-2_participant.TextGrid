@@ -1,0 +1,114 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 60 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Transcription" 
+        xmin = 0 
+        xmax = 60 
+        intervals: size = 25 
+        intervals [1]:
+            xmin = 0 
+            xmax = 3.689 
+            text = "#" 
+        intervals [2]:
+            xmin = 3.689 
+            xmax = 4.136 
+            text = "salut" 
+        intervals [3]:
+            xmin = 4.136 
+            xmax = 6.264 
+            text = "#" 
+        intervals [4]:
+            xmin = 6.264 
+            xmax = 7.794 
+            text = "ouais c'est une poire qui est pourrie" 
+        intervals [5]:
+            xmin = 7.794 
+            xmax = 11.203 
+            text = "#" 
+        intervals [6]:
+            xmin = 11.203 
+            xmax = 12.102 
+            text = "ouais très moche" 
+        intervals [7]:
+            xmin = 12.102 
+            xmax = 14.099 
+            text = "#" 
+        intervals [8]:
+            xmin = 14.099 
+            xmax = 14.419 
+            text = "ouais" 
+        intervals [9]:
+            xmin = 14.419 
+            xmax = 20.455 
+            text = "#" 
+        intervals [10]:
+            xmin = 20.455 
+            xmax = 20.78 
+            text = "oui" 
+        intervals [11]:
+            xmin = 20.78 
+            xmax = 25.298 
+            text = "#" 
+        intervals [12]:
+            xmin = 25.298 
+            xmax = 27.202 
+            text = "c'est pas très glamour c'est pas très joli" 
+        intervals [13]:
+            xmin = 27.202 
+            xmax = 41.701 
+            text = "#" 
+        intervals [14]:
+            xmin = 41.701 
+            xmax = 41.931 
+            text = "ouais" 
+        intervals [15]:
+            xmin = 41.931 
+            xmax = 42.799 
+            text = "#" 
+        intervals [16]:
+            xmin = 42.799 
+            xmax = 44.009 
+            text = "elle est pas appétissante" 
+        intervals [17]:
+            xmin = 44.009 
+            xmax = 49.988 
+            text = "#" 
+        intervals [18]:
+            xmin = 49.988 
+            xmax = 51.365 
+            text = "ouais elle elle a l'air malheureuse" 
+        intervals [19]:
+            xmin = 51.365 
+            xmax = 51.636 
+            text = "#" 
+        intervals [20]:
+            xmin = 51.636 
+            xmax = 52.246 
+            text = "elle a l'air" 
+        intervals [21]:
+            xmin = 52.246 
+            xmax = 52.551 
+            text = "#" 
+        intervals [22]:
+            xmin = 52.551 
+            xmax = 53.067 
+            text = "triste" 
+        intervals [23]:
+            xmin = 53.067 
+            xmax = 58.133 
+            text = "#" 
+        intervals [24]:
+            xmin = 58.133 
+            xmax = 58.316 
+            text = "ouais" 
+        intervals [25]:
+            xmin = 58.316 
+            xmax = 59.9044 
+            text = "#" 

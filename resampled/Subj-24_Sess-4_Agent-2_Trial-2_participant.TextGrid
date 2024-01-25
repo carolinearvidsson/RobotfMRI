@@ -1,0 +1,98 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 60 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Transcription" 
+        xmin = 0 
+        xmax = 60 
+        intervals: size = 21 
+        intervals [1]:
+            xmin = 0 
+            xmax = 7.829 
+            text = "#" 
+        intervals [2]:
+            xmin = 7.829 
+            xmax = 10.679 
+            text = "euh moi j'arrive pas à savoir à quel fruit" 
+        intervals [3]:
+            xmin = 10.679 
+            xmax = 11.086 
+            text = "#" 
+        intervals [4]:
+            xmin = 11.086 
+            xmax = 12.798 
+            text = "le spectateur doit s'identifier" 
+        intervals [5]:
+            xmin = 12.798 
+            xmax = 19.073 
+            text = "#" 
+        intervals [6]:
+            xmin = 19.073 
+            xmax = 22.23 
+            text = "le public à qui est adressé cette publicité" 
+        intervals [7]:
+            xmin = 22.23 
+            xmax = 30.24 
+            text = "#" 
+        intervals [8]:
+            xmin = 30.24 
+            xmax = 31.348 
+            text = "euh peut-être" 
+        intervals [9]:
+            xmin = 31.348 
+            xmax = 32.628 
+            text = "#" 
+        intervals [10]:
+            xmin = 32.628 
+            xmax = 35.189 
+            text = "y a des y a des super héros donc ça" 
+        intervals [11]:
+            xmin = 35.189 
+            xmax = 36.001 
+            text = "#" 
+        intervals [12]:
+            xmin = 36.001 
+            xmax = 37.302 
+            text = "doit être adressé à des enfants" 
+        intervals [13]:
+            xmin = 37.302 
+            xmax = 41.463 
+            text = "#" 
+        intervals [14]:
+            xmin = 41.463 
+            xmax = 43.318 
+            text = "et à qui ils doivent s'identifier les enfants" 
+        intervals [15]:
+            xmin = 43.318 
+            xmax = 44.644 
+            text = "#" 
+        intervals [16]:
+            xmin = 44.644 
+            xmax = 45.634 
+            text = "à quel euh" 
+        intervals [17]:
+            xmin = 45.634 
+            xmax = 45.939 
+            text = "#" 
+        intervals [18]:
+            xmin = 45.939 
+            xmax = 46.203 
+            text = "fruits" 
+        intervals [19]:
+            xmin = 46.203 
+            xmax = 50.537 
+            text = "#" 
+        intervals [20]:
+            xmin = 50.537 
+            xmax = 52.259 
+            text = "les abîmés ou les super héros" 
+        intervals [21]:
+            xmin = 52.259 
+            xmax = 59.9044 
+            text = "#" 

@@ -1,0 +1,122 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 60 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Transcription" 
+        xmin = 0 
+        xmax = 60 
+        intervals: size = 27 
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.067 
+            text = "#" 
+        intervals [2]:
+            xmin = 1.067 
+            xmax = 2.205 
+            text = "on a retrouvé la fraise" 
+        intervals [3]:
+            xmin = 2.205 
+            xmax = 5.292 
+            text = "#" 
+        intervals [4]:
+            xmin = 5.292 
+            xmax = 5.758 
+            text = "ça va" 
+        intervals [5]:
+            xmin = 5.758 
+            xmax = 6.3 
+            text = "#" 
+        intervals [6]:
+            xmin = 6.3 
+            xmax = 6.737 
+            text = "et t'as touj-" 
+        intervals [7]:
+            xmin = 6.737 
+            xmax = 7.88 
+            text = "#" 
+        intervals [8]:
+            xmin = 7.88 
+            xmax = 11.513 
+            text = "et non elle a pas l'air contente elle a l'air un peu en colère comme si elle voulait taper quelqu'un" 
+        intervals [9]:
+            xmin = 11.513 
+            xmax = 14.942 
+            text = "#" 
+        intervals [10]:
+            xmin = 14.942 
+            xmax = 15.679 
+            text = "ah tu penses que c-" 
+        intervals [11]:
+            xmin = 15.679 
+            xmax = 17.691 
+            text = "#" 
+        intervals [12]:
+            xmin = 17.691 
+            xmax = 18.179 
+            text = "et oui" 
+        intervals [13]:
+            xmin = 18.179 
+            xmax = 18.93 
+            text = "#" 
+        intervals [14]:
+            xmin = 18.93 
+            xmax = 23.564 
+            text = "mais du coup elle elle elle vient de loin tu penses plutôt qu'elle vient de loin ou que y a pas de pesticides dedans" 
+        intervals [15]:
+            xmin = 23.564 
+            xmax = 24.565 
+            text = "#" 
+        intervals [16]:
+            xmin = 24.565 
+            xmax = 25.962 
+            text = "parce que c'est deux sujets différents" 
+        intervals [17]:
+            xmin = 25.962 
+            xmax = 31.205 
+            text = "#" 
+        intervals [18]:
+            xmin = 31.205 
+            xmax = 35.026 
+            text = "ah c'est soit soit elle vient de loin soit c'est parce qu'elle a" 
+        intervals [19]:
+            xmin = 35.026 
+            xmax = 35.229 
+            text = "#" 
+        intervals [20]:
+            xmin = 35.229 
+            xmax = 36.286 
+            text = "elle a pas été traitée" 
+        intervals [21]:
+            xmin = 36.286 
+            xmax = 39.395 
+            text = "#" 
+        intervals [22]:
+            xmin = 39.395 
+            xmax = 40.452 
+            text = "c'est peut-être même les deux" 
+        intervals [23]:
+            xmin = 40.452 
+            xmax = 41.026 
+            text = "#" 
+        intervals [24]:
+            xmin = 41.026 
+            xmax = 46.142 
+            text = "mais dans ces cas là c'est bête parce que si elle a fait le voyage elle risque pas d'arriver en bon état elle va partir à la poubelle" 
+        intervals [25]:
+            xmin = 46.142 
+            xmax = 50.832 
+            text = "#" 
+        intervals [26]:
+            xmin = 50.832 
+            xmax = 52.138 
+            text = "c'est dommage c'est du gâchis" 
+        intervals [27]:
+            xmin = 52.138 
+            xmax = 59.9044 
+            text = "#" 

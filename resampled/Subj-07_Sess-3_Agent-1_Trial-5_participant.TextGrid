@@ -1,0 +1,102 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 60 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Transcription" 
+        xmin = 0 
+        xmax = 60 
+        intervals: size = 22 
+        intervals [1]:
+            xmin = 0 
+            xmax = 5.258 
+            text = "#" 
+        intervals [2]:
+            xmin = 5.258 
+            xmax = 9.643 
+            text = "la question que je me pose c'est est ce qu'on mange quelque chose qui a l'air plus réel" 
+        intervals [3]:
+            xmin = 9.643 
+            xmax = 10.142 
+            text = "#" 
+        intervals [4]:
+            xmin = 10.142 
+            xmax = 11.025 
+            text = "ou irréel" 
+        intervals [5]:
+            xmin = 11.025 
+            xmax = 12.676 
+            text = "#" 
+        intervals [6]:
+            xmin = 12.676 
+            xmax = 13.626 
+            text = "facilement tu vois" 
+        intervals [7]:
+            xmin = 13.626 
+            xmax = 18.28 
+            text = "#" 
+        intervals [8]:
+            xmin = 18.28 
+            xmax = 19.174 
+            text = "non j'en sais rien" 
+        intervals [9]:
+            xmin = 19.174 
+            xmax = 19.459 
+            text = "#" 
+        intervals [10]:
+            xmin = 19.459 
+            xmax = 23.097 
+            text = "c'est c'est une campagne de pub qui cible les enfants mais quand tu vois une" 
+        intervals [11]:
+            xmin = 23.097 
+            xmax = 28.792 
+            text = "#" 
+        intervals [12]:
+            xmin = 28.792 
+            xmax = 30.921 
+            text = "si tu si tu vois une pomme" 
+        intervals [13]:
+            xmin = 30.921 
+            xmax = 31.165 
+            text = "#" 
+        intervals [14]:
+            xmin = 31.165 
+            xmax = 33.583 
+            text = "agressive je sais pas si t'as envie de la manger" 
+        intervals [15]:
+            xmin = 33.583 
+            xmax = 34.858 
+            text = "#" 
+        intervals [16]:
+            xmin = 34.858 
+            xmax = 39.753 
+            text = "et de même que si elle est sympathique mais pas réelle t'as pas envie de la manger non plus non" 
+        intervals [17]:
+            xmin = 39.753 
+            xmax = 44.07 
+            text = "#" 
+        intervals [18]:
+            xmin = 44.07 
+            xmax = 44.659 
+            text = "je sais pas" 
+        intervals [19]:
+            xmin = 44.659 
+            xmax = 50.984 
+            text = "#" 
+        intervals [20]:
+            xmin = 50.984 
+            xmax = 52.341 
+            text = "je sais pas j'arrive pas à savoir" 
+        intervals [21]:
+            xmin = 52.341 
+            xmax = 59.027 
+            text = "#" 
+        intervals [22]:
+            xmin = 59.027 
+            xmax = 59.9044 
+            text = "elles sont pas dis-" 

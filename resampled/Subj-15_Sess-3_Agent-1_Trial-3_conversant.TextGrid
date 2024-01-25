@@ -1,0 +1,134 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 60 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Transcription" 
+        xmin = 0 
+        xmax = 60 
+        intervals: size = 30 
+        intervals [1]:
+            xmin = 0 
+            xmax = 3.368 
+            text = "#" 
+        intervals [2]:
+            xmin = 3.368 
+            xmax = 4.674 
+            text = "allo allo allo" 
+        intervals [3]:
+            xmin = 4.674 
+            xmax = 5.197 
+            text = "#" 
+        intervals [4]:
+            xmin = 5.197 
+            xmax = 8.444 
+            text = "euh c'était le citron indien de de tout à l'heure c'est ça on revoit les mêmes" 
+        intervals [5]:
+            xmin = 8.444 
+            xmax = 13.133 
+            text = "#" 
+        intervals [6]:
+            xmin = 13.133 
+            xmax = 14.622 
+            text = "donc ouais ouais ouais ouais" 
+        intervals [7]:
+            xmin = 14.622 
+            xmax = 19.52 
+            text = "#" 
+        intervals [8]:
+            xmin = 19.52 
+            xmax = 19.804 
+            text = "ah" 
+        intervals [9]:
+            xmin = 19.804 
+            xmax = 22.06 
+            text = "#" 
+        intervals [10]:
+            xmin = 22.06 
+            xmax = 23.503 
+            text = "voilà c'est on reste super et enfants" 
+        intervals [11]:
+            xmin = 23.503 
+            xmax = 23.696 
+            text = "#" 
+        intervals [12]:
+            xmin = 23.696 
+            xmax = 27.446 
+            text = "en plus je me demandais la question pourquoi il était coupé en deux j'avais l'impression qu'il sortait de" 
+        intervals [13]:
+            xmin = 27.446 
+            xmax = 28.203 
+            text = "#" 
+        intervals [14]:
+            xmin = 28.203 
+            xmax = 29.519 
+            text = "tu sais qu'il sortait d'en dessous et en fait" 
+        intervals [15]:
+            xmin = 29.519 
+            xmax = 30.321 
+            text = "#" 
+        intervals [16]:
+            xmin = 30.321 
+            xmax = 32.831 
+            text = "les $Tortues Ninja$ elles habitent dans les égouts c'est ça" 
+        intervals [17]:
+            xmin = 32.831 
+            xmax = 33.639 
+            text = "#" 
+        intervals [18]:
+            xmin = 33.639 
+            xmax = 36.266 
+            text = "je suis pas un grand spécialiste hein faut pas non plus trop m'en demander mais euh" 
+        intervals [19]:
+            xmin = 36.266 
+            xmax = 37.907 
+            text = "#" 
+        intervals [20]:
+            xmin = 37.907 
+            xmax = 45.205 
+            text = "non mais je me souviens quand y avait les bandes annonces des films on les voyait toujours sortir des égouts * sortir de sortir d'en dessous donc ça fait aussi cet effet là quoi la tête qui" 
+        intervals [21]:
+            xmin = 45.205 
+            xmax = 49.953 
+            text = "#" 
+        intervals [22]:
+            xmin = 49.953 
+            xmax = 50.126 
+            text = "euh" 
+        intervals [23]:
+            xmin = 50.126 
+            xmax = 53.276 
+            text = "#" 
+        intervals [24]:
+            xmin = 53.276 
+            xmax = 54.637 
+            text = "je te dis la vérité moi je le" 
+        intervals [25]:
+            xmin = 54.637 
+            xmax = 54.927 
+            text = "#" 
+        intervals [26]:
+            xmin = 54.927 
+            xmax = 57.904 
+            text = "connais moins déjà donc euh @ ça aide pas à" 
+        intervals [27]:
+            xmin = 57.904 
+            xmax = 58.097 
+            text = "#" 
+        intervals [28]:
+            xmin = 58.097 
+            xmax = 58.803 
+            text = "à reconnaître" 
+        intervals [29]:
+            xmin = 58.803 
+            xmax = 59.489 
+            text = "#" 
+        intervals [30]:
+            xmin = 59.489 
+            xmax = 59.9516 
+            text = "et en plus" 

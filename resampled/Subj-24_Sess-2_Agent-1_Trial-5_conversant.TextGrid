@@ -1,0 +1,130 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 60 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Transcription" 
+        xmin = 0 
+        xmax = 60 
+        intervals: size = 29 
+        intervals [1]:
+            xmin = 0 
+            xmax = 2.845 
+            text = "#" 
+        intervals [2]:
+            xmin = 2.845 
+            xmax = 3.689 
+            text = "à mon avis" 
+        intervals [3]:
+            xmin = 3.689 
+            xmax = 5.355 
+            text = "#" 
+        intervals [4]:
+            xmin = 5.355 
+            xmax = 6.569 
+            text = "euh" 
+        intervals [5]:
+            xmin = 6.569 
+            xmax = 9.131 
+            text = "#" 
+        intervals [6]:
+            xmin = 9.131 
+            xmax = 10.329 
+            text = "parce que là on a eu" 
+        intervals [7]:
+            xmin = 10.329 
+            xmax = 10.669 
+            text = "#" 
+        intervals [8]:
+            xmin = 10.669 
+            xmax = 14.297 
+            text = "le côté blasé on a eu le côté en colère maintenant on a la tristesse" 
+        intervals [9]:
+            xmin = 14.297 
+            xmax = 15.156 
+            text = "#" 
+        intervals [10]:
+            xmin = 15.156 
+            xmax = 16.451 
+            text = "mais vraiment les émotions négatives" 
+        intervals [11]:
+            xmin = 16.451 
+            xmax = 18.321 
+            text = "#" 
+        intervals [12]:
+            xmin = 18.321 
+            xmax = 19.144 
+            text = "mh" 
+        intervals [13]:
+            xmin = 19.144 
+            xmax = 19.896 
+            text = "#" 
+        intervals [14]:
+            xmin = 19.896 
+            xmax = 23.279 
+            text = "à mon avis faut qu'on comprend comprenne qui essaye d'envoyer ce message" 
+        intervals [15]:
+            xmin = 23.279 
+            xmax = 26.993 
+            text = "#" 
+        intervals [16]:
+            xmin = 26.993 
+            xmax = 27.242 
+            text = "ouais" 
+        intervals [17]:
+            xmin = 27.242 
+            xmax = 27.629 
+            text = "#" 
+        intervals [18]:
+            xmin = 27.629 
+            xmax = 28.43 
+            text = "c'est ça et pour qui" 
+        intervals [19]:
+            xmin = 28.43 
+            xmax = 35.961 
+            text = "#" 
+        intervals [20]:
+            xmin = 35.961 
+            xmax = 43.5 
+            text = "ouais ça ça peut peut-être nous aider à comprendre le contenu ouais parce que moi je trouve que comme ça ça va pas de soi et je me dis si on arrive à deviner qui qui l'envoie peut-être qu'on peut" 
+        intervals [21]:
+            xmin = 43.5 
+            xmax = 46.6 
+            text = "#" 
+        intervals [22]:
+            xmin = 46.6 
+            xmax = 46.935 
+            text = "non" 
+        intervals [23]:
+            xmin = 46.935 
+            xmax = 48.429 
+            text = "#" 
+        intervals [24]:
+            xmin = 48.429 
+            xmax = 54.104 
+            text = "non c'est sûr je sais pas si c'est quelque chose qu'ils comptent mettre vraiment à la télé mais ça peut être pas mal de rajouter des écrits dessus" 
+        intervals [25]:
+            xmin = 54.104 
+            xmax = 55.303 
+            text = "#" 
+        intervals [26]:
+            xmin = 55.303 
+            xmax = 55.531 
+            text = "ouais" 
+        intervals [27]:
+            xmin = 55.531 
+            xmax = 56.009 
+            text = "#" 
+        intervals [28]:
+            xmin = 56.009 
+            xmax = 58.925 
+            text = "ou peut-être sur les murs à la rigueur c'est peut-être pas destiné à être" 
+        intervals [29]:
+            xmin = 58.925 
+            xmax = 59.9516 
+            text = "#" 

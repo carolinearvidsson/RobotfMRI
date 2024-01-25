@@ -1,0 +1,126 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 60 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Transcription" 
+        xmin = 0 
+        xmax = 60 
+        intervals: size = 28 
+        intervals [1]:
+            xmin = 0 
+            xmax = 5.858 
+            text = "#" 
+        intervals [2]:
+            xmin = 5.858 
+            xmax = 6.229 
+            text = "pardon" 
+        intervals [3]:
+            xmin = 6.229 
+            xmax = 11.777 
+            text = "#" 
+        intervals [4]:
+            xmin = 11.777 
+            xmax = 13.85 
+            text = "ah ok je comprenais pas euh" 
+        intervals [5]:
+            xmin = 13.85 
+            xmax = 14.134 
+            text = "#" 
+        intervals [6]:
+            xmin = 14.134 
+            xmax = 14.459 
+            text = "excuse moi" 
+        intervals [7]:
+            xmin = 14.459 
+            xmax = 15.445 
+            text = "#" 
+        intervals [8]:
+            xmin = 15.445 
+            xmax = 15.963 
+            text = "excuse moi" 
+        intervals [9]:
+            xmin = 15.963 
+            xmax = 16.243 
+            text = "#" 
+        intervals [10]:
+            xmin = 16.243 
+            xmax = 22.019 
+            text = "euh non je ne sais pas non plus mais de toute façon euh quand tu cibles les enfants faut toujours cibler aussi les parents parce que c'est les parents qui payent" 
+        intervals [11]:
+            xmin = 22.019 
+            xmax = 23.849 
+            text = "#" 
+        intervals [12]:
+            xmin = 23.849 
+            xmax = 25.215 
+            text = "eh oui c'est" 
+        intervals [13]:
+            xmin = 25.215 
+            xmax = 27.273 
+            text = "#" 
+        intervals [14]:
+            xmin = 27.273 
+            xmax = 29.132 
+            text = "c'est idiot mais c'est comme ça" 
+        intervals [15]:
+            xmin = 29.132 
+            xmax = 29.615 
+            text = "#" 
+        intervals [16]:
+            xmin = 29.615 
+            xmax = 31.774 
+            text = "euh faut avoir faut avoir les deux" 
+        intervals [17]:
+            xmin = 31.774 
+            xmax = 32.039 
+            text = "#" 
+        intervals [18]:
+            xmin = 32.039 
+            xmax = 37.846 
+            text = "non mais je pense que ton idée euh moi je reste dessus là on est sur deux deux campagnes et celle là c'est sur les" 
+        intervals [19]:
+            xmin = 37.846 
+            xmax = 38.42 
+            text = "#" 
+        intervals [20]:
+            xmin = 38.42 
+            xmax = 40.366 
+            text = "les produits locaux et là il suffit d'un euh" 
+        intervals [21]:
+            xmin = 40.366 
+            xmax = 40.904 
+            text = "#" 
+        intervals [22]:
+            xmin = 40.904 
+            xmax = 42.505 
+            text = "d'un petit logo comme" 
+        intervals [23]:
+            xmin = 42.505 
+            xmax = 43.165 
+            text = "#" 
+        intervals [24]:
+            xmin = 43.165 
+            xmax = 47.494 
+            text = "me mangez pas euh j'ai trop voyagé ou quelque chose comme ça et euh" 
+        intervals [25]:
+            xmin = 47.494 
+            xmax = 50.385 
+            text = "#" 
+        intervals [26]:
+            xmin = 50.385 
+            xmax = 52.625 
+            text = "me mangez pas j'ai traversé l'océan et euh" 
+        intervals [27]:
+            xmin = 52.625 
+            xmax = 54.124 
+            text = "#" 
+        intervals [28]:
+            xmin = 54.124 
+            xmax = 59.9516 
+            text = "et là t'as tout t'as tout le truc et puis si t'en mets une autre à côté qui est toute jolie et qui dit moi et je viens du voisin" 

@@ -1,0 +1,182 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 60 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Transcription" 
+        xmin = 0 
+        xmax = 60 
+        intervals: size = 42 
+        intervals [1]:
+            xmin = 0 
+            xmax = 3.663 
+            text = "#" 
+        intervals [2]:
+            xmin = 3.663 
+            xmax = 4.278 
+            text = "ouais ouais ouais" 
+        intervals [3]:
+            xmin = 4.278 
+            xmax = 5.812 
+            text = "#" 
+        intervals [4]:
+            xmin = 5.812 
+            xmax = 6.778 
+            text = "ouais ouais ouais c'est vrai" 
+        intervals [5]:
+            xmin = 6.778 
+            xmax = 7.042 
+            text = "#" 
+        intervals [6]:
+            xmin = 7.042 
+            xmax = 7.286 
+            text = "ouais" 
+        intervals [7]:
+            xmin = 7.286 
+            xmax = 10.344 
+            text = "#" 
+        intervals [8]:
+            xmin = 10.344 
+            xmax = 10.634 
+            text = "ouais ouais" 
+        intervals [9]:
+            xmin = 10.634 
+            xmax = 16.924 
+            text = "#" 
+        intervals [10]:
+            xmin = 16.924 
+            xmax = 17.142 
+            text = "ouais" 
+        intervals [11]:
+            xmin = 17.142 
+            xmax = 17.742 
+            text = "#" 
+        intervals [12]:
+            xmin = 17.742 
+            xmax = 18.361 
+            text = "ouais je suis d'accord" 
+        intervals [13]:
+            xmin = 18.361 
+            xmax = 19.725 
+            text = "#" 
+        intervals [14]:
+            xmin = 19.725 
+            xmax = 20.129 
+            text = "et euh" 
+        intervals [15]:
+            xmin = 20.129 
+            xmax = 22.446 
+            text = "#" 
+        intervals [16]:
+            xmin = 22.446 
+            xmax = 23.01 
+            text = "ouais peut-être" 
+        intervals [17]:
+            xmin = 23.01 
+            xmax = 23.605 
+            text = "#" 
+        intervals [18]:
+            xmin = 23.605 
+            xmax = 24.702 
+            text = "elle a l'air euh" 
+        intervals [19]:
+            xmin = 24.702 
+            xmax = 25.322 
+            text = "#" 
+        intervals [20]:
+            xmin = 25.322 
+            xmax = 26.369 
+            text = "elle a l'air plus" 
+        intervals [21]:
+            xmin = 26.369 
+            xmax = 26.77 
+            text = "#" 
+        intervals [22]:
+            xmin = 26.77 
+            xmax = 28.665 
+            text = "plus enjouée que la la framboise non" 
+        intervals [23]:
+            xmin = 28.665 
+            xmax = 33.619 
+            text = "#" 
+        intervals [24]:
+            xmin = 33.619 
+            xmax = 34.68 
+            text = "moins abîmée en tout cas ouais" 
+        intervals [25]:
+            xmin = 34.68 
+            xmax = 36.118 
+            text = "#" 
+        intervals [26]:
+            xmin = 36.118 
+            xmax = 36.957 
+            text = "voilà c'est ça" 
+        intervals [27]:
+            xmin = 36.957 
+            xmax = 38.41 
+            text = "#" 
+        intervals [28]:
+            xmin = 38.41 
+            xmax = 39.395 
+            text = "elles ont fait un combat et" 
+        intervals [29]:
+            xmin = 39.395 
+            xmax = 42.698 
+            text = "#" 
+        intervals [30]:
+            xmin = 42.698 
+            xmax = 42.911 
+            text = "ouais" 
+        intervals [31]:
+            xmin = 42.911 
+            xmax = 46.285 
+            text = "#" 
+        intervals [32]:
+            xmin = 46.285 
+            xmax = 46.549 
+            text = "non" 
+        intervals [33]:
+            xmin = 46.549 
+            xmax = 46.859 
+            text = "#" 
+        intervals [34]:
+            xmin = 46.859 
+            xmax = 47.118 
+            text = "non non" 
+        intervals [35]:
+            xmin = 47.118 
+            xmax = 47.9 
+            text = "#" 
+        intervals [36]:
+            xmin = 47.9 
+            xmax = 50.024 
+            text = "et c'est c'est pas ce qu'on mangerait en premier" 
+        intervals [37]:
+            xmin = 50.024 
+            xmax = 53.835 
+            text = "#" 
+        intervals [38]:
+            xmin = 53.835 
+            xmax = 55.653 
+            text = "ouais c'est vrai c'est ce que je me suis dit" 
+        intervals [39]:
+            xmin = 55.653 
+            xmax = 56.969 
+            text = "#" 
+        intervals [40]:
+            xmin = 56.969 
+            xmax = 57.426 
+            text = "@" 
+        intervals [41]:
+            xmin = 57.426 
+            xmax = 59.23 
+            text = "#" 
+        intervals [42]:
+            xmin = 59.23 
+            xmax = 59.9044 
+            text = "non c'est vrai" 

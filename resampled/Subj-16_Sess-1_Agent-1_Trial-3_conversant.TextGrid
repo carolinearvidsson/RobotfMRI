@@ -1,0 +1,114 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 60 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Transcription" 
+        xmin = 0 
+        xmax = 60 
+        intervals: size = 25 
+        intervals [1]:
+            xmin = 0 
+            xmax = 8.53 
+            text = "#" 
+        intervals [2]:
+            xmin = 8.53 
+            xmax = 9.643 
+            text = "euh" 
+        intervals [3]:
+            xmin = 9.643 
+            xmax = 9.943 
+            text = "#" 
+        intervals [4]:
+            xmin = 9.943 
+            xmax = 14.256 
+            text = "moi j'ai vu un demi-citron vert avec un masque de $Zorro$ mais euh @" 
+        intervals [5]:
+            xmin = 14.256 
+            xmax = 19.835 
+            text = "#" 
+        intervals [6]:
+            xmin = 19.835 
+            xmax = 20.028 
+            text = "ah" 
+        intervals [7]:
+            xmin = 20.028 
+            xmax = 21.171 
+            text = "#" 
+        intervals [8]:
+            xmin = 21.171 
+            xmax = 27.629 
+            text = "c'est possible ouais ben maintenant que tu le dis en fait ça me ça me m- ramène un peu à ça mais moi c'est pas celui que je regardais quand j'étais petite donc euh" 
+        intervals [9]:
+            xmin = 27.629 
+            xmax = 28.182 
+            text = "#" 
+        intervals [10]:
+            xmin = 28.182 
+            xmax = 29.336 
+            text = "c'est c'est pas automatique" 
+        intervals [11]:
+            xmin = 29.336 
+            xmax = 29.529 
+            text = "#" 
+        intervals [12]:
+            xmin = 29.529 
+            xmax = 33.055 
+            text = "mais euh mais c'est vrai maintenant que tu le dis ça évoque un peu c'est euh oui oui" 
+        intervals [13]:
+            xmin = 33.055 
+            xmax = 43.876 
+            text = "#" 
+        intervals [14]:
+            xmin = 43.876 
+            xmax = 44.049 
+            text = "ouais" 
+        intervals [15]:
+            xmin = 44.049 
+            xmax = 44.283 
+            text = "#" 
+        intervals [16]:
+            xmin = 44.283 
+            xmax = 44.598 
+            text = "ouais ouais" 
+        intervals [17]:
+            xmin = 44.598 
+            xmax = 46.591 
+            text = "#" 
+        intervals [18]:
+            xmin = 46.591 
+            xmax = 46.93 
+            text = "ouais" 
+        intervals [19]:
+            xmin = 46.93 
+            xmax = 47.733 
+            text = "#" 
+        intervals [20]:
+            xmin = 47.733 
+            xmax = 49.15 
+            text = "oui oui oui je me rappelle de la couleur" 
+        intervals [21]:
+            xmin = 49.15 
+            xmax = 49.374 
+            text = "#" 
+        intervals [22]:
+            xmin = 49.374 
+            xmax = 53.987 
+            text = "c'est oui euh des grosses tortues avec toutes des bandeaux autour des yeux y en avait plusieurs je crois" 
+        intervals [23]:
+            xmin = 53.987 
+            xmax = 54.729 
+            text = "#" 
+        intervals [24]:
+            xmin = 54.729 
+            xmax = 55.657 
+            text = "et euh ouais mh" 
+        intervals [25]:
+            xmin = 55.657 
+            xmax = 59.9516 
+            text = "#" 

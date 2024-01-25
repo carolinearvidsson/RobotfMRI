@@ -1,0 +1,162 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 60 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Transcription" 
+        xmin = 0 
+        xmax = 60 
+        intervals: size = 37 
+        intervals [1]:
+            xmin = 0 
+            xmax = 2.124 
+            text = "#" 
+        intervals [2]:
+            xmin = 2.124 
+            xmax = 3.886 
+            text = "ok donc on est de retour sur euh" 
+        intervals [3]:
+            xmin = 3.886 
+            xmax = 4.298 
+            text = "#" 
+        intervals [4]:
+            xmin = 4.298 
+            xmax = 6.183 
+            text = "sur cette poire qui fait un petit peu pitié" 
+        intervals [5]:
+            xmin = 6.183 
+            xmax = 7.56 
+            text = "#" 
+        intervals [6]:
+            xmin = 7.56 
+            xmax = 8.296 
+            text = "euh" 
+        intervals [7]:
+            xmin = 8.296 
+            xmax = 11.208 
+            text = "#" 
+        intervals [8]:
+            xmin = 11.208 
+            xmax = 11.553 
+            text = "ouais" 
+        intervals [9]:
+            xmin = 11.553 
+            xmax = 12.387 
+            text = "#" 
+        intervals [10]:
+            xmin = 12.387 
+            xmax = 13.194 
+            text = "et euh" 
+        intervals [11]:
+            xmin = 13.194 
+            xmax = 13.423 
+            text = "#" 
+        intervals [12]:
+            xmin = 13.423 
+            xmax = 16.289 
+            text = "et du coup ça expliquerait le fait d'avoir choisi quelque chose de synthèse" 
+        intervals [13]:
+            xmin = 16.289 
+            xmax = 16.944 
+            text = "#" 
+        intervals [14]:
+            xmin = 16.944 
+            xmax = 17.406 
+            text = "parce que c'est" 
+        intervals [15]:
+            xmin = 17.406 
+            xmax = 19.811 
+            text = "#" 
+        intervals [16]:
+            xmin = 19.811 
+            xmax = 20.046 
+            text = "ouais" 
+        intervals [17]:
+            xmin = 20.046 
+            xmax = 21.898 
+            text = "#" 
+        intervals [18]:
+            xmin = 21.898 
+            xmax = 25.525 
+            text = "ouais oui oui mais ce que je veux dire c'est que ça expliquerait ça du coup euh" 
+        intervals [19]:
+            xmin = 25.525 
+            xmax = 26.546 
+            text = "#" 
+        intervals [20]:
+            xmin = 26.546 
+            xmax = 31.937 
+            text = "tu sais quand tu me disais tout à l'heure que c'était peut-être pour euh pour pas que ce soit trop dégueulasse en quelque sorte" 
+        intervals [21]:
+            xmin = 31.937 
+            xmax = 33.451 
+            text = "#" 
+        intervals [22]:
+            xmin = 33.451 
+            xmax = 33.68 
+            text = "ouais" 
+        intervals [23]:
+            xmin = 33.68 
+            xmax = 34.569 
+            text = "#" 
+        intervals [24]:
+            xmin = 34.569 
+            xmax = 36.707 
+            text = "et là ça prend tout tout son intérêt" 
+        intervals [25]:
+            xmin = 36.707 
+            xmax = 37.495 
+            text = "#" 
+        intervals [26]:
+            xmin = 37.495 
+            xmax = 37.896 
+            text = "c'est" 
+        intervals [27]:
+            xmin = 37.896 
+            xmax = 38.389 
+            text = "#" 
+        intervals [28]:
+            xmin = 38.389 
+            xmax = 39.542 
+            text = "pour promouvoir les fruits bios" 
+        intervals [29]:
+            xmin = 39.542 
+            xmax = 42.423 
+            text = "#" 
+        intervals [30]:
+            xmin = 42.423 
+            xmax = 43.283 
+            text = "mh" 
+        intervals [31]:
+            xmin = 43.283 
+            xmax = 48.49 
+            text = "#" 
+        intervals [32]:
+            xmin = 48.49 
+            xmax = 48.871 
+            text = "ouais" 
+        intervals [33]:
+            xmin = 48.871 
+            xmax = 49.308 
+            text = "#" 
+        intervals [34]:
+            xmin = 49.308 
+            xmax = 54.8 
+            text = "et du coup ça veut dire que les deux ça serait une campagne de deux sets qui tourneraient ensemble en fait" 
+        intervals [35]:
+            xmin = 54.8 
+            xmax = 58.382 
+            text = "#" 
+        intervals [36]:
+            xmin = 58.382 
+            xmax = 58.681 
+            text = "ouais" 
+        intervals [37]:
+            xmin = 58.681 
+            xmax = 59.9516 
+            text = "#" 

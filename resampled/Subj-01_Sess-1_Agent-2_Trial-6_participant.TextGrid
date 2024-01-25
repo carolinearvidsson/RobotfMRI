@@ -1,0 +1,170 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 60 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Transcription" 
+        xmin = 0 
+        xmax = 60 
+        intervals: size = 39 
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.373 
+            text = "#" 
+        intervals [2]:
+            xmin = 1.373 
+            xmax = 2.916 
+            text = "là c'était un citron vert" 
+        intervals [3]:
+            xmin = 2.916 
+            xmax = 3.48 
+            text = "#" 
+        intervals [4]:
+            xmin = 3.48 
+            xmax = 5.091 
+            text = "et on aurait que il avait" 
+        intervals [5]:
+            xmin = 5.091 
+            xmax = 5.553 
+            text = "#" 
+        intervals [6]:
+            xmin = 5.553 
+            xmax = 6.473 
+            text = "taillé au couteau" 
+        intervals [7]:
+            xmin = 6.473 
+            xmax = 7.413 
+            text = "#" 
+        intervals [8]:
+            xmin = 7.413 
+            xmax = 10.74 
+            text = "taillé au couteau le masque d'un d'une tortue ninja" 
+        intervals [9]:
+            xmin = 10.74 
+            xmax = 14.033 
+            text = "#" 
+        intervals [10]:
+            xmin = 14.033 
+            xmax = 14.312 
+            text = "***" 
+        intervals [11]:
+            xmin = 14.312 
+            xmax = 15.692 
+            text = "#" 
+        intervals [12]:
+            xmin = 15.692 
+            xmax = 16.344 
+            text = "donc euh" 
+        intervals [13]:
+            xmin = 16.344 
+            xmax = 17.625 
+            text = "#" 
+        intervals [14]:
+            xmin = 17.625 
+            xmax = 20.048 
+            text = "ça fait sens avec ce qu'on a vu précédemment" 
+        intervals [15]:
+            xmin = 20.048 
+            xmax = 20.815 
+            text = "#" 
+        intervals [16]:
+            xmin = 20.815 
+            xmax = 21.146 
+            text = "euh" 
+        intervals [17]:
+            xmin = 21.146 
+            xmax = 26.734 
+            text = "#" 
+        intervals [18]:
+            xmin = 26.734 
+            xmax = 29.173 
+            text = "ouais c'est vrai que le fait d'utiliser des super héros euh" 
+        intervals [19]:
+            xmin = 29.173 
+            xmax = 30.255 
+            text = "#" 
+        intervals [20]:
+            xmin = 30.255 
+            xmax = 32.338 
+            text = "ça ça donne ce message" 
+        intervals [21]:
+            xmin = 32.338 
+            xmax = 32.694 
+            text = "#" 
+        intervals [22]:
+            xmin = 32.694 
+            xmax = 34.863 
+            text = "le fait que voilà ce sont des justiciers et" 
+        intervals [23]:
+            xmin = 34.863 
+            xmax = 35.438 
+            text = "#" 
+        intervals [24]:
+            xmin = 35.438 
+            xmax = 36.55 
+            text = "ça puisse être" 
+        intervals [25]:
+            xmin = 36.55 
+            xmax = 37.963 
+            text = "#" 
+        intervals [26]:
+            xmin = 37.963 
+            xmax = 39.883 
+            text = "des combattants euh contre" 
+        intervals [27]:
+            xmin = 39.883 
+            xmax = 40.32 
+            text = "#" 
+        intervals [28]:
+            xmin = 40.32 
+            xmax = 42.098 
+            text = "une mauvaise habitude alimentaire pourquoi pas" 
+        intervals [29]:
+            xmin = 42.098 
+            xmax = 42.426 
+            text = "#" 
+        intervals [30]:
+            xmin = 42.426 
+            xmax = 43.292 
+            text = "c'est intéressant" 
+        intervals [31]:
+            xmin = 43.292 
+            xmax = 46.254 
+            text = "#" 
+        intervals [32]:
+            xmin = 46.254 
+            xmax = 48.012 
+            text = "ça ça fait sens" 
+        intervals [33]:
+            xmin = 48.012 
+            xmax = 49.618 
+            text = "#" 
+        intervals [34]:
+            xmin = 49.618 
+            xmax = 52.971 
+            text = "c'est c'est intéressant d'utiliser le côté ludique pour les enfants ça" 
+        intervals [35]:
+            xmin = 52.971 
+            xmax = 53.474 
+            text = "#" 
+        intervals [36]:
+            xmin = 53.474 
+            xmax = 55.633 
+            text = "ça fait appel à leur imagination ça" 
+        intervals [37]:
+            xmin = 55.633 
+            xmax = 56.807 
+            text = "#" 
+        intervals [38]:
+            xmin = 56.807 
+            xmax = 58.336 
+            text = "ça rend plus intéressant les fruits et légumes" 
+        intervals [39]:
+            xmin = 58.336 
+            xmax = 59.9044 
+            text = "#" 

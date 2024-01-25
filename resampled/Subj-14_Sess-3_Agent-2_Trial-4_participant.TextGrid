@@ -1,0 +1,134 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 60 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Transcription" 
+        xmin = 0 
+        xmax = 60 
+        intervals: size = 30 
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.346 
+            text = "#" 
+        intervals [2]:
+            xmin = 1.346 
+            xmax = 6.696 
+            text = "alors je on venait de dire que les légumes avaient pas l'air très naturels" 
+        intervals [3]:
+            xmin = 6.696 
+            xmax = 6.894 
+            text = "#" 
+        intervals [4]:
+            xmin = 6.894 
+            xmax = 9.318 
+            text = "peut-être que l'aubergine c'est s- c'est" 
+        intervals [5]:
+            xmin = 9.318 
+            xmax = 9.917 
+            text = "#" 
+        intervals [6]:
+            xmin = 9.917 
+            xmax = 11.37 
+            text = "celui qui a la peau euh" 
+        intervals [7]:
+            xmin = 11.37 
+            xmax = 12.758 
+            text = "#" 
+        intervals [8]:
+            xmin = 14.622 
+            xmax = 14.835 
+            text = "#" 
+        intervals [9]:
+            xmin = 14.835 
+            xmax = 16.695 
+            text = "voilà même si euh" 
+        intervals [10]:
+            xmin = 16.695 
+            xmax = 17.061 
+            text = "#" 
+        intervals [11]:
+            xmin = 17.061 
+            xmax = 20.231 
+            text = "elle peut avoir dessiné la bouche et les yeux" 
+        intervals [12]:
+            xmin = 20.231 
+            xmax = 20.79 
+            text = "#" 
+        intervals [13]:
+            xmin = 20.79 
+            xmax = 22.826 
+            text = "ça lui donne un air agressif" 
+        intervals [14]:
+            xmin = 22.826 
+            xmax = 30.535 
+            text = "#" 
+        intervals [15]:
+            xmin = 30.535 
+            xmax = 33.197 
+            text = "ben quand même oui c'est vrai qu'elle irradie un peu de la lumière" 
+        intervals [16]:
+            xmin = 33.197 
+            xmax = 35.336 
+            text = "#" 
+        intervals [17]:
+            xmin = 35.336 
+            xmax = 35.651 
+            text = "mais bon" 
+        intervals [18]:
+            xmin = 35.651 
+            xmax = 36.809 
+            text = "#" 
+        intervals [19]:
+            xmin = 36.809 
+            xmax = 38.008 
+            text = "voilà elle euh" 
+        intervals [20]:
+            xmin = 38.008 
+            xmax = 46.762 
+            text = "#" 
+        intervals [21]:
+            xmin = 46.762 
+            xmax = 47.443 
+            text = "possible" 
+        intervals [22]:
+            xmin = 47.443 
+            xmax = 48.286 
+            text = "#" 
+        intervals [23]:
+            xmin = 48.286 
+            xmax = 51.975 
+            text = "possible parce que le citron est quand même particulièrement jaune" 
+        intervals [24]:
+            xmin = 51.975 
+            xmax = 53.525 
+            text = "#" 
+        intervals [25]:
+            xmin = 53.525 
+            xmax = 53.885 
+            text = "euh" 
+        intervals [26]:
+            xmin = 53.885 
+            xmax = 54.231 
+            text = "#" 
+        intervals [27]:
+            xmin = 54.231 
+            xmax = 54.434 
+            text = "là" 
+        intervals [28]:
+            xmin = 54.434 
+            xmax = 55.938 
+            text = "#" 
+        intervals [29]:
+            xmin = 55.938 
+            xmax = 56.995 
+            text = "euh c'est possible" 
+        intervals [30]:
+            xmin = 56.995 
+            xmax = 59.9044 
+            text = "#" 

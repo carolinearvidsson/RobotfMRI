@@ -1,0 +1,94 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 60 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Transcription" 
+        xmin = 0 
+        xmax = 60 
+        intervals: size = 20 
+        intervals [1]:
+            xmin = 0 
+            xmax = 4.542 
+            text = "#" 
+        intervals [2]:
+            xmin = 4.542 
+            xmax = 4.776 
+            text = "ouais" 
+        intervals [3]:
+            xmin = 4.776 
+            xmax = 21.491 
+            text = "#" 
+        intervals [4]:
+            xmin = 21.491 
+            xmax = 26.633 
+            text = "ouais c'est possible parce qu'en plus avec le déplacement ils se feraient euh ils se feraient abimer pendant le trajet" 
+        intervals [5]:
+            xmin = 26.633 
+            xmax = 27.736 
+            text = "#" 
+        intervals [6]:
+            xmin = 27.736 
+            xmax = 31.302 
+            text = "du coup euh ceux qui viendraient de loin seraient seraient" 
+        intervals [7]:
+            xmin = 31.302 
+            xmax = 31.8 
+            text = "#" 
+        intervals [8]:
+            xmin = 31.8 
+            xmax = 34.01 
+            text = "bah seraient a- abimés et maltraités" 
+        intervals [9]:
+            xmin = 34.01 
+            xmax = 35.641 
+            text = "#" 
+        intervals [10]:
+            xmin = 35.641 
+            xmax = 35.94 
+            text = "parce que" 
+        intervals [11]:
+            xmin = 35.94 
+            xmax = 40.391 
+            text = "#" 
+        intervals [12]:
+            xmin = 40.391 
+            xmax = 42.683 
+            text = "ouais parce que là cette fraise elle a l'air en colère quand même" 
+        intervals [13]:
+            xmin = 42.683 
+            xmax = 51.046 
+            text = "#" 
+        intervals [14]:
+            xmin = 51.046 
+            xmax = 51.264 
+            text = "ouais" 
+        intervals [15]:
+            xmin = 51.264 
+            xmax = 54.52 
+            text = "#" 
+        intervals [16]:
+            xmin = 54.52 
+            xmax = 54.779 
+            text = "ouais" 
+        intervals [17]:
+            xmin = 54.779 
+            xmax = 56.476 
+            text = "#" 
+        intervals [18]:
+            xmin = 56.476 
+            xmax = 56.893 
+            text = "euh" 
+        intervals [19]:
+            xmin = 56.893 
+            xmax = 58.519 
+            text = "#" 
+        intervals [20]:
+            xmin = 58.519 
+            xmax = 59.9516 
+            text = "et du coup l- ce serait les légumes" 

@@ -1,0 +1,146 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 60 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Transcription" 
+        xmin = 0 
+        xmax = 60 
+        intervals: size = 33 
+        intervals [1]:
+            xmin = 0 
+            xmax = 2.987 
+            text = "#" 
+        intervals [2]:
+            xmin = 2.987 
+            xmax = 4.705 
+            text = "ah on est de retour sur l'aubergine" 
+        intervals [3]:
+            xmin = 4.705 
+            xmax = 10.207 
+            text = "#" 
+        intervals [4]:
+            xmin = 10.207 
+            xmax = 10.456 
+            text = "ben" 
+        intervals [5]:
+            xmin = 10.456 
+            xmax = 11.142 
+            text = "#" 
+        intervals [6]:
+            xmin = 11.142 
+            xmax = 13.85 
+            text = "on avait eu euh on avait eu les $Tortues Ninja$" 
+        intervals [7]:
+            xmin = 13.85 
+            xmax = 14.587 
+            text = "#" 
+        intervals [8]:
+            xmin = 14.587 
+            xmax = 15.74 
+            text = "m- moi j'ai vu" 
+        intervals [9]:
+            xmin = 15.74 
+            xmax = 16.065 
+            text = "#" 
+        intervals [10]:
+            xmin = 16.065 
+            xmax = 16.858 
+            text = "$Spiderman$" 
+        intervals [11]:
+            xmin = 16.858 
+            xmax = 18.417 
+            text = "#" 
+        intervals [12]:
+            xmin = 18.417 
+            xmax = 20.312 
+            text = "euh" 
+        intervals [13]:
+            xmin = 20.312 
+            xmax = 20.988 
+            text = "#" 
+        intervals [14]:
+            xmin = 20.988 
+            xmax = 25.921 
+            text = "et euh lui a bien y regarder il me fait penser à à un autre" 
+        intervals [15]:
+            xmin = 25.921 
+            xmax = 26.739 
+            text = "#" 
+        intervals [16]:
+            xmin = 26.739 
+            xmax = 31.591 
+            text = "euh ce ce ce- celui qui parle tu sais avec une voix super rauque et euh" 
+        intervals [17]:
+            xmin = 31.591 
+            xmax = 32.602 
+            text = "#" 
+        intervals [18]:
+            xmin = 32.602 
+            xmax = 33.522 
+            text = "euh mh" 
+        intervals [19]:
+            xmin = 33.522 
+            xmax = 34.406 
+            text = "#" 
+        intervals [20]:
+            xmin = 34.406 
+            xmax = 35.615 
+            text = "euh" 
+        intervals [21]:
+            xmin = 35.615 
+            xmax = 35.869 
+            text = "#" 
+        intervals [22]:
+            xmin = 35.869 
+            xmax = 37.485 
+            text = "c'est possible" 
+        intervals [23]:
+            xmin = 37.485 
+            xmax = 38.054 
+            text = "#" 
+        intervals [24]:
+            xmin = 38.054 
+            xmax = 39.334 
+            text = "euh c'est possible" 
+        intervals [25]:
+            xmin = 39.334 
+            xmax = 40.605 
+            text = "#" 
+        intervals [26]:
+            xmin = 40.605 
+            xmax = 43.912 
+            text = "euh je suis pas sûre" 
+        intervals [27]:
+            xmin = 43.912 
+            xmax = 44.847 
+            text = "#" 
+        intervals [28]:
+            xmin = 44.847 
+            xmax = 49.76 
+            text = "euh je suis pas sûre parce que là il est malqué masqué et $Hulk$ il devient tout vert quand il est en colère" 
+        intervals [29]:
+            xmin = 49.76 
+            xmax = 51.04 
+            text = "#" 
+        intervals [30]:
+            xmin = 51.04 
+            xmax = 51.69 
+            text = "euh" 
+        intervals [31]:
+            xmin = 51.69 
+            xmax = 53.774 
+            text = "#" 
+        intervals [32]:
+            xmin = 53.774 
+            xmax = 59.027 
+            text = "si si moi il me fait penser à quelqu'un euh quelqu'un qui euh qui a une voix super rauque et euh mince" 
+        intervals [33]:
+            xmin = 59.027 
+            xmax = 59.9516 
+            text = "#" 

@@ -1,0 +1,122 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 60 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Transcription" 
+        xmin = 0 
+        xmax = 60 
+        intervals: size = 27 
+        intervals [1]:
+            xmin = 0 
+            xmax = 5.507 
+            text = "#" 
+        intervals [2]:
+            xmin = 5.507 
+            xmax = 7.062 
+            text = "elle fait pitié celle là peucheure" 
+        intervals [3]:
+            xmin = 7.062 
+            xmax = 9.445 
+            text = "#" 
+        intervals [4]:
+            xmin = 9.445 
+            xmax = 9.684 
+            text = "ouais" 
+        intervals [5]:
+            xmin = 9.684 
+            xmax = 9.872 
+            text = "#" 
+        intervals [6]:
+            xmin = 9.872 
+            xmax = 10.253 
+            text = "ouais ouais" 
+        intervals [7]:
+            xmin = 10.253 
+            xmax = 11.208 
+            text = "#" 
+        intervals [8]:
+            xmin = 11.208 
+            xmax = 11.899 
+            text = "euh" 
+        intervals [9]:
+            xmin = 11.899 
+            xmax = 14.835 
+            text = "#" 
+        intervals [10]:
+            xmin = 14.835 
+            xmax = 15.069 
+            text = "ouais" 
+        intervals [11]:
+            xmin = 15.069 
+            xmax = 17.945 
+            text = "#" 
+        intervals [12]:
+            xmin = 17.945 
+            xmax = 18.356 
+            text = "euh" 
+        intervals [13]:
+            xmin = 18.356 
+            xmax = 20.465 
+            text = "#" 
+        intervals [14]:
+            xmin = 20.465 
+            xmax = 22.731 
+            text = "je sais pas elle a l'air dépitée" 
+        intervals [15]:
+            xmin = 22.731 
+            xmax = 26.988 
+            text = "#" 
+        intervals [16]:
+            xmin = 26.988 
+            xmax = 29.376 
+            text = "ouais peut-être qu'est-ce qu'elle est abîmée elle s'est peut-être pris des coups" 
+        intervals [17]:
+            xmin = 29.376 
+            xmax = 35.133 
+            text = "#" 
+        intervals [18]:
+            xmin = 35.133 
+            xmax = 35.879 
+            text = "ouah" 
+        intervals [19]:
+            xmin = 35.879 
+            xmax = 36.504 
+            text = "#" 
+        intervals [20]:
+            xmin = 36.504 
+            xmax = 40.737 
+            text = "comme c'est tous des fruits qui ont été personnifiés soit c'est par rapport à la personne soit c'est par rapport aux fruits" 
+        intervals [21]:
+            xmin = 40.737 
+            xmax = 41.925 
+            text = "#" 
+        intervals [22]:
+            xmin = 41.925 
+            xmax = 42.718 
+            text = "euh" 
+        intervals [23]:
+            xmin = 42.718 
+            xmax = 43.191 
+            text = "#" 
+        intervals [24]:
+            xmin = 43.191 
+            xmax = 46.386 
+            text = "ou peut-être que c'est quelqu'un qui s'est pris les coups ou alors c'est le fruit" 
+        intervals [25]:
+            xmin = 46.386 
+            xmax = 46.945 
+            text = "#" 
+        intervals [26]:
+            xmin = 46.945 
+            xmax = 49.313 
+            text = "qui a été pas bien traité pendant les trajets" 
+        intervals [27]:
+            xmin = 49.313 
+            xmax = 59.9516 
+            text = "#" 

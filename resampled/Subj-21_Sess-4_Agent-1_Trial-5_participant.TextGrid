@@ -1,0 +1,110 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 60 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Transcription" 
+        xmin = 0 
+        xmax = 60 
+        intervals: size = 24 
+        intervals [1]:
+            xmin = 0 
+            xmax = 2.169 
+            text = "#" 
+        intervals [2]:
+            xmin = 2.169 
+            xmax = 2.454 
+            text = "ouais" 
+        intervals [3]:
+            xmin = 2.454 
+            xmax = 3.17 
+            text = "#" 
+        intervals [4]:
+            xmin = 3.17 
+            xmax = 5.009 
+            text = "le public c'est les enfants typiquement" 
+        intervals [5]:
+            xmin = 5.009 
+            xmax = 6.579 
+            text = "#" 
+        intervals [6]:
+            xmin = 6.579 
+            xmax = 10.537 
+            text = "je pense que c'est les enfants pour avoir des visages comme ça et tout sur les fruits et légumes" 
+        intervals [7]:
+            xmin = 10.537 
+            xmax = 19.789 
+            text = "#" 
+        intervals [8]:
+            xmin = 19.789 
+            xmax = 22.954 
+            text = "ouais mais c'est quand même des visages un peu familiers euh" 
+        intervals [9]:
+            xmin = 22.954 
+            xmax = 25.469 
+            text = "#" 
+        intervals [10]:
+            xmin = 25.469 
+            xmax = 26.389 
+            text = "pour les enfants euh" 
+        intervals [11]:
+            xmin = 26.389 
+            xmax = 28.594 
+            text = "#" 
+        intervals [12]:
+            xmin = 28.594 
+            xmax = 31.083 
+            text = "c'est bizarre parce que tu vois les fraises les framboises ils aiment ça" 
+        intervals [13]:
+            xmin = 31.083 
+            xmax = 34.101 
+            text = "#" 
+        intervals [14]:
+            xmin = 34.101 
+            xmax = 35.58 
+            text = "et les pommes aussi -fin" 
+        intervals [15]:
+            xmin = 35.58 
+            xmax = 42.352 
+            text = "#" 
+        intervals [16]:
+            xmin = 42.352 
+            xmax = 43.592 
+            text = "ah non y a eu la poire aussi" 
+        intervals [17]:
+            xmin = 43.592 
+            xmax = 48.784 
+            text = "#" 
+        intervals [18]:
+            xmin = 48.784 
+            xmax = 49.069 
+            text = "ouais" 
+        intervals [19]:
+            xmin = 49.069 
+            xmax = 55.725 
+            text = "#" 
+        intervals [20]:
+            xmin = 55.725 
+            xmax = 56.202 
+            text = "à manger" 
+        intervals [21]:
+            xmin = 56.202 
+            xmax = 56.436 
+            text = "#" 
+        intervals [22]:
+            xmin = 56.436 
+            xmax = 58.011 
+            text = "ben ils mangent déjà euh" 
+        intervals [23]:
+            xmin = 58.011 
+            xmax = 58.783 
+            text = "#" 
+        intervals [24]:
+            xmin = 58.783 
+            xmax = 59.9044 
+            text = "des pommes hein les enfants" 

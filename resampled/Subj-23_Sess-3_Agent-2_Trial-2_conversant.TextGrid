@@ -1,0 +1,78 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 60 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Transcription" 
+        xmin = 0 
+        xmax = 60 
+        intervals: size = 16 
+        intervals [1]:
+            xmin = 0 
+            xmax = 5.446 
+            text = "#" 
+        intervals [2]:
+            xmin = 5.446 
+            xmax = 5.594 
+            text = "*" 
+        intervals [3]:
+            xmin = 5.594 
+            xmax = 9.643 
+            text = "#" 
+        intervals [4]:
+            xmin = 9.643 
+            xmax = 10.522 
+            text = "c'est une pomme" 
+        intervals [5]:
+            xmin = 10.522 
+            xmax = 13.88 
+            text = "#" 
+        intervals [6]:
+            xmin = 13.88 
+            xmax = 14.983 
+            text = "c'est une pomme rouge" 
+        intervals [7]:
+            xmin = 14.983 
+            xmax = 18.118 
+            text = "#" 
+        intervals [8]:
+            xmin = 18.118 
+            xmax = 19.423 
+            text = "cette pomme est à l'envers" 
+        intervals [9]:
+            xmin = 19.423 
+            xmax = 23.356 
+            text = "#" 
+        intervals [10]:
+            xmin = 23.356 
+            xmax = 24.402 
+            text = "qu'est ce que t'en penses" 
+        intervals [11]:
+            xmin = 24.402 
+            xmax = 31.642 
+            text = "#" 
+        intervals [12]:
+            xmin = 31.642 
+            xmax = 33.095 
+            text = "tu as une idée du message" 
+        intervals [13]:
+            xmin = 33.095 
+            xmax = 49.196 
+            text = "#" 
+        intervals [14]:
+            xmin = 49.196 
+            xmax = 50.908 
+            text = "elle ressemble à un super héros" 
+        intervals [15]:
+            xmin = 50.908 
+            xmax = 59.784 
+            text = "#" 
+        intervals [16]:
+            xmin = 59.784 
+            xmax = 59.9516 
+            text = "la" 

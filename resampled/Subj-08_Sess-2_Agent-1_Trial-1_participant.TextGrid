@@ -1,0 +1,130 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 60 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Transcription" 
+        xmin = 0 
+        xmax = 60 
+        intervals: size = 29 
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.768 
+            text = "#" 
+        intervals [2]:
+            xmin = 1.768 
+            xmax = 2.124 
+            text = "euh" 
+        intervals [3]:
+            xmin = 2.124 
+            xmax = 3.211 
+            text = "#" 
+        intervals [4]:
+            xmin = 3.211 
+            xmax = 5.172 
+            text = "ben du coup je sais pas j'ai vu une framboise" 
+        intervals [5]:
+            xmin = 5.172 
+            xmax = 6.178 
+            text = "#" 
+        intervals [6]:
+            xmin = 6.178 
+            xmax = 7.509 
+            text = "qui a l'air un petit peu" 
+        intervals [7]:
+            xmin = 7.509 
+            xmax = 7.768 
+            text = "#" 
+        intervals [8]:
+            xmin = 7.768 
+            xmax = 8.383 
+            text = "euh" 
+        intervals [9]:
+            xmin = 8.383 
+            xmax = 9.445 
+            text = "#" 
+        intervals [10]:
+            xmin = 9.445 
+            xmax = 9.745 
+            text = "molle" 
+        intervals [11]:
+            xmin = 9.745 
+            xmax = 11.157 
+            text = "#" 
+        intervals [12]:
+            xmin = 11.157 
+            xmax = 19.052 
+            text = "ouais je sais pas faudrait ouais c'est ça est-ce peut-être * un bonbon en forme de framboise quelque chose comme ça" 
+        intervals [13]:
+            xmin = 19.052 
+            xmax = 21.151 
+            text = "#" 
+        intervals [14]:
+            xmin = 21.151 
+            xmax = 21.41 
+            text = "ouais" 
+        intervals [15]:
+            xmin = 21.41 
+            xmax = 25.764 
+            text = "#" 
+        intervals [16]:
+            xmin = 25.764 
+            xmax = 30.25 
+            text = "ouais ouais voilà c'est ça et qui a l'air un petit peu triste un petit peu voilà" 
+        intervals [17]:
+            xmin = 30.25 
+            xmax = 36.238 
+            text = "#" 
+        intervals [18]:
+            xmin = 36.238 
+            xmax = 36.831 
+            text = "ah ouais" 
+        intervals [19]:
+            xmin = 36.831 
+            xmax = 37.378 
+            text = "#" 
+        intervals [20]:
+            xmin = 37.378 
+            xmax = 38.582 
+            text = "ouais c'est vrai que" 
+        intervals [21]:
+            xmin = 38.582 
+            xmax = 39.588 
+            text = "#" 
+        intervals [22]:
+            xmin = 39.588 
+            xmax = 40.655 
+            text = "ah lutte très bien" 
+        intervals [23]:
+            xmin = 40.655 
+            xmax = 52.671 
+            text = "#" 
+        intervals [24]:
+            xmin = 52.671 
+            xmax = 53.133 
+            text = "ouais" 
+        intervals [25]:
+            xmin = 53.133 
+            xmax = 53.326 
+            text = "#" 
+        intervals [26]:
+            xmin = 53.326 
+            xmax = 55.531 
+            text = "moi ça me fait penser au personnage de $Oasis$" 
+        intervals [27]:
+            xmin = 55.531 
+            xmax = 57.696 
+            text = "#" 
+        intervals [28]:
+            xmin = 57.696 
+            xmax = 58.58 
+            text = "@ -fin" 
+        intervals [29]:
+            xmin = 58.58 
+            xmax = 59.9044 
+            text = "#" 

@@ -1,0 +1,102 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 60 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Transcription" 
+        xmin = 0 
+        xmax = 60 
+        intervals: size = 22 
+        intervals [1]:
+            xmin = 0 
+            xmax = 5.89 
+            text = "#" 
+        intervals [2]:
+            xmin = 5.89 
+            xmax = 6.264 
+            text = "oui" 
+        intervals [3]:
+            xmin = 6.264 
+            xmax = 15.435 
+            text = "#" 
+        intervals [4]:
+            xmin = 15.435 
+            xmax = 18.519 
+            text = "oui la poire elle donne elle donne plus envie que les autres fruits" 
+        intervals [5]:
+            xmin = 18.519 
+            xmax = 19.499 
+            text = "#" 
+        intervals [6]:
+            xmin = 19.499 
+            xmax = 24.367 
+            text = "elle a l'air peut-être par rapport à son sa taille ou sa couleur plus naturelle" 
+        intervals [7]:
+            xmin = 24.367 
+            xmax = 25.2 
+            text = "#" 
+        intervals [8]:
+            xmin = 25.2 
+            xmax = 27.608 
+            text = "non moi la framboise qui vraiment" 
+        intervals [9]:
+            xmin = 27.608 
+            xmax = 28.411 
+            text = "#" 
+        intervals [10]:
+            xmin = 28.411 
+            xmax = 31.632 
+            text = "on dirait qu'elle a la lèpre la la framboise qu'elle a une maladie euh" 
+        intervals [11]:
+            xmin = 31.632 
+            xmax = 34.487 
+            text = "#" 
+        intervals [12]:
+            xmin = 34.487 
+            xmax = 35.697 
+            text = "un bonbon fondu" 
+        intervals [13]:
+            xmin = 35.697 
+            xmax = 36.637 
+            text = "#" 
+        intervals [14]:
+            xmin = 36.637 
+            xmax = 40.269 
+            text = "la la la poire oui elle donne envie quand même d'être un peu soignée" 
+        intervals [15]:
+            xmin = 40.269 
+            xmax = 40.503 
+            text = "#" 
+        intervals [16]:
+            xmin = 40.503 
+            xmax = 42.708 
+            text = "on va dire par rapport au à ses ses coups" 
+        intervals [17]:
+            xmin = 42.708 
+            xmax = 43.506 
+            text = "#" 
+        intervals [18]:
+            xmin = 43.506 
+            xmax = 45.309 
+            text = "d'être enlevée et d'être quand même mangée" 
+        intervals [19]:
+            xmin = 45.309 
+            xmax = 46.778 
+            text = "#" 
+        intervals [20]:
+            xmin = 46.778 
+            xmax = 50.491 
+            text = "contrairement à tu sais la framboise la fraise pourquoi pas aussi elle est" 
+        intervals [21]:
+            xmin = 50.491 
+            xmax = 58.463 
+            text = "#" 
+        intervals [22]:
+            xmin = 58.463 
+            xmax = 59.9044 
+            text = "oui oui oui un fruit naturel" 

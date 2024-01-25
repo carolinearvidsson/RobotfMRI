@@ -1,0 +1,114 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 60 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Transcription" 
+        xmin = 0 
+        xmax = 60 
+        intervals: size = 25 
+        intervals [1]:
+            xmin = 0 
+            xmax = 3.673 
+            text = "#" 
+        intervals [2]:
+            xmin = 3.673 
+            xmax = 5.338 
+            text = "c'est pas un fruit très très beau du coup" 
+        intervals [3]:
+            xmin = 5.338 
+            xmax = 10.664 
+            text = "#" 
+        intervals [4]:
+            xmin = 10.664 
+            xmax = 10.898 
+            text = "ouais" 
+        intervals [5]:
+            xmin = 10.898 
+            xmax = 11.101 
+            text = "#" 
+        intervals [6]:
+            xmin = 11.101 
+            xmax = 11.309 
+            text = "ouais" 
+        intervals [7]:
+            xmin = 11.309 
+            xmax = 12.021 
+            text = "#" 
+        intervals [8]:
+            xmin = 12.021 
+            xmax = 13.525 
+            text = "quelque chose qui ne s'est pas fait manger" 
+        intervals [9]:
+            xmin = 13.525 
+            xmax = 15.867 
+            text = "#" 
+        intervals [10]:
+            xmin = 15.867 
+            xmax = 17 
+            text = "elle s'est pas fait manger" 
+        intervals [11]:
+            xmin = 17 
+            xmax = 18.478 
+            text = "#" 
+        intervals [12]:
+            xmin = 18.478 
+            xmax = 19.256 
+            text = "pour le" 
+        intervals [13]:
+            xmin = 19.256 
+            xmax = 21.384 
+            text = "#" 
+        intervals [14]:
+            xmin = 21.384 
+            xmax = 23.184 
+            text = "pas de gachis alimentaire je sais pas trop" 
+        intervals [15]:
+            xmin = 23.184 
+            xmax = 30.809 
+            text = "#" 
+        intervals [16]:
+            xmin = 30.809 
+            xmax = 32.465 
+            text = "ouais voilà bah gachis" 
+        intervals [17]:
+            xmin = 32.465 
+            xmax = 32.978 
+            text = "#" 
+        intervals [18]:
+            xmin = 32.978 
+            xmax = 35.971 
+            text = "jetée alors qu'elle était encore mangeable ou je sais pas trop" 
+        intervals [19]:
+            xmin = 35.971 
+            xmax = 43.038 
+            text = "#" 
+        intervals [20]:
+            xmin = 43.038 
+            xmax = 43.622 
+            text = "ouais voilà" 
+        intervals [21]:
+            xmin = 43.622 
+            xmax = 48.17 
+            text = "#" 
+        intervals [22]:
+            xmin = 48.17 
+            xmax = 49.841 
+            text = "c'est bien parce que c'est pas les mêmes fruits et légumes" 
+        intervals [23]:
+            xmin = 49.841 
+            xmax = 52.239 
+            text = "#" 
+        intervals [24]:
+            xmin = 52.239 
+            xmax = 54.197 
+            text = "c'est pas les mêmes fruits et légumes qui te part" 
+        intervals [25]:
+            xmin = 54.197 
+            xmax = 59.9044 
+            text = "#" 

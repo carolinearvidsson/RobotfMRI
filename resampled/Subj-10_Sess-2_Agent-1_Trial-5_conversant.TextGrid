@@ -1,0 +1,134 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 60 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Transcription" 
+        xmin = 0 
+        xmax = 60 
+        intervals: size = 30 
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.793 
+            text = "#" 
+        intervals [2]:
+            xmin = 1.793 
+            xmax = 2.469 
+            text = "ah ouais" 
+        intervals [3]:
+            xmin = 2.469 
+            xmax = 3.104 
+            text = "#" 
+        intervals [4]:
+            xmin = 3.104 
+            xmax = 6.574 
+            text = "bah sur le coup je m'attendais à voir que du fruit rouge mais c'est pas le cas hein" 
+        intervals [5]:
+            xmin = 6.574 
+            xmax = 11.548 
+            text = "#" 
+        intervals [6]:
+            xmin = 11.548 
+            xmax = 13.667 
+            text = "euh ouais -fin" 
+        intervals [7]:
+            xmin = 13.667 
+            xmax = 15.394 
+            text = "#" 
+        intervals [8]:
+            xmin = 15.394 
+            xmax = 17.96 
+            text = "elle est plutôt prête pour la fermentation que pour le" 
+        intervals [9]:
+            xmin = 17.96 
+            xmax = 22.985 
+            text = "#" 
+        intervals [10]:
+            xmin = 22.985 
+            xmax = 23.259 
+            text = "pour" 
+        intervals [11]:
+            xmin = 23.259 
+            xmax = 26.922 
+            text = "#" 
+        intervals [12]:
+            xmin = 26.922 
+            xmax = 30.469 
+            text = "là non plus euh pourquoi les producteurs locaux" 
+        intervals [13]:
+            xmin = 30.469 
+            xmax = 31.205 
+            text = "#" 
+        intervals [14]:
+            xmin = 31.205 
+            xmax = 33.786 
+            text = "euh parce que ben je sais pas" 
+        intervals [15]:
+            xmin = 33.786 
+            xmax = 34.376 
+            text = "#" 
+        intervals [16]:
+            xmin = 34.376 
+            xmax = 38.359 
+            text = "parce qu'on a pas l'idée qu'ils viennent de loin ou alors c'est les trucs qui seraient abîmés par le" 
+        intervals [17]:
+            xmin = 38.359 
+            xmax = 39.939 
+            text = "#" 
+        intervals [18]:
+            xmin = 39.939 
+            xmax = 40.107 
+            text = "*" 
+        intervals [19]:
+            xmin = 40.107 
+            xmax = 40.35 
+            text = "#" 
+        intervals [20]:
+            xmin = 40.35 
+            xmax = 41.163 
+            text = "par le transport" 
+        intervals [21]:
+            xmin = 41.163 
+            xmax = 44.43 
+            text = "#" 
+        intervals [22]:
+            xmin = 44.43 
+            xmax = 47.463 
+            text = "ouais ça -fin c'est un peu c'est un peu tiré par les cheveux quoi" 
+        intervals [23]:
+            xmin = 47.463 
+            xmax = 48.261 
+            text = "#" 
+        intervals [24]:
+            xmin = 48.261 
+            xmax = 53.352 
+            text = "puis en général les les fruits qui viennent de loin ils sont super beaux parce qu'ils les cueillent super jeunes et euh" 
+        intervals [25]:
+            xmin = 53.352 
+            xmax = 53.84 
+            text = "#" 
+        intervals [26]:
+            xmin = 53.84 
+            xmax = 56.527 
+            text = "et ils jettent tout ceux qui sont pas qui sont pas nickel" 
+        intervals [27]:
+            xmin = 56.527 
+            xmax = 57.066 
+            text = "#" 
+        intervals [28]:
+            xmin = 57.066 
+            xmax = 57.909 
+            text = "à la rigueur ça serait presque" 
+        intervals [29]:
+            xmin = 57.909 
+            xmax = 59.586 
+            text = "#" 
+        intervals [30]:
+            xmin = 59.586 
+            xmax = 59.9516 
+            text = "les pre-" 

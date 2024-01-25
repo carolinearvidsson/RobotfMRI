@@ -1,0 +1,166 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 60 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Transcription" 
+        xmin = 0 
+        xmax = 60 
+        intervals: size = 38 
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.783 
+            text = "#" 
+        intervals [2]:
+            xmin = 1.783 
+            xmax = 2.266 
+            text = "allo allo" 
+        intervals [3]:
+            xmin = 2.266 
+            xmax = 3.058 
+            text = "#" 
+        intervals [4]:
+            xmin = 3.058 
+            xmax = 5.706 
+            text = "donc ça reste euh on reste dans la même idée quoi les" 
+        intervals [5]:
+            xmin = 5.706 
+            xmax = 7.438 
+            text = "#" 
+        intervals [6]:
+            xmin = 7.438 
+            xmax = 7.611 
+            text = "les" 
+        intervals [7]:
+            xmin = 7.611 
+            xmax = 10.217 
+            text = "#" 
+        intervals [8]:
+            xmin = 10.217 
+            xmax = 13.484 
+            text = "et voilà c'est ça c'est pareil on enlève un petit morceau de peau" 
+        intervals [9]:
+            xmin = 13.484 
+            xmax = 14.266 
+            text = "#" 
+        intervals [10]:
+            xmin = 14.266 
+            xmax = 15.13 
+            text = "ça dessine euh" 
+        intervals [11]:
+            xmin = 15.13 
+            xmax = 15.41 
+            text = "#" 
+        intervals [12]:
+            xmin = 15.41 
+            xmax = 16.39 
+            text = "ça dessine un visage" 
+        intervals [13]:
+            xmin = 16.39 
+            xmax = 18.204 
+            text = "#" 
+        intervals [14]:
+            xmin = 18.204 
+            xmax = 20.963 
+            text = "et et avec ça on fait euh on fait un super héros" 
+        intervals [15]:
+            xmin = 20.963 
+            xmax = 21.74 
+            text = "#" 
+        intervals [16]:
+            xmin = 21.74 
+            xmax = 21.974 
+            text = "euh" 
+        intervals [17]:
+            xmin = 21.974 
+            xmax = 22.37 
+            text = "#" 
+        intervals [18]:
+            xmin = 22.37 
+            xmax = 26.729 
+            text = "donc avec l'aubergine par contre l'aubergine et le citron ça a rien à voir c'est pas les trucs qui euh" 
+        intervals [19]:
+            xmin = 26.729 
+            xmax = 27.745 
+            text = "#" 
+        intervals [20]:
+            xmin = 27.745 
+            xmax = 27.954 
+            text = "-fin le" 
+        intervals [21]:
+            xmin = 27.954 
+            xmax = 31.561 
+            text = "#" 
+        intervals [22]:
+            xmin = 31.561 
+            xmax = 33.502 
+            text = "ouais mais en termes de fruits et légumes je veux dire" 
+        intervals [23]:
+            xmin = 33.502 
+            xmax = 34.101 
+            text = "#" 
+        intervals [24]:
+            xmin = 34.101 
+            xmax = 37.83 
+            text = "l'aubergine c'est un légume qu'on mange et que le citron je sais pas trop ce qu'on en fait à part" 
+        intervals [25]:
+            xmin = 37.83 
+            xmax = 39.416 
+            text = "#" 
+        intervals [26]:
+            xmin = 39.416 
+            xmax = 41.732 
+            text = "à part dans les cocktails mais euh les citrons verts" 
+        intervals [27]:
+            xmin = 41.732 
+            xmax = 43.937 
+            text = "#" 
+        intervals [28]:
+            xmin = 43.937 
+            xmax = 44.191 
+            text = "ah ouais" 
+        intervals [29]:
+            xmin = 44.191 
+            xmax = 45.274 
+            text = "#" 
+        intervals [30]:
+            xmin = 45.274 
+            xmax = 47.138 
+            text = "euh ah bon @" 
+        intervals [31]:
+            xmin = 47.138 
+            xmax = 48.027 
+            text = "#" 
+        intervals [32]:
+            xmin = 48.027 
+            xmax = 49.043 
+            text = "d'accord donc on peut m-" 
+        intervals [33]:
+            xmin = 49.043 
+            xmax = 52.234 
+            text = "#" 
+        intervals [34]:
+            xmin = 52.234 
+            xmax = 55.695 
+            text = "ah ok je pensais même pas que ça se mangeait le le citron vert le lime" 
+        intervals [35]:
+            xmin = 55.695 
+            xmax = 56.219 
+            text = "#" 
+        intervals [36]:
+            xmin = 56.219 
+            xmax = 56.363 
+            text = "frit" 
+        intervals [37]:
+            xmin = 56.363 
+            xmax = 58.098 
+            text = "#" 
+        intervals [38]:
+            xmin = 58.098 
+            xmax = 59.9516 
+            text = "réservé exclusivement aux mojitos" 

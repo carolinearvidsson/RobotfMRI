@@ -1,0 +1,114 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 60 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Transcription" 
+        xmin = 0 
+        xmax = 60 
+        intervals: size = 25 
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.422 
+            text = "#" 
+        intervals [2]:
+            xmin = 1.422 
+            xmax = 1.88 
+            text = "euh" 
+        intervals [3]:
+            xmin = 1.88 
+            xmax = 3.018 
+            text = "#" 
+        intervals [4]:
+            xmin = 3.018 
+            xmax = 4.501 
+            text = "alors on est de retour sur la deuxième série" 
+        intervals [5]:
+            xmin = 4.501 
+            xmax = 7.692 
+            text = "#" 
+        intervals [6]:
+            xmin = 7.692 
+            xmax = 12.204 
+            text = "si c'est le si c'est le dernier run faut peut-être qu'on essaye de trouver la tu sais la signification de tout ça pour euh" 
+        intervals [7]:
+            xmin = 12.204 
+            xmax = 13.149 
+            text = "#" 
+        intervals [8]:
+            xmin = 13.149 
+            xmax = 14.317 
+            text = "par rapport à leur histoire de campagne" 
+        intervals [9]:
+            xmin = 14.317 
+            xmax = 16.111 
+            text = "#" 
+        intervals [10]:
+            xmin = 16.111 
+            xmax = 16.522 
+            text = "euh" 
+        intervals [11]:
+            xmin = 16.522 
+            xmax = 21.039 
+            text = "#" 
+        intervals [12]:
+            xmin = 21.039 
+            xmax = 27.75 
+            text = "moi je vois vraiment une grosse différence entre euh entre euh tu sais les les -fin les légumes et la pomme quoi" 
+        intervals [13]:
+            xmin = 27.75 
+            xmax = 27.959 
+            text = "#" 
+        intervals [14]:
+            xmin = 27.959 
+            xmax = 30.195 
+            text = "et et la deuxième là les moches" 
+        intervals [15]:
+            xmin = 30.195 
+            xmax = 31.676 
+            text = "#" 
+        intervals [16]:
+            xmin = 31.676 
+            xmax = 32.268 
+            text = "euh" 
+        intervals [17]:
+            xmin = 32.268 
+            xmax = 33.995 
+            text = "#" 
+        intervals [18]:
+            xmin = 33.995 
+            xmax = 37.851 
+            text = "et euh je sais pas si mais tu vois peut-être que les moches ils sont là pour valoriser les beaux" 
+        intervals [19]:
+            xmin = 37.851 
+            xmax = 45.487 
+            text = "#" 
+        intervals [20]:
+            xmin = 45.487 
+            xmax = 49.353 
+            text = "ou alors ils sont là pour qu'on les prenne en pitié et c'est les beaux où on a tendance à aller vers" 
+        intervals [21]:
+            xmin = 49.353 
+            xmax = 49.607 
+            text = "#" 
+        intervals [22]:
+            xmin = 49.607 
+            xmax = 51.121 
+            text = "trop vers eux en oubliant les autres" 
+        intervals [23]:
+            xmin = 51.121 
+            xmax = 57.35 
+            text = "#" 
+        intervals [24]:
+            xmin = 57.35 
+            xmax = 57.909 
+            text = "après quoi" 
+        intervals [25]:
+            xmin = 57.909 
+            xmax = 59.9516 
+            text = "#" 

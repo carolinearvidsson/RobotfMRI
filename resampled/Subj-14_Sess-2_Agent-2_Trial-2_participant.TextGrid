@@ -1,0 +1,210 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 60 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Transcription" 
+        xmin = 0 
+        xmax = 60 
+        intervals: size = 49 
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.605 
+            text = "#" 
+        intervals [2]:
+            xmin = 1.605 
+            xmax = 2.947 
+            text = "alors c'est une poire" 
+        intervals [3]:
+            xmin = 2.947 
+            xmax = 3.773 
+            text = "#" 
+        intervals [4]:
+            xmin = 3.773 
+            xmax = 6.148 
+            text = "euh elle a elle est" 
+        intervals [5]:
+            xmin = 6.148 
+            xmax = 6.391 
+            text = "#" 
+        intervals [6]:
+            xmin = 6.391 
+            xmax = 6.94 
+            text = "tordue" 
+        intervals [7]:
+            xmin = 6.94 
+            xmax = 8.789 
+            text = "#" 
+        intervals [8]:
+            xmin = 8.789 
+            xmax = 10.131 
+            text = "et elle exprime" 
+        intervals [9]:
+            xmin = 10.131 
+            xmax = 10.314 
+            text = "#" 
+        intervals [10]:
+            xmin = 10.314 
+            xmax = 11.492 
+            text = "euh de" 
+        intervals [11]:
+            xmin = 11.492 
+            xmax = 11.95 
+            text = "#" 
+        intervals [12]:
+            xmin = 11.95 
+            xmax = 13.139 
+            text = "de ce qu'on lui a dessiné quoi" 
+        intervals [13]:
+            xmin = 13.139 
+            xmax = 13.372 
+            text = "#" 
+        intervals [14]:
+            xmin = 13.372 
+            xmax = 14.866 
+            text = "un visage" 
+        intervals [15]:
+            xmin = 14.866 
+            xmax = 15.902 
+            text = "#" 
+        intervals [16]:
+            xmin = 15.902 
+            xmax = 17.406 
+            text = "comme si elle était quand même embêtée" 
+        intervals [17]:
+            xmin = 17.406 
+            xmax = 18.006 
+            text = "#" 
+        intervals [18]:
+            xmin = 18.006 
+            xmax = 19.317 
+            text = "ça l'embête un peu euh" 
+        intervals [19]:
+            xmin = 19.317 
+            xmax = 19.804 
+            text = "#" 
+        intervals [20]:
+            xmin = 19.804 
+            xmax = 20.333 
+            text = "puis la" 
+        intervals [21]:
+            xmin = 20.333 
+            xmax = 20.922 
+            text = "#" 
+        intervals [22]:
+            xmin = 20.922 
+            xmax = 22.649 
+            text = "et elle est pas très contente" 
+        intervals [23]:
+            xmin = 22.649 
+            xmax = 25.449 
+            text = "#" 
+        intervals [24]:
+            xmin = 25.449 
+            xmax = 28.563 
+            text = "et euh au niveau de la peau de l'apparence de la peau" 
+        intervals [25]:
+            xmin = 28.563 
+            xmax = 28.751 
+            text = "#" 
+        intervals [26]:
+            xmin = 28.751 
+            xmax = 31.104 
+            text = "elle paraît pas du tout naturelle euh" 
+        intervals [27]:
+            xmin = 31.104 
+            xmax = 31.398 
+            text = "#" 
+        intervals [28]:
+            xmin = 31.398 
+            xmax = 32.953 
+            text = "ça fait penser à une éponge" 
+        intervals [29]:
+            xmin = 32.953 
+            xmax = 35.092 
+            text = "#" 
+        intervals [30]:
+            xmin = 35.092 
+            xmax = 36.342 
+            text = "une éponge et" 
+        intervals [31]:
+            xmin = 36.342 
+            xmax = 36.88 
+            text = "#" 
+        intervals [32]:
+            xmin = 36.88 
+            xmax = 37.079 
+            text = "voilà" 
+        intervals [33]:
+            xmin = 37.079 
+            xmax = 39.842 
+            text = "#" 
+        intervals [34]:
+            xmin = 39.842 
+            xmax = 40.472 
+            text = "ouais c'est ça" 
+        intervals [35]:
+            xmin = 40.472 
+            xmax = 41.367 
+            text = "#" 
+        intervals [36]:
+            xmin = 41.367 
+            xmax = 41.549 
+            text = "et" 
+        intervals [37]:
+            xmin = 41.549 
+            xmax = 42.154 
+            text = "#" 
+        intervals [38]:
+            xmin = 42.154 
+            xmax = 42.342 
+            text = "pas" 
+        intervals [39]:
+            xmin = 42.342 
+            xmax = 43.53 
+            text = "#" 
+        intervals [40]:
+            xmin = 43.53 
+            xmax = 44.039 
+            text = "voilà" 
+        intervals [41]:
+            xmin = 44.039 
+            xmax = 44.43 
+            text = "#" 
+        intervals [42]:
+            xmin = 44.43 
+            xmax = 45.512 
+            text = "et euh" 
+        intervals [43]:
+            xmin = 45.512 
+            xmax = 47.26 
+            text = "#" 
+        intervals [44]:
+            xmin = 47.26 
+            xmax = 48.662 
+            text = "c'est surtout sa forme qui" 
+        intervals [45]:
+            xmin = 48.662 
+            xmax = 51.162 
+            text = "#" 
+        intervals [46]:
+            xmin = 51.162 
+            xmax = 52.727 
+            text = "mais c'est sa forme qui me gêne le plus" 
+        intervals [47]:
+            xmin = 52.727 
+            xmax = 54.297 
+            text = "#" 
+        intervals [48]:
+            xmin = 54.297 
+            xmax = 59.047 
+            text = "même si on voit qu'elle est pas mise en forme c'est euh la forme qui me gène le plus au niveau de la poire" 
+        intervals [49]:
+            xmin = 59.047 
+            xmax = 59.9044 
+            text = "#" 

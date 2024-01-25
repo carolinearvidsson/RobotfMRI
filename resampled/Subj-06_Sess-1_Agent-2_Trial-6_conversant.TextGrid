@@ -1,0 +1,154 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 60 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Transcription" 
+        xmin = 0 
+        xmax = 60 
+        intervals: size = 35 
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.656 
+            text = "#" 
+        intervals [2]:
+            xmin = 1.656 
+            xmax = 2.307 
+            text = "salut" 
+        intervals [3]:
+            xmin = 2.307 
+            xmax = 3.297 
+            text = "#" 
+        intervals [4]:
+            xmin = 3.297 
+            xmax = 4.562 
+            text = "c'est un demi citron" 
+        intervals [5]:
+            xmin = 4.562 
+            xmax = 5.345 
+            text = "#" 
+        intervals [6]:
+            xmin = 5.345 
+            xmax = 6.635 
+            text = "je m'apelle $Fuhrat$" 
+        intervals [7]:
+            xmin = 6.635 
+            xmax = 9.338 
+            text = "#" 
+        intervals [8]:
+            xmin = 9.338 
+            xmax = 10.131 
+            text = "oui en effet" 
+        intervals [9]:
+            xmin = 10.131 
+            xmax = 12.011 
+            text = "#" 
+        intervals [10]:
+            xmin = 12.011 
+            xmax = 13.321 
+            text = "il ressemble à un ninja" 
+        intervals [11]:
+            xmin = 13.321 
+            xmax = 13.972 
+            text = "#" 
+        intervals [12]:
+            xmin = 13.972 
+            xmax = 14.378 
+            text = "oui" 
+        intervals [13]:
+            xmin = 14.378 
+            xmax = 14.571 
+            text = "#" 
+        intervals [14]:
+            xmin = 14.571 
+            xmax = 15.476 
+            text = "je crois aussi" 
+        intervals [15]:
+            xmin = 15.476 
+            xmax = 19.068 
+            text = "#" 
+        intervals [16]:
+            xmin = 19.068 
+            xmax = 20.089 
+            text = "oui bien sûr" 
+        intervals [17]:
+            xmin = 20.089 
+            xmax = 20.693 
+            text = "#" 
+        intervals [18]:
+            xmin = 20.693 
+            xmax = 22.467 
+            text = "c'est un citron avec un bandeau" 
+        intervals [19]:
+            xmin = 22.467 
+            xmax = 27.674 
+            text = "#" 
+        intervals [20]:
+            xmin = 27.674 
+            xmax = 28.096 
+            text = "oui" 
+        intervals [21]:
+            xmin = 28.096 
+            xmax = 28.279 
+            text = "#" 
+        intervals [22]:
+            xmin = 28.279 
+            xmax = 29.132 
+            text = "exactement" 
+        intervals [23]:
+            xmin = 29.132 
+            xmax = 34.914 
+            text = "#" 
+        intervals [24]:
+            xmin = 34.914 
+            xmax = 37.358 
+            text = "c'est une campagne de pub ciblant les enfants" 
+        intervals [25]:
+            xmin = 37.358 
+            xmax = 38.933 
+            text = "#" 
+        intervals [26]:
+            xmin = 38.933 
+            xmax = 39.781 
+            text = "tu ne penses pas" 
+        intervals [27]:
+            xmin = 39.781 
+            xmax = 45.106 
+            text = "#" 
+        intervals [28]:
+            xmin = 45.106 
+            xmax = 46.264 
+            text = "oui c'est possible" 
+        intervals [29]:
+            xmin = 46.264 
+            xmax = 50.557 
+            text = "#" 
+        intervals [30]:
+            xmin = 50.557 
+            xmax = 50.999 
+            text = "oui" 
+        intervals [31]:
+            xmin = 50.999 
+            xmax = 57.259 
+            text = "#" 
+        intervals [32]:
+            xmin = 57.259 
+            xmax = 57.665 
+            text = "oui" 
+        intervals [33]:
+            xmin = 57.665 
+            xmax = 57.858 
+            text = "#" 
+        intervals [34]:
+            xmin = 57.858 
+            xmax = 58.763 
+            text = "je crois aussi" 
+        intervals [35]:
+            xmin = 58.763 
+            xmax = 59.9516 
+            text = "#" 

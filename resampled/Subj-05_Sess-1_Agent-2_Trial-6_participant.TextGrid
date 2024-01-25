@@ -1,0 +1,134 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 60 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Transcription" 
+        xmin = 0 
+        xmax = 60 
+        intervals: size = 30 
+        intervals [1]:
+            xmin = 0 
+            xmax = 2.068 
+            text = "#" 
+        intervals [2]:
+            xmin = 2.068 
+            xmax = 2.933 
+            text = "salut Fuhrat" 
+        intervals [3]:
+            xmin = 2.933 
+            xmax = 3.14 
+            text = "#" 
+        intervals [4]:
+            xmin = 3.14 
+            xmax = 3.892 
+            text = "ouais je t'entends" 
+        intervals [5]:
+            xmin = 3.892 
+            xmax = 7.936 
+            text = "#" 
+        intervals [6]:
+            xmin = 7.936 
+            xmax = 8.607 
+            text = "alors c'était" 
+        intervals [7]:
+            xmin = 8.607 
+            xmax = 8.955 
+            text = "#" 
+        intervals [8]:
+            xmin = 8.955 
+            xmax = 10.009 
+            text = "c'était les $Tortue Ninja$" 
+        intervals [9]:
+            xmin = 10.009 
+            xmax = 11.015 
+            text = "#" 
+        intervals [10]:
+            xmin = 11.015 
+            xmax = 13.139 
+            text = "ouais le citron avec une tête de $Tortue Ninja$" 
+        intervals [11]:
+            xmin = 13.139 
+            xmax = 17.381 
+            text = "#" 
+        intervals [12]:
+            xmin = 17.381 
+            xmax = 22.324 
+            text = "ouais c'est pas un petit peu raciste de mettre un citron euh pour un asiatique" 
+        intervals [13]:
+            xmin = 22.324 
+            xmax = 27.38 
+            text = "#" 
+        intervals [14]:
+            xmin = 27.38 
+            xmax = 28.543 
+            text = "@" 
+        intervals [15]:
+            xmin = 28.543 
+            xmax = 29.879 
+            text = "#" 
+        intervals [16]:
+            xmin = 29.879 
+            xmax = 31.205 
+            text = "* question de point de vue" 
+        intervals [17]:
+            xmin = 31.205 
+            xmax = 32.201 
+            text = "#" 
+        intervals [18]:
+            xmin = 32.201 
+            xmax = 34.213 
+            text = "euh non c'est pour plaisanter euh" 
+        intervals [19]:
+            xmin = 34.213 
+            xmax = 35.128 
+            text = "#" 
+        intervals [20]:
+            xmin = 35.128 
+            xmax = 35.31 
+            text = "euh" 
+        intervals [21]:
+            xmin = 35.31 
+            xmax = 35.747 
+            text = "#" 
+        intervals [22]:
+            xmin = 35.747 
+            xmax = 41.016 
+            text = "non c'est une bonne idée en plus la forme est la forme est bien choisie par rapport à la tête des $Tortue Ninja$ c'est un bon choix je trouve" 
+        intervals [23]:
+            xmin = 41.016 
+            xmax = 46.818 
+            text = "#" 
+        intervals [24]:
+            xmin = 46.818 
+            xmax = 48.982 
+            text = "ouais ouais on en a déjà discuté ouais" 
+        intervals [25]:
+            xmin = 48.982 
+            xmax = 49.323 
+            text = "#" 
+        intervals [26]:
+            xmin = 49.323 
+            xmax = 50.918 
+            text = "et je pense que ça cible aussi les parents" 
+        intervals [27]:
+            xmin = 50.918 
+            xmax = 56.822 
+            text = "#" 
+        intervals [28]:
+            xmin = 56.822 
+            xmax = 57.503 
+            text = "t'es pas sûr" 
+        intervals [29]:
+            xmin = 57.503 
+            xmax = 57.97 
+            text = "#" 
+        intervals [30]:
+            xmin = 57.97 
+            xmax = 59.9044 
+            text = "moi je pense que ça cible les enfants et l-" 

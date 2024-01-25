@@ -1,0 +1,118 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 60 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Transcription" 
+        xmin = 0 
+        xmax = 60 
+        intervals: size = 26 
+        intervals [1]:
+            xmin = 0 
+            xmax = 2.154 
+            text = "#" 
+        intervals [2]:
+            xmin = 2.154 
+            xmax = 2.815 
+            text = "salut" 
+        intervals [3]:
+            xmin = 2.815 
+            xmax = 5.458 
+            text = "#" 
+        intervals [4]:
+            xmin = 5.458 
+            xmax = 7.834 
+            text = "ah du coup moi j'ai j'ai vu un $Tortue Ninja$ et toi" 
+        intervals [5]:
+            xmin = 7.834 
+            xmax = 13.647 
+            text = "#" 
+        intervals [6]:
+            xmin = 13.647 
+            xmax = 14.846 
+            text = "@" 
+        intervals [7]:
+            xmin = 14.846 
+            xmax = 15.614 
+            text = "#" 
+        intervals [8]:
+            xmin = 15.614 
+            xmax = 19.276 
+            text = "ben il avait exactement la la même tête que $Donatello$ dans les $Tortues Ninja$" 
+        intervals [9]:
+            xmin = 19.276 
+            xmax = 19.667 
+            text = "#" 
+        intervals [10]:
+            xmin = 19.667 
+            xmax = 20.968 
+            text = "je sais pas si tu connais le dessin animé" 
+        intervals [11]:
+            xmin = 20.968 
+            xmax = 26.734 
+            text = "#" 
+        intervals [12]:
+            xmin = 26.734 
+            xmax = 27.965 
+            text = "ah ok" 
+        intervals [13]:
+            xmin = 27.965 
+            xmax = 33.847 
+            text = "#" 
+        intervals [14]:
+            xmin = 33.847 
+            xmax = 38.46 
+            text = "mais je je je j'avais même pas vu moi que c'était un citron j'ai j'ai pas eu le temps de de voir le fruit que c'était" 
+        intervals [15]:
+            xmin = 38.46 
+            xmax = 38.76 
+            text = "#" 
+        intervals [16]:
+            xmin = 38.76 
+            xmax = 39.273 
+            text = "mais oui" 
+        intervals [17]:
+            xmin = 39.273 
+            xmax = 39.507 
+            text = "#" 
+        intervals [18]:
+            xmin = 39.507 
+            xmax = 43.326 
+            text = "il me semble que vu vu de la tête elle était pelée c'est ça devait être un citron" 
+        intervals [19]:
+            xmin = 43.326 
+            xmax = 44.385 
+            text = "#" 
+        intervals [20]:
+            xmin = 44.385 
+            xmax = 44.828 
+            text = "ok" 
+        intervals [21]:
+            xmin = 44.828 
+            xmax = 46.275 
+            text = "#" 
+        intervals [22]:
+            xmin = 46.275 
+            xmax = 47.376 
+            text = "ok ça roule" 
+        intervals [23]:
+            xmin = 47.376 
+            xmax = 54.338 
+            text = "#" 
+        intervals [24]:
+            xmin = 54.338 
+            xmax = 55.186 
+            text = "exactement" 
+        intervals [25]:
+            xmin = 55.186 
+            xmax = 57.818 
+            text = "#" 
+        intervals [26]:
+            xmin = 57.818 
+            xmax = 59.9044 
+            text = "et ouais ok donc là en fait c'est c'est des pu-" 

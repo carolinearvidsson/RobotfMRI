@@ -1,0 +1,146 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 60 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Transcription" 
+        xmin = 0 
+        xmax = 60 
+        intervals: size = 33 
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.428 
+            text = "#" 
+        intervals [2]:
+            xmin = 1.428 
+            xmax = 5.07 
+            text = "ça peut pas être une pub contre les pesticides t'as vu la tête de la fraise" 
+        intervals [3]:
+            xmin = 5.07 
+            xmax = 20.201 
+            text = "#" 
+        intervals [4]:
+            xmin = 20.201 
+            xmax = 21.329 
+            text = "ouais ouais c'est vrai" 
+        intervals [5]:
+            xmin = 21.329 
+            xmax = 21.679 
+            text = "#" 
+        intervals [6]:
+            xmin = 21.679 
+            xmax = 22.365 
+            text = "c'est vrai" 
+        intervals [7]:
+            xmin = 22.365 
+            xmax = 22.949 
+            text = "#" 
+        intervals [8]:
+            xmin = 22.949 
+            xmax = 26.206 
+            text = "ça donne pas et même la l'aubergine le faciès" 
+        intervals [9]:
+            xmin = 26.206 
+            xmax = 26.394 
+            text = "#" 
+        intervals [10]:
+            xmin = 26.394 
+            xmax = 27.913 
+            text = "ça donne pas envie de la manger" 
+        intervals [11]:
+            xmin = 27.913 
+            xmax = 29.417 
+            text = "#" 
+        intervals [12]:
+            xmin = 29.417 
+            xmax = 31.693 
+            text = "c'est une pub pour qu'on arrête de manger des légumes" 
+        intervals [13]:
+            xmin = 31.693 
+            xmax = 31.881 
+            text = "#" 
+        intervals [14]:
+            xmin = 31.881 
+            xmax = 32.872 
+            text = "des fruits et des légumes" 
+        intervals [15]:
+            xmin = 32.872 
+            xmax = 34.808 
+            text = "#" 
+        intervals [16]:
+            xmin = 34.808 
+            xmax = 35.763 
+            text = "c'est ça" 
+        intervals [17]:
+            xmin = 35.763 
+            xmax = 37.47 
+            text = "#" 
+        intervals [18]:
+            xmin = 37.47 
+            xmax = 38.237 
+            text = "non je sais pas" 
+        intervals [19]:
+            xmin = 38.237 
+            xmax = 38.943 
+            text = "#" 
+        intervals [20]:
+            xmin = 38.943 
+            xmax = 39.944 
+            text = "c'est ça euh" 
+        intervals [21]:
+            xmin = 39.944 
+            xmax = 41.388 
+            text = "#" 
+        intervals [22]:
+            xmin = 41.388 
+            xmax = 42.667 
+            text = "là j'avoue que" 
+        intervals [23]:
+            xmin = 42.667 
+            xmax = 44.379 
+            text = "#" 
+        intervals [24]:
+            xmin = 44.379 
+            xmax = 45.004 
+            text = "je sais pas" 
+        intervals [25]:
+            xmin = 45.004 
+            xmax = 45.462 
+            text = "#" 
+        intervals [26]:
+            xmin = 45.462 
+            xmax = 47.626 
+            text = "je sais pas je vois pas pourquoi ça peut" 
+        intervals [27]:
+            xmin = 47.626 
+            xmax = 47.814 
+            text = "#" 
+        intervals [28]:
+            xmin = 47.814 
+            xmax = 50.999 
+            text = "les pesticides c'était une piste mais ça colle pas" 
+        intervals [29]:
+            xmin = 50.999 
+            xmax = 51.477 
+            text = "#" 
+        intervals [30]:
+            xmin = 51.477 
+            xmax = 52.117 
+            text = "le raisonnement" 
+        intervals [31]:
+            xmin = 52.117 
+            xmax = 56.029 
+            text = "#" 
+        intervals [32]:
+            xmin = 56.029 
+            xmax = 56.487 
+            text = "peut-être" 
+        intervals [33]:
+            xmin = 56.487 
+            xmax = 59.9044 
+            text = "#" 

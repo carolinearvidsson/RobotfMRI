@@ -1,0 +1,94 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 60 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Transcription" 
+        xmin = 0 
+        xmax = 60 
+        intervals: size = 20 
+        intervals [1]:
+            xmin = 0 
+            xmax = 8.389 
+            text = "#" 
+        intervals [2]:
+            xmin = 8.389 
+            xmax = 8.759 
+            text = "oui" 
+        intervals [3]:
+            xmin = 8.759 
+            xmax = 11.716 
+            text = "#" 
+        intervals [4]:
+            xmin = 11.716 
+            xmax = 12.061 
+            text = "ouais" 
+        intervals [5]:
+            xmin = 12.061 
+            xmax = 21.711 
+            text = "#" 
+        intervals [6]:
+            xmin = 21.711 
+            xmax = 22.893 
+            text = "elle est triste elle aussi" 
+        intervals [7]:
+            xmin = 22.893 
+            xmax = 30.916 
+            text = "#" 
+        intervals [8]:
+            xmin = 30.916 
+            xmax = 34.07 
+            text = "euh je sais pas trop est-ce que * elles sont un peu pourris" 
+        intervals [9]:
+            xmin = 34.07 
+            xmax = 35.544 
+            text = "#" 
+        intervals [10]:
+            xmin = 35.544 
+            xmax = 36.001 
+            text = "euh" 
+        intervals [11]:
+            xmin = 36.001 
+            xmax = 49.351 
+            text = "#" 
+        intervals [12]:
+            xmin = 49.351 
+            xmax = 50.41 
+            text = "ah ouais" 
+        intervals [13]:
+            xmin = 50.41 
+            xmax = 50.933 
+            text = "#" 
+        intervals [14]:
+            xmin = 50.933 
+            xmax = 52.699 
+            text = "* l'aspect euh" 
+        intervals [15]:
+            xmin = 52.699 
+            xmax = 53.464 
+            text = "#" 
+        intervals [16]:
+            xmin = 53.464 
+            xmax = 55.328 
+            text = "qu'ils sont pourris ben on les laisse" 
+        intervals [17]:
+            xmin = 55.328 
+            xmax = 58.046 
+            text = "#" 
+        intervals [18]:
+            xmin = 58.046 
+            xmax = 58.438 
+            text = "ouais" 
+        intervals [19]:
+            xmin = 58.438 
+            xmax = 59.581 
+            text = "#" 
+        intervals [20]:
+            xmin = 59.581 
+            xmax = 59.9044 
+            text = "alors" 

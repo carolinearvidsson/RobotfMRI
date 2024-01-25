@@ -1,0 +1,130 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 60 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Transcription" 
+        xmin = 0 
+        xmax = 60 
+        intervals: size = 29 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.244 
+            text = "#" 
+        intervals [2]:
+            xmin = 0.244 
+            xmax = 0.843 
+            text = "et voilà" 
+        intervals [3]:
+            xmin = 0.843 
+            xmax = 1.087 
+            text = "#" 
+        intervals [4]:
+            xmin = 1.087 
+            xmax = 1.819 
+            text = "et voilà" 
+        intervals [5]:
+            xmin = 1.819 
+            xmax = 2.647 
+            text = "#" 
+        intervals [6]:
+            xmin = 2.647 
+            xmax = 3.912 
+            text = "euh c'est la même que tout à l'heure non" 
+        intervals [7]:
+            xmin = 3.912 
+            xmax = 5.218 
+            text = "#" 
+        intervals [8]:
+            xmin = 5.218 
+            xmax = 8.383 
+            text = "donc il remontre la deuxième fois j'ai cru entendre qu'il te disait que" 
+        intervals [9]:
+            xmin = 8.383 
+            xmax = 9.049 
+            text = "#" 
+        intervals [10]:
+            xmin = 9.049 
+            xmax = 12.834 
+            text = "qu'il en restait deux quoi donc c'était la moitié donc on va revoir à mon avis la même" 
+        intervals [11]:
+            xmin = 12.834 
+            xmax = 13.626 
+            text = "#" 
+        intervals [12]:
+            xmin = 13.626 
+            xmax = 15.293 
+            text = "la même série pour qu'on trouve euh" 
+        intervals [13]:
+            xmin = 15.293 
+            xmax = 16.771 
+            text = "#" 
+        intervals [14]:
+            xmin = 16.771 
+            xmax = 18.239 
+            text = "euh ce que ça peut vouloir dire" 
+        intervals [15]:
+            xmin = 18.239 
+            xmax = 19.494 
+            text = "#" 
+        intervals [16]:
+            xmin = 19.494 
+            xmax = 28.015 
+            text = "bon en tout cas les deux séries je sais pas si elles veulent dire la même chose mais les deux elles sont assez cohérentes hein d'un côté les super héros qui brillent avec les fruits découpés" 
+        intervals [17]:
+            xmin = 28.015 
+            xmax = 28.309 
+            text = "#" 
+        intervals [18]:
+            xmin = 28.309 
+            xmax = 29.356 
+            text = "avec la peau découpée" 
+        intervals [19]:
+            xmin = 29.356 
+            xmax = 30.189 
+            text = "#" 
+        intervals [20]:
+            xmin = 30.189 
+            xmax = 34.975 
+            text = "et de l'autre les trucs moches aux quels ils ont rajoutés des yeux la bouche et des bras et des jambes" 
+        intervals [21]:
+            xmin = 34.975 
+            xmax = 36.957 
+            text = "#" 
+        intervals [22]:
+            xmin = 36.957 
+            xmax = 37.968 
+            text = "euh" 
+        intervals [23]:
+            xmin = 37.968 
+            xmax = 39.4 
+            text = "#" 
+        intervals [24]:
+            xmin = 39.4 
+            xmax = 45.35 
+            text = "sa première question moi que je me pose c'est est ce que c'est la est-ce que ça c'est la même campagne" 
+        intervals [25]:
+            xmin = 45.35 
+            xmax = 45.97 
+            text = "#" 
+        intervals [26]:
+            xmin = 45.97 
+            xmax = 48.662 
+            text = "avec deux séries ou est ce que c'est deux trucs complètement différents" 
+        intervals [27]:
+            xmin = 48.662 
+            xmax = 56.334 
+            text = "#" 
+        intervals [28]:
+            xmin = 56.334 
+            xmax = 58.885 
+            text = "ben c'est pour savoir dans quelle direction on va chercher" 
+        intervals [29]:
+            xmin = 58.885 
+            xmax = 59.9516 
+            text = "#" 

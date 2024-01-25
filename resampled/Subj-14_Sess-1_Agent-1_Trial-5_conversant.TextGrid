@@ -1,0 +1,122 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 60 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Transcription" 
+        xmin = 0 
+        xmax = 60 
+        intervals: size = 27 
+        intervals [1]:
+            xmin = 0 
+            xmax = 11.294 
+            text = "#" 
+        intervals [2]:
+            xmin = 11.294 
+            xmax = 11.594 
+            text = "ouais" 
+        intervals [3]:
+            xmin = 11.594 
+            xmax = 12.168 
+            text = "#" 
+        intervals [4]:
+            xmin = 12.168 
+            xmax = 13.87 
+            text = "en même temps ça ça brille beaucoup quand même" 
+        intervals [5]:
+            xmin = 13.87 
+            xmax = 19.921 
+            text = "#" 
+        intervals [6]:
+            xmin = 19.921 
+            xmax = 20.17 
+            text = "ah" 
+        intervals [7]:
+            xmin = 20.17 
+            xmax = 24.987 
+            text = "#" 
+        intervals [8]:
+            xmin = 24.987 
+            xmax = 26.694 
+            text = "ah c'est pour ça qu'elle est à l'envers" 
+        intervals [9]:
+            xmin = 26.694 
+            xmax = 27.038 
+            text = "#" 
+        intervals [10]:
+            xmin = 27.038 
+            xmax = 28.218 
+            text = "parce que du coup je me disais" 
+        intervals [11]:
+            xmin = 28.218 
+            xmax = 29.198 
+            text = "#" 
+        intervals [12]:
+            xmin = 29.198 
+            xmax = 31.896 
+            text = "mh par rapport à là ce qu'on a vu sur le masque" 
+        intervals [13]:
+            xmin = 31.896 
+            xmax = 32.623 
+            text = "#" 
+        intervals [14]:
+            xmin = 32.623 
+            xmax = 36.997 
+            text = "je pensais à $Deadpool$ aussi sinon pour la rouge mais c'est vrai qu'à l'envers ça fait plus $Spiderman$ ouais" 
+        intervals [15]:
+            xmin = 36.997 
+            xmax = 41.677 
+            text = "#" 
+        intervals [16]:
+            xmin = 41.677 
+            xmax = 41.956 
+            text = "ouais" 
+        intervals [17]:
+            xmin = 41.956 
+            xmax = 44.151 
+            text = "#" 
+        intervals [18]:
+            xmin = 44.151 
+            xmax = 45.086 
+            text = "oui oui c'est possible" 
+        intervals [19]:
+            xmin = 45.086 
+            xmax = 48.307 
+            text = "#" 
+        intervals [20]:
+            xmin = 48.307 
+            xmax = 48.601 
+            text = "ouais" 
+        intervals [21]:
+            xmin = 48.601 
+            xmax = 51.015 
+            text = "#" 
+        intervals [22]:
+            xmin = 51.015 
+            xmax = 52.829 
+            text = "euh elle a l'air un peu sévère quand même" 
+        intervals [23]:
+            xmin = 52.829 
+            xmax = 55.079 
+            text = "#" 
+        intervals [24]:
+            xmin = 55.079 
+            xmax = 55.308 
+            text = "ouais" 
+        intervals [25]:
+            xmin = 55.308 
+            xmax = 55.801 
+            text = "#" 
+        intervals [26]:
+            xmin = 55.801 
+            xmax = 58.397 
+            text = "ouais ouais avec les yeux en fente je te vois" 
+        intervals [27]:
+            xmin = 58.397 
+            xmax = 59.9516 
+            text = "#" 

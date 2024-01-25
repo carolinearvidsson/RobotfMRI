@@ -1,0 +1,142 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 60 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Transcription" 
+        xmin = 0 
+        xmax = 60 
+        intervals: size = 32 
+        intervals [1]:
+            xmin = 0 
+            xmax = 2.968 
+            text = "#" 
+        intervals [2]:
+            xmin = 2.968 
+            xmax = 3.181 
+            text = "ouais" 
+        intervals [3]:
+            xmin = 3.181 
+            xmax = 4.146 
+            text = "#" 
+        intervals [4]:
+            xmin = 4.146 
+            xmax = 6.068 
+            text = "euh je l'aime bien celui-là -fin c'est euh" 
+        intervals [5]:
+            xmin = 6.068 
+            xmax = 8.581 
+            text = "#" 
+        intervals [6]:
+            xmin = 8.581 
+            xmax = 9.181 
+            text = "ouais c'est ça" 
+        intervals [7]:
+            xmin = 9.181 
+            xmax = 9.618 
+            text = "#" 
+        intervals [8]:
+            xmin = 9.618 
+            xmax = 10.547 
+            text = "mais euh" 
+        intervals [9]:
+            xmin = 10.547 
+            xmax = 11.193 
+            text = "#" 
+        intervals [10]:
+            xmin = 11.193 
+            xmax = 15.445 
+            text = "tu vois dans les deux sets à chaque fois il y en a un qui euh qui me parait plus sympathique que les autres" 
+        intervals [11]:
+            xmin = 15.445 
+            xmax = 16.37 
+            text = "#" 
+        intervals [12]:
+            xmin = 16.37 
+            xmax = 19.611 
+            text = "euh l- là c'est le citron parce qu'il a l'air moins euh dur" 
+        intervals [13]:
+            xmin = 19.611 
+            xmax = 20.744 
+            text = "#" 
+        intervals [14]:
+            xmin = 20.744 
+            xmax = 23.005 
+            text = "et euh dans l'autre set c'était la poire" 
+        intervals [15]:
+            xmin = 23.005 
+            xmax = 23.437 
+            text = "#" 
+        intervals [16]:
+            xmin = 23.437 
+            xmax = 27.085 
+            text = "qui euh inspirait plus de la pitié que euh" 
+        intervals [17]:
+            xmin = 27.085 
+            xmax = 27.456 
+            text = "#" 
+        intervals [18]:
+            xmin = 27.456 
+            xmax = 29.143 
+            text = "du dégout ouais ou de la méchanceté" 
+        intervals [19]:
+            xmin = 29.143 
+            xmax = 32.846 
+            text = "#" 
+        intervals [20]:
+            xmin = 32.846 
+            xmax = 37.455 
+            text = "elle était malheureuse mais y avait -fin je sais que moi elle m'inspirait moins de pitié quand même du coup c'était ouais" 
+        intervals [21]:
+            xmin = 37.455 
+            xmax = 37.81 
+            text = "#" 
+        intervals [22]:
+            xmin = 37.81 
+            xmax = 41.539 
+            text = "c'est plus le côté déformé qui ressortait mais après je sais pas ce que tu en as pensé toi" 
+        intervals [23]:
+            xmin = 41.539 
+            xmax = 47.494 
+            text = "#" 
+        intervals [24]:
+            xmin = 47.494 
+            xmax = 47.921 
+            text = "ah" 
+        intervals [25]:
+            xmin = 47.921 
+            xmax = 48.429 
+            text = "#" 
+        intervals [26]:
+            xmin = 48.429 
+            xmax = 50.705 
+            text = "et du coup les les légumes ils viendraient sauver les fruits" 
+        intervals [27]:
+            xmin = 50.705 
+            xmax = 53.779 
+            text = "#" 
+        intervals [28]:
+            xmin = 53.779 
+            xmax = 54.17 
+            text = "euh" 
+        intervals [29]:
+            xmin = 54.17 
+            xmax = 54.983 
+            text = "#" 
+        intervals [30]:
+            xmin = 54.983 
+            xmax = 57.533 
+            text = "mais en même temps si on regarde les habitudes alimentaires ce serait le contraire non" 
+        intervals [31]:
+            xmin = 57.533 
+            xmax = 59.423 
+            text = "#" 
+        intervals [32]:
+            xmin = 59.423 
+            xmax = 59.9516 
+            text = "euh" 

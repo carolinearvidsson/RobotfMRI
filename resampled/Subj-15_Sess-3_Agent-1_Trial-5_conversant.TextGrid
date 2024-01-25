@@ -1,0 +1,130 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 60 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Transcription" 
+        xmin = 0 
+        xmax = 60 
+        intervals: size = 29 
+        intervals [1]:
+            xmin = 0 
+            xmax = 11.858 
+            text = "#" 
+        intervals [2]:
+            xmin = 11.858 
+            xmax = 12.244 
+            text = "ok" 
+        intervals [3]:
+            xmin = 12.244 
+            xmax = 12.834 
+            text = "#" 
+        intervals [4]:
+            xmin = 12.834 
+            xmax = 13.809 
+            text = "bon ben ça peut euh" 
+        intervals [5]:
+            xmin = 13.809 
+            xmax = 14.078 
+            text = "#" 
+        intervals [6]:
+            xmin = 14.078 
+            xmax = 14.622 
+            text = "ça peut marcher" 
+        intervals [7]:
+            xmin = 14.622 
+            xmax = 14.927 
+            text = "#" 
+        intervals [8]:
+            xmin = 14.927 
+            xmax = 16.964 
+            text = "moi j'étais encore en train de réfléchir mais ça c'est euh" 
+        intervals [9]:
+            xmin = 16.964 
+            xmax = 17.884 
+            text = "#" 
+        intervals [10]:
+            xmin = 17.884 
+            xmax = 20.086 
+            text = "c'est moi qui suis un petit peu nul là-dessus" 
+        intervals [11]:
+            xmin = 20.086 
+            xmax = 20.521 
+            text = "#" 
+        intervals [12]:
+            xmin = 20.521 
+            xmax = 23.01 
+            text = "c'est vrai que moi je préfère manger la poire pourrie que la pomme qui brille" 
+        intervals [13]:
+            xmin = 23.01 
+            xmax = 23.427 
+            text = "#" 
+        intervals [14]:
+            xmin = 23.427 
+            xmax = 24.153 
+            text = "mais c'est très euh" 
+        intervals [15]:
+            xmin = 24.153 
+            xmax = 25.012 
+            text = "#" 
+        intervals [16]:
+            xmin = 25.012 
+            xmax = 26.145 
+            text = "c'est très perso comme" 
+        intervals [17]:
+            xmin = 26.145 
+            xmax = 30.621 
+            text = "#" 
+        intervals [18]:
+            xmin = 30.621 
+            xmax = 37.038 
+            text = "ben les enfants ils préfèrent ils ont plus l'habit- et encore ça dépend ça dépend de comment on les habitue mais euh ouais en général" 
+        intervals [19]:
+            xmin = 37.038 
+            xmax = 37.658 
+            text = "#" 
+        intervals [20]:
+            xmin = 37.658 
+            xmax = 38.664 
+            text = "une campagne de pub" 
+        intervals [21]:
+            xmin = 38.664 
+            xmax = 51.147 
+            text = "#" 
+        intervals [22]:
+            xmin = 51.147 
+            xmax = 51.284 
+            text = "ouais" 
+        intervals [23]:
+            xmin = 51.284 
+            xmax = 53.108 
+            text = "#" 
+        intervals [24]:
+            xmin = 53.108 
+            xmax = 55.369 
+            text = "moi jevais te dire chez moi en ce moment on cueille les abricots" 
+        intervals [25]:
+            xmin = 55.369 
+            xmax = 55.816 
+            text = "#" 
+        intervals [26]:
+            xmin = 55.816 
+            xmax = 57.056 
+            text = "ils sont ils ont l'air pourris hein" 
+        intervals [27]:
+            xmin = 57.056 
+            xmax = 58.097 
+            text = "#" 
+        intervals [28]:
+            xmin = 58.097 
+            xmax = 59.698 
+            text = "mais ils sont bien meilleurs que" 
+        intervals [29]:
+            xmin = 59.698 
+            xmax = 59.9516 
+            text = "#" 

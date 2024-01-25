@@ -1,0 +1,114 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 60 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Transcription" 
+        xmin = 0 
+        xmax = 60 
+        intervals: size = 25 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.295 
+            text = "euh" 
+        intervals [2]:
+            xmin = 0.295 
+            xmax = 1.397 
+            text = "#" 
+        intervals [3]:
+            xmin = 1.397 
+            xmax = 6.168 
+            text = "je pense que euh ouais y a quelqu'un qui s'est amusé à découper dedans mais euh" 
+        intervals [4]:
+            xmin = 6.168 
+            xmax = 9.496 
+            text = "#" 
+        intervals [5]:
+            xmin = 9.496 
+            xmax = 11.411 
+            text = "du coup ce serait une aubergine qui serait censée faire peur" 
+        intervals [6]:
+            xmin = 11.411 
+            xmax = 16.949 
+            text = "#" 
+        intervals [7]:
+            xmin = 16.949 
+            xmax = 19.566 
+            text = "ne mangez pas de fruits et légumes c'est mauvais pour votre santé" 
+        intervals [8]:
+            xmin = 19.566 
+            xmax = 22.426 
+            text = "#" 
+        intervals [9]:
+            xmin = 22.426 
+            xmax = 23.97 
+            text = "ce serait un peu un peu étrange" 
+        intervals [10]:
+            xmin = 23.97 
+            xmax = 25.246 
+            text = "#" 
+        intervals [11]:
+            xmin = 25.246 
+            xmax = 25.901 
+            text = "peut-être non" 
+        intervals [12]:
+            xmin = 25.901 
+            xmax = 28.314 
+            text = "#" 
+        intervals [13]:
+            xmin = 28.314 
+            xmax = 28.507 
+            text = "ouais" 
+        intervals [14]:
+            xmin = 28.507 
+            xmax = 30.901 
+            text = "#" 
+        intervals [15]:
+            xmin = 30.901 
+            xmax = 32.379 
+            text = "euh" 
+        intervals [16]:
+            xmin = 32.379 
+            xmax = 38.415 
+            text = "#" 
+        intervals [17]:
+            xmin = 38.415 
+            xmax = 41.123 
+            text = "ah ouais carrément du coup en fait ceux là ils" 
+        intervals [18]:
+            xmin = 41.123 
+            xmax = 41.362 
+            text = "#" 
+        intervals [19]:
+            xmin = 41.362 
+            xmax = 43.257 
+            text = "c'est vrai qu'elle était très brillante cette aubergine" 
+        intervals [20]:
+            xmin = 43.257 
+            xmax = 46.229 
+            text = "#" 
+        intervals [21]:
+            xmin = 46.229 
+            xmax = 46.468 
+            text = "ouais" 
+        intervals [22]:
+            xmin = 46.468 
+            xmax = 52.605 
+            text = "#" 
+        intervals [23]:
+            xmin = 52.605 
+            xmax = 56.38 
+            text = "ouais ouais non c'est euh c'est complètement possible du coup euh" 
+        intervals [24]:
+            xmin = 56.38 
+            xmax = 57.04 
+            text = "#" 
+        intervals [25]:
+            xmin = 57.04 
+            xmax = 59.9516 
+            text = "l'aubergine et euh ouais l'aubergine et euh" 

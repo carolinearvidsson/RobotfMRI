@@ -1,0 +1,150 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 60 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Transcription" 
+        xmin = 0 
+        xmax = 60 
+        intervals: size = 34 
+        intervals [1]:
+            xmin = 0 
+            xmax = 2.51 
+            text = "#" 
+        intervals [2]:
+            xmin = 2.51 
+            xmax = 4.379 
+            text = "euh la fraise euh" 
+        intervals [3]:
+            xmin = 4.379 
+            xmax = 5.827 
+            text = "#" 
+        intervals [4]:
+            xmin = 5.827 
+            xmax = 9.826 
+            text = "a priori ça pourrait être une pub pour des produits locaux" 
+        intervals [5]:
+            xmin = 9.826 
+            xmax = 17.731 
+            text = "#" 
+        intervals [6]:
+            xmin = 17.731 
+            xmax = 17.97 
+            text = "oui" 
+        intervals [7]:
+            xmin = 17.97 
+            xmax = 18.199 
+            text = "#" 
+        intervals [8]:
+            xmin = 18.199 
+            xmax = 20.129 
+            text = "ceux qui sont pas beaux justement" 
+        intervals [9]:
+            xmin = 20.129 
+            xmax = 20.653 
+            text = "#" 
+        intervals [10]:
+            xmin = 20.653 
+            xmax = 24.052 
+            text = "qui sont pas tous calibrés et choisis triés et" 
+        intervals [11]:
+            xmin = 24.052 
+            xmax = 24.865 
+            text = "#" 
+        intervals [12]:
+            xmin = 24.865 
+            xmax = 27.181 
+            text = "et enrobés d'une belle lumière euh" 
+        intervals [13]:
+            xmin = 27.181 
+            xmax = 27.578 
+            text = "#" 
+        intervals [14]:
+            xmin = 27.578 
+            xmax = 28.38 
+            text = "sympathique" 
+        intervals [15]:
+            xmin = 28.38 
+            xmax = 29.554 
+            text = "#" 
+        intervals [16]:
+            xmin = 29.554 
+            xmax = 33.155 
+            text = "peut-être que cette tristesse justement qu'on a envie de euh" 
+        intervals [17]:
+            xmin = 33.155 
+            xmax = 33.598 
+            text = "#" 
+        intervals [18]:
+            xmin = 33.598 
+            xmax = 34.701 
+            text = "ben de les accueillir" 
+        intervals [19]:
+            xmin = 34.701 
+            xmax = 35.316 
+            text = "#" 
+        intervals [20]:
+            xmin = 35.316 
+            xmax = 37.566 
+            text = "un peu dans dans le recueillement dans le" 
+        intervals [21]:
+            xmin = 37.566 
+            xmax = 38.545 
+            text = "#" 
+        intervals [22]:
+            xmin = 38.545 
+            xmax = 38.989 
+            text = "@" 
+        intervals [23]:
+            xmin = 38.989 
+            xmax = 39.568 
+            text = "#" 
+        intervals [24]:
+            xmin = 39.568 
+            xmax = 41.956 
+            text = "ans l'accueil quoi et de de se dire tiens euh" 
+        intervals [25]:
+            xmin = 41.956 
+            xmax = 43.399 
+            text = "#" 
+        intervals [26]:
+            xmin = 43.399 
+            xmax = 44.284 
+            text = "faut pas les oubliés" 
+        intervals [27]:
+            xmin = 44.284 
+            xmax = 45.345 
+            text = "#" 
+        intervals [28]:
+            xmin = 45.345 
+            xmax = 46.386 
+            text = "c'est ça c'est ça" 
+        intervals [29]:
+            xmin = 46.386 
+            xmax = 46.729 
+            text = "#" 
+        intervals [30]:
+            xmin = 46.729 
+            xmax = 48.175 
+            text = "ayez pitié de nous euh" 
+        intervals [31]:
+            xmin = 48.175 
+            xmax = 50.309 
+            text = "#" 
+        intervals [32]:
+            xmin = 50.309 
+            xmax = 58.194 
+            text = "et c'est étonnant oui cette tristesse de de mettre la pitié en avant alors qu'au contraire s'ils avaient s'ils étaient souriant même dans cet cet état là" 
+        intervals [33]:
+            xmin = 58.194 
+            xmax = 59.068 
+            text = "#" 
+        intervals [34]:
+            xmin = 59.068 
+            xmax = 59.9044 
+            text = "donneraient plus envie" 

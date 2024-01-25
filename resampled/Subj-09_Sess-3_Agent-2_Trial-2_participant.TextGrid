@@ -1,0 +1,114 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 60 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Transcription" 
+        xmin = 0 
+        xmax = 60 
+        intervals: size = 25 
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.484 
+            text = "#" 
+        intervals [2]:
+            xmin = 1.484 
+            xmax = 5.66 
+            text = "c'est étonnant cette lumière dans les yeux de le de la pomme" 
+        intervals [3]:
+            xmin = 5.66 
+            xmax = 8.236 
+            text = "#" 
+        intervals [4]:
+            xmin = 8.236 
+            xmax = 9.298 
+            text = "c'est euh" 
+        intervals [5]:
+            xmin = 9.298 
+            xmax = 10.7 
+            text = "#" 
+        intervals [6]:
+            xmin = 10.7 
+            xmax = 11.391 
+            text = "c'est fort" 
+        intervals [7]:
+            xmin = 11.391 
+            xmax = 16.41 
+            text = "#" 
+        intervals [8]:
+            xmin = 16.41 
+            xmax = 22.478 
+            text = "je sais pas je je pense qu'elle est vraiment à l'envers pour faire penser à $Spiderman$ qui grimpe partout et qui" 
+        intervals [9]:
+            xmin = 22.478 
+            xmax = 23.879 
+            text = "#" 
+        intervals [10]:
+            xmin = 23.879 
+            xmax = 26.003 
+            text = "ça griffe de partout mais euh" 
+        intervals [11]:
+            xmin = 26.003 
+            xmax = 28.137 
+            text = "#" 
+        intervals [12]:
+            xmin = 28.137 
+            xmax = 28.462 
+            text = "et" 
+        intervals [13]:
+            xmin = 28.462 
+            xmax = 30.789 
+            text = "#" 
+        intervals [14]:
+            xmin = 30.789 
+            xmax = 35.31 
+            text = "ah peut-être que si peut-être qu'il y a un rapport avec euh" 
+        intervals [15]:
+            xmin = 35.31 
+            xmax = 36.639 
+            text = "#" 
+        intervals [16]:
+            xmin = 36.639 
+            xmax = 38.623 
+            text = "avec des pesticides pourquoi pas" 
+        intervals [17]:
+            xmin = 38.623 
+            xmax = 39.807 
+            text = "#" 
+        intervals [18]:
+            xmin = 39.807 
+            xmax = 41.062 
+            text = "et le jaune euh" 
+        intervals [19]:
+            xmin = 41.062 
+            xmax = 43.033 
+            text = "#" 
+        intervals [20]:
+            xmin = 43.033 
+            xmax = 49.473 
+            text = "le jaune me donne un un côté radioactif qui donne pas spécialement plus envie de de la manger" 
+        intervals [21]:
+            xmin = 49.473 
+            xmax = 53.55 
+            text = "#" 
+        intervals [22]:
+            xmin = 53.55 
+            xmax = 54.8 
+            text = "pas naturel en tout cas" 
+        intervals [23]:
+            xmin = 54.8 
+            xmax = 59.052 
+            text = "#" 
+        intervals [24]:
+            xmin = 59.052 
+            xmax = 59.576 
+            text = "euh oui" 
+        intervals [25]:
+            xmin = 59.576 
+            xmax = 59.9044 
+            text = "#" 

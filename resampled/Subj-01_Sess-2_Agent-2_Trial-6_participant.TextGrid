@@ -1,0 +1,162 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 60 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Transcription" 
+        xmin = 0 
+        xmax = 60 
+        intervals: size = 37 
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.336 
+            text = "#" 
+        intervals [2]:
+            xmin = 1.336 
+            xmax = 2.774 
+            text = "là il s'agissait d'une fraise" 
+        intervals [3]:
+            xmin = 2.774 
+            xmax = 3.236 
+            text = "#" 
+        intervals [4]:
+            xmin = 3.236 
+            xmax = 4.166 
+            text = "plutôt abimée" 
+        intervals [5]:
+            xmin = 4.166 
+            xmax = 4.628 
+            text = "#" 
+        intervals [6]:
+            xmin = 4.628 
+            xmax = 5.718 
+            text = "avec une expression" 
+        intervals [7]:
+            xmin = 5.718 
+            xmax = 7.186 
+            text = "#" 
+        intervals [8]:
+            xmin = 7.186 
+            xmax = 7.508 
+            text = "avec" 
+        intervals [9]:
+            xmin = 7.508 
+            xmax = 7.799 
+            text = "#" 
+        intervals [10]:
+            xmin = 7.799 
+            xmax = 9.267 
+            text = "avec une expression triste" 
+        intervals [11]:
+            xmin = 9.267 
+            xmax = 12.463 
+            text = "#" 
+        intervals [12]:
+            xmin = 12.463 
+            xmax = 13.215 
+            text = "non c'est ça elle" 
+        intervals [13]:
+            xmin = 13.215 
+            xmax = 15.156 
+            text = "#" 
+        intervals [14]:
+            xmin = 15.156 
+            xmax = 18.443 
+            text = "qu'est ce qu'elle s'est faite tapée dessus c'est pour ça qu'elle est déformée" 
+        intervals [15]:
+            xmin = 18.443 
+            xmax = 25.637 
+            text = "#" 
+        intervals [16]:
+            xmin = 25.637 
+            xmax = 26.516 
+            text = "et du coup euh" 
+        intervals [17]:
+            xmin = 26.516 
+            xmax = 26.795 
+            text = "#" 
+        intervals [18]:
+            xmin = 26.795 
+            xmax = 29.762 
+            text = "ben je sais pas quel quel message c'est censé véhiculer en fait" 
+        intervals [19]:
+            xmin = 29.762 
+            xmax = 31.119 
+            text = "#" 
+        intervals [20]:
+            xmin = 31.119 
+            xmax = 32.404 
+            text = "parce que les fraises" 
+        intervals [21]:
+            xmin = 32.404 
+            xmax = 33.722 
+            text = "#" 
+        intervals [22]:
+            xmin = 33.722 
+            xmax = 36.855 
+            text = "on en produit on voit pas pourquoi elles seraient abimées lors de l'achat" 
+        intervals [23]:
+            xmin = 36.855 
+            xmax = 42.642 
+            text = "#" 
+        intervals [24]:
+            xmin = 42.642 
+            xmax = 43.338 
+            text = "pourquoi pas oui" 
+        intervals [25]:
+            xmin = 43.338 
+            xmax = 43.622 
+            text = "#" 
+        intervals [26]:
+            xmin = 43.622 
+            xmax = 44.699 
+            text = "ça ça ça peut" 
+        intervals [27]:
+            xmin = 44.699 
+            xmax = 45.589 
+            text = "#" 
+        intervals [28]:
+            xmin = 45.589 
+            xmax = 46.772 
+            text = "ça peut faire sens" 
+        intervals [29]:
+            xmin = 46.772 
+            xmax = 47.037 
+            text = "#" 
+        intervals [30]:
+            xmin = 47.037 
+            xmax = 48.723 
+            text = "par rapport aux légumes bio aux fruits bio" 
+        intervals [31]:
+            xmin = 48.723 
+            xmax = 51.35 
+            text = "#" 
+        intervals [32]:
+            xmin = 51.35 
+            xmax = 51.934 
+            text = "peut-être que" 
+        intervals [33]:
+            xmin = 51.934 
+            xmax = 52.453 
+            text = "#" 
+        intervals [34]:
+            xmin = 52.453 
+            xmax = 54.983 
+            text = "bio les fruits et les légumes" 
+        intervals [35]:
+            xmin = 54.983 
+            xmax = 55.47 
+            text = "#" 
+        intervals [36]:
+            xmin = 55.47 
+            xmax = 58.316 
+            text = "sont jolis et avec les pesticides ils sont abimés" 
+        intervals [37]:
+            xmin = 58.316 
+            xmax = 59.9044 
+            text = "#" 

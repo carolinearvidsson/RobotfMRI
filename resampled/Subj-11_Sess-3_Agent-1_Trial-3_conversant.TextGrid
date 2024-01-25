@@ -1,0 +1,122 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 60 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Transcription" 
+        xmin = 0 
+        xmax = 60 
+        intervals: size = 27 
+        intervals [1]:
+            xmin = 0 
+            xmax = 4.715 
+            text = "#" 
+        intervals [2]:
+            xmin = 4.715 
+            xmax = 5.279 
+            text = "ouais ouais ouais" 
+        intervals [3]:
+            xmin = 5.279 
+            xmax = 6.696 
+            text = "#" 
+        intervals [4]:
+            xmin = 6.696 
+            xmax = 7.057 
+            text = "ah" 
+        intervals [5]:
+            xmin = 7.057 
+            xmax = 7.667 
+            text = "#" 
+        intervals [6]:
+            xmin = 7.667 
+            xmax = 8.708 
+            text = "moi je préfère la pomme" 
+        intervals [7]:
+            xmin = 8.708 
+            xmax = 9.46 
+            text = "#" 
+        intervals [8]:
+            xmin = 9.46 
+            xmax = 9.719 
+            text = "ouais" 
+        intervals [9]:
+            xmin = 9.719 
+            xmax = 12.773 
+            text = "#" 
+        intervals [10]:
+            xmin = 12.773 
+            xmax = 13.098 
+            text = "c'est quoi" 
+        intervals [11]:
+            xmin = 13.098 
+            xmax = 14.708 
+            text = "#" 
+        intervals [12]:
+            xmin = 14.708 
+            xmax = 15.638 
+            text = "ah ok" 
+        intervals [13]:
+            xmin = 15.638 
+            xmax = 18.997 
+            text = "#" 
+        intervals [14]:
+            xmin = 18.997 
+            xmax = 19.439 
+            text = "ah" 
+        intervals [15]:
+            xmin = 19.439 
+            xmax = 19.672 
+            text = "#" 
+        intervals [16]:
+            xmin = 19.672 
+            xmax = 22.426 
+            text = "ouais c'est possible moi j'aime bien le citron de toutes manières mais euh" 
+        intervals [17]:
+            xmin = 22.426 
+            xmax = 27.745 
+            text = "#" 
+        intervals [18]:
+            xmin = 27.745 
+            xmax = 35.351 
+            text = "ah ok moi je préfère la pomme mais je pense que c'est à cause de la tu sais l'aspect culturel où j'ai pas trop trop regardé les $Tortues Ninja$ mais $Spiderman$ j'aimais bien" 
+        intervals [19]:
+            xmin = 35.351 
+            xmax = 37.231 
+            text = "#" 
+        intervals [20]:
+            xmin = 37.231 
+            xmax = 38.257 
+            text = "toi je sais pas ce que tu préfères" 
+        intervals [21]:
+            xmin = 38.257 
+            xmax = 45.675 
+            text = "#" 
+        intervals [22]:
+            xmin = 45.675 
+            xmax = 49.8 
+            text = "et euh l'e- l'effet ça serait quoi euh je sais pas moi donner envie de manger des fruits" 
+        intervals [23]:
+            xmin = 49.8 
+            xmax = 54.932 
+            text = "#" 
+        intervals [24]:
+            xmin = 54.932 
+            xmax = 55.755 
+            text = "mais euh" 
+        intervals [25]:
+            xmin = 55.755 
+            xmax = 57.579 
+            text = "#" 
+        intervals [26]:
+            xmin = 57.579 
+            xmax = 59.738 
+            text = "je suis pas sûre parce qu'en même temps tu vois ils ont l'air trop" 
+        intervals [27]:
+            xmin = 59.738 
+            xmax = 59.9516 
+            text = "#" 

@@ -1,0 +1,82 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 60 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Transcription" 
+        xmin = 0 
+        xmax = 60 
+        intervals: size = 17 
+        intervals [1]:
+            xmin = 0 
+            xmax = 5.467 
+            text = "#" 
+        intervals [2]:
+            xmin = 5.467 
+            xmax = 6.615 
+            text = "elle semble triste" 
+        intervals [3]:
+            xmin = 6.615 
+            xmax = 16.614 
+            text = "#" 
+        intervals [4]:
+            xmin = 16.614 
+            xmax = 18.28 
+            text = "pour de l'agriculture bio locale" 
+        intervals [5]:
+            xmin = 18.28 
+            xmax = 20.587 
+            text = "#" 
+        intervals [6]:
+            xmin = 20.587 
+            xmax = 21.532 
+            text = "qu'est ce que t'en penses" 
+        intervals [7]:
+            xmin = 21.532 
+            xmax = 30.484 
+            text = "#" 
+        intervals [8]:
+            xmin = 30.484 
+            xmax = 30.819 
+            text = "oui" 
+        intervals [9]:
+            xmin = 30.819 
+            xmax = 31.043 
+            text = "#" 
+        intervals [10]:
+            xmin = 31.043 
+            xmax = 31.693 
+            text = "tu as raison" 
+        intervals [11]:
+            xmin = 31.693 
+            xmax = 35.539 
+            text = "#" 
+        intervals [12]:
+            xmin = 35.539 
+            xmax = 36.123 
+            text = "je crois" 
+        intervals [13]:
+            xmin = 36.123 
+            xmax = 49.318 
+            text = "#" 
+        intervals [14]:
+            xmin = 49.318 
+            xmax = 50.491 
+            text = "elle a des genoux courbés" 
+        intervals [15]:
+            xmin = 50.491 
+            xmax = 55.679 
+            text = "#" 
+        intervals [16]:
+            xmin = 55.679 
+            xmax = 56.405 
+            text = "comme la poire" 
+        intervals [17]:
+            xmin = 56.405 
+            xmax = 59.9516 
+            text = "#" 

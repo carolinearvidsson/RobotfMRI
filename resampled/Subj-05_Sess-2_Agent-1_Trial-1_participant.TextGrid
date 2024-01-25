@@ -1,0 +1,98 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 60 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Transcription" 
+        xmin = 0 
+        xmax = 60 
+        intervals: size = 21 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.899 
+            text = "#" 
+        intervals [2]:
+            xmin = 0.899 
+            xmax = 5.263 
+            text = "elle avait pas l'air en forme cette framboise là si c'était une framboise" 
+        intervals [3]:
+            xmin = 5.263 
+            xmax = 7.611 
+            text = "#" 
+        intervals [4]:
+            xmin = 7.611 
+            xmax = 8.906 
+            text = "ouais c'est clair c'est" 
+        intervals [5]:
+            xmin = 8.906 
+            xmax = 9.465 
+            text = "#" 
+        intervals [6]:
+            xmin = 9.465 
+            xmax = 13.565 
+            text = "je me je me suis dit putain ils m'ont mis le meilleur dès le début et là d'un coup @" 
+        intervals [7]:
+            xmin = 13.565 
+            xmax = 13.901 
+            text = "#" 
+        intervals [8]:
+            xmin = 13.901 
+            xmax = 15.719 
+            text = "j'ai un pauvre fruit fatigué euh" 
+        intervals [9]:
+            xmin = 15.719 
+            xmax = 22.309 
+            text = "#" 
+        intervals [10]:
+            xmin = 22.309 
+            xmax = 22.751 
+            text = "ouais ouais" 
+        intervals [11]:
+            xmin = 22.751 
+            xmax = 25.998 
+            text = "#" 
+        intervals [12]:
+            xmin = 25.998 
+            xmax = 35.961 
+            text = "non ben là déjà on est pas ciblé on est plus sur l'image image synthèse je trouve et puis on est plus sur un corps là ou euh là ou la précédent truc c'était que des visages" 
+        intervals [13]:
+            xmin = 35.961 
+            xmax = 36.657 
+            text = "#" 
+        intervals [14]:
+            xmin = 36.657 
+            xmax = 37.366 
+            text = "en découpe" 
+        intervals [15]:
+            xmin = 37.366 
+            xmax = 41.382 
+            text = "#" 
+        intervals [16]:
+            xmin = 41.382 
+            xmax = 45.427 
+            text = "ouais c'est ça on aurait dit les pubs pour euh $Oasis$ là ou $Fanta$ tu sais les ptu-" 
+        intervals [17]:
+            xmin = 45.427 
+            xmax = 52.766 
+            text = "#" 
+        intervals [18]:
+            xmin = 52.766 
+            xmax = 55.023 
+            text = "o- ouais c'est ouais c'est clair en fait c'est la" 
+        intervals [19]:
+            xmin = 55.023 
+            xmax = 55.369 
+            text = "#" 
+        intervals [20]:
+            xmin = 55.369 
+            xmax = 57.015 
+            text = "c'est l'$Oasis$ gueule de bois @" 
+        intervals [21]:
+            xmin = 57.015 
+            xmax = 59.9044 
+            text = "#" 

@@ -1,0 +1,98 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 60 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Transcription" 
+        xmin = 0 
+        xmax = 60 
+        intervals: size = 21 
+        intervals [1]:
+            xmin = 0 
+            xmax = 10.756 
+            text = "#" 
+        intervals [2]:
+            xmin = 10.756 
+            xmax = 11.208 
+            text = "ah" 
+        intervals [3]:
+            xmin = 11.208 
+            xmax = 15.168 
+            text = "#" 
+        intervals [4]:
+            xmin = 15.168 
+            xmax = 16.756 
+            text = "après j'ai pas trop d'autre d'idée" 
+        intervals [5]:
+            xmin = 16.756 
+            xmax = 18.387 
+            text = "#" 
+        intervals [6]:
+            xmin = 18.387 
+            xmax = 23.137 
+            text = "peut-être les fruits et légumes euh de saisons mais c'est pas possible parce que" 
+        intervals [7]:
+            xmin = 23.137 
+            xmax = 24.016 
+            text = "#" 
+        intervals [8]:
+            xmin = 24.016 
+            xmax = 28.022 
+            text = "mais tu vois pas bien et * et c'est à peu près la même saison je sais pas trop" 
+        intervals [9]:
+            xmin = 28.022 
+            xmax = 30.494 
+            text = "#" 
+        intervals [10]:
+            xmin = 30.494 
+            xmax = 32.624 
+            text = "peut-être pour manger les fruits et légumes de saisons" 
+        intervals [11]:
+            xmin = 32.624 
+            xmax = 33.959 
+            text = "#" 
+        intervals [12]:
+            xmin = 33.959 
+            xmax = 34.132 
+            text = "sauf" 
+        intervals [13]:
+            xmin = 34.132 
+            xmax = 34.508 
+            text = "#" 
+        intervals [14]:
+            xmin = 34.508 
+            xmax = 36.2 
+            text = "sauf sauf que c'est pas possible" 
+        intervals [15]:
+            xmin = 36.2 
+            xmax = 37.378 
+            text = "#" 
+        intervals [16]:
+            xmin = 37.378 
+            xmax = 40.676 
+            text = "parce que l'aubergine c'est l'été et la pomme c'est plus tard" 
+        intervals [17]:
+            xmin = 40.676 
+            xmax = 41.992 
+            text = "#" 
+        intervals [18]:
+            xmin = 41.992 
+            xmax = 45.314 
+            text = "et la fraise c'est le printemps et -fin c'est pas très logique tu vois" 
+        intervals [19]:
+            xmin = 45.314 
+            xmax = 45.934 
+            text = "#" 
+        intervals [20]:
+            xmin = 45.934 
+            xmax = 47.138 
+            text = "ils ont mélangé les saisons" 
+        intervals [21]:
+            xmin = 47.138 
+            xmax = 59.9044 
+            text = "#" 

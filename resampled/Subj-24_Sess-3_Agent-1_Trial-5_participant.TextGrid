@@ -1,0 +1,90 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 60 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Transcription" 
+        xmin = 0 
+        xmax = 60 
+        intervals: size = 19 
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.722 
+            text = "#" 
+        intervals [2]:
+            xmin = 1.722 
+            xmax = 4.44 
+            text = "après y a aussi la pomme rouge comme poison" 
+        intervals [3]:
+            xmin = 4.44 
+            xmax = 5.076 
+            text = "#" 
+        intervals [4]:
+            xmin = 5.076 
+            xmax = 8.424 
+            text = "ça peut renvoyer à la pomme rouge ben je sais pas par exemple dans $Blanche-neige$" 
+        intervals [5]:
+            xmin = 8.424 
+            xmax = 9.343 
+            text = "#" 
+        intervals [6]:
+            xmin = 9.343 
+            xmax = 12.777 
+            text = "et aussi on peut s'interroger sur pourquoi la pomme elle est à l'envers en fait" 
+        intervals [7]:
+            xmin = 12.777 
+            xmax = 20.048 
+            text = "#" 
+        intervals [8]:
+            xmin = 20.048 
+            xmax = 20.231 
+            text = "mh" 
+        intervals [9]:
+            xmin = 20.231 
+            xmax = 26.074 
+            text = "#" 
+        intervals [10]:
+            xmin = 26.074 
+            xmax = 28.34 
+            text = "ça peut ben renvoyer au poison du coup" 
+        intervals [11]:
+            xmin = 28.34 
+            xmax = 28.886 
+            text = "#" 
+        intervals [12]:
+            xmin = 28.886 
+            xmax = 32.039 
+            text = "donc toujours sur la piste sur insecticides et tout ça" 
+        intervals [13]:
+            xmin = 32.039 
+            xmax = 32.953 
+            text = "#" 
+        intervals [14]:
+            xmin = 32.953 
+            xmax = 37.546 
+            text = "mais aussi on peut s'interroger sur pourquoi la pomme est à l'envers elle est représentée à l'envers et pas à l'endroit" 
+        intervals [15]:
+            xmin = 37.546 
+            xmax = 43.49 
+            text = "#" 
+        intervals [16]:
+            xmin = 43.49 
+            xmax = 45.102 
+            text = "oui sur- surtout $Spiderman$ en fait" 
+        intervals [17]:
+            xmin = 45.102 
+            xmax = 58.421 
+            text = "#" 
+        intervals [18]:
+            xmin = 58.421 
+            xmax = 58.783 
+            text = "mh" 
+        intervals [19]:
+            xmin = 58.783 
+            xmax = 59.9044 
+            text = "#" 

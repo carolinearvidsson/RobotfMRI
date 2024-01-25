@@ -1,0 +1,94 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 60 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Transcription" 
+        xmin = 0 
+        xmax = 60 
+        intervals: size = 20 
+        intervals [1]:
+            xmin = 0 
+            xmax = 3.201 
+            text = "#" 
+        intervals [2]:
+            xmin = 3.201 
+            xmax = 5.924 
+            text = "bon là on a le citron euh" 
+        intervals [3]:
+            xmin = 5.924 
+            xmax = 6.945 
+            text = "#" 
+        intervals [4]:
+            xmin = 6.945 
+            xmax = 8.053 
+            text = "$Tortue Ninja$" 
+        intervals [5]:
+            xmin = 8.053 
+            xmax = 10.07 
+            text = "#" 
+        intervals [6]:
+            xmin = 10.07 
+            xmax = 10.842 
+            text = "euh" 
+        intervals [7]:
+            xmin = 10.842 
+            xmax = 16.324 
+            text = "#" 
+        intervals [8]:
+            xmin = 16.324 
+            xmax = 16.776 
+            text = "oui" 
+        intervals [9]:
+            xmin = 16.776 
+            xmax = 28.528 
+            text = "#" 
+        intervals [10]:
+            xmin = 28.528 
+            xmax = 29.356 
+            text = "oui c'est vrai" 
+        intervals [11]:
+            xmin = 29.356 
+            xmax = 32.221 
+            text = "#" 
+        intervals [12]:
+            xmin = 32.221 
+            xmax = 34.762 
+            text = "et moins il marque moins celui là euh" 
+        intervals [13]:
+            xmin = 34.762 
+            xmax = 36.255 
+            text = "#" 
+        intervals [14]:
+            xmin = 36.255 
+            xmax = 37.81 
+            text = "passe un peu inaperçu" 
+        intervals [15]:
+            xmin = 37.81 
+            xmax = 44.324 
+            text = "#" 
+        intervals [16]:
+            xmin = 44.324 
+            xmax = 44.76 
+            text = "comment" 
+        intervals [17]:
+            xmin = 44.76 
+            xmax = 51.65 
+            text = "#" 
+        intervals [18]:
+            xmin = 51.65 
+            xmax = 55.558 
+            text = "c'est des des s- qu'on peut familiariaser peut-être avec des fruits et les légumes" 
+        intervals [19]:
+            xmin = 55.558 
+            xmax = 59.433 
+            text = "#" 
+        intervals [20]:
+            xmin = 59.433 
+            xmax = 59.9044 
+            text = "euh" 

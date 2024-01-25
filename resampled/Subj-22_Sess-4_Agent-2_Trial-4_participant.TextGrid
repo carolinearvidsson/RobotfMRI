@@ -1,0 +1,82 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 60 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Transcription" 
+        xmin = 0 
+        xmax = 60 
+        intervals: size = 17 
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.196 
+            text = "#" 
+        intervals [2]:
+            xmin = 1.196 
+            xmax = 2.489 
+            text = "c'est une framboise pourrie" 
+        intervals [3]:
+            xmin = 2.489 
+            xmax = 9.066 
+            text = "#" 
+        intervals [4]:
+            xmin = 9.066 
+            xmax = 9.602 
+            text = "c'est une" 
+        intervals [5]:
+            xmin = 9.602 
+            xmax = 14.078 
+            text = "#" 
+        intervals [6]:
+            xmin = 14.078 
+            xmax = 14.724 
+            text = "en effet" 
+        intervals [7]:
+            xmin = 14.724 
+            xmax = 16.817 
+            text = "#" 
+        intervals [8]:
+            xmin = 16.817 
+            xmax = 18.118 
+            text = "pour éviter qu'ils pourrissent" 
+        intervals [9]:
+            xmin = 18.118 
+            xmax = 21.4 
+            text = "#" 
+        intervals [10]:
+            xmin = 21.4 
+            xmax = 25.271 
+            text = "je pense que c'est vrai cela permettrait d'éviter de jeter beaucoup de fruits et légumes" 
+        intervals [11]:
+            xmin = 25.271 
+            xmax = 37.688 
+            text = "#" 
+        intervals [12]:
+            xmin = 37.688 
+            xmax = 38.013 
+            text = "oui" 
+        intervals [13]:
+            xmin = 38.013 
+            xmax = 38.44 
+            text = "#" 
+        intervals [14]:
+            xmin = 38.44 
+            xmax = 39.07 
+            text = "entre autres" 
+        intervals [15]:
+            xmin = 39.07 
+            xmax = 42.551 
+            text = "#" 
+        intervals [16]:
+            xmin = 42.551 
+            xmax = 43.826 
+            text = "si si je pense que c'est ça" 
+        intervals [17]:
+            xmin = 43.826 
+            xmax = 59.9044 
+            text = "#" 

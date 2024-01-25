@@ -1,0 +1,126 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 60 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Transcription" 
+        xmin = 0 
+        xmax = 60 
+        intervals: size = 28 
+        intervals [1]:
+            xmin = 0 
+            xmax = 7.159 
+            text = "#" 
+        intervals [2]:
+            xmin = 7.159 
+            xmax = 7.367 
+            text = "ouais" 
+        intervals [3]:
+            xmin = 7.367 
+            xmax = 7.941 
+            text = "#" 
+        intervals [4]:
+            xmin = 7.941 
+            xmax = 10.781 
+            text = "bah après là la framboise je trouve qu'elle fait pas très naturelle là quand même" 
+        intervals [5]:
+            xmin = 10.781 
+            xmax = 13.23 
+            text = "#" 
+        intervals [6]:
+            xmin = 13.23 
+            xmax = 15.242 
+            text = "elle elle est pareille un peu des autres en fait" 
+        intervals [7]:
+            xmin = 15.242 
+            xmax = 19.51 
+            text = "#" 
+        intervals [8]:
+            xmin = 19.51 
+            xmax = 19.718 
+            text = "el-" 
+        intervals [9]:
+            xmin = 19.718 
+            xmax = 19.987 
+            text = "#" 
+        intervals [10]:
+            xmin = 19.987 
+            xmax = 23.036 
+            text = "attends le le citron aussi il est pas rayé des autres tu me disais" 
+        intervals [11]:
+            xmin = 23.036 
+            xmax = 23.813 
+            text = "#" 
+        intervals [12]:
+            xmin = 23.813 
+            xmax = 24.804 
+            text = "vu qu'il avait l'air plus gentil" 
+        intervals [13]:
+            xmin = 24.804 
+            xmax = 27.024 
+            text = "#" 
+        intervals [14]:
+            xmin = 27.024 
+            xmax = 27.629 
+            text = "donc qu'est que" 
+        intervals [15]:
+            xmin = 27.629 
+            xmax = 34.284 
+            text = "#" 
+        intervals [16]:
+            xmin = 34.284 
+            xmax = 34.498 
+            text = "ouais" 
+        intervals [17]:
+            xmin = 34.498 
+            xmax = 38.547 
+            text = "#" 
+        intervals [18]:
+            xmin = 38.547 
+            xmax = 38.765 
+            text = "ouais" 
+        intervals [19]:
+            xmin = 38.765 
+            xmax = 41.387 
+            text = "#" 
+        intervals [20]:
+            xmin = 41.387 
+            xmax = 41.936 
+            text = "ouais mais y a" 
+        intervals [21]:
+            xmin = 41.936 
+            xmax = 45.548 
+            text = "#" 
+        intervals [22]:
+            xmin = 45.548 
+            xmax = 46.142 
+            text = "ouais ouais ouais" 
+        intervals [23]:
+            xmin = 46.142 
+            xmax = 46.407 
+            text = "#" 
+        intervals [24]:
+            xmin = 46.407 
+            xmax = 49.049 
+            text = "et du coup ils seraient tristes parce qu'on les les abandonne en fait" 
+        intervals [25]:
+            xmin = 49.049 
+            xmax = 56.192 
+            text = "#" 
+        intervals [26]:
+            xmin = 56.192 
+            xmax = 56.426 
+            text = "ouais" 
+        intervals [27]:
+            xmin = 56.426 
+            xmax = 59.007 
+            text = "#" 
+        intervals [28]:
+            xmin = 59.007 
+            xmax = 59.9516 
+            text = "ouais ouais ouais non mais" 

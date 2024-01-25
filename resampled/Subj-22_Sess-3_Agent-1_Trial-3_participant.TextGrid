@@ -1,0 +1,102 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 60 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Transcription" 
+        xmin = 0 
+        xmax = 60 
+        intervals: size = 22 
+        intervals [1]:
+            xmin = 0 
+            xmax = 5.685 
+            text = "#" 
+        intervals [2]:
+            xmin = 5.685 
+            xmax = 6.351 
+            text = "exactement" 
+        intervals [3]:
+            xmin = 6.351 
+            xmax = 16.471 
+            text = "#" 
+        intervals [4]:
+            xmin = 16.471 
+            xmax = 16.756 
+            text = "ouais" 
+        intervals [5]:
+            xmin = 16.756 
+            xmax = 19.601 
+            text = "#" 
+        intervals [6]:
+            xmin = 19.601 
+            xmax = 26.389 
+            text = "ben la question que je me pose c'est pourquoi est ce qu'un fru- un citron vert ça serait un les un fruit local" 
+        intervals [7]:
+            xmin = 26.389 
+            xmax = 27.385 
+            text = "#" 
+        intervals [8]:
+            xmin = 27.385 
+            xmax = 28.198 
+            text = "c'est local d'où" 
+        intervals [9]:
+            xmin = 28.198 
+            xmax = 37.5 
+            text = "#" 
+        intervals [10]:
+            xmin = 37.5 
+            xmax = 38.786 
+            text = "oui c'est vrai mais bon" 
+        intervals [11]:
+            xmin = 38.786 
+            xmax = 39.339 
+            text = "#" 
+        intervals [12]:
+            xmin = 39.339 
+            xmax = 42.83 
+            text = "je sais pas si ça pousse en en F- enfin en France par exemple ou en Europe" 
+        intervals [13]:
+            xmin = 42.83 
+            xmax = 43.668 
+            text = "#" 
+        intervals [14]:
+            xmin = 43.668 
+            xmax = 46.65 
+            text = "il me semble que c'est plus dans les pays tropicaux que ça pousse non" 
+        intervals [15]:
+            xmin = 46.65 
+            xmax = 49.516 
+            text = "#" 
+        intervals [16]:
+            xmin = 49.516 
+            xmax = 50.979 
+            text = "du coup ça fait plus trop local" 
+        intervals [17]:
+            xmin = 50.979 
+            xmax = 55.135 
+            text = "#" 
+        intervals [18]:
+            xmin = 55.135 
+            xmax = 55.45 
+            text = "vert" 
+        intervals [19]:
+            xmin = 55.45 
+            xmax = 57.284 
+            text = "#" 
+        intervals [20]:
+            xmin = 57.284 
+            xmax = 58.011 
+            text = "les citrons verts" 
+        intervals [21]:
+            xmin = 58.011 
+            xmax = 59.807 
+            text = "#" 
+        intervals [22]:
+            xmin = 59.807 
+            xmax = 59.9044 
+            text = "ouais" 

@@ -1,0 +1,94 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 60 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Transcription" 
+        xmin = 0 
+        xmax = 60 
+        intervals: size = 20 
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.814 
+            text = "#" 
+        intervals [2]:
+            xmin = 1.814 
+            xmax = 2.693 
+            text = "ah je l'aime bien celle là" 
+        intervals [3]:
+            xmin = 2.693 
+            xmax = 5.487 
+            text = "#" 
+        intervals [4]:
+            xmin = 5.487 
+            xmax = 6.94 
+            text = "euh non" 
+        intervals [5]:
+            xmin = 6.94 
+            xmax = 11.193 
+            text = "#" 
+        intervals [6]:
+            xmin = 11.193 
+            xmax = 12.326 
+            text = "euh" 
+        intervals [7]:
+            xmin = 12.326 
+            xmax = 14.078 
+            text = "#" 
+        intervals [8]:
+            xmin = 14.078 
+            xmax = 17.65 
+            text = "si si ça fait un moment j'ai peut-être j'ai du oublier je suis désolée je m'en souvenais pas" 
+        intervals [9]:
+            xmin = 17.65 
+            xmax = 34.203 
+            text = "#" 
+        intervals [10]:
+            xmin = 34.203 
+            xmax = 36.245 
+            text = "ouais mais euh" 
+        intervals [11]:
+            xmin = 36.245 
+            xmax = 37.038 
+            text = "#" 
+        intervals [12]:
+            xmin = 37.038 
+            xmax = 42.078 
+            text = "celle là tu vois un peu maintenant que t'as parlé des $Tortues Ninja$ celle là elle me fait un petit peu penser aussi à" 
+        intervals [13]:
+            xmin = 42.078 
+            xmax = 42.931 
+            text = "#" 
+        intervals [14]:
+            xmin = 42.931 
+            xmax = 46.407 
+            text = "euh mince euh je sais pas moi peut-être $Deadpool$" 
+        intervals [15]:
+            xmin = 46.407 
+            xmax = 47.946 
+            text = "#" 
+        intervals [16]:
+            xmin = 47.946 
+            xmax = 51.955 
+            text = "celle celle ci là maintenant qu'on a parlé de d'un des $Tortues ninja$" 
+        intervals [17]:
+            xmin = 51.955 
+            xmax = 52.813 
+            text = "#" 
+        intervals [18]:
+            xmin = 52.813 
+            xmax = 57.096 
+            text = "tu sais la pomme dans cet optique là elle me fait un petit peu penser à à $Deadpool$ peut-être" 
+        intervals [19]:
+            xmin = 57.096 
+            xmax = 58.681 
+            text = "#" 
+        intervals [20]:
+            xmin = 58.681 
+            xmax = 59.9516 
+            text = "$Deadpool$ c'est un un" 

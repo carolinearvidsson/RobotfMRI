@@ -1,0 +1,122 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 60 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Transcription" 
+        xmin = 0 
+        xmax = 60 
+        intervals: size = 27 
+        intervals [1]:
+            xmin = 0 
+            xmax = 5.807 
+            text = "#" 
+        intervals [2]:
+            xmin = 5.807 
+            xmax = 5.99 
+            text = "ah" 
+        intervals [3]:
+            xmin = 5.99 
+            xmax = 6.214 
+            text = "#" 
+        intervals [4]:
+            xmin = 6.214 
+            xmax = 7.265 
+            text = "elle a suggéré quoi" 
+        intervals [5]:
+            xmin = 7.265 
+            xmax = 12.747 
+            text = "#" 
+        intervals [6]:
+            xmin = 12.747 
+            xmax = 13.098 
+            text = "ah" 
+        intervals [7]:
+            xmin = 13.098 
+            xmax = 13.515 
+            text = "#" 
+        intervals [8]:
+            xmin = 13.515 
+            xmax = 14.459 
+            text = "euh" 
+        intervals [9]:
+            xmin = 14.459 
+            xmax = 14.637 
+            text = "#" 
+        intervals [10]:
+            xmin = 14.637 
+            xmax = 16.329 
+            text = "ouais surtout avec la poire peut-être" 
+        intervals [11]:
+            xmin = 16.329 
+            xmax = 25.144 
+            text = "#" 
+        intervals [12]:
+            xmin = 25.144 
+            xmax = 25.413 
+            text = "ouais" 
+        intervals [13]:
+            xmin = 25.413 
+            xmax = 26.155 
+            text = "#" 
+        intervals [14]:
+            xmin = 26.155 
+            xmax = 27.832 
+            text = "et euh la première c'est les défenseurs" 
+        intervals [15]:
+            xmin = 27.832 
+            xmax = 33.354 
+            text = "#" 
+        intervals [16]:
+            xmin = 33.354 
+            xmax = 35.006 
+            text = "ah donc ça serait peut-être les bourreaux" 
+        intervals [17]:
+            xmin = 35.006 
+            xmax = 35.62 
+            text = "#" 
+        intervals [18]:
+            xmin = 35.62 
+            xmax = 37.505 
+            text = "après sinon pour les défenseurs" 
+        intervals [19]:
+            xmin = 37.505 
+            xmax = 38.481 
+            text = "#" 
+        intervals [20]:
+            xmin = 38.481 
+            xmax = 38.908 
+            text = "euh" 
+        intervals [21]:
+            xmin = 38.908 
+            xmax = 41.179 
+            text = "#" 
+        intervals [22]:
+            xmin = 41.179 
+            xmax = 47.897 
+            text = "pour les défenseurs les super héros ils ont tout le temps l'air un peu un peu sévère si tu réfléchis ils combattent le mal mais ils le combattent de manière un peu violente" 
+        intervals [23]:
+            xmin = 47.897 
+            xmax = 55.069 
+            text = "#" 
+        intervals [24]:
+            xmin = 55.069 
+            xmax = 55.409 
+            text = "ah ouais" 
+        intervals [25]:
+            xmin = 55.409 
+            xmax = 56.08 
+            text = "#" 
+        intervals [26]:
+            xmin = 56.08 
+            xmax = 58.539 
+            text = "euh moi le le citron je le trouvais pas méchant" 
+        intervals [27]:
+            xmin = 58.539 
+            xmax = 59.9516 
+            text = "#" 

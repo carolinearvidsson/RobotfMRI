@@ -1,0 +1,138 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 60 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Transcription" 
+        xmin = 0 
+        xmax = 60 
+        intervals: size = 31 
+        intervals [1]:
+            xmin = 0 
+            xmax = 2.027 
+            text = "#" 
+        intervals [2]:
+            xmin = 2.027 
+            xmax = 4.562 
+            text = "ah bah là on voyait une framboise un peu triste" 
+        intervals [3]:
+            xmin = 4.562 
+            xmax = 10.344 
+            text = "#" 
+        intervals [4]:
+            xmin = 10.344 
+            xmax = 10.695 
+            text = "non" 
+        intervals [5]:
+            xmin = 10.695 
+            xmax = 11.304 
+            text = "#" 
+        intervals [6]:
+            xmin = 11.304 
+            xmax = 12.793 
+            text = "avec des tout petits yeux" 
+        intervals [7]:
+            xmin = 12.793 
+            xmax = 15.654 
+            text = "#" 
+        intervals [8]:
+            xmin = 15.654 
+            xmax = 16.593 
+            text = "et euh" 
+        intervals [9]:
+            xmin = 16.593 
+            xmax = 20.424 
+            text = "#" 
+        intervals [10]:
+            xmin = 20.424 
+            xmax = 21.166 
+            text = "oui" 
+        intervals [11]:
+            xmin = 21.166 
+            xmax = 22.38 
+            text = "#" 
+        intervals [12]:
+            xmin = 22.38 
+            xmax = 23.137 
+            text = "euh" 
+        intervals [13]:
+            xmin = 23.137 
+            xmax = 25.632 
+            text = "#" 
+        intervals [14]:
+            xmin = 25.632 
+            xmax = 26.247 
+            text = "c'est vrai" 
+        intervals [15]:
+            xmin = 26.247 
+            xmax = 27.248 
+            text = "#" 
+        intervals [16]:
+            xmin = 27.248 
+            xmax = 28.421 
+            text = "un peu affaissée" 
+        intervals [17]:
+            xmin = 28.421 
+            xmax = 28.614 
+            text = "#" 
+        intervals [18]:
+            xmin = 28.614 
+            xmax = 29.234 
+            text = "sur elle même" 
+        intervals [19]:
+            xmin = 29.234 
+            xmax = 34.955 
+            text = "#" 
+        intervals [20]:
+            xmin = 34.955 
+            xmax = 35.321 
+            text = "oui" 
+        intervals [21]:
+            xmin = 35.321 
+            xmax = 40.244 
+            text = "#" 
+        intervals [22]:
+            xmin = 40.244 
+            xmax = 45.194 
+            text = "ben je pense que c'est une framboise pourrie après je sais pas le message qu'elle veut véhiculer" 
+        intervals [23]:
+            xmin = 45.194 
+            xmax = 46.408 
+            text = "#" 
+        intervals [24]:
+            xmin = 46.408 
+            xmax = 47.296 
+            text = "mais" 
+        intervals [25]:
+            xmin = 47.296 
+            xmax = 50.105 
+            text = "#" 
+        intervals [26]:
+            xmin = 50.105 
+            xmax = 50.512 
+            text = "oui" 
+        intervals [27]:
+            xmin = 50.512 
+            xmax = 51.269 
+            text = "#" 
+        intervals [28]:
+            xmin = 51.269 
+            xmax = 51.751 
+            text = "c'est vrai" 
+        intervals [29]:
+            xmin = 51.751 
+            xmax = 55.491 
+            text = "#" 
+        intervals [30]:
+            xmin = 55.491 
+            xmax = 57.259 
+            text = "elle devient triste parce qu'elle est pourrie" 
+        intervals [31]:
+            xmin = 57.259 
+            xmax = 59.9044 
+            text = "#" 

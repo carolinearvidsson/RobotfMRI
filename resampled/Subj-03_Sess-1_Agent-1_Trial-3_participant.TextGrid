@@ -1,0 +1,162 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 60 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Transcription" 
+        xmin = 0 
+        xmax = 60 
+        intervals: size = 37 
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.102 
+            text = "#" 
+        intervals [2]:
+            xmin = 1.102 
+            xmax = 2.335 
+            text = "il est trop mignon le petit citron" 
+        intervals [3]:
+            xmin = 2.335 
+            xmax = 2.749 
+            text = "#" 
+        intervals [4]:
+            xmin = 2.749 
+            xmax = 3.079 
+            text = "@" 
+        intervals [5]:
+            xmin = 3.079 
+            xmax = 6.844 
+            text = "#" 
+        intervals [6]:
+            xmin = 6.844 
+            xmax = 8.444 
+            text = "ouais mais par contre je sais pas du tout qui c'est" 
+        intervals [7]:
+            xmin = 8.444 
+            xmax = 9.127 
+            text = "#" 
+        intervals [8]:
+            xmin = 9.127 
+            xmax = 9.867 
+            text = "c'est censé être qui" 
+        intervals [9]:
+            xmin = 9.867 
+            xmax = 10.131 
+            text = "#" 
+        intervals [10]:
+            xmin = 10.131 
+            xmax = 10.867 
+            text = "comme super héros" 
+        intervals [11]:
+            xmin = 10.867 
+            xmax = 13.885 
+            text = "#" 
+        intervals [12]:
+            xmin = 13.885 
+            xmax = 14.751 
+            text = "ah ok d'accord" 
+        intervals [13]:
+            xmin = 14.751 
+            xmax = 20.597 
+            text = "#" 
+        intervals [14]:
+            xmin = 20.597 
+            xmax = 21.78 
+            text = "ah pas moi ah mince" 
+        intervals [15]:
+            xmin = 21.78 
+            xmax = 22.025 
+            text = "#" 
+        intervals [16]:
+            xmin = 22.025 
+            xmax = 22.467 
+            text = "je sais pas" 
+        intervals [17]:
+            xmin = 22.467 
+            xmax = 28.624 
+            text = "#" 
+        intervals [18]:
+            xmin = 28.624 
+            xmax = 32.12 
+            text = "mais du coup on a toujours la même conclusion en fait c'est une campagne de pub visant les enfants" 
+        intervals [19]:
+            xmin = 32.12 
+            xmax = 32.522 
+            text = "#" 
+        intervals [20]:
+            xmin = 32.522 
+            xmax = 33.42 
+            text = "pour euh" 
+        intervals [21]:
+            xmin = 33.42 
+            xmax = 34.162 
+            text = "#" 
+        intervals [22]:
+            xmin = 34.162 
+            xmax = 34.979 
+            text = "qui mangent des légumes" 
+        intervals [23]:
+            xmin = 34.979 
+            xmax = 35.625 
+            text = "#" 
+        intervals [24]:
+            xmin = 35.625 
+            xmax = 37.282 
+            text = "moi ça me fait un peu penser aux pubs $Mac do$" 
+        intervals [25]:
+            xmin = 37.282 
+            xmax = 40.081 
+            text = "#" 
+        intervals [26]:
+            xmin = 40.081 
+            xmax = 43.211 
+            text = "ouais avec les trucs des super héros les trucs comme ça je sais pas si tu vois" 
+        intervals [27]:
+            xmin = 43.211 
+            xmax = 43.998 
+            text = "#" 
+        intervals [28]:
+            xmin = 43.998 
+            xmax = 46.142 
+            text = "ils essayent de rendre ça un peu plus mieux que euh" 
+        intervals [29]:
+            xmin = 46.142 
+            xmax = 47.057 
+            text = "#" 
+        intervals [30]:
+            xmin = 47.057 
+            xmax = 47.463 
+            text = "-fin voilà" 
+        intervals [31]:
+            xmin = 47.463 
+            xmax = 49.414 
+            text = "#" 
+        intervals [32]:
+            xmin = 49.414 
+            xmax = 51.624 
+            text = "non non genre en général les affiches les choses comme ça" 
+        intervals [33]:
+            xmin = 51.624 
+            xmax = 52.783 
+            text = "#" 
+        intervals [34]:
+            xmin = 52.783 
+            xmax = 55.755 
+            text = "un peu ce genre là tu vois qui touche un peu le public euh jeune" 
+        intervals [35]:
+            xmin = 55.755 
+            xmax = 58.234 
+            text = "#" 
+        intervals [36]:
+            xmin = 58.234 
+            xmax = 58.377 
+            text = "*" 
+        intervals [37]:
+            xmin = 58.377 
+            xmax = 59.9044 
+            text = "#" 

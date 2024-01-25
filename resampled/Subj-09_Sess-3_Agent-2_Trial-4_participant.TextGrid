@@ -1,0 +1,126 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 60 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Transcription" 
+        xmin = 0 
+        xmax = 60 
+        intervals: size = 28 
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.674 
+            text = "#" 
+        intervals [2]:
+            xmin = 1.674 
+            xmax = 9.176 
+            text = "peut-être qu'effectivement c'est une pub qui nous dit attention au départ ce fruit ou ce légume est sympa mais en fin de compte" 
+        intervals [3]:
+            xmin = 9.176 
+            xmax = 10.451 
+            text = "#" 
+        intervals [4]:
+            xmin = 10.451 
+            xmax = 12.854 
+            text = "y a quelque chose d'un peu effrayant derrière" 
+        intervals [5]:
+            xmin = 12.854 
+            xmax = 14.668 
+            text = "#" 
+        intervals [6]:
+            xmin = 14.668 
+            xmax = 16.39 
+            text = "notamment effectivement avec euh" 
+        intervals [7]:
+            xmin = 16.39 
+            xmax = 19.817 
+            text = "#" 
+        intervals [8]:
+            xmin = 19.817 
+            xmax = 20.403 
+            text = "oui donc euh" 
+        intervals [9]:
+            xmin = 20.403 
+            xmax = 21.125 
+            text = "#" 
+        intervals [10]:
+            xmin = 21.125 
+            xmax = 24.763 
+            text = "oui oui peut-être qu'effectivement comme elle est pleine de pesticides elle euh" 
+        intervals [11]:
+            xmin = 24.763 
+            xmax = 25.398 
+            text = "#" 
+        intervals [12]:
+            xmin = 25.398 
+            xmax = 27.405 
+            text = "elle montre un vi- un visage différent" 
+        intervals [13]:
+            xmin = 27.405 
+            xmax = 32.638 
+            text = "#" 
+        intervals [14]:
+            xmin = 32.638 
+            xmax = 33.542 
+            text = "c'est possible" 
+        intervals [15]:
+            xmin = 33.542 
+            xmax = 34.477 
+            text = "#" 
+        intervals [16]:
+            xmin = 34.477 
+            xmax = 36.205 
+            text = "effectivement c'est c'est probable" 
+        intervals [17]:
+            xmin = 36.205 
+            xmax = 42.408 
+            text = "#" 
+        intervals [18]:
+            xmin = 42.408 
+            xmax = 42.931 
+            text = "qui quoi" 
+        intervals [19]:
+            xmin = 42.931 
+            xmax = 44.893 
+            text = "#" 
+        intervals [20]:
+            xmin = 44.893 
+            xmax = 46.366 
+            text = "j'ai pas compris avec les enfants" 
+        intervals [21]:
+            xmin = 46.366 
+            xmax = 47.443 
+            text = "#" 
+        intervals [22]:
+            xmin = 47.443 
+            xmax = 48.337 
+            text = "j'ai pas compris" 
+        intervals [23]:
+            xmin = 48.337 
+            xmax = 50.38 
+            text = "#" 
+        intervals [24]:
+            xmin = 50.38 
+            xmax = 51.574 
+            text = "ciblant les enfants" 
+        intervals [25]:
+            xmin = 51.574 
+            xmax = 52.736 
+            text = "#" 
+        intervals [26]:
+            xmin = 52.736 
+            xmax = 53.3 
+            text = "euh" 
+        intervals [27]:
+            xmin = 53.3 
+            xmax = 55.399 
+            text = "#" 
+        intervals [28]:
+            xmin = 55.399 
+            xmax = 59.9044 
+            text = "oui mais si ça cible les enfants ça donnera pas aux enfant envie d'en manger" 

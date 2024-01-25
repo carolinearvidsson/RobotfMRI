@@ -1,0 +1,114 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 60 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Transcription" 
+        xmin = 0 
+        xmax = 60 
+        intervals: size = 25 
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.885 
+            text = "#" 
+        intervals [2]:
+            xmin = 1.885 
+            xmax = 4.949 
+            text = "tu as remarqué que le haut de la pomme il était f- il était flou" 
+        intervals [3]:
+            xmin = 4.949 
+            xmax = 14.15 
+            text = "#" 
+        intervals [4]:
+            xmin = 14.15 
+            xmax = 14.419 
+            text = "ouais" 
+        intervals [5]:
+            xmin = 14.419 
+            xmax = 19.281 
+            text = "#" 
+        intervals [6]:
+            xmin = 19.281 
+            xmax = 21.059 
+            text = "tu penses que ça peut vouloir dire quoi" 
+        intervals [7]:
+            xmin = 21.059 
+            xmax = 22.685 
+            text = "#" 
+        intervals [8]:
+            xmin = 22.685 
+            xmax = 23.056 
+            text = "ouais" 
+        intervals [9]:
+            xmin = 23.056 
+            xmax = 30.951 
+            text = "#" 
+        intervals [10]:
+            xmin = 30.951 
+            xmax = 31.695 
+            text = "oui peut-être" 
+        intervals [11]:
+            xmin = 31.695 
+            xmax = 34.752 
+            text = "#" 
+        intervals [12]:
+            xmin = 34.752 
+            xmax = 35.209 
+            text = "et non" 
+        intervals [13]:
+            xmin = 35.209 
+            xmax = 40.33 
+            text = "#" 
+        intervals [14]:
+            xmin = 40.33 
+            xmax = 40.594 
+            text = "ouais" 
+        intervals [15]:
+            xmin = 40.594 
+            xmax = 41.255 
+            text = "#" 
+        intervals [16]:
+            xmin = 41.255 
+            xmax = 42.261 
+            text = "c'est vraiment euh" 
+        intervals [17]:
+            xmin = 42.261 
+            xmax = 42.804 
+            text = "#" 
+        intervals [18]:
+            xmin = 42.804 
+            xmax = 43.846 
+            text = "et elle a pas de bouche" 
+        intervals [19]:
+            xmin = 43.846 
+            xmax = 44.247 
+            text = "#" 
+        intervals [20]:
+            xmin = 44.247 
+            xmax = 45.899 
+            text = "ouais non mais la $Tortue ninja$ non plus" 
+        intervals [21]:
+            xmin = 45.899 
+            xmax = 47.484 
+            text = "#" 
+        intervals [22]:
+            xmin = 47.484 
+            xmax = 49.435 
+            text = "mais euh c'est vrai que oui elle euh" 
+        intervals [23]:
+            xmin = 49.435 
+            xmax = 50.115 
+            text = "#" 
+        intervals [24]:
+            xmin = 50.115 
+            xmax = 52.219 
+            text = "elle se différencie par au moins deux choses" 
+        intervals [25]:
+            xmin = 52.219 
+            xmax = 59.9044 
+            text = "#" 

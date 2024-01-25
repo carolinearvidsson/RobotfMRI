@@ -1,0 +1,114 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 60 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Transcription" 
+        xmin = 0 
+        xmax = 60 
+        intervals: size = 25 
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.813 
+            text = "#" 
+        intervals [2]:
+            xmin = 1.813 
+            xmax = 2.273 
+            text = "euh" 
+        intervals [3]:
+            xmin = 2.273 
+            xmax = 3.135 
+            text = "#" 
+        intervals [4]:
+            xmin = 3.135 
+            xmax = 4.664 
+            text = "j'ai j'ai réfléchi à ce que tu m'as dit" 
+        intervals [5]:
+            xmin = 4.664 
+            xmax = 6.905 
+            text = "#" 
+        intervals [6]:
+            xmin = 6.905 
+            xmax = 10.351 
+            text = "et euh je euh je me dit si les premiers" 
+        intervals [7]:
+            xmin = 10.351 
+            xmax = 10.638 
+            text = "#" 
+        intervals [8]:
+            xmin = 10.638 
+            xmax = 13.89 
+            text = "ils sont méchants et ils sont traités par les pesticides ils sont pas vrais" 
+        intervals [9]:
+            xmin = 13.89 
+            xmax = 14.256 
+            text = "#" 
+        intervals [10]:
+            xmin = 14.256 
+            xmax = 19.296 
+            text = "en fait que les autres ils ont l'air tristes c'est parce que personne n'en veut vu sont plus naturels" 
+        intervals [11]:
+            xmin = 19.296 
+            xmax = 33.365 
+            text = "#" 
+        intervals [12]:
+            xmin = 33.365 
+            xmax = 33.685 
+            text = "ah" 
+        intervals [13]:
+            xmin = 33.685 
+            xmax = 35.041 
+            text = "#" 
+        intervals [14]:
+            xmin = 35.041 
+            xmax = 35.784 
+            text = "ok donc" 
+        intervals [15]:
+            xmin = 35.784 
+            xmax = 38.267 
+            text = "#" 
+        intervals [16]:
+            xmin = 38.267 
+            xmax = 41.895 
+            text = "d'accord donc en fait les les là les deux qu'on a ils sont à prendre séparemment" 
+        intervals [17]:
+            xmin = 41.895 
+            xmax = 43.328 
+            text = "#" 
+        intervals [18]:
+            xmin = 43.328 
+            xmax = 43.691 
+            text = "-fin les" 
+        intervals [19]:
+            xmin = 43.691 
+            xmax = 44.496 
+            text = "#" 
+        intervals [20]:
+            xmin = 44.496 
+            xmax = 44.882 
+            text = "deux groupes" 
+        intervals [21]:
+            xmin = 44.882 
+            xmax = 50.768 
+            text = "#" 
+        intervals [22]:
+            xmin = 50.768 
+            xmax = 52.797 
+            text = "parce que pas considérés euh ben" 
+        intervals [23]:
+            xmin = 52.797 
+            xmax = 53.123 
+            text = "#" 
+        intervals [24]:
+            xmin = 53.123 
+            xmax = 56.344 
+            text = "si tu dis c'est pour l'aspect local peut-être que c'est à cause des transports alors" 
+        intervals [25]:
+            xmin = 56.344 
+            xmax = 59.9516 
+            text = "#" 

@@ -1,0 +1,126 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 60 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Transcription" 
+        xmin = 0 
+        xmax = 60 
+        intervals: size = 28 
+        intervals [1]:
+            xmin = 0 
+            xmax = 4.466 
+            text = "#" 
+        intervals [2]:
+            xmin = 4.466 
+            xmax = 5.589 
+            text = "non ça sera pas des fruits rouges" 
+        intervals [3]:
+            xmin = 5.589 
+            xmax = 6.339 
+            text = "#" 
+        intervals [4]:
+            xmin = 6.339 
+            xmax = 7.23 
+            text = "ça sera des fruits" 
+        intervals [5]:
+            xmin = 7.23 
+            xmax = 10.024 
+            text = "#" 
+        intervals [6]:
+            xmin = 10.024 
+            xmax = 10.273 
+            text = "ouais" 
+        intervals [7]:
+            xmin = 10.273 
+            xmax = 16.552 
+            text = "#" 
+        intervals [8]:
+            xmin = 16.552 
+            xmax = 16.858 
+            text = "ouais" 
+        intervals [9]:
+            xmin = 16.858 
+            xmax = 17.117 
+            text = "#" 
+        intervals [10]:
+            xmin = 17.117 
+            xmax = 18.93 
+            text = "elle a l'air moins forte elle a l'air" 
+        intervals [11]:
+            xmin = 18.93 
+            xmax = 19.693 
+            text = "#" 
+        intervals [12]:
+            xmin = 19.693 
+            xmax = 21.125 
+            text = "plus affaiblie plus" 
+        intervals [13]:
+            xmin = 21.125 
+            xmax = 21.796 
+            text = "#" 
+        intervals [14]:
+            xmin = 21.796 
+            xmax = 22.528 
+            text = "tracassée" 
+        intervals [15]:
+            xmin = 22.528 
+            xmax = 24.036 
+            text = "#" 
+        intervals [16]:
+            xmin = 24.036 
+            xmax = 24.336 
+            text = "non" 
+        intervals [17]:
+            xmin = 24.336 
+            xmax = 35.981 
+            text = "#" 
+        intervals [18]:
+            xmin = 35.981 
+            xmax = 37.343 
+            text = "ouais ils sont tous abîmés" 
+        intervals [19]:
+            xmin = 37.343 
+            xmax = 37.998 
+            text = "#" 
+        intervals [20]:
+            xmin = 37.998 
+            xmax = 38.948 
+            text = "ils ont tous" 
+        intervals [21]:
+            xmin = 38.948 
+            xmax = 39.487 
+            text = "#" 
+        intervals [22]:
+            xmin = 39.487 
+            xmax = 41.367 
+            text = "l'air de de s'être battus" 
+        intervals [23]:
+            xmin = 41.367 
+            xmax = 50.217 
+            text = "#" 
+        intervals [24]:
+            xmin = 50.217 
+            xmax = 50.654 
+            text = "non" 
+        intervals [25]:
+            xmin = 50.654 
+            xmax = 53.423 
+            text = "#" 
+        intervals [26]:
+            xmin = 53.423 
+            xmax = 53.723 
+            text = "ouais" 
+        intervals [27]:
+            xmin = 53.723 
+            xmax = 59.489 
+            text = "#" 
+        intervals [28]:
+            xmin = 59.489 
+            xmax = 59.9044 
+            text = "non non" 

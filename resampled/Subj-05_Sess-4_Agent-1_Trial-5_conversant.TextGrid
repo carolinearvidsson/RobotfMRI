@@ -1,0 +1,146 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 60 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Transcription" 
+        xmin = 0 
+        xmax = 60 
+        intervals: size = 33 
+        intervals [1]:
+            xmin = 0 
+            xmax = 4.247 
+            text = "#" 
+        intervals [2]:
+            xmin = 4.247 
+            xmax = 8.972 
+            text = "j'en j'en ai dans mon jardin hein j'ai j'ai le cerisier on est train de faire la récolte de cerises en ce moment" 
+        intervals [3]:
+            xmin = 8.972 
+            xmax = 10.11 
+            text = "#" 
+        intervals [4]:
+            xmin = 10.11 
+            xmax = 10.334 
+            text = "ouais" 
+        intervals [5]:
+            xmin = 10.334 
+            xmax = 12.117 
+            text = "#" 
+        intervals [6]:
+            xmin = 12.117 
+            xmax = 15.069 
+            text = "elles sont elles sont petites elles sont brillantes comme comme la pomme" 
+        intervals [7]:
+            xmin = 15.069 
+            xmax = 18.067 
+            text = "#" 
+        intervals [8]:
+            xmin = 18.067 
+            xmax = 18.341 
+            text = "ouais" 
+        intervals [9]:
+            xmin = 18.341 
+            xmax = 18.641 
+            text = "#" 
+        intervals [10]:
+            xmin = 18.641 
+            xmax = 21.41 
+            text = "y a pas de vers ils brillent tu te vois dedans" 
+        intervals [11]:
+            xmin = 21.41 
+            xmax = 22.873 
+            text = "#" 
+        intervals [12]:
+            xmin = 22.873 
+            xmax = 23.117 
+            text = "non" 
+        intervals [13]:
+            xmin = 23.117 
+            xmax = 28.792 
+            text = "#" 
+        intervals [14]:
+            xmin = 28.792 
+            xmax = 28.939 
+            text = "*" 
+        intervals [15]:
+            xmin = 28.939 
+            xmax = 30.773 
+            text = "#" 
+        intervals [16]:
+            xmin = 30.773 
+            xmax = 35.006 
+            text = "ouais mais enfin peut-être il dit n'im- -fin je sais pas j'ai pas discuté avec Fuhrat mais peut-être il dit n'importe quoi" 
+        intervals [17]:
+            xmin = 35.006 
+            xmax = 35.371 
+            text = "#" 
+        intervals [18]:
+            xmin = 35.371 
+            xmax = 38.339 
+            text = "il t'a dit que c'était une pub pour défendre les pesticides" 
+        intervals [19]:
+            xmin = 38.339 
+            xmax = 44.003 
+            text = "#" 
+        intervals [20]:
+            xmin = 44.003 
+            xmax = 44.293 
+            text = "ouais" 
+        intervals [21]:
+            xmin = 44.293 
+            xmax = 44.715 
+            text = "#" 
+        intervals [22]:
+            xmin = 44.715 
+            xmax = 45.37 
+            text = "t'es" 
+        intervals [23]:
+            xmin = 45.37 
+            xmax = 46.285 
+            text = "#" 
+        intervals [24]:
+            xmin = 46.285 
+            xmax = 46.935 
+            text = "pour" 
+        intervals [25]:
+            xmin = 46.935 
+            xmax = 47.362 
+            text = "#" 
+        intervals [26]:
+            xmin = 47.362 
+            xmax = 51.995 
+            text = "euh ou d'un autre côté ils ont de l'argent donc euh peut-être ils peuvent faire de l'IRM aussi" 
+        intervals [27]:
+            xmin = 51.995 
+            xmax = 54.368 
+            text = "#" 
+        intervals [28]:
+            xmin = 54.368 
+            xmax = 55.166 
+            text = "c'est un moyen" 
+        intervals [29]:
+            xmin = 55.166 
+            xmax = 56.36 
+            text = "#" 
+        intervals [30]:
+            xmin = 56.36 
+            xmax = 56.913 
+            text = "euh @" 
+        intervals [31]:
+            xmin = 56.913 
+            xmax = 57.213 
+            text = "#" 
+        intervals [32]:
+            xmin = 57.213 
+            xmax = 59.108 
+            text = "y a personne qui écoute alors euh m'en fous" 
+        intervals [33]:
+            xmin = 59.108 
+            xmax = 59.9516 
+            text = "#" 

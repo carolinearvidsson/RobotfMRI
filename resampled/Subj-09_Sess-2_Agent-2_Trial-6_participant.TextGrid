@@ -1,0 +1,138 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 60 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Transcription" 
+        xmin = 0 
+        xmax = 60 
+        intervals: size = 31 
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.881 
+            text = "#" 
+        intervals [2]:
+            xmin = 1.881 
+            xmax = 6.066 
+            text = "sa tête est jaune alors que sur une fraise c'est vert" 
+        intervals [3]:
+            xmin = 6.066 
+            xmax = 6.609 
+            text = "#" 
+        intervals [4]:
+            xmin = 6.609 
+            xmax = 7.225 
+            text = "les feuilles" 
+        intervals [5]:
+            xmin = 7.225 
+            xmax = 12.974 
+            text = "#" 
+        intervals [6]:
+            xmin = 12.974 
+            xmax = 14.297 
+            text = "mais c'est et" 
+        intervals [7]:
+            xmin = 14.297 
+            xmax = 14.617 
+            text = "#" 
+        intervals [8]:
+            xmin = 14.617 
+            xmax = 16.756 
+            text = "les feuilles sur sa tête sont jaunes" 
+        intervals [9]:
+            xmin = 16.756 
+            xmax = 18.895 
+            text = "#" 
+        intervals [10]:
+            xmin = 18.895 
+            xmax = 20.983 
+            text = "alors que normalement elles sont vertes" 
+        intervals [11]:
+            xmin = 20.983 
+            xmax = 22.07 
+            text = "#" 
+        intervals [12]:
+            xmin = 22.07 
+            xmax = 23.379 
+            text = "normalement elles sont vertes" 
+        intervals [13]:
+            xmin = 23.379 
+            xmax = 25.09 
+            text = "#" 
+        intervals [14]:
+            xmin = 25.09 
+            xmax = 25.637 
+            text = "euh" 
+        intervals [15]:
+            xmin = 25.637 
+            xmax = 28.482 
+            text = "#" 
+        intervals [16]:
+            xmin = 28.482 
+            xmax = 29.803 
+            text = "elle a les yeux fatigués" 
+        intervals [17]:
+            xmin = 29.803 
+            xmax = 30.018 
+            text = "#" 
+        intervals [18]:
+            xmin = 30.018 
+            xmax = 32.343 
+            text = "comme si elle fermait à moitié les yeux" 
+        intervals [19]:
+            xmin = 32.343 
+            xmax = 37.733 
+            text = "#" 
+        intervals [20]:
+            xmin = 37.733 
+            xmax = 41.062 
+            text = "oui mais la poire a l'air plus triste et la framboise a l'air euh" 
+        intervals [21]:
+            xmin = 41.062 
+            xmax = 43.79 
+            text = "#" 
+        intervals [22]:
+            xmin = 43.79 
+            xmax = 44.415 
+            text = "abîmée" 
+        intervals [23]:
+            xmin = 44.415 
+            xmax = 44.827 
+            text = "#" 
+        intervals [24]:
+            xmin = 44.827 
+            xmax = 45.777 
+            text = "dégoulinante" 
+        intervals [25]:
+            xmin = 45.777 
+            xmax = 48.088 
+            text = "#" 
+        intervals [26]:
+            xmin = 48.088 
+            xmax = 49.699 
+            text = "la fraise elle euh" 
+        intervals [27]:
+            xmin = 49.699 
+            xmax = 51.569 
+            text = "#" 
+        intervals [28]:
+            xmin = 51.569 
+            xmax = 54.536 
+            text = "oui la fraise est quand même plus appétissante elle est" 
+        intervals [29]:
+            xmin = 54.536 
+            xmax = 55.562 
+            text = "#" 
+        intervals [30]:
+            xmin = 55.562 
+            xmax = 57.435 
+            text = "elle moins abîmée que les autres fruits" 
+        intervals [31]:
+            xmin = 57.435 
+            xmax = 59.9044 
+            text = "#" 

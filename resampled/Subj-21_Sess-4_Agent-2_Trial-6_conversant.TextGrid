@@ -1,0 +1,82 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 60 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Transcription" 
+        xmin = 0 
+        xmax = 60 
+        intervals: size = 17 
+        intervals [1]:
+            xmin = 0 
+            xmax = 6.91 
+            text = "#" 
+        intervals [2]:
+            xmin = 6.91 
+            xmax = 7.905 
+            text = "c'est une fraise" 
+        intervals [3]:
+            xmin = 7.905 
+            xmax = 15.745 
+            text = "#" 
+        intervals [4]:
+            xmin = 15.745 
+            xmax = 17.01 
+            text = "c'est une fraise triste" 
+        intervals [5]:
+            xmin = 17.01 
+            xmax = 22.893 
+            text = "#" 
+        intervals [6]:
+            xmin = 22.893 
+            xmax = 23.269 
+            text = "ha non" 
+        intervals [7]:
+            xmin = 23.269 
+            xmax = 32.059 
+            text = "#" 
+        intervals [8]:
+            xmin = 32.059 
+            xmax = 35.117 
+            text = "c'est peut-être une campagne pour favoriser les fruits locaux" 
+        intervals [9]:
+            xmin = 35.117 
+            xmax = 36.692 
+            text = "#" 
+        intervals [10]:
+            xmin = 36.692 
+            xmax = 37.353 
+            text = "tu ne crois pas" 
+        intervals [11]:
+            xmin = 37.353 
+            xmax = 40.792 
+            text = "#" 
+        intervals [12]:
+            xmin = 40.792 
+            xmax = 43.856 
+            text = "c'est peut-être une campagne pour favoriser les fruits locaux" 
+        intervals [13]:
+            xmin = 43.856 
+            xmax = 53.088 
+            text = "#" 
+        intervals [14]:
+            xmin = 53.088 
+            xmax = 53.408 
+            text = "oui" 
+        intervals [15]:
+            xmin = 53.408 
+            xmax = 53.733 
+            text = "#" 
+        intervals [16]:
+            xmin = 53.733 
+            xmax = 54.424 
+            text = "ça se pourrait" 
+        intervals [17]:
+            xmin = 54.424 
+            xmax = 59.9516 
+            text = "#" 

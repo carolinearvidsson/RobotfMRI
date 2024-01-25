@@ -1,0 +1,146 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 60 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Transcription" 
+        xmin = 0 
+        xmax = 60 
+        intervals: size = 33 
+        intervals [1]:
+            xmin = 0 
+            xmax = 2.236 
+            text = "#" 
+        intervals [2]:
+            xmin = 2.236 
+            xmax = 3.175 
+            text = "euh" 
+        intervals [3]:
+            xmin = 3.175 
+            xmax = 4.232 
+            text = "#" 
+        intervals [4]:
+            xmin = 4.232 
+            xmax = 6.505 
+            text = "alors on est on est de retour sur l'aubergine" 
+        intervals [5]:
+            xmin = 6.505 
+            xmax = 7.682 
+            text = "#" 
+        intervals [6]:
+            xmin = 7.682 
+            xmax = 8.535 
+            text = "euh" 
+        intervals [7]:
+            xmin = 8.535 
+            xmax = 12.925 
+            text = "#" 
+        intervals [8]:
+            xmin = 12.925 
+            xmax = 17.045 
+            text = "je suis je pense qu'il faut essayer de réfléchir à peut-être des points communs ou des euh" 
+        intervals [9]:
+            xmin = 17.045 
+            xmax = 18.351 
+            text = "#" 
+        intervals [10]:
+            xmin = 18.351 
+            xmax = 19.389 
+            text = "à mon avis tu en pense quoi" 
+        intervals [11]:
+            xmin = 19.389 
+            xmax = 20.948 
+            text = "#" 
+        intervals [12]:
+            xmin = 20.948 
+            xmax = 23.787 
+            text = "à des points communs pour essayer de chercher le message" 
+        intervals [13]:
+            xmin = 23.787 
+            xmax = 26.105 
+            text = "#" 
+        intervals [14]:
+            xmin = 26.105 
+            xmax = 26.312 
+            text = "ouais" 
+        intervals [15]:
+            xmin = 26.312 
+            xmax = 27.314 
+            text = "#" 
+        intervals [16]:
+            xmin = 27.314 
+            xmax = 35.239 
+            text = "euh ils avaient dit deux campagnes donc ça doit être je pense l'aubergine la pomme et euh ouais c'est ça d'un côté" 
+        intervals [17]:
+            xmin = 35.239 
+            xmax = 39.182 
+            text = "#" 
+        intervals [18]:
+            xmin = 39.182 
+            xmax = 39.461 
+            text = "ouais" 
+        intervals [19]:
+            xmin = 39.461 
+            xmax = 40.828 
+            text = "#" 
+        intervals [20]:
+            xmin = 40.828 
+            xmax = 41.392 
+            text = "c'est ça" 
+        intervals [21]:
+            xmin = 41.392 
+            xmax = 41.824 
+            text = "#" 
+        intervals [22]:
+            xmin = 41.824 
+            xmax = 42.738 
+            text = "euh" 
+        intervals [23]:
+            xmin = 42.738 
+            xmax = 42.865 
+            text = "#" 
+        intervals [24]:
+            xmin = 42.865 
+            xmax = 45.655 
+            text = "c'est à savoir si elles sont reliées ou si c'est vraiment deux choses différentes" 
+        intervals [25]:
+            xmin = 45.655 
+            xmax = 47.56 
+            text = "#" 
+        intervals [26]:
+            xmin = 47.56 
+            xmax = 48.52 
+            text = "euh" 
+        intervals [27]:
+            xmin = 48.52 
+            xmax = 48.972 
+            text = "#" 
+        intervals [28]:
+            xmin = 48.972 
+            xmax = 55.78 
+            text = "en en revenant là sur la sur l'aubergine je trouve qu'elle est euh très brillante euh tu vois très propre" 
+        intervals [29]:
+            xmin = 55.78 
+            xmax = 56.05 
+            text = "#" 
+        intervals [30]:
+            xmin = 56.05 
+            xmax = 57.523 
+            text = "à côté de euh" 
+        intervals [31]:
+            xmin = 57.523 
+            xmax = 58.534 
+            text = "#" 
+        intervals [32]:
+            xmin = 58.534 
+            xmax = 58.875 
+            text = "à côté" 
+        intervals [33]:
+            xmin = 58.875 
+            xmax = 59.9516 
+            text = "#" 

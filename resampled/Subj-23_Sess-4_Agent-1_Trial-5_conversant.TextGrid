@@ -1,0 +1,122 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 60 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Transcription" 
+        xmin = 0 
+        xmax = 60 
+        intervals: size = 27 
+        intervals [1]:
+            xmin = 0 
+            xmax = 2.017 
+            text = "#" 
+        intervals [2]:
+            xmin = 2.017 
+            xmax = 6.473 
+            text = "euh si je me souviens bien y en avait trois là sur euh sur euh les" 
+        intervals [3]:
+            xmin = 6.473 
+            xmax = 7.535 
+            text = "#" 
+        intervals [4]:
+            xmin = 7.535 
+            xmax = 8.058 
+            text = "les fruits" 
+        intervals [5]:
+            xmin = 8.058 
+            xmax = 9.216 
+            text = "#" 
+        intervals [6]:
+            xmin = 9.216 
+            xmax = 9.846 
+            text = "du coup euh" 
+        intervals [7]:
+            xmin = 9.846 
+            xmax = 10.502 
+            text = "#" 
+        intervals [8]:
+            xmin = 10.502 
+            xmax = 11.147 
+            text = "là c'est le troisième" 
+        intervals [9]:
+            xmin = 11.147 
+            xmax = 12.006 
+            text = "#" 
+        intervals [10]:
+            xmin = 12.006 
+            xmax = 12.793 
+            text = "c'est euh c'est le dernier" 
+        intervals [11]:
+            xmin = 12.793 
+            xmax = 13.596 
+            text = "#" 
+        intervals [12]:
+            xmin = 13.596 
+            xmax = 14.114 
+            text = "euh" 
+        intervals [13]:
+            xmin = 14.114 
+            xmax = 14.954 
+            text = "#" 
+        intervals [14]:
+            xmin = 14.954 
+            xmax = 16.919 
+            text = "faut qu'on trouve un truc peut-être euh" 
+        intervals [15]:
+            xmin = 16.919 
+            xmax = 23.346 
+            text = "#" 
+        intervals [16]:
+            xmin = 23.346 
+            xmax = 27.181 
+            text = "ouais ouais ouais elle est triste c'est peut-être autour de la tristesse de ces fruits que se situe la réponse" 
+        intervals [17]:
+            xmin = 27.181 
+            xmax = 37.764 
+            text = "#" 
+        intervals [18]:
+            xmin = 37.764 
+            xmax = 38.695 
+            text = "et euh" 
+        intervals [19]:
+            xmin = 38.695 
+            xmax = 40.859 
+            text = "#" 
+        intervals [20]:
+            xmin = 40.859 
+            xmax = 43.394 
+            text = "et ça se trouve c'est un truc contre le gaspi- contre le gaspillage" 
+        intervals [21]:
+            xmin = 43.394 
+            xmax = 43.897 
+            text = "#" 
+        intervals [22]:
+            xmin = 43.897 
+            xmax = 47.829 
+            text = "quand ils sont beaux c'est des super héros et quand ils sont pourris ils deviennent tout tristes" 
+        intervals [23]:
+            xmin = 47.829 
+            xmax = 55.877 
+            text = "#" 
+        intervals [24]:
+            xmin = 55.877 
+            xmax = 56.121 
+            text = "ouais" 
+        intervals [25]:
+            xmin = 56.121 
+            xmax = 58.092 
+            text = "#" 
+        intervals [26]:
+            xmin = 58.092 
+            xmax = 58.763 
+            text = "et je pense hein" 
+        intervals [27]:
+            xmin = 58.763 
+            xmax = 59.9516 
+            text = "#" 

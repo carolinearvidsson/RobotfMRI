@@ -1,0 +1,106 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 60 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Transcription" 
+        xmin = 0 
+        xmax = 60 
+        intervals: size = 23 
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.036 
+            text = "#" 
+        intervals [2]:
+            xmin = 1.036 
+            xmax = 4.766 
+            text = "ouais du coup maintenant qu'on revient à ces fruits là ils sont plus beaux que l'autre série non" 
+        intervals [3]:
+            xmin = 4.766 
+            xmax = 7.59 
+            text = "#" 
+        intervals [4]:
+            xmin = 7.59 
+            xmax = 11.086 
+            text = "ah bah c'est toi qui le dit moi je la trouve un peu trop belle mais j'aime pas les pommes rouges" 
+        intervals [5]:
+            xmin = 11.086 
+            xmax = 17.62 
+            text = "#" 
+        intervals [6]:
+            xmin = 17.62 
+            xmax = 26.023 
+            text = "bah comment te dire autant c'est un fruit donc c'est bon pour la santé euh mais en même temps il est un peu trop beau ce fruit maintenant qu'on a vu des fruits moches" 
+        intervals [7]:
+            xmin = 26.023 
+            xmax = 27.923 
+            text = "#" 
+        intervals [8]:
+            xmin = 27.923 
+            xmax = 31.505 
+            text = "il est tout brillant tout lisse tout rouge bien comme il faut" 
+        intervals [9]:
+            xmin = 31.505 
+            xmax = 32.074 
+            text = "#" 
+        intervals [10]:
+            xmin = 32.074 
+            xmax = 33.868 
+            text = "une vraie pomme ça ressemble pas à ça non" 
+        intervals [11]:
+            xmin = 33.868 
+            xmax = 37.734 
+            text = "#" 
+        intervals [12]:
+            xmin = 37.734 
+            xmax = 40.411 
+            text = "t'as déjà cueilli des pommes toi moi je cueillais des pommes quand j'étais petit" 
+        intervals [13]:
+            xmin = 40.411 
+            xmax = 42.55 
+            text = "#" 
+        intervals [14]:
+            xmin = 42.55 
+            xmax = 43.013 
+            text = "ah ouais" 
+        intervals [15]:
+            xmin = 43.013 
+            xmax = 43.196 
+            text = "#" 
+        intervals [16]:
+            xmin = 43.196 
+            xmax = 44.815 
+            text = "elles ressemblent pas à ça hein je te le dis hein" 
+        intervals [17]:
+            xmin = 44.815 
+            xmax = 47.951 
+            text = "#" 
+        intervals [18]:
+            xmin = 47.951 
+            xmax = 48.622 
+            text = "ah c'est gentil" 
+        intervals [19]:
+            xmin = 48.622 
+            xmax = 49.313 
+            text = "#" 
+        intervals [20]:
+            xmin = 49.313 
+            xmax = 51.467 
+            text = "t'es conciliant c- Fuhrat t'es vraiment gentil" 
+        intervals [21]:
+            xmin = 51.467 
+            xmax = 56.492 
+            text = "#" 
+        intervals [22]:
+            xmin = 56.492 
+            xmax = 57.198 
+            text = "autre chose" 
+        intervals [23]:
+            xmin = 57.198 
+            xmax = 59.9044 
+            text = "#" 

@@ -1,0 +1,154 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 60 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Transcription" 
+        xmin = 0 
+        xmax = 60 
+        intervals: size = 35 
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.417 
+            text = "#" 
+        intervals [2]:
+            xmin = 1.417 
+            xmax = 1.59 
+            text = "ouais" 
+        intervals [3]:
+            xmin = 1.59 
+            xmax = 6.828 
+            text = "#" 
+        intervals [4]:
+            xmin = 6.828 
+            xmax = 7.001 
+            text = "non" 
+        intervals [5]:
+            xmin = 7.001 
+            xmax = 7.54 
+            text = "#" 
+        intervals [6]:
+            xmin = 7.54 
+            xmax = 8.378 
+            text = "mais euh" 
+        intervals [7]:
+            xmin = 8.378 
+            xmax = 8.871 
+            text = "#" 
+        intervals [8]:
+            xmin = 8.871 
+            xmax = 10.166 
+            text = "la poire ça va elle est mangeable alors" 
+        intervals [9]:
+            xmin = 10.166 
+            xmax = 10.466 
+            text = "#" 
+        intervals [10]:
+            xmin = 10.466 
+            xmax = 11.086 
+            text = "-fin je pense" 
+        intervals [11]:
+            xmin = 11.086 
+            xmax = 13.291 
+            text = "#" 
+        intervals [12]:
+            xmin = 13.291 
+            xmax = 14.5 
+            text = "elle est commence à brunir mais bon" 
+        intervals [13]:
+            xmin = 14.5 
+            xmax = 17.147 
+            text = "#" 
+        intervals [14]:
+            xmin = 17.147 
+            xmax = 17.406 
+            text = "ouais" 
+        intervals [15]:
+            xmin = 17.406 
+            xmax = 18.864 
+            text = "#" 
+        intervals [16]:
+            xmin = 18.864 
+            xmax = 22.406 
+            text = "je sais pas parce que le robot me dit que c'est une campagne pour le" 
+        intervals [17]:
+            xmin = 22.406 
+            xmax = 22.965 
+            text = "#" 
+        intervals [18]:
+            xmin = 22.965 
+            xmax = 23.889 
+            text = "les producteurs locaux" 
+        intervals [19]:
+            xmin = 23.889 
+            xmax = 25.774 
+            text = "#" 
+        intervals [20]:
+            xmin = 25.774 
+            xmax = 26.877 
+            text = "j'ai pas compris le message" 
+        intervals [21]:
+            xmin = 26.877 
+            xmax = 34.411 
+            text = "#" 
+        intervals [22]:
+            xmin = 34.411 
+            xmax = 34.619 
+            text = "*" 
+        intervals [23]:
+            xmin = 34.619 
+            xmax = 38.943 
+            text = "#" 
+        intervals [24]:
+            xmin = 38.943 
+            xmax = 40.127 
+            text = "le transport le trajet" 
+        intervals [25]:
+            xmin = 40.127 
+            xmax = 41.809 
+            text = "#" 
+        intervals [26]:
+            xmin = 41.809 
+            xmax = 42.017 
+            text = "ouais" 
+        intervals [27]:
+            xmin = 42.017 
+            xmax = 42.901 
+            text = "#" 
+        intervals [28]:
+            xmin = 42.901 
+            xmax = 44.313 
+            text = "c'est bizarre comme" 
+        intervals [29]:
+            xmin = 44.313 
+            xmax = 45.38 
+            text = "#" 
+        intervals [30]:
+            xmin = 45.38 
+            xmax = 45.899 
+            text = "comme campagne" 
+        intervals [31]:
+            xmin = 45.899 
+            xmax = 47.194 
+            text = "#" 
+        intervals [32]:
+            xmin = 47.194 
+            xmax = 47.402 
+            text = "ouais" 
+        intervals [33]:
+            xmin = 47.402 
+            xmax = 52.59 
+            text = "#" 
+        intervals [34]:
+            xmin = 52.59 
+            xmax = 53.255 
+            text = "oui justement ouais" 
+        intervals [35]:
+            xmin = 53.255 
+            xmax = 59.9044 
+            text = "#" 

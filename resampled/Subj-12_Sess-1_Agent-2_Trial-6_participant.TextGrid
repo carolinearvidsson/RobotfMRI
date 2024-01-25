@@ -1,0 +1,138 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 60 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Transcription" 
+        xmin = 0 
+        xmax = 60 
+        intervals: size = 31 
+        intervals [1]:
+            xmin = 0 
+            xmax = 2.342 
+            text = "#" 
+        intervals [2]:
+            xmin = 2.342 
+            xmax = 5.111 
+            text = "oui cette image donc c'est une demi citron vert" 
+        intervals [3]:
+            xmin = 5.111 
+            xmax = 7.545 
+            text = "#" 
+        intervals [4]:
+            xmin = 7.545 
+            xmax = 11.431 
+            text = "qui ressemble à un masque qui ressemble à un personnage de $Tortue Ninja$" 
+        intervals [5]:
+            xmin = 11.431 
+            xmax = 15.725 
+            text = "#" 
+        intervals [6]:
+            xmin = 15.725 
+            xmax = 16.954 
+            text = "oui super héros c'est vrai" 
+        intervals [7]:
+            xmin = 16.954 
+            xmax = 19.601 
+            text = "#" 
+        intervals [8]:
+            xmin = 19.601 
+            xmax = 21.796 
+            text = "mais euh plus particulièrement $Tortue Ninja$" 
+        intervals [9]:
+            xmin = 21.796 
+            xmax = 22.238 
+            text = "#" 
+        intervals [10]:
+            xmin = 22.238 
+            xmax = 22.426 
+            text = "non" 
+        intervals [11]:
+            xmin = 22.426 
+            xmax = 33.029 
+            text = "#" 
+        intervals [12]:
+            xmin = 33.029 
+            xmax = 33.807 
+            text = "ah non c'est vrai" 
+        intervals [13]:
+            xmin = 33.807 
+            xmax = 35.554 
+            text = "#" 
+        intervals [14]:
+            xmin = 35.554 
+            xmax = 36.266 
+            text = "c'est vrai c'est vrai" 
+        intervals [15]:
+            xmin = 36.266 
+            xmax = 36.748 
+            text = "#" 
+        intervals [16]:
+            xmin = 36.748 
+            xmax = 38.676 
+            text = "c'est vrai qu'il est pas méchant comme les autres c'est vrai" 
+        intervals [17]:
+            xmin = 38.676 
+            xmax = 40.457 
+            text = "#" 
+        intervals [18]:
+            xmin = 40.457 
+            xmax = 40.635 
+            text = "*" 
+        intervals [19]:
+            xmin = 40.635 
+            xmax = 43.485 
+            text = "#" 
+        intervals [20]:
+            xmin = 43.485 
+            xmax = 48.012 
+            text = "euh l'idée générale derrière les trois images y a le carnaval le masque euh" 
+        intervals [21]:
+            xmin = 48.012 
+            xmax = 49.564 
+            text = "#" 
+        intervals [22]:
+            xmin = 49.564 
+            xmax = 50.329 
+            text = "les déguisements" 
+        intervals [23]:
+            xmin = 50.329 
+            xmax = 52.783 
+            text = "#" 
+        intervals [24]:
+            xmin = 52.783 
+            xmax = 54.475 
+            text = "c'est des-z-héros de" 
+        intervals [25]:
+            xmin = 54.475 
+            xmax = 55.379 
+            text = "#" 
+        intervals [26]:
+            xmin = 55.379 
+            xmax = 56.537 
+            text = "de films d'animation" 
+        intervals [27]:
+            xmin = 56.537 
+            xmax = 56.822 
+            text = "#" 
+        intervals [28]:
+            xmin = 56.822 
+            xmax = 57.543 
+            text = "de dessins animés" 
+        intervals [29]:
+            xmin = 57.543 
+            xmax = 58.311 
+            text = "#" 
+        intervals [30]:
+            xmin = 58.311 
+            xmax = 58.501 
+            text = "-fin" 
+        intervals [31]:
+            xmin = 58.501 
+            xmax = 59.9044 
+            text = "#" 

@@ -1,0 +1,122 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 60 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Transcription" 
+        xmin = 0 
+        xmax = 60 
+        intervals: size = 27 
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.58 
+            text = "#" 
+        intervals [2]:
+            xmin = 1.58 
+            xmax = 2.815 
+            text = "elle fait de la peine celle là hein" 
+        intervals [3]:
+            xmin = 2.815 
+            xmax = 4.562 
+            text = "#" 
+        intervals [4]:
+            xmin = 4.562 
+            xmax = 4.786 
+            text = "ouais" 
+        intervals [5]:
+            xmin = 4.786 
+            xmax = 12.758 
+            text = "#" 
+        intervals [6]:
+            xmin = 12.758 
+            xmax = 12.956 
+            text = "mh" 
+        intervals [7]:
+            xmin = 12.956 
+            xmax = 15.648 
+            text = "#" 
+        intervals [8]:
+            xmin = 15.648 
+            xmax = 17.218 
+            text = "ouais ouais ouais comme si elle avait été battue" 
+        intervals [9]:
+            xmin = 17.218 
+            xmax = 22.695 
+            text = "#" 
+        intervals [10]:
+            xmin = 22.695 
+            xmax = 22.934 
+            text = "ouais" 
+        intervals [11]:
+            xmin = 22.934 
+            xmax = 28.65 
+            text = "#" 
+        intervals [12]:
+            xmin = 28.65 
+            xmax = 29.051 
+            text = "tu euh" 
+        intervals [13]:
+            xmin = 29.051 
+            xmax = 30.728 
+            text = "#" 
+        intervals [14]:
+            xmin = 30.728 
+            xmax = 31.043 
+            text = "ouais" 
+        intervals [15]:
+            xmin = 31.043 
+            xmax = 33.807 
+            text = "#" 
+        intervals [16]:
+            xmin = 33.807 
+            xmax = 37.973 
+            text = "mh mh bah je je pense que ça pourrait être un tu sais un truc de maltraitance ou" 
+        intervals [17]:
+            xmin = 37.973 
+            xmax = 38.344 
+            text = "#" 
+        intervals [18]:
+            xmin = 38.344 
+            xmax = 39.009 
+            text = "quelque chose comme ça" 
+        intervals [19]:
+            xmin = 39.009 
+            xmax = 45.187 
+            text = "#" 
+        intervals [20]:
+            xmin = 45.187 
+            xmax = 45.411 
+            text = "mh" 
+        intervals [21]:
+            xmin = 45.411 
+            xmax = 46.976 
+            text = "#" 
+        intervals [22]:
+            xmin = 46.976 
+            xmax = 47.28 
+            text = "ouais" 
+        intervals [23]:
+            xmin = 47.28 
+            xmax = 51.919 
+            text = "#" 
+        intervals [24]:
+            xmin = 51.919 
+            xmax = 53.093 
+            text = "non non c'est vrai t'as raison" 
+        intervals [25]:
+            xmin = 53.093 
+            xmax = 53.906 
+            text = "#" 
+        intervals [26]:
+            xmin = 53.906 
+            xmax = 56.039 
+            text = "euh mais ça pourrait être quoi alors" 
+        intervals [27]:
+            xmin = 56.039 
+            xmax = 59.9516 
+            text = "#" 

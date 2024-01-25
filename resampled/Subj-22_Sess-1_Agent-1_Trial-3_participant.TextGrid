@@ -1,0 +1,98 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 60 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Transcription" 
+        xmin = 0 
+        xmax = 60 
+        intervals: size = 21 
+        intervals [1]:
+            xmin = 0 
+            xmax = 4.344 
+            text = "#" 
+        intervals [2]:
+            xmin = 4.344 
+            xmax = 5.38 
+            text = "euh c'est un citron vert" 
+        intervals [3]:
+            xmin = 5.38 
+            xmax = 14.327 
+            text = "#" 
+        intervals [4]:
+            xmin = 14.327 
+            xmax = 15.455 
+            text = "euh moi j'ai pas compris" 
+        intervals [5]:
+            xmin = 15.455 
+            xmax = 16.909 
+            text = "#" 
+        intervals [6]:
+            xmin = 16.909 
+            xmax = 17.325 
+            text = "c'est le" 
+        intervals [7]:
+            xmin = 17.325 
+            xmax = 19.159 
+            text = "#" 
+        intervals [8]:
+            xmin = 19.159 
+            xmax = 21.582 
+            text = "c'est genre $Tortue Ninja$ ou quoi cette fois-ci" 
+        intervals [9]:
+            xmin = 21.582 
+            xmax = 28.995 
+            text = "#" 
+        intervals [10]:
+            xmin = 28.995 
+            xmax = 29.366 
+            text = "ouais" 
+        intervals [11]:
+            xmin = 29.366 
+            xmax = 30.067 
+            text = "#" 
+        intervals [12]:
+            xmin = 30.067 
+            xmax = 31.551 
+            text = "euh ça fait $Tortue Ninja$" 
+        intervals [13]:
+            xmin = 31.551 
+            xmax = 42.825 
+            text = "#" 
+        intervals [14]:
+            xmin = 42.825 
+            xmax = 44.029 
+            text = "c'est ça légumes et fruits" 
+        intervals [15]:
+            xmin = 44.029 
+            xmax = 44.242 
+            text = "#" 
+        intervals [16]:
+            xmin = 44.242 
+            xmax = 44.679 
+            text = "en effet" 
+        intervals [17]:
+            xmin = 44.679 
+            xmax = 45.609 
+            text = "#" 
+        intervals [18]:
+            xmin = 45.609 
+            xmax = 47.499 
+            text = "donc plus pour les enfants obligé" 
+        intervals [19]:
+            xmin = 47.499 
+            xmax = 52.095 
+            text = "#" 
+        intervals [20]:
+            xmin = 52.095 
+            xmax = 53.562 
+            text = "ou pour les grands enfants ouais" 
+        intervals [21]:
+            xmin = 53.562 
+            xmax = 59.9044 
+            text = "#" 

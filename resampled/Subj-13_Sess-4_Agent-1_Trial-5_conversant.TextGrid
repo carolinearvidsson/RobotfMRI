@@ -1,0 +1,94 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 60 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Transcription" 
+        xmin = 0 
+        xmax = 60 
+        intervals: size = 20 
+        intervals [1]:
+            xmin = 0 
+            xmax = 3.307 
+            text = "#" 
+        intervals [2]:
+            xmin = 3.307 
+            xmax = 4.181 
+            text = "ouais ouais ouais" 
+        intervals [3]:
+            xmin = 4.181 
+            xmax = 7.646 
+            text = "#" 
+        intervals [4]:
+            xmin = 7.646 
+            xmax = 7.885 
+            text = "ouais" 
+        intervals [5]:
+            xmin = 7.885 
+            xmax = 15.902 
+            text = "#" 
+        intervals [6]:
+            xmin = 15.902 
+            xmax = 16.299 
+            text = "ah" 
+        intervals [7]:
+            xmin = 16.299 
+            xmax = 17.33 
+            text = "#" 
+        intervals [8]:
+            xmin = 17.33 
+            xmax = 21.603 
+            text = "faut pas gâcher la nourriture on les a fait grandir avec amour et euhu" 
+        intervals [9]:
+            xmin = 21.603 
+            xmax = 23.031 
+            text = "#" 
+        intervals [10]:
+            xmin = 23.031 
+            xmax = 23.655 
+            text = "ouais ouais ouais" 
+        intervals [11]:
+            xmin = 23.655 
+            xmax = 32.293 
+            text = "#" 
+        intervals [12]:
+            xmin = 32.293 
+            xmax = 38.735 
+            text = "d'accord ok donc c'est vraiment le manger des légumes non seulement vous devenez plus fort mais en plus eux ils vont être tristes si vous les manger pas" 
+        intervals [13]:
+            xmin = 38.735 
+            xmax = 40.147 
+            text = "#" 
+        intervals [14]:
+            xmin = 40.147 
+            xmax = 40.625 
+            text = "ah ouais" 
+        intervals [15]:
+            xmin = 40.625 
+            xmax = 41.859 
+            text = "#" 
+        intervals [16]:
+            xmin = 41.859 
+            xmax = 44.385 
+            text = "ça d- ça donne ça donne un sens général c'est" 
+        intervals [17]:
+            xmin = 44.385 
+            xmax = 44.659 
+            text = "#" 
+        intervals [18]:
+            xmin = 44.659 
+            xmax = 45.36 
+            text = "peut-être ça" 
+        intervals [19]:
+            xmin = 45.36 
+            xmax = 52.27 
+            text = "#" 
+        intervals [20]:
+            xmin = 52.27 
+            xmax = 59.9516 
+            text = "ah oui oui oui ben oui comme c'est personnalisé ça fait un peu plus sympa euh on parle à des enfants et tout et puis euh des $Marvel$ ouais ça marche" 

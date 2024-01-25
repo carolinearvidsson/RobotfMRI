@@ -1,0 +1,178 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 60 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Transcription" 
+        xmin = 0 
+        xmax = 60 
+        intervals: size = 41 
+        intervals [1]:
+            xmin = 0 
+            xmax = 2.596 
+            text = "#" 
+        intervals [2]:
+            xmin = 2.596 
+            xmax = 3.211 
+            text = "la framboise" 
+        intervals [3]:
+            xmin = 3.211 
+            xmax = 4.115 
+            text = "#" 
+        intervals [4]:
+            xmin = 4.115 
+            xmax = 4.628 
+            text = "est" 
+        intervals [5]:
+            xmin = 4.628 
+            xmax = 5.89 
+            text = "#" 
+        intervals [6]:
+            xmin = 5.89 
+            xmax = 7.753 
+            text = "presque en confiture par endroits" 
+        intervals [7]:
+            xmin = 7.753 
+            xmax = 9.486 
+            text = "#" 
+        intervals [8]:
+            xmin = 9.486 
+            xmax = 11.716 
+            text = "peut-être euh peut-être qu'elle a été frappée euh" 
+        intervals [9]:
+            xmin = 11.716 
+            xmax = 12.661 
+            text = "#" 
+        intervals [10]:
+            xmin = 12.661 
+            xmax = 13.509 
+            text = "frappée par" 
+        intervals [11]:
+            xmin = 13.509 
+            xmax = 14.627 
+            text = "#" 
+        intervals [12]:
+            xmin = 14.627 
+            xmax = 15.354 
+            text = "par un autre fruit" 
+        intervals [13]:
+            xmin = 15.354 
+            xmax = 19.322 
+            text = "#" 
+        intervals [14]:
+            xmin = 19.322 
+            xmax = 21.471 
+            text = "pour moi elle me donne vraiment pas envie de me" 
+        intervals [15]:
+            xmin = 21.471 
+            xmax = 21.776 
+            text = "#" 
+        intervals [16]:
+            xmin = 21.776 
+            xmax = 22.548 
+            text = "de manger celle là" 
+        intervals [17]:
+            xmin = 22.548 
+            xmax = 23.386 
+            text = "#" 
+        intervals [18]:
+            xmin = 23.386 
+            xmax = 24.682 
+            text = "une framboise normalement c'est" 
+        intervals [19]:
+            xmin = 24.682 
+            xmax = 25.083 
+            text = "#" 
+        intervals [20]:
+            xmin = 25.083 
+            xmax = 29.254 
+            text = "c'est rose c'est rosée c'est c'est bien beau c'est bien bien régulier etcetera" 
+        intervals [21]:
+            xmin = 29.254 
+            xmax = 30.022 
+            text = "#" 
+        intervals [22]:
+            xmin = 30.022 
+            xmax = 30.819 
+            text = "surtout dans les" 
+        intervals [23]:
+            xmin = 30.819 
+            xmax = 31.825 
+            text = "#" 
+        intervals [24]:
+            xmin = 31.825 
+            xmax = 33.42 
+            text = "surtout dans les dans les pubs" 
+        intervals [25]:
+            xmin = 33.42 
+            xmax = 33.669 
+            text = "#" 
+        intervals [26]:
+            xmin = 33.669 
+            xmax = 35.27 
+            text = "elle soit magnifique la framboise et là" 
+        intervals [27]:
+            xmin = 35.27 
+            xmax = 35.946 
+            text = "#" 
+        intervals [28]:
+            xmin = 35.946 
+            xmax = 37.546 
+            text = "elle est toute raplapla euh" 
+        intervals [29]:
+            xmin = 37.546 
+            xmax = 38.707 
+            text = "#" 
+        intervals [30]:
+            xmin = 38.707 
+            xmax = 39.532 
+            text = "euh non pas envie" 
+        intervals [31]:
+            xmin = 39.532 
+            xmax = 43.602 
+            text = "#" 
+        intervals [32]:
+            xmin = 43.602 
+            xmax = 44.253 
+            text = "ah peut-être" 
+        intervals [33]:
+            xmin = 44.253 
+            xmax = 45.398 
+            text = "#" 
+        intervals [34]:
+            xmin = 45.398 
+            xmax = 47.362 
+            text = "peut-être qu'elle vient de loin et qu'elle a fait un long trajet" 
+        intervals [35]:
+            xmin = 47.362 
+            xmax = 48.302 
+            text = "#" 
+        intervals [36]:
+            xmin = 48.302 
+            xmax = 51.304 
+            text = "c'est possible qu'elle vient de loin elle a fait un long trajet et du coup euh" 
+        intervals [37]:
+            xmin = 51.304 
+            xmax = 52.722 
+            text = "#" 
+        intervals [38]:
+            xmin = 52.722 
+            xmax = 53.987 
+            text = "elle est toute abîmée à cause de ça" 
+        intervals [39]:
+            xmin = 53.987 
+            xmax = 58.053 
+            text = "#" 
+        intervals [40]:
+            xmin = 58.053 
+            xmax = 58.539 
+            text = "peut-être que c'est" 
+        intervals [41]:
+            xmin = 58.539 
+            xmax = 59.9044 
+            text = "#" 

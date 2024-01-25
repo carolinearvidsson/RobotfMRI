@@ -1,0 +1,122 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 60 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Transcription" 
+        xmin = 0 
+        xmax = 60 
+        intervals: size = 27 
+        intervals [1]:
+            xmin = 0 
+            xmax = 2.454 
+            text = "#" 
+        intervals [2]:
+            xmin = 2.454 
+            xmax = 3.384 
+            text = "bonjour robot" 
+        intervals [3]:
+            xmin = 3.384 
+            xmax = 5.843 
+            text = "#" 
+        intervals [4]:
+            xmin = 5.843 
+            xmax = 7.472 
+            text = "donc ça c'est une aubergine" 
+        intervals [5]:
+            xmin = 7.472 
+            xmax = 9.608 
+            text = "#" 
+        intervals [6]:
+            xmin = 9.608 
+            xmax = 11.167 
+            text = "avec les sourcils froncés" 
+        intervals [7]:
+            xmin = 11.167 
+            xmax = 13.438 
+            text = "#" 
+        intervals [8]:
+            xmin = 13.438 
+            xmax = 14.419 
+            text = "et euh" 
+        intervals [9]:
+            xmin = 14.419 
+            xmax = 14.937 
+            text = "#" 
+        intervals [10]:
+            xmin = 14.937 
+            xmax = 17.569 
+            text = "et un grand sourire mais on dirait un sourire méchant" 
+        intervals [11]:
+            xmin = 17.569 
+            xmax = 20.434 
+            text = "#" 
+        intervals [12]:
+            xmin = 20.434 
+            xmax = 20.739 
+            text = "oui" 
+        intervals [13]:
+            xmin = 20.739 
+            xmax = 21.379 
+            text = "#" 
+        intervals [14]:
+            xmin = 21.379 
+            xmax = 21.837 
+            text = "bah oui" 
+        intervals [15]:
+            xmin = 21.837 
+            xmax = 24.509 
+            text = "#" 
+        intervals [16]:
+            xmin = 24.509 
+            xmax = 25.109 
+            text = "je suis d'accord" 
+        intervals [17]:
+            xmin = 25.109 
+            xmax = 27.552 
+            text = "#" 
+        intervals [18]:
+            xmin = 27.552 
+            xmax = 27.811 
+            text = "ouais" 
+        intervals [19]:
+            xmin = 27.811 
+            xmax = 34.726 
+            text = "#" 
+        intervals [20]:
+            xmin = 34.726 
+            xmax = 35.92 
+            text = "oui c'est possible oui" 
+        intervals [21]:
+            xmin = 35.92 
+            xmax = 36.449 
+            text = "#" 
+        intervals [22]:
+            xmin = 36.449 
+            xmax = 38.176 
+            text = "oui ça ressemble aux citrouilles encore" 
+        intervals [23]:
+            xmin = 38.176 
+            xmax = 46.386 
+            text = "#" 
+        intervals [24]:
+            xmin = 46.386 
+            xmax = 46.61 
+            text = "oui" 
+        intervals [25]:
+            xmin = 46.61 
+            xmax = 52.524 
+            text = "#" 
+        intervals [26]:
+            xmin = 52.524 
+            xmax = 52.808 
+            text = "oui" 
+        intervals [27]:
+            xmin = 52.808 
+            xmax = 59.9044 
+            text = "#" 

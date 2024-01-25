@@ -1,0 +1,122 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 60 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Transcription" 
+        xmin = 0 
+        xmax = 60 
+        intervals: size = 27 
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.209 
+            text = "#" 
+        intervals [2]:
+            xmin = 1.209 
+            xmax = 1.88 
+            text = "c'est euh" 
+        intervals [3]:
+            xmin = 1.88 
+            xmax = 2.708 
+            text = "#" 
+        intervals [4]:
+            xmin = 2.708 
+            xmax = 4.949 
+            text = "c'est peut-être moi qui vais chercher trop loin parce que" 
+        intervals [5]:
+            xmin = 4.949 
+            xmax = 5.137 
+            text = "#" 
+        intervals [6]:
+            xmin = 5.137 
+            xmax = 7.143 
+            text = "c'est une campagne de pub faut quand même que les gens puissent comprendre" 
+        intervals [7]:
+            xmin = 7.143 
+            xmax = 9.973 
+            text = "#" 
+        intervals [8]:
+            xmin = 9.973 
+            xmax = 12.752 
+            text = "et euh c'est vrai qu'on a parlé des spé- des pesticides avant" 
+        intervals [9]:
+            xmin = 12.752 
+            xmax = 13.072 
+            text = "#" 
+        intervals [10]:
+            xmin = 13.072 
+            xmax = 14.642 
+            text = "donc c'est probablement plus euh" 
+        intervals [11]:
+            xmin = 14.642 
+            xmax = 17.498 
+            text = "#" 
+        intervals [12]:
+            xmin = 17.498 
+            xmax = 17.935 
+            text = "plus euh" 
+        intervals [13]:
+            xmin = 17.935 
+            xmax = 18.92 
+            text = "#" 
+        intervals [14]:
+            xmin = 18.92 
+            xmax = 19.87 
+            text = "ouais ça saute aux yeux quoi" 
+        intervals [15]:
+            xmin = 19.87 
+            xmax = 30.398 
+            text = "#" 
+        intervals [16]:
+            xmin = 30.398 
+            xmax = 30.718 
+            text = "mh mh" 
+        intervals [17]:
+            xmin = 30.718 
+            xmax = 36.103 
+            text = "#" 
+        intervals [18]:
+            xmin = 36.103 
+            xmax = 36.347 
+            text = "ouais" 
+        intervals [19]:
+            xmin = 36.347 
+            xmax = 37.084 
+            text = "#" 
+        intervals [20]:
+            xmin = 37.084 
+            xmax = 39.883 
+            text = "ben ça se trouve ils sont là pour interroger les écritures arrivent après" 
+        intervals [21]:
+            xmin = 39.883 
+            xmax = 44.598 
+            text = "#" 
+        intervals [22]:
+            xmin = 44.598 
+            xmax = 47.89 
+            text = "euh je sais pas tu vois créer de la surprise et puis pour que les gens lisent derrière" 
+        intervals [23]:
+            xmin = 47.89 
+            xmax = 48.535 
+            text = "#" 
+        intervals [24]:
+            xmin = 48.535 
+            xmax = 50.065 
+            text = "toi tu ferais quoi si tu euh" 
+        intervals [25]:
+            xmin = 50.065 
+            xmax = 52.138 
+            text = "#" 
+        intervals [26]:
+            xmin = 52.138 
+            xmax = 54.134 
+            text = "tu voulais essayer de travailler là-dessus tu vois" 
+        intervals [27]:
+            xmin = 54.134 
+            xmax = 59.9516 
+            text = "#" 

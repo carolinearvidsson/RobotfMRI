@@ -1,0 +1,154 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 60 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Transcription" 
+        xmin = 0 
+        xmax = 60 
+        intervals: size = 35 
+        intervals [1]:
+            xmin = 0 
+            xmax = 7.829 
+            text = "#" 
+        intervals [2]:
+            xmin = 7.829 
+            xmax = 8.058 
+            text = "ouais" 
+        intervals [3]:
+            xmin = 8.058 
+            xmax = 9.13 
+            text = "#" 
+        intervals [4]:
+            xmin = 9.13 
+            xmax = 11.289 
+            text = "euh on dirait une fraise un peu vénère" 
+        intervals [5]:
+            xmin = 11.289 
+            xmax = 13.921 
+            text = "#" 
+        intervals [6]:
+            xmin = 13.921 
+            xmax = 14.175 
+            text = "ouais" 
+        intervals [7]:
+            xmin = 14.175 
+            xmax = 14.47 
+            text = "#" 
+        intervals [8]:
+            xmin = 14.47 
+            xmax = 14.82 
+            text = "ouais ouais" 
+        intervals [9]:
+            xmin = 14.82 
+            xmax = 15.347 
+            text = "#" 
+        intervals [10]:
+            xmin = 15.347 
+            xmax = 16.065 
+            text = "vénère et blasée" 
+        intervals [11]:
+            xmin = 16.065 
+            xmax = 18.717 
+            text = "#" 
+        intervals [12]:
+            xmin = 18.717 
+            xmax = 19.032 
+            text = "mh mh" 
+        intervals [13]:
+            xmin = 19.032 
+            xmax = 21.349 
+            text = "#" 
+        intervals [14]:
+            xmin = 21.349 
+            xmax = 21.552 
+            text = "ouais" 
+        intervals [15]:
+            xmin = 21.552 
+            xmax = 21.877 
+            text = "#" 
+        intervals [16]:
+            xmin = 21.877 
+            xmax = 23.3 
+            text = "c'est euh t'as raison" 
+        intervals [17]:
+            xmin = 23.3 
+            xmax = 23.843 
+            text = "#" 
+        intervals [18]:
+            xmin = 23.843 
+            xmax = 25.515 
+            text = "mais elle a l'air moins" 
+        intervals [19]:
+            xmin = 25.515 
+            xmax = 27.258 
+            text = "#" 
+        intervals [20]:
+            xmin = 27.258 
+            xmax = 31.022 
+            text = "moins triste ouais et puis elle fait plus envie en même temps tu vois parce que" 
+        intervals [21]:
+            xmin = 31.022 
+            xmax = 32.699 
+            text = "#" 
+        intervals [22]:
+            xmin = 32.699 
+            xmax = 34.762 
+            text = "je sais pas moi la framboise" 
+        intervals [23]:
+            xmin = 34.762 
+            xmax = 35.077 
+            text = "#" 
+        intervals [24]:
+            xmin = 35.077 
+            xmax = 38.948 
+            text = "j'aurais j'étais prête à la classifier dans les pas dans les méchants mais si en quelques sortes" 
+        intervals [25]:
+            xmin = 38.948 
+            xmax = 39.136 
+            text = "#" 
+        intervals [26]:
+            xmin = 39.136 
+            xmax = 39.375 
+            text = "tu vois" 
+        intervals [27]:
+            xmin = 39.375 
+            xmax = 40.493 
+            text = "#" 
+        intervals [28]:
+            xmin = 40.493 
+            xmax = 42.708 
+            text = "la fraise c'est une battante mais je dirais pas que c'est une méchante" 
+        intervals [29]:
+            xmin = 42.708 
+            xmax = 45.004 
+            text = "#" 
+        intervals [30]:
+            xmin = 45.004 
+            xmax = 46.02 
+            text = "je sais pas ce que t'en penses toi" 
+        intervals [31]:
+            xmin = 46.02 
+            xmax = 50.837 
+            text = "#" 
+        intervals [32]:
+            xmin = 50.837 
+            xmax = 52.28 
+            text = "ah ouais tu l'aurais classé où alors" 
+        intervals [33]:
+            xmin = 52.28 
+            xmax = 55.831 
+            text = "#" 
+        intervals [34]:
+            xmin = 55.831 
+            xmax = 56.893 
+            text = "ah dans les gens rejettés" 
+        intervals [35]:
+            xmin = 56.893 
+            xmax = 59.9516 
+            text = "#" 

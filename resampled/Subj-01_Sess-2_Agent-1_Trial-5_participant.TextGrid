@@ -1,0 +1,126 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 60 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Transcription" 
+        xmin = 0 
+        xmax = 60 
+        intervals: size = 28 
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.006 
+            text = "#" 
+        intervals [2]:
+            xmin = 1.006 
+            xmax = 1.306 
+            text = "***" 
+        intervals [3]:
+            xmin = 1.306 
+            xmax = 1.529 
+            text = "#" 
+        intervals [4]:
+            xmin = 1.529 
+            xmax = 4.867 
+            text = "là c'était la poire voilà euh un peu abimée un peu difforme" 
+        intervals [5]:
+            xmin = 4.867 
+            xmax = 5.421 
+            text = "#" 
+        intervals [6]:
+            xmin = 5.421 
+            xmax = 7.159 
+            text = "avec une une expression triste" 
+        intervals [7]:
+            xmin = 7.159 
+            xmax = 17.005 
+            text = "#" 
+        intervals [8]:
+            xmin = 17.005 
+            xmax = 18.463 
+            text = "mais non non là là voilà une" 
+        intervals [9]:
+            xmin = 18.463 
+            xmax = 18.742 
+            text = "#" 
+        intervals [10]:
+            xmin = 18.742 
+            xmax = 19.174 
+            text = "poire" 
+        intervals [11]:
+            xmin = 19.174 
+            xmax = 19.682 
+            text = "#" 
+        intervals [12]:
+            xmin = 19.682 
+            xmax = 20.963 
+            text = "difforme triste" 
+        intervals [13]:
+            xmin = 20.963 
+            xmax = 21.262 
+            text = "#" 
+        intervals [14]:
+            xmin = 21.262 
+            xmax = 22.507 
+            text = "les bras un peu ballants" 
+        intervals [15]:
+            xmin = 22.507 
+            xmax = 23.244 
+            text = "#" 
+        intervals [16]:
+            xmin = 23.244 
+            xmax = 25.312 
+            text = "ça s'inspire vraiment pas la même chose que les" 
+        intervals [17]:
+            xmin = 25.312 
+            xmax = 25.642 
+            text = "#" 
+        intervals [18]:
+            xmin = 25.642 
+            xmax = 27.141 
+            text = "super héros qu'on a vu tout à l'heure" 
+        intervals [19]:
+            xmin = 27.141 
+            xmax = 32.379 
+            text = "#" 
+        intervals [20]:
+            xmin = 32.379 
+            xmax = 32.648 
+            text = "non" 
+        intervals [21]:
+            xmin = 32.648 
+            xmax = 46.732 
+            text = "#" 
+        intervals [22]:
+            xmin = 46.732 
+            xmax = 49.333 
+            text = "peut être oui ouais ça me fait un peu penser à" 
+        intervals [23]:
+            xmin = 49.333 
+            xmax = 49.694 
+            text = "#" 
+        intervals [24]:
+            xmin = 49.694 
+            xmax = 52.402 
+            text = "fruit qu'on retrouve dans dans dans la pub Oasis aussi" 
+        intervals [25]:
+            xmin = 52.402 
+            xmax = 53.057 
+            text = "#" 
+        intervals [26]:
+            xmin = 53.057 
+            xmax = 54.637 
+            text = "comment ils sont un peu dessinés voilà" 
+        intervals [27]:
+            xmin = 54.637 
+            xmax = 58.341 
+            text = "#" 
+        intervals [28]:
+            xmin = 58.341 
+            xmax = 59.9044 
+            text = "ouais là ils sont un peu abimés" 

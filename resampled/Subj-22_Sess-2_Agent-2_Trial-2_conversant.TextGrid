@@ -1,0 +1,98 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 60 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Transcription" 
+        xmin = 0 
+        xmax = 60 
+        intervals: size = 21 
+        intervals [1]:
+            xmin = 0 
+            xmax = 2.845 
+            text = "#" 
+        intervals [2]:
+            xmin = 2.845 
+            xmax = 3.45 
+            text = "salut" 
+        intervals [3]:
+            xmin = 3.45 
+            xmax = 4.705 
+            text = "#" 
+        intervals [4]:
+            xmin = 4.705 
+            xmax = 5.7 
+            text = "c'est une poire" 
+        intervals [5]:
+            xmin = 5.7 
+            xmax = 9.374 
+            text = "#" 
+        intervals [6]:
+            xmin = 9.374 
+            xmax = 10.781 
+            text = "c'est une poire moche" 
+        intervals [7]:
+            xmin = 10.781 
+            xmax = 12.219 
+            text = "#" 
+        intervals [8]:
+            xmin = 12.219 
+            xmax = 13.484 
+            text = "c'est une poire pourrie" 
+        intervals [9]:
+            xmin = 13.484 
+            xmax = 21.135 
+            text = "#" 
+        intervals [10]:
+            xmin = 21.135 
+            xmax = 22.304 
+            text = "ses bras pendent" 
+        intervals [11]:
+            xmin = 22.304 
+            xmax = 28.426 
+            text = "#" 
+        intervals [12]:
+            xmin = 28.426 
+            xmax = 30.596 
+            text = "non je pense que tu as tort" 
+        intervals [13]:
+            xmin = 30.596 
+            xmax = 33.314 
+            text = "#" 
+        intervals [14]:
+            xmin = 33.314 
+            xmax = 34.782 
+            text = "oui exactement" 
+        intervals [15]:
+            xmin = 34.782 
+            xmax = 38.928 
+            text = "#" 
+        intervals [16]:
+            xmin = 38.928 
+            xmax = 40.33 
+            text = "la poire est un peu abîmée" 
+        intervals [17]:
+            xmin = 40.33 
+            xmax = 48.002 
+            text = "#" 
+        intervals [18]:
+            xmin = 48.002 
+            xmax = 49.374 
+            text = "elle semble malheureuse" 
+        intervals [19]:
+            xmin = 49.374 
+            xmax = 54.962 
+            text = "#" 
+        intervals [20]:
+            xmin = 54.962 
+            xmax = 57.015 
+            text = "elle est peut-être triste car elle est pourrie" 
+        intervals [21]:
+            xmin = 57.015 
+            xmax = 59.9516 
+            text = "#" 

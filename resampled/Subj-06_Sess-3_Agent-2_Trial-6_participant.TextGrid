@@ -1,0 +1,130 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 60 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Transcription" 
+        xmin = 0 
+        xmax = 60 
+        intervals: size = 29 
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.031 
+            text = "#" 
+        intervals [2]:
+            xmin = 1.031 
+            xmax = 2.195 
+            text = "salut à toi voyageur" 
+        intervals [3]:
+            xmin = 2.195 
+            xmax = 4.07 
+            text = "#" 
+        intervals [4]:
+            xmin = 4.07 
+            xmax = 7.631 
+            text = "bon donne moi des informations s'il te plaît je sais que c'est toi qui a les informations allez" 
+        intervals [5]:
+            xmin = 7.631 
+            xmax = 10.405 
+            text = "#" 
+        intervals [6]:
+            xmin = 10.405 
+            xmax = 12.478 
+            text = "elle me sent peut-être ouais je sais @" 
+        intervals [7]:
+            xmin = 12.478 
+            xmax = 14.678 
+            text = "#" 
+        intervals [8]:
+            xmin = 14.678 
+            xmax = 15.577 
+            text = "oui ça" 
+        intervals [9]:
+            xmin = 15.577 
+            xmax = 20.46 
+            text = "#" 
+        intervals [10]:
+            xmin = 20.46 
+            xmax = 22.548 
+            text = "mais euh du coup on éduque les enfants aux pesticides" 
+        intervals [11]:
+            xmin = 22.548 
+            xmax = 27.324 
+            text = "#" 
+        intervals [12]:
+            xmin = 27.324 
+            xmax = 27.466 
+            text = "si" 
+        intervals [13]:
+            xmin = 27.466 
+            xmax = 27.73 
+            text = "#" 
+        intervals [14]:
+            xmin = 27.73 
+            xmax = 28.38 
+            text = "c'est qui qui a" 
+        intervals [15]:
+            xmin = 28.38 
+            xmax = 32.658 
+            text = "#" 
+        intervals [16]:
+            xmin = 32.658 
+            xmax = 34.274 
+            text = "comme les autres c'est à dire les autres" 
+        intervals [17]:
+            xmin = 34.274 
+            xmax = 37.759 
+            text = "#" 
+        intervals [18]:
+            xmin = 37.759 
+            xmax = 39.151 
+            text = "et euh" 
+        intervals [19]:
+            xmin = 39.151 
+            xmax = 39.858 
+            text = "#" 
+        intervals [20]:
+            xmin = 39.858 
+            xmax = 40.96 
+            text = "c'est qui qui fait ces pubs" 
+        intervals [21]:
+            xmin = 40.96 
+            xmax = 43.338 
+            text = "#" 
+        intervals [22]:
+            xmin = 43.338 
+            xmax = 45.106 
+            text = "ça doit être sur des organismes euh fruitiers" 
+        intervals [23]:
+            xmin = 45.106 
+            xmax = 45.949 
+            text = "#" 
+        intervals [24]:
+            xmin = 45.949 
+            xmax = 46.793 
+            text = "de la santé" 
+        intervals [25]:
+            xmin = 46.793 
+            xmax = 52.534 
+            text = "#" 
+        intervals [26]:
+            xmin = 52.534 
+            xmax = 53.819 
+            text = "elle go des clubs de végétariens" 
+        intervals [27]:
+            xmin = 53.819 
+            xmax = 57.223 
+            text = "#" 
+        intervals [28]:
+            xmin = 57.223 
+            xmax = 58.031 
+            text = "des vegans" 
+        intervals [29]:
+            xmin = 58.031 
+            xmax = 59.9044 
+            text = "#" 

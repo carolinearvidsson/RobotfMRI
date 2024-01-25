@@ -1,0 +1,126 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 60 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Transcription" 
+        xmin = 0 
+        xmax = 60 
+        intervals: size = 28 
+        intervals [1]:
+            xmin = 0 
+            xmax = 3.675 
+            text = "#" 
+        intervals [2]:
+            xmin = 3.675 
+            xmax = 5.457 
+            text = "ok on a un demi citron c'est ça" 
+        intervals [3]:
+            xmin = 5.457 
+            xmax = 8.139 
+            text = "#" 
+        intervals [4]:
+            xmin = 8.139 
+            xmax = 9.074 
+            text = "ah là c'est mieux" 
+        intervals [5]:
+            xmin = 9.074 
+            xmax = 13.24 
+            text = "#" 
+        intervals [6]:
+            xmin = 13.24 
+            xmax = 15.374 
+            text = "euh a- a- apparemment elle m'entend pas beaucoup" 
+        intervals [7]:
+            xmin = 15.374 
+            xmax = 16.863 
+            text = "#" 
+        intervals [8]:
+            xmin = 16.863 
+            xmax = 17.142 
+            text = "c'est moi" 
+        intervals [9]:
+            xmin = 17.142 
+            xmax = 18.097 
+            text = "#" 
+        intervals [10]:
+            xmin = 18.097 
+            xmax = 18.809 
+            text = "euh" 
+        intervals [11]:
+            xmin = 18.809 
+            xmax = 19.154 
+            text = "#" 
+        intervals [12]:
+            xmin = 19.154 
+            xmax = 20.881 
+            text = "est ce que si je parle plus fort ça va mieux" 
+        intervals [13]:
+            xmin = 20.881 
+            xmax = 22.751 
+            text = "#" 
+        intervals [14]:
+            xmin = 22.751 
+            xmax = 23.686 
+            text = "ok d'accord" 
+        intervals [15]:
+            xmin = 23.686 
+            xmax = 24.174 
+            text = "#" 
+        intervals [16]:
+            xmin = 24.174 
+            xmax = 26.388 
+            text = "euh on dirait un demi citron vert cette fois-ci" 
+        intervals [17]:
+            xmin = 26.388 
+            xmax = 27.883 
+            text = "#" 
+        intervals [18]:
+            xmin = 27.883 
+            xmax = 30.453 
+            text = "avec euh encore une fois des yeux qui ont été découpés" 
+        intervals [19]:
+            xmin = 30.453 
+            xmax = 35.016 
+            text = "#" 
+        intervals [20]:
+            xmin = 35.016 
+            xmax = 35.676 
+            text = "ah euh ouais" 
+        intervals [21]:
+            xmin = 35.676 
+            xmax = 39.66 
+            text = "#" 
+        intervals [22]:
+            xmin = 39.66 
+            xmax = 44.862 
+            text = "ah oui moi j'aurais dit le masque de $Zorro$ mais euh oui les $Tortues Ninja$ ça rentre peut-être mieux" 
+        intervals [23]:
+            xmin = 44.862 
+            xmax = 46.849 
+            text = "#" 
+        intervals [24]:
+            xmin = 46.849 
+            xmax = 47.057 
+            text = "ouais" 
+        intervals [25]:
+            xmin = 47.057 
+            xmax = 54.47 
+            text = "#" 
+        intervals [26]:
+            xmin = 54.47 
+            xmax = 55.349 
+            text = "ah c'est possible" 
+        intervals [27]:
+            xmin = 55.349 
+            xmax = 57.137 
+            text = "#" 
+        intervals [28]:
+            xmin = 57.137 
+            xmax = 59.9516 
+            text = "c'est possible j'ai pas beaucoup regardé euh ce dé-" 

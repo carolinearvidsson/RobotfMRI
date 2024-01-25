@@ -1,0 +1,90 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 60 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Transcription" 
+        xmin = 0 
+        xmax = 60 
+        intervals: size = 19 
+        intervals [1]:
+            xmin = 0 
+            xmax = 6.95 
+            text = "#" 
+        intervals [2]:
+            xmin = 6.95 
+            xmax = 7.179 
+            text = "ouais" 
+        intervals [3]:
+            xmin = 7.179 
+            xmax = 7.469 
+            text = "#" 
+        intervals [4]:
+            xmin = 7.469 
+            xmax = 9.684 
+            text = "et elle est toute abîmée elle a l'air un peu triste" 
+        intervals [5]:
+            xmin = 9.684 
+            xmax = 20.399 
+            text = "#" 
+        intervals [6]:
+            xmin = 20.399 
+            xmax = 23.849 
+            text = "ouais ben je sais pas toi mais moi elle me fait un petit peu un peu pitié" 
+        intervals [7]:
+            xmin = 23.849 
+            xmax = 26.389 
+            text = "#" 
+        intervals [8]:
+            xmin = 26.389 
+            xmax = 26.531 
+            text = "mh" 
+        intervals [9]:
+            xmin = 26.531 
+            xmax = 31.84 
+            text = "#" 
+        intervals [10]:
+            xmin = 31.84 
+            xmax = 34.396 
+            text = "euh attends je sais plus la question avec les autres fruits" 
+        intervals [11]:
+            xmin = 34.396 
+            xmax = 36.601 
+            text = "#" 
+        intervals [12]:
+            xmin = 36.601 
+            xmax = 43.704 
+            text = "ah oui euh si c'était les tu sais les mêmes données parce que je je voyais pas le point commun entre la framboise et la fraise mais euh" 
+        intervals [13]:
+            xmin = 43.704 
+            xmax = 44.029 
+            text = "#" 
+        intervals [14]:
+            xmin = 44.029 
+            xmax = 45.98 
+            text = "avec la poire y a l'aspect qu'elles sont" 
+        intervals [15]:
+            xmin = 45.98 
+            xmax = 46.158 
+            text = "#" 
+        intervals [16]:
+            xmin = 46.158 
+            xmax = 46.833 
+            text = "toutes abîmées" 
+        intervals [17]:
+            xmin = 46.833 
+            xmax = 56.482 
+            text = "#" 
+        intervals [18]:
+            xmin = 56.482 
+            xmax = 56.71 
+            text = "ouais" 
+        intervals [19]:
+            xmin = 56.71 
+            xmax = 59.9516 
+            text = "#" 

@@ -1,0 +1,86 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 60 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Transcription" 
+        xmin = 0 
+        xmax = 60 
+        intervals: size = 18 
+        intervals [1]:
+            xmin = 0 
+            xmax = 16.761 
+            text = "#" 
+        intervals [2]:
+            xmin = 16.761 
+            xmax = 17.183 
+            text = "ah oui" 
+        intervals [3]:
+            xmin = 17.183 
+            xmax = 23.406 
+            text = "#" 
+        intervals [4]:
+            xmin = 23.406 
+            xmax = 23.808 
+            text = "oui" 
+        intervals [5]:
+            xmin = 23.808 
+            xmax = 24.006 
+            text = "#" 
+        intervals [6]:
+            xmin = 24.006 
+            xmax = 24.804 
+            text = "exactement" 
+        intervals [7]:
+            xmin = 24.804 
+            xmax = 28.701 
+            text = "#" 
+        intervals [8]:
+            xmin = 28.701 
+            xmax = 29.076 
+            text = "oui" 
+        intervals [9]:
+            xmin = 29.076 
+            xmax = 40.594 
+            text = "#" 
+        intervals [10]:
+            xmin = 40.594 
+            xmax = 42.301 
+            text = "elle est pourrie parce qu'elle vient de loin" 
+        intervals [11]:
+            xmin = 42.301 
+            xmax = 46.92 
+            text = "#" 
+        intervals [12]:
+            xmin = 46.92 
+            xmax = 47.728 
+            text = "tu ne crois pas" 
+        intervals [13]:
+            xmin = 47.728 
+            xmax = 55.145 
+            text = "#" 
+        intervals [14]:
+            xmin = 55.145 
+            xmax = 55.552 
+            text = "oui" 
+        intervals [15]:
+            xmin = 55.552 
+            xmax = 55.745 
+            text = "#" 
+        intervals [16]:
+            xmin = 55.745 
+            xmax = 56.751 
+            text = "oui en effet" 
+        intervals [17]:
+            xmin = 56.751 
+            xmax = 58.224 
+            text = "#" 
+        intervals [18]:
+            xmin = 58.224 
+            xmax = 59.9516 
+            text = "c'est une campagne pour des fruits" 

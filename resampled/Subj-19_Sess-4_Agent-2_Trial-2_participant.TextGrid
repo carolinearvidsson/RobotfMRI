@@ -1,0 +1,122 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 60 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Transcription" 
+        xmin = 0 
+        xmax = 60 
+        intervals: size = 27 
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.91 
+            text = "#" 
+        intervals [2]:
+            xmin = 1.91 
+            xmax = 2.561 
+            text = "salut" 
+        intervals [3]:
+            xmin = 2.561 
+            xmax = 5.04 
+            text = "#" 
+        intervals [4]:
+            xmin = 5.04 
+            xmax = 5.609 
+            text = "alors" 
+        intervals [5]:
+            xmin = 5.609 
+            xmax = 6.529 
+            text = "#" 
+        intervals [6]:
+            xmin = 6.529 
+            xmax = 11.355 
+            text = "peut-être que c'est une campagne qui veut dire qu'il faut manger les les lé- les fruits même quand ils sont abimés" 
+        intervals [7]:
+            xmin = 11.355 
+            xmax = 11.98 
+            text = "#" 
+        intervals [8]:
+            xmin = 11.98 
+            xmax = 14.145 
+            text = "tu vois pour pas les jeter c'est contre le gaspillage" 
+        intervals [9]:
+            xmin = 14.145 
+            xmax = 17.544 
+            text = "#" 
+        intervals [10]:
+            xmin = 17.544 
+            xmax = 18.191 
+            text = "ça se peut" 
+        intervals [11]:
+            xmin = 18.191 
+            xmax = 21.637 
+            text = "#" 
+        intervals [12]:
+            xmin = 21.637 
+            xmax = 25.119 
+            text = "même quand ils sont pas dégueulasse ils ont pas l'air sympa ils sont tristes" 
+        intervals [13]:
+            xmin = 25.119 
+            xmax = 25.759 
+            text = "#" 
+        intervals [14]:
+            xmin = 25.759 
+            xmax = 26.927 
+            text = "mais c'est quand même des bons fruits" 
+        intervals [15]:
+            xmin = 26.927 
+            xmax = 27.446 
+            text = "#" 
+        intervals [16]:
+            xmin = 27.446 
+            xmax = 28.853 
+            text = "pour faire manger des fruits aux enfants" 
+        intervals [17]:
+            xmin = 28.853 
+            xmax = 37.839 
+            text = "#" 
+        intervals [18]:
+            xmin = 37.839 
+            xmax = 41.198 
+            text = "c'est peut-être oh merde c'est peut-être une campagne pour tu peux répéter" 
+        intervals [19]:
+            xmin = 41.198 
+            xmax = 49.577 
+            text = "#" 
+        intervals [20]:
+            xmin = 49.577 
+            xmax = 51.883 
+            text = "ça doit être une campagne pour euh les fruits" 
+        intervals [21]:
+            xmin = 51.883 
+            xmax = 53.442 
+            text = "#" 
+        intervals [22]:
+            xmin = 53.442 
+            xmax = 54.297 
+            text = "fruits et légumes" 
+        intervals [23]:
+            xmin = 54.297 
+            xmax = 54.581 
+            text = "#" 
+        intervals [24]:
+            xmin = 54.581 
+            xmax = 55.013 
+            text = "je sais pas" 
+        intervals [25]:
+            xmin = 55.013 
+            xmax = 55.577 
+            text = "#" 
+        intervals [26]:
+            xmin = 55.577 
+            xmax = 57.35 
+            text = "je suis désolée je ne comprends pas" 
+        intervals [27]:
+            xmin = 57.35 
+            xmax = 59.9044 
+            text = "#" 

@@ -1,0 +1,90 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 60 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Transcription" 
+        xmin = 0 
+        xmax = 60 
+        intervals: size = 19 
+        intervals [1]:
+            xmin = 0 
+            xmax = 4.659 
+            text = "#" 
+        intervals [2]:
+            xmin = 4.659 
+            xmax = 4.949 
+            text = "oui" 
+        intervals [3]:
+            xmin = 4.949 
+            xmax = 5.162 
+            text = "#" 
+        intervals [4]:
+            xmin = 5.162 
+            xmax = 11.081 
+            text = "euh je sais pas je suis pas j'ai pas trop regardé les $Tortues Ninjas$ mais maintenant que tu le dis effectivement ça" 
+        intervals [5]:
+            xmin = 11.081 
+            xmax = 18.224 
+            text = "#" 
+        intervals [6]:
+            xmin = 18.224 
+            xmax = 18.687 
+            text = "d'accord" 
+        intervals [7]:
+            xmin = 18.687 
+            xmax = 22.624 
+            text = "#" 
+        intervals [8]:
+            xmin = 22.624 
+            xmax = 31.51 
+            text = "euh non pas trop -fin je euh disons que je connais de euh de nom et j'ai quand même l'image mais je les regardais pas du coup c'est un peu moins automatique mais maintenant que tu le dis effectivement ça" 
+        intervals [9]:
+            xmin = 31.51 
+            xmax = 32.12 
+            text = "#" 
+        intervals [10]:
+            xmin = 32.12 
+            xmax = 33.359 
+            text = "ça oui -fin je" 
+        intervals [11]:
+            xmin = 33.359 
+            xmax = 33.741 
+            text = "#" 
+        intervals [12]:
+            xmin = 33.741 
+            xmax = 35.961 
+            text = "j'arrive à reconnaître ça dans le dans le citron" 
+        intervals [13]:
+            xmin = 35.961 
+            xmax = 45.721 
+            text = "#" 
+        intervals [14]:
+            xmin = 45.721 
+            xmax = 47.423 
+            text = "ah oui tu veux dire les attaches à l'arrière" 
+        intervals [15]:
+            xmin = 47.423 
+            xmax = 48.693 
+            text = "#" 
+        intervals [16]:
+            xmin = 48.693 
+            xmax = 48.886 
+            text = "ouais" 
+        intervals [17]:
+            xmin = 48.886 
+            xmax = 50.329 
+            text = "#" 
+        intervals [18]:
+            xmin = 50.329 
+            xmax = 51.406 
+            text = "euh" 
+        intervals [19]:
+            xmin = 51.406 
+            xmax = 59.9516 
+            text = "#S" 

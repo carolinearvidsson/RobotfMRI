@@ -1,0 +1,154 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 60 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Transcription" 
+        xmin = 0 
+        xmax = 60 
+        intervals: size = 35 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.64 
+            text = "#" 
+        intervals [2]:
+            xmin = 0.64 
+            xmax = 1.128 
+            text = "salut $Fuhrat$" 
+        intervals [3]:
+            xmin = 1.128 
+            xmax = 2.794 
+            text = "#" 
+        intervals [4]:
+            xmin = 2.794 
+            xmax = 4.075 
+            text = "pourquoi ils se sont fait frapper les fruits" 
+        intervals [5]:
+            xmin = 4.075 
+            xmax = 7.479 
+            text = "#" 
+        intervals [6]:
+            xmin = 7.479 
+            xmax = 8.119 
+            text = "*" 
+        intervals [7]:
+            xmin = 8.119 
+            xmax = 13.591 
+            text = "#" 
+        intervals [8]:
+            xmin = 13.591 
+            xmax = 14.5 
+            text = "la violence est partie là" 
+        intervals [9]:
+            xmin = 14.5 
+            xmax = 18.422 
+            text = "#" 
+        intervals [10]:
+            xmin = 18.422 
+            xmax = 18.666 
+            text = "*" 
+        intervals [11]:
+            xmin = 18.666 
+            xmax = 19.408 
+            text = "#" 
+        intervals [12]:
+            xmin = 19.408 
+            xmax = 22.06 
+            text = "et c'est pas les autres fruits qui ont fait ça" 
+        intervals [13]:
+            xmin = 22.06 
+            xmax = 23.615 
+            text = "#" 
+        intervals [14]:
+            xmin = 23.615 
+            xmax = 24.519 
+            text = "pourquoi prendre de la vie" 
+        intervals [15]:
+            xmin = 24.519 
+            xmax = 24.88 
+            text = "#" 
+        intervals [16]:
+            xmin = 24.88 
+            xmax = 25.048 
+            text = "pren-" 
+        intervals [17]:
+            xmin = 25.048 
+            xmax = 27.253 
+            text = "#" 
+        intervals [18]:
+            xmin = 27.253 
+            xmax = 31.043 
+            text = "pourquoi prendre la nourriture pour illustrer la la violence" 
+        intervals [19]:
+            xmin = 31.043 
+            xmax = 34.421 
+            text = "#" 
+        intervals [20]:
+            xmin = 34.421 
+            xmax = 37.607 
+            text = "pourquoi pas des hochets des je sais pas moi des cartables des" 
+        intervals [21]:
+            xmin = 37.607 
+            xmax = 38.521 
+            text = "#" 
+        intervals [22]:
+            xmin = 38.521 
+            xmax = 40.899 
+            text = "des trucs que qu'ils ont les enfants et qui sont *" 
+        intervals [23]:
+            xmin = 40.899 
+            xmax = 43.704 
+            text = "#" 
+        intervals [24]:
+            xmin = 43.704 
+            xmax = 45.675 
+            text = "c'est pas clair *" 
+        intervals [25]:
+            xmin = 45.675 
+            xmax = 46.549 
+            text = "#" 
+        intervals [26]:
+            xmin = 46.549 
+            xmax = 47.362 
+            text = "du coup euh" 
+        intervals [27]:
+            xmin = 47.362 
+            xmax = 49.267 
+            text = "#" 
+        intervals [28]:
+            xmin = 49.267 
+            xmax = 50.004 
+            text = "ben si" 
+        intervals [29]:
+            xmin = 50.004 
+            xmax = 51.269 
+            text = "#" 
+        intervals [30]:
+            xmin = 51.269 
+            xmax = 51.853 
+            text = "si ça va" 
+        intervals [31]:
+            xmin = 51.853 
+            xmax = 52.117 
+            text = "#" 
+        intervals [32]:
+            xmin = 52.117 
+            xmax = 55.328 
+            text = "moi je croyais qu'il était moisi et par rapport au super héros c'est" 
+        intervals [33]:
+            xmin = 55.328 
+            xmax = 55.526 
+            text = "#" 
+        intervals [34]:
+            xmin = 55.526 
+            xmax = 56.893 
+            text = "c'est *" 
+        intervals [35]:
+            xmin = 56.893 
+            xmax = 59.9044 
+            text = "#" 

@@ -1,0 +1,122 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 60 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Transcription" 
+        xmin = 0 
+        xmax = 60 
+        intervals: size = 27 
+        intervals [1]:
+            xmin = 0 
+            xmax = 5.767 
+            text = "#" 
+        intervals [2]:
+            xmin = 5.767 
+            xmax = 10.883 
+            text = "elle est toujours pas jolie et elle a les yeux avec du noir dedans comme la fraise" 
+        intervals [3]:
+            xmin = 10.883 
+            xmax = 13.155 
+            text = "#" 
+        intervals [4]:
+            xmin = 13.155 
+            xmax = 14.52 
+            text = "mais euh" 
+        intervals [5]:
+            xmin = 14.52 
+            xmax = 17.604 
+            text = "#" 
+        intervals [6]:
+            xmin = 17.604 
+            xmax = 22.137 
+            text = "ils sont vraiment très très moches ces fruits et je ne sais pas pourquoi *" 
+        intervals [7]:
+            xmin = 22.137 
+            xmax = 23.264 
+            text = "#" 
+        intervals [8]:
+            xmin = 23.264 
+            xmax = 23.767 
+            text = "ah si" 
+        intervals [9]:
+            xmin = 23.767 
+            xmax = 27.471 
+            text = "#" 
+        intervals [10]:
+            xmin = 27.471 
+            xmax = 29.356 
+            text = "malades tristes euh" 
+        intervals [11]:
+            xmin = 29.356 
+            xmax = 30.113 
+            text = "#" 
+        intervals [12]:
+            xmin = 30.113 
+            xmax = 32.213 
+            text = "je vois vraiment pas pourquoi *" 
+        intervals [13]:
+            xmin = 32.213 
+            xmax = 32.597 
+            text = "#" 
+        intervals [14]:
+            xmin = 32.597 
+            xmax = 34.416 
+            text = "parce que les pesticides" 
+        intervals [15]:
+            xmin = 34.416 
+            xmax = 38.659 
+            text = "#" 
+        intervals [16]:
+            xmin = 38.659 
+            xmax = 39.731 
+            text = "triste parce qu'elle est" 
+        intervals [17]:
+            xmin = 39.731 
+            xmax = 40.212 
+            text = "#" 
+        intervals [18]:
+            xmin = 40.212 
+            xmax = 41.488 
+            text = "j'ai pas compris" 
+        intervals [19]:
+            xmin = 41.488 
+            xmax = 47.341 
+            text = "#" 
+        intervals [20]:
+            xmin = 47.341 
+            xmax = 48.459 
+            text = "j'ai pas compris" 
+        intervals [21]:
+            xmin = 48.459 
+            xmax = 49.221 
+            text = "#" 
+        intervals [22]:
+            xmin = 49.221 
+            xmax = 51.162 
+            text = "puis triste parce qu'elle est" 
+        intervals [23]:
+            xmin = 51.162 
+            xmax = 57.599 
+            text = "#" 
+        intervals [24]:
+            xmin = 57.599 
+            xmax = 58.153 
+            text = "punie" 
+        intervals [25]:
+            xmin = 58.153 
+            xmax = 58.88 
+            text = "#" 
+        intervals [26]:
+            xmin = 58.88 
+            xmax = 59.474 
+            text = "non" 
+        intervals [27]:
+            xmin = 59.474 
+            xmax = 59.9044 
+            text = "#" 

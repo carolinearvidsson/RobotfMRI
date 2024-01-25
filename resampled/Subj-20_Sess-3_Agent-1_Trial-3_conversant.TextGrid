@@ -1,0 +1,130 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 60 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Transcription" 
+        xmin = 0 
+        xmax = 60 
+        intervals: size = 29 
+        intervals [1]:
+            xmin = 0 
+            xmax = 2.561 
+            text = "#" 
+        intervals [2]:
+            xmin = 2.561 
+            xmax = 7.631 
+            text = "euh ouais ouais ce que ce que j'étais en train de te euh de te de de te demander" 
+        intervals [3]:
+            xmin = 7.631 
+            xmax = 8.139 
+            text = "#" 
+        intervals [4]:
+            xmin = 8.139 
+            xmax = 10.334 
+            text = "c'est ce que tu penses que c'est euh" 
+        intervals [5]:
+            xmin = 10.334 
+            xmax = 10.74 
+            text = "#" 
+        intervals [6]:
+            xmin = 10.74 
+            xmax = 16.126 
+            text = "c'est indépendant parce qu'on en a vu trois qui sont euh qui sont en super héros euh" 
+        intervals [7]:
+            xmin = 16.126 
+            xmax = 16.553 
+            text = "#" 
+        intervals [8]:
+            xmin = 16.553 
+            xmax = 17.203 
+            text = "super beaux" 
+        intervals [9]:
+            xmin = 17.203 
+            xmax = 18.041 
+            text = "#" 
+        intervals [10]:
+            xmin = 18.041 
+            xmax = 19.56 
+            text = "et on en a vu euh" 
+        intervals [11]:
+            xmin = 19.56 
+            xmax = 20.135 
+            text = "#" 
+        intervals [12]:
+            xmin = 20.135 
+            xmax = 22.304 
+            text = "trois autres c'est ça trois autres" 
+        intervals [13]:
+            xmin = 22.304 
+            xmax = 23.163 
+            text = "#" 
+        intervals [14]:
+            xmin = 23.163 
+            xmax = 23.927 
+            text = "qui sont un peu moches" 
+        intervals [15]:
+            xmin = 23.927 
+            xmax = 25.286 
+            text = "#" 
+        intervals [16]:
+            xmin = 25.286 
+            xmax = 26.836 
+            text = "euh" 
+        intervals [17]:
+            xmin = 26.836 
+            xmax = 27.248 
+            text = "#" 
+        intervals [18]:
+            xmin = 27.248 
+            xmax = 30.108 
+            text = "du coup je ouais je me demandais est ce que tu penses que c'est des messages euh différents" 
+        intervals [19]:
+            xmin = 30.108 
+            xmax = 39.431 
+            text = "#" 
+        intervals [20]:
+            xmin = 39.431 
+            xmax = 39.761 
+            text = "mh mh" 
+        intervals [21]:
+            xmin = 39.761 
+            xmax = 46.346 
+            text = "#" 
+        intervals [22]:
+            xmin = 46.346 
+            xmax = 48.251 
+            text = "et du coup c'est des fruits euh" 
+        intervals [23]:
+            xmin = 48.251 
+            xmax = 48.845 
+            text = "#" 
+        intervals [24]:
+            xmin = 48.845 
+            xmax = 52.178 
+            text = "euh c'est des fruits qui mangent leurs congénaires alors euh ceux qui euh" 
+        intervals [25]:
+            xmin = 52.178 
+            xmax = 56.563 
+            text = "#" 
+        intervals [26]:
+            xmin = 56.563 
+            xmax = 57.274 
+            text = "ben c'est euh" 
+        intervals [27]:
+            xmin = 57.274 
+            xmax = 57.462 
+            text = "#" 
+        intervals [28]:
+            xmin = 57.462 
+            xmax = 57.929 
+            text = "circulaire" 
+        intervals [29]:
+            xmin = 57.929 
+            xmax = 59.9516 
+            text = "#" 

@@ -1,0 +1,98 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 60 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Transcription" 
+        xmin = 0 
+        xmax = 60 
+        intervals: size = 21 
+        intervals [1]:
+            xmin = 0 
+            xmax = 7.184 
+            text = "#" 
+        intervals [2]:
+            xmin = 7.184 
+            xmax = 7.611 
+            text = "ouais" 
+        intervals [3]:
+            xmin = 7.611 
+            xmax = 10.71 
+            text = "#" 
+        intervals [4]:
+            xmin = 10.71 
+            xmax = 11.899 
+            text = "la même esthétique" 
+        intervals [5]:
+            xmin = 11.899 
+            xmax = 15.344 
+            text = "#" 
+        intervals [6]:
+            xmin = 15.344 
+            xmax = 16.431 
+            text = "la même vibe" 
+        intervals [7]:
+            xmin = 16.431 
+            xmax = 21.257 
+            text = "#" 
+        intervals [8]:
+            xmin = 21.257 
+            xmax = 21.577 
+            text = "ouais" 
+        intervals [9]:
+            xmin = 21.577 
+            xmax = 26.912 
+            text = "#" 
+        intervals [10]:
+            xmin = 26.912 
+            xmax = 27.263 
+            text = "ouais" 
+        intervals [11]:
+            xmin = 27.263 
+            xmax = 29.478 
+            text = "#" 
+        intervals [12]:
+            xmin = 29.478 
+            xmax = 29.825 
+            text = "ouais" 
+        intervals [13]:
+            xmin = 29.825 
+            xmax = 40.64 
+            text = "#" 
+        intervals [14]:
+            xmin = 40.64 
+            xmax = 42.444 
+            text = "ouais non ils ont l'air un peu fatigués ouais" 
+        intervals [15]:
+            xmin = 42.444 
+            xmax = 43.099 
+            text = "#" 
+        intervals [16]:
+            xmin = 43.099 
+            xmax = 44.226 
+            text = "euh trop mûrs" 
+        intervals [17]:
+            xmin = 44.226 
+            xmax = 50.166 
+            text = "#" 
+        intervals [18]:
+            xmin = 50.166 
+            xmax = 50.552 
+            text = "ouais" 
+        intervals [19]:
+            xmin = 50.552 
+            xmax = 57.919 
+            text = "#" 
+        intervals [20]:
+            xmin = 57.919 
+            xmax = 58.338 
+            text = "ouais non" 
+        intervals [21]:
+            xmin = 58.338 
+            xmax = 59.9044 
+            text = "#" 

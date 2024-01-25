@@ -1,0 +1,114 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 60 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Transcription" 
+        xmin = 0 
+        xmax = 60 
+        intervals: size = 25 
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.277 
+            text = "#" 
+        intervals [2]:
+            xmin = 1.277 
+            xmax = 1.593 
+            text = "ouais" 
+        intervals [3]:
+            xmin = 1.593 
+            xmax = 7.355 
+            text = "#" 
+        intervals [4]:
+            xmin = 7.355 
+            xmax = 8.363 
+            text = "on a fait le tour de" 
+        intervals [5]:
+            xmin = 8.363 
+            xmax = 9.76 
+            text = "#" 
+        intervals [6]:
+            xmin = 9.76 
+            xmax = 9.989 
+            text = "ouais" 
+        intervals [7]:
+            xmin = 9.989 
+            xmax = 14.089 
+            text = "#" 
+        intervals [8]:
+            xmin = 14.089 
+            xmax = 17.02 
+            text = "ben après avec du texte ça sera plus clair je pense comme me- comme message" 
+        intervals [9]:
+            xmin = 17.02 
+            xmax = 19.459 
+            text = "#" 
+        intervals [10]:
+            xmin = 19.459 
+            xmax = 19.682 
+            text = "ouais" 
+        intervals [11]:
+            xmin = 19.682 
+            xmax = 24.931 
+            text = "#" 
+        intervals [12]:
+            xmin = 24.931 
+            xmax = 25.291 
+            text = "ouais" 
+        intervals [13]:
+            xmin = 25.291 
+            xmax = 33.426 
+            text = "#" 
+        intervals [14]:
+            xmin = 33.426 
+            xmax = 33.807 
+            text = "ouais" 
+        intervals [15]:
+            xmin = 33.807 
+            xmax = 35.219 
+            text = "#" 
+        intervals [16]:
+            xmin = 35.219 
+            xmax = 36.55 
+            text = "les aubergines oui c'est français ouais" 
+        intervals [17]:
+            xmin = 36.55 
+            xmax = 40.875 
+            text = "#" 
+        intervals [18]:
+            xmin = 40.875 
+            xmax = 41.062 
+            text = "ouais" 
+        intervals [19]:
+            xmin = 41.062 
+            xmax = 42.77 
+            text = "#" 
+        intervals [20]:
+            xmin = 42.77 
+            xmax = 44.903 
+            text = "pareil on a pas mal de produits en France aussi donc" 
+        intervals [21]:
+            xmin = 44.903 
+            xmax = 48.525 
+            text = "#" 
+        intervals [22]:
+            xmin = 48.525 
+            xmax = 48.784 
+            text = "ouais" 
+        intervals [23]:
+            xmin = 48.784 
+            xmax = 55.384 
+            text = "#" 
+        intervals [24]:
+            xmin = 55.384 
+            xmax = 55.592 
+            text = "ouais" 
+        intervals [25]:
+            xmin = 55.592 
+            xmax = 59.9044 
+            text = "#" 

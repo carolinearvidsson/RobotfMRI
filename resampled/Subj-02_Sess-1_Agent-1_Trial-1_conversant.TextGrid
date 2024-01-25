@@ -1,0 +1,122 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 60 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Transcription" 
+        xmin = 0 
+        xmax = 60 
+        intervals: size = 27 
+        intervals [1]:
+            xmin = 0 
+            xmax = 7.631 
+            text = "#" 
+        intervals [2]:
+            xmin = 7.631 
+            xmax = 8.403 
+            text = "euh oui" 
+        intervals [3]:
+            xmin = 8.403 
+            xmax = 8.612 
+            text = "#" 
+        intervals [4]:
+            xmin = 8.612 
+            xmax = 9.303 
+            text = "oui on dirait" 
+        intervals [5]:
+            xmin = 9.303 
+            xmax = 10.131 
+            text = "#" 
+        intervals [6]:
+            xmin = 10.131 
+            xmax = 11.96 
+            text = "euh par contre elle a été découpé non" 
+        intervals [7]:
+            xmin = 11.96 
+            xmax = 19.489 
+            text = "#" 
+        intervals [8]:
+            xmin = 19.489 
+            xmax = 20.055 
+            text = "euh" 
+        intervals [9]:
+            xmin = 20.055 
+            xmax = 21.085 
+            text = "#" 
+        intervals [10]:
+            xmin = 21.085 
+            xmax = 22.38 
+            text = "je trouve que c'est assez propre" 
+        intervals [11]:
+            xmin = 22.38 
+            xmax = 22.792 
+            text = "#" 
+        intervals [12]:
+            xmin = 22.792 
+            xmax = 23.69 
+            text = "comme euh" 
+        intervals [13]:
+            xmin = 23.69 
+            xmax = 24.585 
+            text = "#" 
+        intervals [14]:
+            xmin = 24.585 
+            xmax = 25.957 
+            text = "comme découpe de l'aubergine" 
+        intervals [15]:
+            xmin = 25.957 
+            xmax = 29.945 
+            text = "#" 
+        intervals [16]:
+            xmin = 29.945 
+            xmax = 31.908 
+            text = "on dirait des yeux une bouche peut-être" 
+        intervals [17]:
+            xmin = 31.908 
+            xmax = 33.334 
+            text = "#" 
+        intervals [18]:
+            xmin = 33.334 
+            xmax = 33.522 
+            text = "un" 
+        intervals [19]:
+            xmin = 33.522 
+            xmax = 41.052 
+            text = "#" 
+        intervals [20]:
+            xmin = 41.052 
+            xmax = 41.966 
+            text = "un petit peu quoi" 
+        intervals [21]:
+            xmin = 41.966 
+            xmax = 45.868 
+            text = "#" 
+        intervals [22]:
+            xmin = 45.868 
+            xmax = 46.173 
+            text = "ah" 
+        intervals [23]:
+            xmin = 46.173 
+            xmax = 46.396 
+            text = "#" 
+        intervals [24]:
+            xmin = 46.396 
+            xmax = 52.371 
+            text = "euh d'accord moi ça me faisait plutôt penser aux euh mh tu sais aux super-héros avec les masques" 
+        intervals [25]:
+            xmin = 52.371 
+            xmax = 55.664 
+            text = "#" 
+        intervals [26]:
+            xmin = 55.664 
+            xmax = 57.258 
+            text = "ouais quelque chose comme ça je pense" 
+        intervals [27]:
+            xmin = 57.258 
+            xmax = 59.9516 
+            text = "#" 

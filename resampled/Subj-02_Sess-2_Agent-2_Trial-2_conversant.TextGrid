@@ -1,0 +1,98 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 60 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Transcription" 
+        xmin = 0 
+        xmax = 60 
+        intervals: size = 21 
+        intervals [1]:
+            xmin = 0 
+            xmax = 4.938 
+            text = "#" 
+        intervals [2]:
+            xmin = 4.938 
+            xmax = 5.614 
+            text = "bonjour" 
+        intervals [3]:
+            xmin = 5.614 
+            xmax = 7.951 
+            text = "#" 
+        intervals [4]:
+            xmin = 7.951 
+            xmax = 8.855 
+            text = "c'est une poire" 
+        intervals [5]:
+            xmin = 8.855 
+            xmax = 13.626 
+            text = "#" 
+        intervals [6]:
+            xmin = 13.626 
+            xmax = 14.881 
+            text = "elle a des tâches brunes" 
+        intervals [7]:
+            xmin = 14.881 
+            xmax = 19.972 
+            text = "#" 
+        intervals [8]:
+            xmin = 19.972 
+            xmax = 20.47 
+            text = "ah oui" 
+        intervals [9]:
+            xmin = 20.47 
+            xmax = 22.335 
+            text = "#" 
+        intervals [10]:
+            xmin = 22.335 
+            xmax = 23.66 
+            text = "elle n'a pas l'air contente" 
+        intervals [11]:
+            xmin = 23.66 
+            xmax = 32.679 
+            text = "#" 
+        intervals [12]:
+            xmin = 32.679 
+            xmax = 34.015 
+            text = "la poire a l'air malade" 
+        intervals [13]:
+            xmin = 34.015 
+            xmax = 38.755 
+            text = "#" 
+        intervals [14]:
+            xmin = 38.755 
+            xmax = 39.497 
+            text = "je pense" 
+        intervals [15]:
+            xmin = 39.497 
+            xmax = 46.158 
+            text = "#" 
+        intervals [16]:
+            xmin = 46.158 
+            xmax = 47.982 
+            text = "elle est pourrie parce qu'elle vient de loin" 
+        intervals [17]:
+            xmin = 47.982 
+            xmax = 53.138 
+            text = "#" 
+        intervals [18]:
+            xmin = 53.138 
+            xmax = 54.129 
+            text = "oui bien sûr" 
+        intervals [19]:
+            xmin = 54.129 
+            xmax = 58.031 
+            text = "#" 
+        intervals [20]:
+            xmin = 58.031 
+            xmax = 59.494 
+            text = "je crois que c'est une fille" 
+        intervals [21]:
+            xmin = 59.494 
+            xmax = 59.9516 
+            text = "#" 

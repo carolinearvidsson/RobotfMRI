@@ -1,0 +1,98 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 60 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Transcription" 
+        xmin = 0 
+        xmax = 60 
+        intervals: size = 21 
+        intervals [1]:
+            xmin = 0 
+            xmax = 4.964 
+            text = "#" 
+        intervals [2]:
+            xmin = 4.964 
+            xmax = 5.203 
+            text = "ah" 
+        intervals [3]:
+            xmin = 5.203 
+            xmax = 6.122 
+            text = "#" 
+        intervals [4]:
+            xmin = 6.122 
+            xmax = 6.717 
+            text = "qu'est ce qui s'est coupé" 
+        intervals [5]:
+            xmin = 6.717 
+            xmax = 14.907 
+            text = "#" 
+        intervals [6]:
+            xmin = 14.907 
+            xmax = 19.378 
+            text = "en fait ils sont plus je pense que je suis d'a- je suis d'accord avec toi après avoir regardé" 
+        intervals [7]:
+            xmin = 19.378 
+            xmax = 19.881 
+            text = "#" 
+        intervals [8]:
+            xmin = 19.881 
+            xmax = 23.564 
+            text = "euh ils sont plus frappés que que pourris" 
+        intervals [9]:
+            xmin = 23.564 
+            xmax = 28.081 
+            text = "#" 
+        intervals [10]:
+            xmin = 28.081 
+            xmax = 29.275 
+            text = "euh" 
+        intervals [11]:
+            xmin = 29.275 
+            xmax = 30.702 
+            text = "#" 
+        intervals [12]:
+            xmin = 30.702 
+            xmax = 36.001 
+            text = "non mais la question en fait c'est si c'est sur les enfants est ce que c'est pour qu'on les mange ou est ce que c'est pour qu'on les mange pas" 
+        intervals [13]:
+            xmin = 36.001 
+            xmax = 36.454 
+            text = "#" 
+        intervals [14]:
+            xmin = 36.454 
+            xmax = 37.221 
+            text = "la première question" 
+        intervals [15]:
+            xmin = 37.221 
+            xmax = 38.831 
+            text = "#" 
+        intervals [16]:
+            xmin = 38.831 
+            xmax = 41.61 
+            text = "non je sais pas je me je me dis tu mets des fruits dans une pub" 
+        intervals [17]:
+            xmin = 41.61 
+            xmax = 49.927 
+            text = "#" 
+        intervals [18]:
+            xmin = 49.927 
+            xmax = 53.154 
+            text = "ah c'est pour qu'ils mangent moins de fraises et plus de pommes" 
+        intervals [19]:
+            xmin = 53.154 
+            xmax = 55.821 
+            text = "#" 
+        intervals [20]:
+            xmin = 55.821 
+            xmax = 57.117 
+            text = "bon pff" 
+        intervals [21]:
+            xmin = 57.117 
+            xmax = 59.9516 
+            text = "#" 

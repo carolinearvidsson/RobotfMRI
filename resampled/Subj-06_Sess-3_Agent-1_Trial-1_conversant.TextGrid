@@ -1,0 +1,126 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 60 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Transcription" 
+        xmin = 0 
+        xmax = 60 
+        intervals: size = 28 
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.448 
+            text = "#" 
+        intervals [2]:
+            xmin = 1.448 
+            xmax = 2.063 
+            text = "allez" 
+        intervals [3]:
+            xmin = 2.063 
+            xmax = 2.566 
+            text = "#" 
+        intervals [4]:
+            xmin = 2.566 
+            xmax = 4.237 
+            text = "bon c'était la même hein celle là" 
+        intervals [5]:
+            xmin = 4.237 
+            xmax = 4.695 
+            text = "#" 
+        intervals [6]:
+            xmin = 4.695 
+            xmax = 4.928 
+            text = "ouais" 
+        intervals [7]:
+            xmin = 4.928 
+            xmax = 12.691 
+            text = "#" 
+        intervals [8]:
+            xmin = 12.691 
+            xmax = 18.768 
+            text = "et c'est ce que c'est exactement ce que j'allais te demander parce que moi j'avais le souvenir hier que des fois il disait des trucs auxquels on avait pas pensé" 
+        intervals [9]:
+            xmin = 18.768 
+            xmax = 23.325 
+            text = "#" 
+        intervals [10]:
+            xmin = 23.325 
+            xmax = 23.483 
+            text = "mh" 
+        intervals [11]:
+            xmin = 23.483 
+            xmax = 24.199 
+            text = "#" 
+        intervals [12]:
+            xmin = 24.199 
+            xmax = 27.161 
+            text = "je sais pas mais euh" 
+        intervals [13]:
+            xmin = 27.161 
+            xmax = 27.491 
+            text = "#" 
+        intervals [14]:
+            xmin = 27.491 
+            xmax = 32.689 
+            text = "il doit moi ce que j'avais cru comprendre c'est qu'il avait des infos y en avait qui étaient correctes d'autres qui l'étaient pas" 
+        intervals [15]:
+            xmin = 32.689 
+            xmax = 34.305 
+            text = "#" 
+        intervals [16]:
+            xmin = 34.305 
+            xmax = 36.977 
+            text = "mais euh il doit quelque part aussi avoir la bonne rép- -fin" 
+        intervals [17]:
+            xmin = 36.977 
+            xmax = 44.273 
+            text = "#" 
+        intervals [18]:
+            xmin = 44.273 
+            xmax = 44.639 
+            text = "mais" 
+        intervals [19]:
+            xmin = 44.639 
+            xmax = 45.492 
+            text = "#" 
+        intervals [20]:
+            xmin = 45.492 
+            xmax = 48.906 
+            text = "mais peut-être ça ferait le lien avec les parce que les beaux fruits" 
+        intervals [21]:
+            xmin = 48.906 
+            xmax = 49.973 
+            text = "#" 
+        intervals [22]:
+            xmin = 49.973 
+            xmax = 55.003 
+            text = "euh pff non je sais pas là pour l'instant en tout cas les autres sont moches et ceux là sont beaux hein" 
+        intervals [23]:
+            xmin = 55.003 
+            xmax = 55.282 
+            text = "#" 
+        intervals [24]:
+            xmin = 55.282 
+            xmax = 56.588 
+            text = "ça euh ça c'est sûr" 
+        intervals [25]:
+            xmin = 56.588 
+            xmax = 57.874 
+            text = "#" 
+        intervals [26]:
+            xmin = 57.874 
+            xmax = 59.332 
+            text = "donc si c'est pour la même" 
+        intervals [27]:
+            xmin = 59.332 
+            xmax = 59.819 
+            text = "#" 
+        intervals [28]:
+            xmin = 59.819 
+            xmax = 59.9516 
+            text = "si" 

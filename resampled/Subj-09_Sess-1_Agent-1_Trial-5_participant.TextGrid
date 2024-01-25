@@ -1,0 +1,122 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 60 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Transcription" 
+        xmin = 0 
+        xmax = 60 
+        intervals: size = 27 
+        intervals [1]:
+            xmin = 0 
+            xmax = 3.501 
+            text = "#" 
+        intervals [2]:
+            xmin = 3.501 
+            xmax = 4.623 
+            text = "oui elle est à l'envers" 
+        intervals [3]:
+            xmin = 4.623 
+            xmax = 5.24 
+            text = "#" 
+        intervals [4]:
+            xmin = 5.24 
+            xmax = 8.444 
+            text = "on dirait $Spiderman$ qui est pendu euh sur euh" 
+        intervals [5]:
+            xmin = 8.444 
+            xmax = 8.978 
+            text = "#" 
+        intervals [6]:
+            xmin = 8.978 
+            xmax = 10.288 
+            text = "sur un immeuble" 
+        intervals [7]:
+            xmin = 10.288 
+            xmax = 11.35 
+            text = "#" 
+        intervals [8]:
+            xmin = 11.35 
+            xmax = 12.712 
+            text = "mais en même temps euh" 
+        intervals [9]:
+            xmin = 12.712 
+            xmax = 14.261 
+            text = "#" 
+        intervals [10]:
+            xmin = 14.261 
+            xmax = 16.715 
+            text = "le rouge là avec les yeux comme ça qui brillent" 
+        intervals [11]:
+            xmin = 16.715 
+            xmax = 18.08 
+            text = "#" 
+        intervals [12]:
+            xmin = 18.08 
+            xmax = 19.845 
+            text = "elle a l'air plus gentille que l'aubergine" 
+        intervals [13]:
+            xmin = 19.845 
+            xmax = 33.524 
+            text = "#" 
+        intervals [14]:
+            xmin = 33.524 
+            xmax = 34.701 
+            text = "des super héros connus" 
+        intervals [15]:
+            xmin = 34.701 
+            xmax = 35.554 
+            text = "#" 
+        intervals [16]:
+            xmin = 35.554 
+            xmax = 40.081 
+            text = "ben le robot parlait de $Batman$ pour l'aubergine mais j'étais pas tout à fait convaincue" 
+        intervals [17]:
+            xmin = 40.081 
+            xmax = 41.133 
+            text = "#" 
+        intervals [18]:
+            xmin = 41.133 
+            xmax = 43.521 
+            text = "j'ai plus pensé à $Joker$ limite mais euh" 
+        intervals [19]:
+            xmin = 43.521 
+            xmax = 43.913 
+            text = "#" 
+        intervals [20]:
+            xmin = 43.913 
+            xmax = 45.319 
+            text = "elle faisait plus méchante" 
+        intervals [21]:
+            xmin = 45.319 
+            xmax = 45.972 
+            text = "#" 
+        intervals [22]:
+            xmin = 45.972 
+            xmax = 48.093 
+            text = "$Spiderman$ a l'air plus sympa" 
+        intervals [23]:
+            xmin = 48.093 
+            xmax = 48.347 
+            text = "#" 
+        intervals [24]:
+            xmin = 48.347 
+            xmax = 48.855 
+            text = "-fin la pomme" 
+        intervals [25]:
+            xmin = 48.855 
+            xmax = 49.43 
+            text = "#" 
+        intervals [26]:
+            xmin = 49.43 
+            xmax = 53.804 
+            text = "et en même temps ce côté rouge fait penser au poison de $Blanche-neige$" 
+        intervals [27]:
+            xmin = 53.804 
+            xmax = 59.9044 
+            text = "#" 

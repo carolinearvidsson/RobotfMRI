@@ -1,0 +1,110 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 60 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Transcription" 
+        xmin = 0 
+        xmax = 60 
+        intervals: size = 24 
+        intervals [1]:
+            xmin = 0 
+            xmax = 2.169 
+            text = "#" 
+        intervals [2]:
+            xmin = 2.169 
+            xmax = 2.469 
+            text = "salut" 
+        intervals [3]:
+            xmin = 2.469 
+            xmax = 2.891 
+            text = "#" 
+        intervals [4]:
+            xmin = 2.891 
+            xmax = 3.948 
+            text = "euh mh" 
+        intervals [5]:
+            xmin = 3.948 
+            xmax = 7.357 
+            text = "#" 
+        intervals [6]:
+            xmin = 7.357 
+            xmax = 7.59 
+            text = "ouais" 
+        intervals [7]:
+            xmin = 7.59 
+            xmax = 11.462 
+            text = "#" 
+        intervals [8]:
+            xmin = 11.462 
+            xmax = 14.907 
+            text = "ouais elle a l'air un peu venère aussi avec les poings fermés et euh" 
+        intervals [9]:
+            xmin = 14.907 
+            xmax = 17.904 
+            text = "#" 
+        intervals [10]:
+            xmin = 17.904 
+            xmax = 19.251 
+            text = "tu sais les yeux à moitié clos en mode" 
+        intervals [11]:
+            xmin = 19.251 
+            xmax = 19.515 
+            text = "#" 
+        intervals [12]:
+            xmin = 19.515 
+            xmax = 21.125 
+            text = "en mode un peu je grogne" 
+        intervals [13]:
+            xmin = 21.125 
+            xmax = 29.28 
+            text = "#" 
+        intervals [14]:
+            xmin = 29.28 
+            xmax = 31.571 
+            text = "ah oui oui effectivement elle a des cheveux je crois ouais ouais" 
+        intervals [15]:
+            xmin = 31.571 
+            xmax = 32.176 
+            text = "#" 
+        intervals [16]:
+            xmin = 32.176 
+            xmax = 35.168 
+            text = "après moi j'étais plutôt focalisée sur son expression parce que euh" 
+        intervals [17]:
+            xmin = 35.168 
+            xmax = 35.585 
+            text = "#" 
+        intervals [18]:
+            xmin = 35.585 
+            xmax = 38.496 
+            text = "tu sais vr- vraiment le côté gros baraque" 
+        intervals [19]:
+            xmin = 38.496 
+            xmax = 39.38 
+            text = "#" 
+        intervals [20]:
+            xmin = 39.38 
+            xmax = 41.102 
+            text = "avec je ferme les tous petits poings" 
+        intervals [21]:
+            xmin = 41.102 
+            xmax = 44.136 
+            text = "#" 
+        intervals [22]:
+            xmin = 44.136 
+            xmax = 45.045 
+            text = "euh ouais" 
+        intervals [23]:
+            xmin = 45.045 
+            xmax = 56.898 
+            text = "#" 
+        intervals [24]:
+            xmin = 56.898 
+            xmax = 59.9516 
+            text = "ouais peut-être à cause du côté imparfait parce que les autres ils étaient tout li-" 

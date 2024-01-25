@@ -1,0 +1,142 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 60 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Transcription" 
+        xmin = 0 
+        xmax = 60 
+        intervals: size = 32 
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.631 
+            text = "#" 
+        intervals [2]:
+            xmin = 1.631 
+            xmax = 1.844 
+            text = "ça y est" 
+        intervals [3]:
+            xmin = 1.844 
+            xmax = 2.246 
+            text = "#" 
+        intervals [4]:
+            xmin = 2.246 
+            xmax = 2.987 
+            text = "euh" 
+        intervals [5]:
+            xmin = 2.987 
+            xmax = 4.994 
+            text = "#" 
+        intervals [6]:
+            xmin = 4.994 
+            xmax = 9.419 
+            text = "je je pars un peu dans tous les sens je suis désolée pour ça mais je viens de repenser à un truc que tu m'as dit" 
+        intervals [7]:
+            xmin = 9.419 
+            xmax = 10.893 
+            text = "#" 
+        intervals [8]:
+            xmin = 10.893 
+            xmax = 13.748 
+            text = "euh où tu me disais qu'ils avaient l'air un peu sévère c'est ça" 
+        intervals [9]:
+            xmin = 13.748 
+            xmax = 16.068 
+            text = "#" 
+        intervals [10]:
+            xmin = 16.068 
+            xmax = 16.482 
+            text = "euh" 
+        intervals [11]:
+            xmin = 16.482 
+            xmax = 17.447 
+            text = "#" 
+        intervals [12]:
+            xmin = 17.447 
+            xmax = 18.824 
+            text = "parce que pourtant euh" 
+        intervals [13]:
+            xmin = 18.824 
+            xmax = 20.719 
+            text = "#" 
+        intervals [14]:
+            xmin = 20.719 
+            xmax = 21.461 
+            text = "c'est euh" 
+        intervals [15]:
+            xmin = 21.461 
+            xmax = 21.908 
+            text = "#" 
+        intervals [16]:
+            xmin = 21.908 
+            xmax = 28.36 
+            text = "c'est normal d'avoir euh qu'ils aient l'air sévère $Batman$ par exemple tu sais il est toujours avec sa voix rauque assez impressionnant" 
+        intervals [17]:
+            xmin = 28.36 
+            xmax = 31.002 
+            text = "#" 
+        intervals [18]:
+            xmin = 31.002 
+            xmax = 32.221 
+            text = "ça fait partie du personnage" 
+        intervals [19]:
+            xmin = 32.221 
+            xmax = 34.213 
+            text = "#" 
+        intervals [20]:
+            xmin = 34.213 
+            xmax = 35.046 
+            text = "et ça l'empêche" 
+        intervals [21]:
+            xmin = 35.046 
+            xmax = 35.504 
+            text = "#" 
+        intervals [22]:
+            xmin = 35.504 
+            xmax = 36.855 
+            text = "pas d'être un super héros" 
+        intervals [23]:
+            xmin = 36.855 
+            xmax = 37.307 
+            text = "#" 
+        intervals [24]:
+            xmin = 37.307 
+            xmax = 37.769 
+            text = "je sais pas" 
+        intervals [25]:
+            xmin = 37.769 
+            xmax = 48.734 
+            text = "#" 
+        intervals [26]:
+            xmin = 48.734 
+            xmax = 49.516 
+            text = "c'est pour ça que quoi" 
+        intervals [27]:
+            xmin = 49.516 
+            xmax = 53.144 
+            text = "#" 
+        intervals [28]:
+            xmin = 53.144 
+            xmax = 54.089 
+            text = "à cause de l'air sévère" 
+        intervals [29]:
+            xmin = 54.089 
+            xmax = 57.203 
+            text = "#" 
+        intervals [30]:
+            xmin = 57.203 
+            xmax = 57.604 
+            text = "ok" 
+        intervals [31]:
+            xmin = 57.604 
+            xmax = 58.941 
+            text = "#" 
+        intervals [32]:
+            xmin = 58.941 
+            xmax = 59.9516 
+            text = "euh" 

@@ -1,0 +1,138 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 60 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Transcription" 
+        xmin = 0 
+        xmax = 60 
+        intervals: size = 31 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.173 
+            text = "*" 
+        intervals [2]:
+            xmin = 0.173 
+            xmax = 1.387 
+            text = "#" 
+        intervals [3]:
+            xmin = 1.387 
+            xmax = 2.002 
+            text = "salut" 
+        intervals [4]:
+            xmin = 2.002 
+            xmax = 3.521 
+            text = "#" 
+        intervals [5]:
+            xmin = 3.521 
+            xmax = 4.44 
+            text = "c'est une pomme" 
+        intervals [6]:
+            xmin = 4.44 
+            xmax = 9.704 
+            text = "#" 
+        intervals [7]:
+            xmin = 9.704 
+            xmax = 10.11 
+            text = "ah oui" 
+        intervals [8]:
+            xmin = 10.11 
+            xmax = 10.898 
+            text = "#" 
+        intervals [9]:
+            xmin = 10.898 
+            xmax = 14.358 
+            text = "quelqu'un a découpé un visage qui ressemble à un super héros" 
+        intervals [10]:
+            xmin = 14.358 
+            xmax = 17.711 
+            text = "#" 
+        intervals [11]:
+            xmin = 17.711 
+            xmax = 18.077 
+            text = "oui" 
+        intervals [12]:
+            xmin = 18.077 
+            xmax = 18.59 
+            text = "#" 
+        intervals [13]:
+            xmin = 18.59 
+            xmax = 20.587 
+            text = "on dirait un $Spiderman$ cette pomme" 
+        intervals [14]:
+            xmin = 20.587 
+            xmax = 21.146 
+            text = "#" 
+        intervals [15]:
+            xmin = 21.146 
+            xmax = 22.304 
+            text = "c'est une pomme rouge" 
+        intervals [16]:
+            xmin = 22.304 
+            xmax = 24.113 
+            text = "#" 
+        intervals [17]:
+            xmin = 24.113 
+            xmax = 24.839 
+            text = "je pense" 
+        intervals [18]:
+            xmin = 24.839 
+            xmax = 31.144 
+            text = "#" 
+        intervals [19]:
+            xmin = 31.144 
+            xmax = 32.709 
+            text = "cette pomme est à l'envers" 
+        intervals [20]:
+            xmin = 32.709 
+            xmax = 37.399 
+            text = "#" 
+        intervals [21]:
+            xmin = 37.399 
+            xmax = 37.81 
+            text = "oui" 
+        intervals [22]:
+            xmin = 37.81 
+            xmax = 37.998 
+            text = "#" 
+        intervals [23]:
+            xmin = 37.998 
+            xmax = 38.76 
+            text = "exactement" 
+        intervals [24]:
+            xmin = 38.76 
+            xmax = 40.655 
+            text = "#" 
+        intervals [25]:
+            xmin = 40.655 
+            xmax = 42.667 
+            text = "on dirait un $Spiderman$ cette pomme" 
+        intervals [26]:
+            xmin = 42.667 
+            xmax = 46.62 
+            text = "#" 
+        intervals [27]:
+            xmin = 46.62 
+            xmax = 47.54 
+            text = "oui bien sûr" 
+        intervals [28]:
+            xmin = 47.54 
+            xmax = 51.193 
+            text = "#" 
+        intervals [29]:
+            xmin = 51.193 
+            xmax = 53.621 
+            text = "c'est une campagne de pub ciblant les enfants" 
+        intervals [30]:
+            xmin = 53.621 
+            xmax = 59.256 
+            text = "#" 
+        intervals [31]:
+            xmin = 59.256 
+            xmax = 59.9516 
+            text = "oui en effet" 

@@ -1,0 +1,118 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 60 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Transcription" 
+        xmin = 0 
+        xmax = 60 
+        intervals: size = 26 
+        intervals [1]:
+            xmin = 0 
+            xmax = 10.934 
+            text = "#" 
+        intervals [2]:
+            xmin = 10.934 
+            xmax = 11.35 
+            text = "allo" 
+        intervals [3]:
+            xmin = 11.35 
+            xmax = 12.082 
+            text = "#" 
+        intervals [4]:
+            xmin = 12.082 
+            xmax = 13.443 
+            text = "ah ouais ouais ouais je t'entends" 
+        intervals [5]:
+            xmin = 13.443 
+            xmax = 13.784 
+            text = "#" 
+        intervals [6]:
+            xmin = 13.784 
+            xmax = 14.378 
+            text = "ouais ouais ouais" 
+        intervals [7]:
+            xmin = 14.378 
+            xmax = 14.566 
+            text = "#" 
+        intervals [8]:
+            xmin = 14.566 
+            xmax = 15.415 
+            text = "tu as vu l'image" 
+        intervals [9]:
+            xmin = 15.415 
+            xmax = 16.858 
+            text = "#" 
+        intervals [10]:
+            xmin = 16.858 
+            xmax = 20.19 
+            text = "ouais ouais ben faut essayer de ouais c'était ça faut essayer de trouver" 
+        intervals [11]:
+            xmin = 20.19 
+            xmax = 20.577 
+            text = "#" 
+        intervals [12]:
+            xmin = 20.577 
+            xmax = 22.467 
+            text = "qu'est-ce que c'est ben c'était c'était une aubergine" 
+        intervals [13]:
+            xmin = 22.467 
+            xmax = 24.641 
+            text = "#" 
+        intervals [14]:
+            xmin = 24.641 
+            xmax = 25.332 
+            text = "$Batman$" 
+        intervals [15]:
+            xmin = 25.332 
+            xmax = 34.64 
+            text = "#" 
+        intervals [16]:
+            xmin = 34.64 
+            xmax = 38.786 
+            text = "donc le puis j'avais pas fait tout le rapprochement ouais le cerveau est un peu fatigué" 
+        intervals [17]:
+            xmin = 38.786 
+            xmax = 39.075 
+            text = "#" 
+        intervals [18]:
+            xmin = 39.075 
+            xmax = 43.907 
+            text = "j'avais pas fait tout le rapprochement donc le machin ça a été découpé pour faire" 
+        intervals [19]:
+            xmin = 43.907 
+            xmax = 44.359 
+            text = "#" 
+        intervals [20]:
+            xmin = 44.359 
+            xmax = 47.362 
+            text = "le masque de $Batman$ ok" 
+        intervals [21]:
+            xmin = 47.362 
+            xmax = 47.844 
+            text = "#" 
+        intervals [22]:
+            xmin = 47.844 
+            xmax = 52.808 
+            text = "euh donc sur le coup ça fait légume et super héros comme euh" 
+        intervals [23]:
+            xmin = 52.808 
+            xmax = 56.039 
+            text = "#" 
+        intervals [24]:
+            xmin = 56.039 
+            xmax = 57.178 
+            text = "pour b- manger des légumes" 
+        intervals [25]:
+            xmin = 57.178 
+            xmax = 58.016 
+            text = "#" 
+        intervals [26]:
+            xmin = 58.016 
+            xmax = 59.9516 
+            text = "aussi simple que ça bah ouais bah donc c-" 

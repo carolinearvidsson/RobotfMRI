@@ -1,0 +1,162 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 60 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Transcription" 
+        xmin = 0 
+        xmax = 60 
+        intervals: size = 37 
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.925 
+            text = "#" 
+        intervals [2]:
+            xmin = 1.925 
+            xmax = 2.774 
+            text = "elle est jolie celle là" 
+        intervals [3]:
+            xmin = 2.774 
+            xmax = 5.828 
+            text = "#" 
+        intervals [4]:
+            xmin = 5.828 
+            xmax = 7.021 
+            text = "ah oui oui oui t'as raison" 
+        intervals [5]:
+            xmin = 7.021 
+            xmax = 10.72 
+            text = "#" 
+        intervals [6]:
+            xmin = 10.72 
+            xmax = 11.284 
+            text = "mh mh" 
+        intervals [7]:
+            xmin = 11.284 
+            xmax = 12.361 
+            text = "#" 
+        intervals [8]:
+            xmin = 12.361 
+            xmax = 13.189 
+            text = "euh mh" 
+        intervals [9]:
+            xmin = 13.189 
+            xmax = 13.377 
+            text = "#" 
+        intervals [10]:
+            xmin = 13.377 
+            xmax = 15.699 
+            text = "elle elle me fait penser à à des super héros" 
+        intervals [11]:
+            xmin = 15.699 
+            xmax = 16.436 
+            text = "#" 
+        intervals [12]:
+            xmin = 16.436 
+            xmax = 20.556 
+            text = "euh alors pour le coup j'hé- j'hésite entre deux trucs" 
+        intervals [13]:
+            xmin = 20.556 
+            xmax = 21.44 
+            text = "#" 
+        intervals [14]:
+            xmin = 21.44 
+            xmax = 22.487 
+            text = "euh y a $Deadpool$" 
+        intervals [15]:
+            xmin = 22.487 
+            xmax = 22.731 
+            text = "#" 
+        intervals [16]:
+            xmin = 22.731 
+            xmax = 23.661 
+            text = "je sais pas si t'as vu $Deadpool$" 
+        intervals [17]:
+            xmin = 23.661 
+            xmax = 24.702 
+            text = "#" 
+        intervals [18]:
+            xmin = 24.702 
+            xmax = 24.966 
+            text = "ah" 
+        intervals [19]:
+            xmin = 24.966 
+            xmax = 25.231 
+            text = "#" 
+        intervals [20]:
+            xmin = 25.231 
+            xmax = 25.535 
+            text = "ok" 
+        intervals [21]:
+            xmin = 25.535 
+            xmax = 25.947 
+            text = "#" 
+        intervals [22]:
+            xmin = 25.947 
+            xmax = 28.137 
+            text = "bah c'était $Deadpool$ ou $Spiderman$" 
+        intervals [23]:
+            xmin = 28.137 
+            xmax = 30.174 
+            text = "#" 
+        intervals [24]:
+            xmin = 30.174 
+            xmax = 30.54 
+            text = "mais euh" 
+        intervals [25]:
+            xmin = 30.54 
+            xmax = 39.99 
+            text = "#" 
+        intervals [26]:
+            xmin = 39.99 
+            xmax = 41.199 
+            text = "en tout cas il est super $Deadpool$" 
+        intervals [27]:
+            xmin = 41.199 
+            xmax = 41.555 
+            text = "#" 
+        intervals [28]:
+            xmin = 41.555 
+            xmax = 42.809 
+            text = "euh mais oui oui oui" 
+        intervals [29]:
+            xmin = 42.809 
+            xmax = 43.775 
+            text = "#" 
+        intervals [30]:
+            xmin = 43.775 
+            xmax = 47.321 
+            text = "@ oui elle a l'air un peu sévère peut-être mais pas forcément méchante" 
+        intervals [31]:
+            xmin = 47.321 
+            xmax = 47.646 
+            text = "#" 
+        intervals [32]:
+            xmin = 47.646 
+            xmax = 48.093 
+            text = "je sais pas" 
+        intervals [33]:
+            xmin = 48.093 
+            xmax = 51.828 
+            text = "#" 
+        intervals [34]:
+            xmin = 51.828 
+            xmax = 56.71 
+            text = "ouais en même temps c'est un peu un truc des super héros que de d'être un peu sévère quand ils sont sous le masque" 
+        intervals [35]:
+            xmin = 56.71 
+            xmax = 56.924 
+            text = "#" 
+        intervals [36]:
+            xmin = 56.924 
+            xmax = 57.401 
+            text = "d'apparence" 
+        intervals [37]:
+            xmin = 57.401 
+            xmax = 59.9516 
+            text = "#" 

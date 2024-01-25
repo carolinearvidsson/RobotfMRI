@@ -1,0 +1,118 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 60 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Transcription" 
+        xmin = 0 
+        xmax = 60 
+        intervals: size = 26 
+        intervals [1]:
+            xmin = 0 
+            xmax = 3.729 
+            text = "#" 
+        intervals [2]:
+            xmin = 3.729 
+            xmax = 3.993 
+            text = "ouais" 
+        intervals [3]:
+            xmin = 3.993 
+            xmax = 4.349 
+            text = "#" 
+        intervals [4]:
+            xmin = 4.349 
+            xmax = 5.106 
+            text = "celle qui était moche" 
+        intervals [5]:
+            xmin = 5.106 
+            xmax = 6.371 
+            text = "#" 
+        intervals [6]:
+            xmin = 6.371 
+            xmax = 6.695 
+            text = "euh" 
+        intervals [7]:
+            xmin = 6.695 
+            xmax = 9.699 
+            text = "#" 
+        intervals [8]:
+            xmin = 9.699 
+            xmax = 10.07 
+            text = "mh mh" 
+        intervals [9]:
+            xmin = 10.07 
+            xmax = 12.89 
+            text = "#" 
+        intervals [10]:
+            xmin = 12.89 
+            xmax = 13.504 
+            text = "ouais c'est ça" 
+        intervals [11]:
+            xmin = 13.504 
+            xmax = 14.749 
+            text = "#" 
+        intervals [12]:
+            xmin = 14.749 
+            xmax = 17.142 
+            text = "ça fait un gros contraste avec la première série quand même" 
+        intervals [13]:
+            xmin = 17.142 
+            xmax = 32.206 
+            text = "#" 
+        intervals [14]:
+            xmin = 32.206 
+            xmax = 33.563 
+            text = "ah c'est possible" 
+        intervals [15]:
+            xmin = 33.563 
+            xmax = 34.203 
+            text = "#" 
+        intervals [16]:
+            xmin = 34.203 
+            xmax = 38.847 
+            text = "c'est possible et puis avec les les fruits avec l'aspect sucré du coup on est un peu plus dans le la" 
+        intervals [17]:
+            xmin = 38.847 
+            xmax = 39.029 
+            text = "#" 
+        intervals [18]:
+            xmin = 39.029 
+            xmax = 42.484 
+            text = "peut-être la gourmandise alors que les légumes y a l'aspect rester dans la saison" 
+        intervals [19]:
+            xmin = 42.484 
+            xmax = 54.271 
+            text = "#" 
+        intervals [20]:
+            xmin = 54.271 
+            xmax = 55.77 
+            text = "euh" 
+        intervals [21]:
+            xmin = 55.77 
+            xmax = 57.137 
+            text = "#" 
+        intervals [22]:
+            xmin = 57.137 
+            xmax = 57.747 
+            text = "bah je" 
+        intervals [23]:
+            xmin = 57.747 
+            xmax = 58.29 
+            text = "#" 
+        intervals [24]:
+            xmin = 58.29 
+            xmax = 58.575 
+            text = "pense" 
+        intervals [25]:
+            xmin = 58.575 
+            xmax = 59.382 
+            text = "#" 
+        intervals [26]:
+            xmin = 59.382 
+            xmax = 59.9516 
+            text = "vu qu'il y a" 

@@ -1,0 +1,122 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 60 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Transcription" 
+        xmin = 0 
+        xmax = 60 
+        intervals: size = 27 
+        intervals [1]:
+            xmin = 0 
+            xmax = 2.289 
+            text = "#" 
+        intervals [2]:
+            xmin = 2.289 
+            xmax = 2.571 
+            text = "ouais" 
+        intervals [3]:
+            xmin = 2.571 
+            xmax = 4.73 
+            text = "#" 
+        intervals [4]:
+            xmin = 4.73 
+            xmax = 5.551 
+            text = "ouais oui c'est des pros ouais" 
+        intervals [5]:
+            xmin = 5.551 
+            xmax = 9.999 
+            text = "#" 
+        intervals [6]:
+            xmin = 9.999 
+            xmax = 10.415 
+            text = "ouais c'est ça" 
+        intervals [7]:
+            xmin = 10.415 
+            xmax = 17.518 
+            text = "#" 
+        intervals [8]:
+            xmin = 17.518 
+            xmax = 20.902 
+            text = "plusieurs possibilités à mon avis soit c'est une soit c'est une campagne pour euh" 
+        intervals [9]:
+            xmin = 20.902 
+            xmax = 21.572 
+            text = "#" 
+        intervals [10]:
+            xmin = 21.572 
+            xmax = 24.91 
+            text = "pour priviliégier les produits euh les produits qui viennent de de" 
+        intervals [11]:
+            xmin = 24.91 
+            xmax = 25.637 
+            text = "#" 
+        intervals [12]:
+            xmin = 25.637 
+            xmax = 26.267 
+            text = "de proche" 
+        intervals [13]:
+            xmin = 26.267 
+            xmax = 26.689 
+            text = "#" 
+        intervals [14]:
+            xmin = 26.689 
+            xmax = 29.681 
+            text = "et à ce moment là les fruits les fruits abîmés ce seraient les fruits euh" 
+        intervals [15]:
+            xmin = 29.681 
+            xmax = 30.159 
+            text = "#" 
+        intervals [16]:
+            xmin = 30.159 
+            xmax = 32.115 
+            text = "qui viennent euh de d'autre pays" 
+        intervals [17]:
+            xmin = 32.115 
+            xmax = 32.719 
+            text = "#" 
+        intervals [18]:
+            xmin = 32.719 
+            xmax = 32.953 
+            text = "ouais" 
+        intervals [19]:
+            xmin = 32.953 
+            xmax = 33.71 
+            text = "#" 
+        intervals [20]:
+            xmin = 33.71 
+            xmax = 38.44 
+            text = "soit ce serait un un truc pour privilégier les produits voilà les produits moches" 
+        intervals [21]:
+            xmin = 38.44 
+            xmax = 38.831 
+            text = "#" 
+        intervals [22]:
+            xmin = 38.831 
+            xmax = 45.777 
+            text = "cette framboise cette framboise elle est elle est abîmée mais si ça se trouve elle est elle est meilleure que la pomme trop brillante trop belle etcetera" 
+        intervals [23]:
+            xmin = 45.777 
+            xmax = 52.661 
+            text = "#" 
+        intervals [24]:
+            xmin = 52.661 
+            xmax = 53.215 
+            text = "ouais voilà" 
+        intervals [25]:
+            xmin = 53.215 
+            xmax = 55.31 
+            text = "#" 
+        intervals [26]:
+            xmin = 55.31 
+            xmax = 57.747 
+            text = "ça mais bon ça parait compliqué quand même parce qu'elle est très abîmée" 
+        intervals [27]:
+            xmin = 57.747 
+            xmax = 59.9044 
+            text = "#" 

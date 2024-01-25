@@ -1,0 +1,214 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 60 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Transcription" 
+        xmin = 0 
+        xmax = 60 
+        intervals: size = 50 
+        intervals [1]:
+            xmin = 0 
+            xmax = 2.083 
+            text = "#" 
+        intervals [2]:
+            xmin = 2.083 
+            xmax = 2.327 
+            text = "ouais" 
+        intervals [3]:
+            xmin = 2.327 
+            xmax = 2.82 
+            text = "#" 
+        intervals [4]:
+            xmin = 2.82 
+            xmax = 3.796 
+            text = "euh salut" 
+        intervals [5]:
+            xmin = 3.796 
+            xmax = 4.39 
+            text = "#" 
+        intervals [6]:
+            xmin = 4.39 
+            xmax = 4.837 
+            text = "euh" 
+        intervals [7]:
+            xmin = 4.837 
+            xmax = 5.909 
+            text = "#" 
+        intervals [8]:
+            xmin = 5.909 
+            xmax = 7.367 
+            text = "la framboise elle a l'air euh" 
+        intervals [9]:
+            xmin = 7.367 
+            xmax = 7.977 
+            text = "#" 
+        intervals [10]:
+            xmin = 7.977 
+            xmax = 10.151 
+            text = "clairement dans un piteux état comme on l'a dit tout à l'heure" 
+        intervals [11]:
+            xmin = 10.151 
+            xmax = 10.954 
+            text = "#" 
+        intervals [12]:
+            xmin = 10.954 
+            xmax = 11.731 
+            text = "et euh" 
+        intervals [13]:
+            xmin = 11.731 
+            xmax = 11.929 
+            text = "#" 
+        intervals [14]:
+            xmin = 11.929 
+            xmax = 13.824 
+            text = "elle a l'air toute triste aussi toute euh" 
+        intervals [15]:
+            xmin = 13.824 
+            xmax = 14.81 
+            text = "#" 
+        intervals [16]:
+            xmin = 14.81 
+            xmax = 15.455 
+            text = "pas bien quoi" 
+        intervals [17]:
+            xmin = 15.455 
+            xmax = 17.919 
+            text = "#" 
+        intervals [18]:
+            xmin = 17.919 
+            xmax = 18.829 
+            text = "@" 
+        intervals [19]:
+            xmin = 18.829 
+            xmax = 21.694 
+            text = "#" 
+        intervals [20]:
+            xmin = 21.694 
+            xmax = 22.487 
+            text = "ouais pareil" 
+        intervals [21]:
+            xmin = 22.487 
+            xmax = 22.761 
+            text = "#" 
+        intervals [22]:
+            xmin = 22.761 
+            xmax = 23.422 
+            text = "du français" 
+        intervals [23]:
+            xmin = 23.422 
+            xmax = 24.697 
+            text = "#" 
+        intervals [24]:
+            xmin = 24.697 
+            xmax = 25.317 
+            text = "toute abimée" 
+        intervals [25]:
+            xmin = 25.317 
+            xmax = 27.339 
+            text = "#" 
+        intervals [26]:
+            xmin = 27.339 
+            xmax = 27.603 
+            text = "ouais" 
+        intervals [27]:
+            xmin = 27.603 
+            xmax = 28.706 
+            text = "#" 
+        intervals [28]:
+            xmin = 28.706 
+            xmax = 29.844 
+            text = "fatiguée et" 
+        intervals [29]:
+            xmin = 29.844 
+            xmax = 31.185 
+            text = "#" 
+        intervals [30]:
+            xmin = 31.185 
+            xmax = 32.648 
+            text = "ouais ben c'est peut-être parce qu'elle vient de loin" 
+        intervals [31]:
+            xmin = 32.648 
+            xmax = 33.182 
+            text = "#" 
+        intervals [32]:
+            xmin = 33.182 
+            xmax = 34.132 
+            text = "et puis elle est fatiguée en soi" 
+        intervals [33]:
+            xmin = 34.132 
+            xmax = 38.496 
+            text = "#" 
+        intervals [34]:
+            xmin = 38.496 
+            xmax = 38.786 
+            text = "*" 
+        intervals [35]:
+            xmin = 38.786 
+            xmax = 41.717 
+            text = "#" 
+        intervals [36]:
+            xmin = 41.717 
+            xmax = 42.688 
+            text = "ouais c'est fort possible" 
+        intervals [37]:
+            xmin = 42.688 
+            xmax = 45.21 
+            text = "#" 
+        intervals [38]:
+            xmin = 45.21 
+            xmax = 45.636 
+            text = "et euh" 
+        intervals [39]:
+            xmin = 45.636 
+            xmax = 48.195 
+            text = "#" 
+        intervals [40]:
+            xmin = 48.195 
+            xmax = 48.459 
+            text = "voilà" 
+        intervals [41]:
+            xmin = 48.459 
+            xmax = 49.602 
+            text = "#" 
+        intervals [42]:
+            xmin = 49.602 
+            xmax = 49.775 
+            text = "*" 
+        intervals [43]:
+            xmin = 49.775 
+            xmax = 52.331 
+            text = "#" 
+        intervals [44]:
+            xmin = 52.331 
+            xmax = 52.849 
+            text = "ah ouais" 
+        intervals [45]:
+            xmin = 52.849 
+            xmax = 53.606 
+            text = "#" 
+        intervals [46]:
+            xmin = 53.606 
+            xmax = 53.975 
+            text = "possible" 
+        intervals [47]:
+            xmin = 53.975 
+            xmax = 54.505 
+            text = "#" 
+        intervals [48]:
+            xmin = 54.505 
+            xmax = 56.812 
+            text = "c'est dur parce qu'on dit une framboise donc c'est peut-être" 
+        intervals [49]:
+            xmin = 56.812 
+            xmax = 59.398 
+            text = "#" 
+        intervals [50]:
+            xmin = 59.398 
+            xmax = 59.9044 
+            text = "redis" 

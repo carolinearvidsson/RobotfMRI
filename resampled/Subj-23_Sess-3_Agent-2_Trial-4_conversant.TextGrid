@@ -1,0 +1,102 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 60 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Transcription" 
+        xmin = 0 
+        xmax = 60 
+        intervals: size = 22 
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.529 
+            text = "#" 
+        intervals [2]:
+            xmin = 1.529 
+            xmax = 2.103 
+            text = "salut" 
+        intervals [3]:
+            xmin = 2.103 
+            xmax = 7.159 
+            text = "#" 
+        intervals [4]:
+            xmin = 7.159 
+            xmax = 9.516 
+            text = "elle a le même visage qu'une citrouille d'$Halloween$" 
+        intervals [5]:
+            xmin = 9.516 
+            xmax = 17.935 
+            text = "#" 
+        intervals [6]:
+            xmin = 17.935 
+            xmax = 18.148 
+            text = "*" 
+        intervals [7]:
+            xmin = 18.148 
+            xmax = 19.169 
+            text = "#" 
+        intervals [8]:
+            xmin = 19.169 
+            xmax = 21.115 
+            text = "elle ressemble aussi à un super héros" 
+        intervals [9]:
+            xmin = 21.115 
+            xmax = 24.982 
+            text = "#" 
+        intervals [10]:
+            xmin = 24.982 
+            xmax = 25.129 
+            text = "*" 
+        intervals [11]:
+            xmin = 25.129 
+            xmax = 26.567 
+            text = "#" 
+        intervals [12]:
+            xmin = 26.567 
+            xmax = 27.984 
+            text = "tu as une idée du message" 
+        intervals [13]:
+            xmin = 27.984 
+            xmax = 34.96 
+            text = "#" 
+        intervals [14]:
+            xmin = 34.96 
+            xmax = 37.795 
+            text = "elle combat peut-être la mauvaise nourriture avec la pomme" 
+        intervals [15]:
+            xmin = 37.795 
+            xmax = 40.198 
+            text = "#" 
+        intervals [16]:
+            xmin = 40.198 
+            xmax = 41.123 
+            text = "qu'est ce que tu en dis" 
+        intervals [17]:
+            xmin = 41.123 
+            xmax = 42.149 
+            text = "#" 
+        intervals [18]:
+            xmin = 42.149 
+            xmax = 42.296 
+            text = "*" 
+        intervals [19]:
+            xmin = 42.296 
+            xmax = 45.711 
+            text = "#" 
+        intervals [20]:
+            xmin = 45.711 
+            xmax = 45.858 
+            text = "*" 
+        intervals [21]:
+            xmin = 45.858 
+            xmax = 56.959 
+            text = "#" 
+        intervals [22]:
+            xmin = 56.959 
+            xmax = 59.9516 
+            text = "peut-être qu'elle comnbat les mauvaises habitudes alimentaires avec la" 

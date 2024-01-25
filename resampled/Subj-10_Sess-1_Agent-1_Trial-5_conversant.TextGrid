@@ -1,0 +1,126 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 60 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Transcription" 
+        xmin = 0 
+        xmax = 60 
+        intervals: size = 28 
+        intervals [1]:
+            xmin = 0 
+            xmax = 2.616 
+            text = "#" 
+        intervals [2]:
+            xmin = 2.616 
+            xmax = 3.262 
+            text = "allo ouais" 
+        intervals [3]:
+            xmin = 3.262 
+            xmax = 3.76 
+            text = "#" 
+        intervals [4]:
+            xmin = 3.76 
+            xmax = 5.761 
+            text = "euh bon ben c'est pareil là c'est la pomme" 
+        intervals [5]:
+            xmin = 5.761 
+            xmax = 7.103 
+            text = "#" 
+        intervals [6]:
+            xmin = 7.103 
+            xmax = 11.431 
+            text = "la pomme $Spiderman$ la tête à l'envers les yeux en" 
+        intervals [7]:
+            xmin = 11.431 
+            xmax = 12.29 
+            text = "#" 
+        intervals [8]:
+            xmin = 12.29 
+            xmax = 15.313 
+            text = "en forme machin donc bon ben voilà quoi" 
+        intervals [9]:
+            xmin = 15.313 
+            xmax = 15.638 
+            text = "#" 
+        intervals [10]:
+            xmin = 15.638 
+            xmax = 16.222 
+            text = "c'est les trois" 
+        intervals [11]:
+            xmin = 16.222 
+            xmax = 16.634 
+            text = "#" 
+        intervals [12]:
+            xmin = 16.634 
+            xmax = 17.366 
+            text = "lui ou alors" 
+        intervals [13]:
+            xmin = 17.366 
+            xmax = 17.945 
+            text = "#" 
+        intervals [14]:
+            xmin = 17.945 
+            xmax = 22.873 
+            text = "par rapport à ce que tu disais lui je veux bien que ce soit pour manger 5 fruits et légumes" 
+        intervals [15]:
+            xmin = 22.873 
+            xmax = 23.269 
+            text = "#" 
+        intervals [16]:
+            xmin = 23.269 
+            xmax = 27.1 
+            text = "mais je me posais la question parce qu'en fait on mange pas vraiment du citron" 
+        intervals [17]:
+            xmin = 27.1 
+            xmax = 31.175 
+            text = "#" 
+        intervals [18]:
+            xmin = 31.175 
+            xmax = 34.843 
+            text = "ça pourrait être une marque de -fin une marque ou" 
+        intervals [19]:
+            xmin = 34.843 
+            xmax = 35.336 
+            text = "#" 
+        intervals [20]:
+            xmin = 35.336 
+            xmax = 39.822 
+            text = "ou tu sais des parfums de des parfums de glace ou des parfums ouais non aubergine ça marche pas" 
+        intervals [21]:
+            xmin = 39.822 
+            xmax = 40.483 
+            text = "#" 
+        intervals [22]:
+            xmin = 40.483 
+            xmax = 41.57 
+            text = "aubergine ça marche pas" 
+        intervals [23]:
+            xmin = 41.57 
+            xmax = 41.885 
+            text = "#" 
+        intervals [24]:
+            xmin = 41.885 
+            xmax = 44.369 
+            text = "qu'est ce qu'il y a en commun entre l'aubergine la pomme et le" 
+        intervals [25]:
+            xmin = 44.369 
+            xmax = 50.573 
+            text = "#" 
+        intervals [26]:
+            xmin = 50.573 
+            xmax = 55.084 
+            text = "donc ça serait par rapport aux qualités euh aux qualités nutritives des machins euh" 
+        intervals [27]:
+            xmin = 55.084 
+            xmax = 56.548 
+            text = "#" 
+        intervals [28]:
+            xmin = 56.548 
+            xmax = 59.9516 
+            text = "peut-être que c'est un une sorte de pub en disant qu'il faut" 

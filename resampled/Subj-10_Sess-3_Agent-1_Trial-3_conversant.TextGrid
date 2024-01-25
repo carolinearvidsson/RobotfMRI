@@ -1,0 +1,114 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 60 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Transcription" 
+        xmin = 0 
+        xmax = 60 
+        intervals: size = 25 
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.697 
+            text = "#" 
+        intervals [2]:
+            xmin = 1.697 
+            xmax = 2.144 
+            text = "ah ouais" 
+        intervals [3]:
+            xmin = 2.144 
+            xmax = 2.52 
+            text = "#" 
+        intervals [4]:
+            xmin = 2.52 
+            xmax = 8.789 
+            text = "et je crois que -fin je sais pas j'ai peut-être une idée où euh où en fait ça serait les deux côtés euh" 
+        intervals [5]:
+            xmin = 8.789 
+            xmax = 9.653 
+            text = "#" 
+        intervals [6]:
+            xmin = 9.653 
+            xmax = 14.073 
+            text = "les deux côtés de la de la même pub mais je sais pas encore dans quel sens il faut la" 
+        intervals [7]:
+            xmin = 14.073 
+            xmax = 14.495 
+            text = "#" 
+        intervals [8]:
+            xmin = 14.495 
+            xmax = 15.618 
+            text = "tu sais les deux séries d'images" 
+        intervals [9]:
+            xmin = 15.618 
+            xmax = 27.532 
+            text = "#" 
+        intervals [10]:
+            xmin = 27.532 
+            xmax = 30.677 
+            text = "ouais ben après des fois il suffit de rajouter un mot euh" 
+        intervals [11]:
+            xmin = 30.677 
+            xmax = 31.774 
+            text = "#" 
+        intervals [12]:
+            xmin = 31.774 
+            xmax = 34.579 
+            text = "je crois que c'était un peu ça l'idée quoi on enlève le mot pour voir euh" 
+        intervals [13]:
+            xmin = 34.579 
+            xmax = 35.046 
+            text = "#" 
+        intervals [14]:
+            xmin = 35.046 
+            xmax = 36.388 
+            text = "donc c'est des trucs un peu ambigus" 
+        intervals [15]:
+            xmin = 36.388 
+            xmax = 41.092 
+            text = "#" 
+        intervals [16]:
+            xmin = 41.092 
+            xmax = 41.631 
+            text = "bah ok" 
+        intervals [17]:
+            xmin = 41.631 
+            xmax = 42.058 
+            text = "#" 
+        intervals [18]:
+            xmin = 42.058 
+            xmax = 46.813 
+            text = "j'avais l'idée euh je parce que dans les trucs que qu'on avait entendu y avait l'idée euh" 
+        intervals [19]:
+            xmin = 46.813 
+            xmax = 47.474 
+            text = "#" 
+        intervals [20]:
+            xmin = 47.474 
+            xmax = 51.894 
+            text = "je me disais d'une part en fait de la production saine locale" 
+        intervals [21]:
+            xmin = 51.894 
+            xmax = 52.224 
+            text = "#" 
+        intervals [22]:
+            xmin = 52.224 
+            xmax = 55.47 
+            text = "mais je savais pas encore quel était le bon le côté positif parce que les" 
+        intervals [23]:
+            xmin = 55.47 
+            xmax = 55.841 
+            text = "#" 
+        intervals [24]:
+            xmin = 55.841 
+            xmax = 58.966 
+            text = "les gentils ceux qu'il faut manger c'est les premiers ou euh" 
+        intervals [25]:
+            xmin = 58.966 
+            xmax = 59.9516 
+            text = "#" 

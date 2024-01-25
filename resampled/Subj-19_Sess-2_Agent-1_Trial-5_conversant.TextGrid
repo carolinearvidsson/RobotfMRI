@@ -1,0 +1,122 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 60 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Transcription" 
+        xmin = 0 
+        xmax = 60 
+        intervals: size = 27 
+        intervals [1]:
+            xmin = 0 
+            xmax = 4.578 
+            text = "#" 
+        intervals [2]:
+            xmin = 4.578 
+            xmax = 4.918 
+            text = "ouais" 
+        intervals [3]:
+            xmin = 4.918 
+            xmax = 5.899 
+            text = "#" 
+        intervals [4]:
+            xmin = 5.899 
+            xmax = 7.092 
+            text = "euh" 
+        intervals [5]:
+            xmin = 7.092 
+            xmax = 17.259 
+            text = "#" 
+        intervals [6]:
+            xmin = 17.259 
+            xmax = 18.768 
+            text = "ouais -fin moi c'est j'ai" 
+        intervals [7]:
+            xmin = 18.768 
+            xmax = 19.235 
+            text = "#" 
+        intervals [8]:
+            xmin = 19.235 
+            xmax = 22.929 
+            text = "pas vraiment envie tu vois de de dire juste qu'elle est laide elle me fait un peu pitié cette poire" 
+        intervals [9]:
+            xmin = 22.929 
+            xmax = 26.399 
+            text = "#" 
+        intervals [10]:
+            xmin = 26.399 
+            xmax = 28.58 
+            text = "ouais ben ouais c'est vrai mais euh -fin" 
+        intervals [11]:
+            xmin = 28.58 
+            xmax = 29 
+            text = "#" 
+        intervals [12]:
+            xmin = 29 
+            xmax = 32.043 
+            text = "on est moi elle m'évoque vraiment de la pitié en fait -fin c'est euh" 
+        intervals [13]:
+            xmin = 32.043 
+            xmax = 32.684 
+            text = "#" 
+        intervals [14]:
+            xmin = 32.684 
+            xmax = 37.246 
+            text = "il y a vraiment le côté ouais personnification j'ai je sais pas j'ai l'impression qu'elle a été battue ou quelque chose du genre" 
+        intervals [15]:
+            xmin = 37.246 
+            xmax = 40.163 
+            text = "#" 
+        intervals [16]:
+            xmin = 40.163 
+            xmax = 40.498 
+            text = "ouais" 
+        intervals [17]:
+            xmin = 40.498 
+            xmax = 45.975 
+            text = "#" 
+        intervals [18]:
+            xmin = 45.975 
+            xmax = 47.514 
+            text = "ouais ouais ouais c'est assez sain effectivement" 
+        intervals [19]:
+            xmin = 47.514 
+            xmax = 47.641 
+            text = "#" 
+        intervals [20]:
+            xmin = 47.641 
+            xmax = 50.085 
+            text = "ouais il donne pas forcément envie d'être mangé mais euh" 
+        intervals [21]:
+            xmin = 50.085 
+            xmax = 50.283 
+            text = "#" 
+        intervals [22]:
+            xmin = 50.283 
+            xmax = 53.611 
+            text = "mais elle me donne pas forcément la même sensation par exemple tu vois que euh" 
+        intervals [23]:
+            xmin = 53.611 
+            xmax = 53.84 
+            text = "#" 
+        intervals [24]:
+            xmin = 53.84 
+            xmax = 55.013 
+            text = "la framboise du début" 
+        intervals [25]:
+            xmin = 55.013 
+            xmax = 57.63 
+            text = "#" 
+        intervals [26]:
+            xmin = 57.63 
+            xmax = 58.305 
+            text = "ouais ouais ouais" 
+        intervals [27]:
+            xmin = 58.305 
+            xmax = 59.9516 
+            text = "#" 

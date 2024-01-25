@@ -1,0 +1,74 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 60 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Transcription" 
+        xmin = 0 
+        xmax = 60 
+        intervals: size = 15 
+        intervals [1]:
+            xmin = 0 
+            xmax = 3.536 
+            text = "#" 
+        intervals [2]:
+            xmin = 3.536 
+            xmax = 5.096 
+            text = "cette framboise n'est pas très jolie" 
+        intervals [3]:
+            xmin = 5.096 
+            xmax = 11.919 
+            text = "#" 
+        intervals [4]:
+            xmin = 11.919 
+            xmax = 12.874 
+            text = "je suis d'accord" 
+        intervals [5]:
+            xmin = 12.874 
+            xmax = 23.259 
+            text = "#" 
+        intervals [6]:
+            xmin = 23.259 
+            xmax = 24.372 
+            text = "elle semble triste" 
+        intervals [7]:
+            xmin = 24.372 
+            xmax = 33.583 
+            text = "#" 
+        intervals [8]:
+            xmin = 33.583 
+            xmax = 35.615 
+            text = "elle est peut-être triste car elle est pourrie" 
+        intervals [9]:
+            xmin = 35.615 
+            xmax = 36.347 
+            text = "#" 
+        intervals [10]:
+            xmin = 36.347 
+            xmax = 37.261 
+            text = "qu'est ce que t'en penses" 
+        intervals [11]:
+            xmin = 37.261 
+            xmax = 41.575 
+            text = "#" 
+        intervals [12]:
+            xmin = 41.575 
+            xmax = 43.587 
+            text = "elle est peut-être triste car elle est pourrie" 
+        intervals [13]:
+            xmin = 43.587 
+            xmax = 52.107 
+            text = "#" 
+        intervals [14]:
+            xmin = 52.107 
+            xmax = 54.129 
+            text = "elle est peut-être triste" 
+        intervals [15]:
+            xmin = 54.129 
+            xmax = 59.9516 
+            text = "#" 

@@ -1,0 +1,142 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 60 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Transcription" 
+        xmin = 0 
+        xmax = 60 
+        intervals: size = 32 
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.489 
+            text = "#" 
+        intervals [2]:
+            xmin = 1.489 
+            xmax = 4.054 
+            text = "euh ben du coup c'est euh la pomme en $Spiderman$" 
+        intervals [3]:
+            xmin = 4.054 
+            xmax = 5.772 
+            text = "#" 
+        intervals [4]:
+            xmin = 5.772 
+            xmax = 6.249 
+            text = "euh" 
+        intervals [5]:
+            xmin = 6.249 
+            xmax = 10.293 
+            text = "#" 
+        intervals [6]:
+            xmin = 10.293 
+            xmax = 10.679 
+            text = "à quoi" 
+        intervals [7]:
+            xmin = 10.679 
+            xmax = 12.199 
+            text = "#" 
+        intervals [8]:
+            xmin = 12.199 
+            xmax = 12.61 
+            text = "je sais pas" 
+        intervals [9]:
+            xmin = 12.61 
+            xmax = 16.294 
+            text = "#" 
+        intervals [10]:
+            xmin = 16.294 
+            xmax = 17.432 
+            text = "ah je m'y connais pas bien" 
+        intervals [11]:
+            xmin = 17.432 
+            xmax = 19.372 
+            text = "#" 
+        intervals [12]:
+            xmin = 19.372 
+            xmax = 21.105 
+            text = "moi j'avais pensé à $Spiderman$ parce qu'il est à l'envers" 
+        intervals [13]:
+            xmin = 21.105 
+            xmax = 24.768 
+            text = "#" 
+        intervals [14]:
+            xmin = 24.768 
+            xmax = 25.23 
+            text = "et euh" 
+        intervals [15]:
+            xmin = 25.23 
+            xmax = 27.03 
+            text = "#" 
+        intervals [16]:
+            xmin = 27.03 
+            xmax = 27.329 
+            text = "ouais" 
+        intervals [17]:
+            xmin = 27.329 
+            xmax = 33.522 
+            text = "#" 
+        intervals [18]:
+            xmin = 33.522 
+            xmax = 34.193 
+            text = "en super héros" 
+        intervals [19]:
+            xmin = 34.193 
+            xmax = 36.195 
+            text = "#" 
+        intervals [20]:
+            xmin = 36.195 
+            xmax = 38.786 
+            text = "en fait ça transforme les fruits et légumes en super héros pour dire euh" 
+        intervals [21]:
+            xmin = 38.786 
+            xmax = 39.131 
+            text = "#" 
+        intervals [22]:
+            xmin = 39.131 
+            xmax = 40.98 
+            text = "ouais c'est des super héros ils font du bien" 
+        intervals [23]:
+            xmin = 40.98 
+            xmax = 41.392 
+            text = "#" 
+        intervals [24]:
+            xmin = 41.392 
+            xmax = 42.769 
+            text = "ouais ça va bien dans le" 
+        intervals [25]:
+            xmin = 42.769 
+            xmax = 42.934 
+            text = "#" 
+        intervals [26]:
+            xmin = 42.934 
+            xmax = 44.781 
+            text = "celui qui 5 fruits et légumes par jour euh" 
+        intervals [27]:
+            xmin = 44.781 
+            xmax = 45.025 
+            text = "#" 
+        intervals [28]:
+            xmin = 45.025 
+            xmax = 45.736 
+            text = "ça m'étonnerait pas" 
+        intervals [29]:
+            xmin = 45.736 
+            xmax = 55.247 
+            text = "#" 
+        intervals [30]:
+            xmin = 55.247 
+            xmax = 55.511 
+            text = "ouais" 
+        intervals [31]:
+            xmin = 55.511 
+            xmax = 56.73 
+            text = "#" 
+        intervals [32]:
+            xmin = 56.73 
+            xmax = 59.9044 
+            text = "ouais du coup ouais y a ce côté là ce côté enfantin ça touche les enfants" 

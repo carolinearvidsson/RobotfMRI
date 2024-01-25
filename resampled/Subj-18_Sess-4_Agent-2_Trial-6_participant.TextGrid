@@ -1,0 +1,146 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 60 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Transcription" 
+        xmin = 0 
+        xmax = 60 
+        intervals: size = 33 
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.809 
+            text = "#" 
+        intervals [2]:
+            xmin = 1.809 
+            xmax = 3.13 
+            text = "que là la fraise" 
+        intervals [3]:
+            xmin = 3.13 
+            xmax = 3.874 
+            text = "#" 
+        intervals [4]:
+            xmin = 3.874 
+            xmax = 5.03 
+            text = "a l'air aussi euh" 
+        intervals [5]:
+            xmin = 5.03 
+            xmax = 5.827 
+            text = "#" 
+        intervals [6]:
+            xmin = 5.827 
+            xmax = 6.574 
+            text = "abîmée" 
+        intervals [7]:
+            xmin = 6.574 
+            xmax = 7.314 
+            text = "#" 
+        intervals [8]:
+            xmin = 7.314 
+            xmax = 7.956 
+            text = "blasée" 
+        intervals [9]:
+            xmin = 7.956 
+            xmax = 9.345 
+            text = "#" 
+        intervals [10]:
+            xmin = 9.345 
+            xmax = 10.009 
+            text = "euh" 
+        intervals [11]:
+            xmin = 10.009 
+            xmax = 10.436 
+            text = "#" 
+        intervals [12]:
+            xmin = 10.436 
+            xmax = 12.382 
+            text = "peut-être que effectivement euh" 
+        intervals [13]:
+            xmin = 12.382 
+            xmax = 14.058 
+            text = "#" 
+        intervals [14]:
+            xmin = 14.058 
+            xmax = 16.1 
+            text = "elle est moins bonne qu'une autre fraise" 
+        intervals [15]:
+            xmin = 16.1 
+            xmax = 21.986 
+            text = "#" 
+        intervals [16]:
+            xmin = 21.986 
+            xmax = 22.467 
+            text = "et euh" 
+        intervals [17]:
+            xmin = 22.467 
+            xmax = 26.15 
+            text = "#" 
+        intervals [18]:
+            xmin = 26.15 
+            xmax = 26.541 
+            text = "elle a" 
+        intervals [19]:
+            xmin = 26.541 
+            xmax = 28.756 
+            text = "#" 
+        intervals [20]:
+            xmin = 28.756 
+            xmax = 30.55 
+            text = "et ben maintenant que" 
+        intervals [21]:
+            xmin = 30.55 
+            xmax = 31.52 
+            text = "#" 
+        intervals [22]:
+            xmin = 31.52 
+            xmax = 34.416 
+            text = "qu'on a parlé un peu oui que c'est possible que" 
+        intervals [23]:
+            xmin = 34.416 
+            xmax = 36.078 
+            text = "#" 
+        intervals [24]:
+            xmin = 36.078 
+            xmax = 41.082 
+            text = "ce soit des légumes péri- des fruits et légumes locaux qui soient les super héros et euh" 
+        intervals [25]:
+            xmin = 41.082 
+            xmax = 42.32 
+            text = "#" 
+        intervals [26]:
+            xmin = 42.32 
+            xmax = 46.02 
+            text = "et des fruits et légumes importés avec des pesticides etcetera qui soient" 
+        intervals [27]:
+            xmin = 46.02 
+            xmax = 47.24 
+            text = "#" 
+        intervals [28]:
+            xmin = 47.24 
+            xmax = 47.626 
+            text = "mauvais" 
+        intervals [29]:
+            xmin = 47.626 
+            xmax = 54.544 
+            text = "#" 
+        intervals [30]:
+            xmin = 54.544 
+            xmax = 55.186 
+            text = "c'est possible" 
+        intervals [31]:
+            xmin = 55.186 
+            xmax = 56.522 
+            text = "#" 
+        intervals [32]:
+            xmin = 56.522 
+            xmax = 58.641 
+            text = "euh locaux et avec euh" 
+        intervals [33]:
+            xmin = 58.641 
+            xmax = 59.9044 
+            text = "#" 

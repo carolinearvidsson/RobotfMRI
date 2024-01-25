@@ -1,0 +1,142 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 60 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Transcription" 
+        xmin = 0 
+        xmax = 60 
+        intervals: size = 32 
+        intervals [1]:
+            xmin = 0 
+            xmax = 3.125 
+            text = "#" 
+        intervals [2]:
+            xmin = 3.125 
+            xmax = 8.729 
+            text = "alors cette fraise elle a des yeux au beurre noir comme la framboise" 
+        intervals [3]:
+            xmin = 8.729 
+            xmax = 9.74 
+            text = "#" 
+        intervals [4]:
+            xmin = 9.74 
+            xmax = 12.874 
+            text = "euh je suis pas sûre que triste ce soit le mot" 
+        intervals [5]:
+            xmin = 12.874 
+            xmax = 13.321 
+            text = "#" 
+        intervals [6]:
+            xmin = 13.321 
+            xmax = 14.581 
+            text = "pas triste elle est" 
+        intervals [7]:
+            xmin = 14.581 
+            xmax = 15.095 
+            text = "#" 
+        intervals [8]:
+            xmin = 15.095 
+            xmax = 16.111 
+            text = "pas joyeuse mais euh" 
+        intervals [9]:
+            xmin = 16.111 
+            xmax = 18.443 
+            text = "#" 
+        intervals [10]:
+            xmin = 18.443 
+            xmax = 20.381 
+            text = "je suis pas sûre qu'elle soit punie non plus" 
+        intervals [11]:
+            xmin = 20.381 
+            xmax = 20.739 
+            text = "#" 
+        intervals [12]:
+            xmin = 20.739 
+            xmax = 21.532 
+            text = "sont oubliés" 
+        intervals [13]:
+            xmin = 21.532 
+            xmax = 24.301 
+            text = "#" 
+        intervals [14]:
+            xmin = 24.301 
+            xmax = 24.565 
+            text = "ouais" 
+        intervals [15]:
+            xmin = 24.565 
+            xmax = 29.417 
+            text = "#" 
+        intervals [16]:
+            xmin = 29.417 
+            xmax = 29.986 
+            text = "c'est pas bon" 
+        intervals [17]:
+            xmin = 29.986 
+            xmax = 32.887 
+            text = "#" 
+        intervals [18]:
+            xmin = 32.887 
+            xmax = 33.542 
+            text = "franchement non" 
+        intervals [19]:
+            xmin = 33.542 
+            xmax = 34.274 
+            text = "#" 
+        intervals [20]:
+            xmin = 34.274 
+            xmax = 40.188 
+            text = "parce que là euh les pesticides ça colle pas parce que elle a des super héros c'est des super héros ça existe pas" 
+        intervals [21]:
+            xmin = 40.188 
+            xmax = 41.402 
+            text = "#" 
+        intervals [22]:
+            xmin = 41.402 
+            xmax = 42.586 
+            text = "et que" 
+        intervals [23]:
+            xmin = 42.586 
+            xmax = 44.395 
+            text = "#" 
+        intervals [24]:
+            xmin = 44.395 
+            xmax = 46.64 
+            text = "ce sont les fruits traités qui existent pas euh" 
+        intervals [25]:
+            xmin = 46.64 
+            xmax = 47.133 
+            text = "#" 
+        intervals [26]:
+            xmin = 47.133 
+            xmax = 48.622 
+            text = "de façon naturelle comme ça" 
+        intervals [27]:
+            xmin = 48.622 
+            xmax = 49.531 
+            text = "#" 
+        intervals [28]:
+            xmin = 49.531 
+            xmax = 53.987 
+            text = "euh si on doit donc le message c'est qu'on doit nous dire de manger les autres fruits euh" 
+        intervals [29]:
+            xmin = 53.987 
+            xmax = 54.338 
+            text = "#" 
+        intervals [30]:
+            xmin = 54.338 
+            xmax = 55.882 
+            text = "non on a pas envie de les manger" 
+        intervals [31]:
+            xmin = 55.882 
+            xmax = 57.508 
+            text = "#" 
+        intervals [32]:
+            xmin = 57.508 
+            xmax = 59.9044 
+            text = "ouais les les les fraises on a" 

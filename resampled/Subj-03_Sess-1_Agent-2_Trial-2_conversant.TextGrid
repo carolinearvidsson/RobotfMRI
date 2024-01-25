@@ -1,0 +1,78 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 60 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Transcription" 
+        xmin = 0 
+        xmax = 60 
+        intervals: size = 16 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.274 
+            text = "*" 
+        intervals [2]:
+            xmin = 0.274 
+            xmax = 1.489 
+            text = "#" 
+        intervals [3]:
+            xmin = 1.489 
+            xmax = 2.103 
+            text = "bonjour" 
+        intervals [4]:
+            xmin = 2.103 
+            xmax = 12.742 
+            text = "#" 
+        intervals [5]:
+            xmin = 12.742 
+            xmax = 14.663 
+            text = "on dirait un $Spiderman$ cette pomme" 
+        intervals [6]:
+            xmin = 14.663 
+            xmax = 17.183 
+            text = "#" 
+        intervals [7]:
+            xmin = 17.183 
+            xmax = 19.113 
+            text = "on dirait un $Spiderman$ cette pomme" 
+        intervals [8]:
+            xmin = 19.113 
+            xmax = 22.365 
+            text = "#" 
+        intervals [9]:
+            xmin = 22.365 
+            xmax = 23.747 
+            text = "oui je crois aussi" 
+        intervals [10]:
+            xmin = 23.747 
+            xmax = 32.42 
+            text = "#" 
+        intervals [11]:
+            xmin = 32.42 
+            xmax = 34.762 
+            text = "c'est une campagne de pub ciblant les enfants" 
+        intervals [12]:
+            xmin = 34.762 
+            xmax = 41.768 
+            text = "#" 
+        intervals [13]:
+            xmin = 41.768 
+            xmax = 42.484 
+            text = "je pense" 
+        intervals [14]:
+            xmin = 42.484 
+            xmax = 46.447 
+            text = "#" 
+        intervals [15]:
+            xmin = 46.447 
+            xmax = 49.78 
+            text = "ça peut être une pub pour montrer que les fruits c'est amusant" 
+        intervals [16]:
+            xmin = 49.78 
+            xmax = 59.9516 
+            text = "#" 

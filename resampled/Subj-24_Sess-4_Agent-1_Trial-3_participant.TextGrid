@@ -1,0 +1,74 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 60 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Transcription" 
+        xmin = 0 
+        xmax = 60 
+        intervals: size = 15 
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.768 
+            text = "#" 
+        intervals [2]:
+            xmin = 1.768 
+            xmax = 4.217 
+            text = "donc euh j'ai pas pu entendre ta dernière question" 
+        intervals [3]:
+            xmin = 4.217 
+            xmax = 25.866 
+            text = "#" 
+        intervals [4]:
+            xmin = 25.866 
+            xmax = 26.694 
+            text = "oui ça peut être ça" 
+        intervals [5]:
+            xmin = 26.694 
+            xmax = 31.851 
+            text = "#" 
+        intervals [6]:
+            xmin = 31.851 
+            xmax = 35.554 
+            text = "au niveau des proportions euh -fin du corps de la morphologie de chacun" 
+        intervals [7]:
+            xmin = 35.554 
+            xmax = 39.919 
+            text = "#" 
+        intervals [8]:
+            xmin = 39.919 
+            xmax = 40.96 
+            text = "si ça peut être ça" 
+        intervals [9]:
+            xmin = 40.96 
+            xmax = 42.002 
+            text = "#" 
+        intervals [10]:
+            xmin = 42.002 
+            xmax = 44.598 
+            text = "après j'ai pas pensé moi personnellement euh" 
+        intervals [11]:
+            xmin = 44.598 
+            xmax = 45.68 
+            text = "#" 
+        intervals [12]:
+            xmin = 45.68 
+            xmax = 46.64 
+            text = "sur ça mais oui" 
+        intervals [13]:
+            xmin = 46.64 
+            xmax = 51.121 
+            text = "#" 
+        intervals [14]:
+            xmin = 51.121 
+            xmax = 56.791 
+            text = "ben moi c'était c'était vraiment bio et les insecticides quoi -fin ça m'a fait de suite associer là-dessus euh après" 
+        intervals [15]:
+            xmin = 56.791 
+            xmax = 59.9044 
+            text = "#" 

@@ -1,0 +1,130 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 60 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Transcription" 
+        xmin = 0 
+        xmax = 60 
+        intervals: size = 29 
+        intervals [1]:
+            xmin = 0 
+            xmax = 7.006 
+            text = "#" 
+        intervals [2]:
+            xmin = 7.006 
+            xmax = 9.582 
+            text = "on la mange on la boit et elle ressemble à $Spiderman$ pour moi" 
+        intervals [3]:
+            xmin = 9.582 
+            xmax = 13.301 
+            text = "#" 
+        intervals [4]:
+            xmin = 13.301 
+            xmax = 13.56 
+            text = "@" 
+        intervals [5]:
+            xmin = 13.56 
+            xmax = 15.862 
+            text = "#" 
+        intervals [6]:
+            xmin = 15.862 
+            xmax = 16.471 
+            text = "pour moi elle est" 
+        intervals [7]:
+            xmin = 16.471 
+            xmax = 18.173 
+            text = "#" 
+        intervals [8]:
+            xmin = 18.173 
+            xmax = 19.54 
+            text = "elle a ouais elle a les yeux" 
+        intervals [9]:
+            xmin = 19.54 
+            xmax = 21.242 
+            text = "#" 
+        intervals [10]:
+            xmin = 21.242 
+            xmax = 25.21 
+            text = "y a que les yeux ben d'ailleurs le le costume de $Spiderman$ y a que les yeux" 
+        intervals [11]:
+            xmin = 25.21 
+            xmax = 25.977 
+            text = "#" 
+        intervals [12]:
+            xmin = 25.977 
+            xmax = 26.49 
+            text = "et euh" 
+        intervals [13]:
+            xmin = 26.49 
+            xmax = 27.288 
+            text = "#" 
+        intervals [14]:
+            xmin = 27.288 
+            xmax = 28.299 
+            text = "elle elle est à l'envers" 
+        intervals [15]:
+            xmin = 28.299 
+            xmax = 29.417 
+            text = "#" 
+        intervals [16]:
+            xmin = 29.417 
+            xmax = 30.235 
+            text = "et euh" 
+        intervals [17]:
+            xmin = 30.235 
+            xmax = 32.12 
+            text = "#" 
+        intervals [18]:
+            xmin = 32.12 
+            xmax = 35.331 
+            text = "alors peut-être parce que $Spiderman$ souvent on le voit euh" 
+        intervals [19]:
+            xmin = 35.331 
+            xmax = 37.216 
+            text = "#" 
+        intervals [20]:
+            xmin = 37.216 
+            xmax = 38.44 
+            text = "ah parce que la queue était en bas" 
+        intervals [21]:
+            xmin = 38.44 
+            xmax = 42.693 
+            text = "#" 
+        intervals [22]:
+            xmin = 42.693 
+            xmax = 43.358 
+            text = "et pour moi" 
+        intervals [23]:
+            xmin = 43.358 
+            xmax = 43.704 
+            text = "#" 
+        intervals [24]:
+            xmin = 43.704 
+            xmax = 45.248 
+            text = "pour moi ça ça ressemble à" 
+        intervals [25]:
+            xmin = 45.248 
+            xmax = 45.436 
+            text = "#" 
+        intervals [26]:
+            xmin = 45.436 
+            xmax = 48.337 
+            text = "ben la queue est en bas et pour moi ça ressemble à la tête de $Spiderman$ qui est euh" 
+        intervals [27]:
+            xmin = 48.337 
+            xmax = 49.125 
+            text = "#" 
+        intervals [28]:
+            xmin = 49.125 
+            xmax = 51.284 
+            text = "qui est euh la tête en bas pendu à un fil" 
+        intervals [29]:
+            xmin = 51.284 
+            xmax = 59.9044 
+            text = "#" 

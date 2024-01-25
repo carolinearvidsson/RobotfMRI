@@ -1,0 +1,90 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 60 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Transcription" 
+        xmin = 0 
+        xmax = 60 
+        intervals: size = 19 
+        intervals [1]:
+            xmin = 0 
+            xmax = 2.283 
+            text = "#" 
+        intervals [2]:
+            xmin = 2.283 
+            xmax = 4.786 
+            text = "là le citron il est représenté il est coupé" 
+        intervals [3]:
+            xmin = 4.786 
+            xmax = 6.005 
+            text = "#" 
+        intervals [4]:
+            xmin = 6.005 
+            xmax = 7.001 
+            text = "il est pas en entier" 
+        intervals [5]:
+            xmin = 7.001 
+            xmax = 11.675 
+            text = "#" 
+        intervals [6]:
+            xmin = 11.675 
+            xmax = 12.102 
+            text = "ouais" 
+        intervals [7]:
+            xmin = 12.102 
+            xmax = 16.573 
+            text = "#" 
+        intervals [8]:
+            xmin = 16.573 
+            xmax = 17 
+            text = "c'est" 
+        intervals [9]:
+            xmin = 17 
+            xmax = 21.019 
+            text = "#" 
+        intervals [10]:
+            xmin = 21.019 
+            xmax = 21.979 
+            text = "c'est un gros citron" 
+        intervals [11]:
+            xmin = 21.979 
+            xmax = 34.691 
+            text = "#" 
+        intervals [12]:
+            xmin = 34.691 
+            xmax = 35.371 
+            text = "il est pas quoi" 
+        intervals [13]:
+            xmin = 35.371 
+            xmax = 44.816 
+            text = "#" 
+        intervals [14]:
+            xmin = 44.816 
+            xmax = 45.35 
+            text = "je sais pas" 
+        intervals [15]:
+            xmin = 45.35 
+            xmax = 53.138 
+            text = "#" 
+        intervals [16]:
+            xmin = 53.138 
+            xmax = 54.028 
+            text = "non je vois pas" 
+        intervals [17]:
+            xmin = 54.028 
+            xmax = 57.757 
+            text = "#" 
+        intervals [18]:
+            xmin = 57.757 
+            xmax = 58.885 
+            text = "lesquels on doit aimer" 
+        intervals [19]:
+            xmin = 58.885 
+            xmax = 59.9044 
+            text = "#" 

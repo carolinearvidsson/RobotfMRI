@@ -1,0 +1,122 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 60 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Transcription" 
+        xmin = 0 
+        xmax = 60 
+        intervals: size = 27 
+        intervals [1]:
+            xmin = 0 
+            xmax = 4.649 
+            text = "#" 
+        intervals [2]:
+            xmin = 4.649 
+            xmax = 5.761 
+            text = "je suis d'accord" 
+        intervals [3]:
+            xmin = 5.761 
+            xmax = 6.041 
+            text = "#" 
+        intervals [4]:
+            xmin = 6.041 
+            xmax = 7.306 
+            text = "c'est une poire jaune" 
+        intervals [5]:
+            xmin = 7.306 
+            xmax = 11.279 
+            text = "#" 
+        intervals [6]:
+            xmin = 11.279 
+            xmax = 12.448 
+            text = "c'est une poire pourrie" 
+        intervals [7]:
+            xmin = 12.448 
+            xmax = 15.044 
+            text = "#" 
+        intervals [8]:
+            xmin = 15.044 
+            xmax = 15.455 
+            text = "oui" 
+        intervals [9]:
+            xmin = 15.455 
+            xmax = 15.638 
+            text = "#" 
+        intervals [10]:
+            xmin = 15.638 
+            xmax = 16.532 
+            text = "je crois aussi" 
+        intervals [11]:
+            xmin = 16.532 
+            xmax = 22.878 
+            text = "#" 
+        intervals [12]:
+            xmin = 22.878 
+            xmax = 24.438 
+            text = "non je ne crois pas" 
+        intervals [13]:
+            xmin = 24.438 
+            xmax = 29.549 
+            text = "#" 
+        intervals [14]:
+            xmin = 29.549 
+            xmax = 31.083 
+            text = "la poire semble triste" 
+        intervals [15]:
+            xmin = 31.083 
+            xmax = 31.434 
+            text = "#" 
+        intervals [16]:
+            xmin = 31.434 
+            xmax = 32.404 
+            text = "oui bien sûr" 
+        intervals [17]:
+            xmin = 32.404 
+            xmax = 33.085 
+            text = "#" 
+        intervals [18]:
+            xmin = 33.085 
+            xmax = 34.416 
+            text = "elle semble malheureuse" 
+        intervals [19]:
+            xmin = 34.416 
+            xmax = 36.006 
+            text = "#" 
+        intervals [20]:
+            xmin = 36.006 
+            xmax = 37.16 
+            text = "elle semble fatiguée" 
+        intervals [21]:
+            xmin = 37.16 
+            xmax = 43.907 
+            text = "#" 
+        intervals [22]:
+            xmin = 43.907 
+            xmax = 44.781 
+            text = "je ne sais pas" 
+        intervals [23]:
+            xmin = 44.781 
+            xmax = 48.668 
+            text = "#" 
+        intervals [24]:
+            xmin = 48.668 
+            xmax = 49.455 
+            text = "oui en effet" 
+        intervals [25]:
+            xmin = 49.455 
+            xmax = 54.978 
+            text = "#" 
+        intervals [26]:
+            xmin = 54.978 
+            xmax = 56.852 
+            text = "peut-être que quequ'un l'a frappé" 
+        intervals [27]:
+            xmin = 56.852 
+            xmax = 59.9516 
+            text = "#" 

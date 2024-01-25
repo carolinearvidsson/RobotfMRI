@@ -1,0 +1,166 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 60 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Transcription" 
+        xmin = 0 
+        xmax = 60 
+        intervals: size = 38 
+        intervals [1]:
+            xmin = 0 
+            xmax = 2.887 
+            text = "#" 
+        intervals [2]:
+            xmin = 2.887 
+            xmax = 3.816 
+            text = "alors tout à l'heure je" 
+        intervals [3]:
+            xmin = 3.816 
+            xmax = 4.263 
+            text = "#" 
+        intervals [4]:
+            xmin = 4.263 
+            xmax = 4.608 
+            text = "salut" 
+        intervals [5]:
+            xmin = 4.608 
+            xmax = 6.651 
+            text = "#" 
+        intervals [6]:
+            xmin = 6.651 
+            xmax = 10.522 
+            text = "je crois que tu me parlais d'agrumes mais alors ça devait pas être ça mais là c'est un agrume pour la peine" 
+        intervals [7]:
+            xmin = 10.522 
+            xmax = 11.553 
+            text = "#" 
+        intervals [8]:
+            xmin = 11.553 
+            xmax = 11.812 
+            text = "non" 
+        intervals [9]:
+            xmin = 11.812 
+            xmax = 14.82 
+            text = "#" 
+        intervals [10]:
+            xmin = 14.82 
+            xmax = 15.953 
+            text = "un citron vert ouais" 
+        intervals [11]:
+            xmin = 15.953 
+            xmax = 16.846 
+            text = "#" 
+        intervals [12]:
+            xmin = 16.846 
+            xmax = 17.208 
+            text = "excuse moi" 
+        intervals [13]:
+            xmin = 18.9 
+            xmax = 19.469 
+            text = "et" 
+        intervals [14]:
+            xmin = 19.469 
+            xmax = 22.525 
+            text = "#" 
+        intervals [15]:
+            xmin = 22.525 
+            xmax = 23.513 
+            text = "ouais un bandeau" 
+        intervals [16]:
+            xmin = 23.513 
+            xmax = 25.043 
+            text = "#" 
+        intervals [17]:
+            xmin = 25.043 
+            xmax = 26.277 
+            text = "faire un comme un" 
+        intervals [18]:
+            xmin = 26.277 
+            xmax = 26.673 
+            text = "#" 
+        intervals [19]:
+            xmin = 26.673 
+            xmax = 27.435 
+            text = "personnage quoi" 
+        intervals [20]:
+            xmin = 27.435 
+            xmax = 29.656 
+            text = "#" 
+        intervals [21]:
+            xmin = 29.656 
+            xmax = 31.378 
+            text = "un personnage de $Tortue Ninja$" 
+        intervals [22]:
+            xmin = 31.378 
+            xmax = 35.303 
+            text = "#" 
+        intervals [23]:
+            xmin = 35.303 
+            xmax = 35.956 
+            text = "et" 
+        intervals [24]:
+            xmin = 35.956 
+            xmax = 36.184 
+            text = "#" 
+        intervals [25]:
+            xmin = 36.184 
+            xmax = 38.887 
+            text = "derrière on a rajouté des des petites feuilles pour euh" 
+        intervals [26]:
+            xmin = 38.887 
+            xmax = 39.527 
+            text = "#" 
+        intervals [27]:
+            xmin = 39.527 
+            xmax = 41.986 
+            text = "on sait pas trop si c'est des feuilles ou de la peau de citron mais" 
+        intervals [28]:
+            xmin = 41.986 
+            xmax = 43.16 
+            text = "#" 
+        intervals [29]:
+            xmin = 43.16 
+            xmax = 44.059 
+            text = "ça rajoute quelque chose" 
+        intervals [30]:
+            xmin = 44.059 
+            xmax = 45.787 
+            text = "#" 
+        intervals [31]:
+            xmin = 45.787 
+            xmax = 46.163 
+            text = "ouais" 
+        intervals [32]:
+            xmin = 46.163 
+            xmax = 48.779 
+            text = "#" 
+        intervals [33]:
+            xmin = 48.779 
+            xmax = 51.203 
+            text = "si on devait deviner pourquoi c'est la campagne" 
+        intervals [34]:
+            xmin = 51.203 
+            xmax = 53.744 
+            text = "#" 
+        intervals [35]:
+            xmin = 53.744 
+            xmax = 54.393 
+            text = "tu penses quoi" 
+        intervals [36]:
+            xmin = 54.393 
+            xmax = 57.147 
+            text = "#" 
+        intervals [37]:
+            xmin = 57.147 
+            xmax = 58.549 
+            text = "tu penses que c'est une campagne pour quoi" 
+        intervals [38]:
+            xmin = 58.549 
+            xmax = 59.9516 
+            text = "#" 

@@ -1,0 +1,158 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 60 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Transcription" 
+        xmin = 0 
+        xmax = 60 
+        intervals: size = 36 
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.849 
+            text = "#" 
+        intervals [2]:
+            xmin = 1.849 
+            xmax = 2.571 
+            text = "bonjour" 
+        intervals [3]:
+            xmin = 2.571 
+            xmax = 4.171 
+            text = "#" 
+        intervals [4]:
+            xmin = 4.171 
+            xmax = 9.419 
+            text = "oui alors donc c'est toujours la poire triste un peu fatiguée un peu abîmée" 
+        intervals [5]:
+            xmin = 9.419 
+            xmax = 10.4 
+            text = "#" 
+        intervals [6]:
+            xmin = 10.4 
+            xmax = 10.903 
+            text = "un peu" 
+        intervals [7]:
+            xmin = 10.903 
+            xmax = 11.757 
+            text = "#" 
+        intervals [8]:
+            xmin = 11.757 
+            xmax = 12.102 
+            text = "un peu" 
+        intervals [9]:
+            xmin = 12.102 
+            xmax = 12.493 
+            text = "#" 
+        intervals [10]:
+            xmin = 12.493 
+            xmax = 12.935 
+            text = "pourrie" 
+        intervals [11]:
+            xmin = 12.935 
+            xmax = 15.872 
+            text = "#" 
+        intervals [12]:
+            xmin = 15.872 
+            xmax = 19.418 
+            text = "euh alors quel peut être le message derrière tout ça euh" 
+        intervals [13]:
+            xmin = 19.418 
+            xmax = 21.796 
+            text = "#" 
+        intervals [14]:
+            xmin = 21.796 
+            xmax = 22.751 
+            text = "je" 
+        intervals [15]:
+            xmin = 22.751 
+            xmax = 23.686 
+            text = "#" 
+        intervals [16]:
+            xmin = 23.686 
+            xmax = 24.438 
+            text = "vois pas bien" 
+        intervals [17]:
+            xmin = 24.438 
+            xmax = 24.633 
+            text = "#" 
+        intervals [18]:
+            xmin = 24.633 
+            xmax = 25.145 
+            text = "en fait" 
+        intervals [19]:
+            xmin = 25.145 
+            xmax = 31.353 
+            text = "#" 
+        intervals [20]:
+            xmin = 31.353 
+            xmax = 32.384 
+            text = "ah peut-être ouais" 
+        intervals [21]:
+            xmin = 32.384 
+            xmax = 32.989 
+            text = "#" 
+        intervals [22]:
+            xmin = 32.989 
+            xmax = 35.371 
+            text = "une sorte de guerre" 
+        intervals [23]:
+            xmin = 35.371 
+            xmax = 37.002 
+            text = "#" 
+        intervals [24]:
+            xmin = 37.002 
+            xmax = 39.334 
+            text = "ouais les super héros qui défendent" 
+        intervals [25]:
+            xmin = 39.334 
+            xmax = 39.893 
+            text = "#" 
+        intervals [26]:
+            xmin = 39.893 
+            xmax = 40.798 
+            text = "défendent les fruits" 
+        intervals [27]:
+            xmin = 40.798 
+            xmax = 41.265 
+            text = "#" 
+        intervals [28]:
+            xmin = 41.265 
+            xmax = 42.399 
+            text = "défendent d'autres fruits" 
+        intervals [29]:
+            xmin = 42.399 
+            xmax = 46.899 
+            text = "#" 
+        intervals [30]:
+            xmin = 46.899 
+            xmax = 49.17 
+            text = "ouais mais les super héros ils ont l'air un peu méchants" 
+        intervals [31]:
+            xmin = 49.17 
+            xmax = 54.942 
+            text = "#" 
+        intervals [32]:
+            xmin = 54.942 
+            xmax = 55.125 
+            text = "donc" 
+        intervals [33]:
+            xmin = 55.125 
+            xmax = 55.333 
+            text = "#" 
+        intervals [34]:
+            xmin = 55.333 
+            xmax = 58.478 
+            text = "euh je sais pas si c'est les défenseurs de" 
+        intervals [35]:
+            xmin = 58.478 
+            xmax = 59.261 
+            text = "#" 
+        intervals [36]:
+            xmin = 59.261 
+            xmax = 59.9044 
+            text = "de du bien" 

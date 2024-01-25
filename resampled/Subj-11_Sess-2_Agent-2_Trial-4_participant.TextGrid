@@ -1,0 +1,114 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 60 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Transcription" 
+        xmin = 0 
+        xmax = 60 
+        intervals: size = 25 
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.34 
+            text = "#" 
+        intervals [2]:
+            xmin = 1.34 
+            xmax = 5.477 
+            text = "alors là c'était une framboise qui n'avait pas l'air commode et qui" 
+        intervals [3]:
+            xmin = 5.477 
+            xmax = 6.234 
+            text = "#" 
+        intervals [4]:
+            xmin = 6.234 
+            xmax = 7.082 
+            text = "euh" 
+        intervals [5]:
+            xmin = 7.082 
+            xmax = 7.301 
+            text = "#" 
+        intervals [6]:
+            xmin = 7.301 
+            xmax = 8.728 
+            text = "regardait vers la" 
+        intervals [7]:
+            xmin = 8.728 
+            xmax = 9.216 
+            text = "#" 
+        intervals [8]:
+            xmin = 9.216 
+            xmax = 9.643 
+            text = "droite" 
+        intervals [9]:
+            xmin = 9.643 
+            xmax = 10.995 
+            text = "#" 
+        intervals [10]:
+            xmin = 10.995 
+            xmax = 12.569 
+            text = "et ça fait penser à un" 
+        intervals [11]:
+            xmin = 12.569 
+            xmax = 13.22 
+            text = "#" 
+        intervals [12]:
+            xmin = 13.22 
+            xmax = 14.297 
+            text = "à une publicité" 
+        intervals [13]:
+            xmin = 14.297 
+            xmax = 18.499 
+            text = "#" 
+        intervals [14]:
+            xmin = 18.499 
+            xmax = 19.317 
+            text = "et euh" 
+        intervals [15]:
+            xmin = 19.317 
+            xmax = 21.578 
+            text = "#" 
+        intervals [16]:
+            xmin = 21.578 
+            xmax = 22.812 
+            text = "il avait l'air énervée" 
+        intervals [17]:
+            xmin = 22.812 
+            xmax = 30.834 
+            text = "#" 
+        intervals [18]:
+            xmin = 30.834 
+            xmax = 34.137 
+            text = "effectivement bon il a pas l'air content ce légume" 
+        intervals [19]:
+            xmin = 34.137 
+            xmax = 36.819 
+            text = "#" 
+        intervals [20]:
+            xmin = 36.819 
+            xmax = 37.206 
+            text = "non" 
+        intervals [21]:
+            xmin = 37.206 
+            xmax = 37.902 
+            text = "#" 
+        intervals [22]:
+            xmin = 37.902 
+            xmax = 39.558 
+            text = "et agacée énervée" 
+        intervals [23]:
+            xmin = 39.558 
+            xmax = 47.811 
+            text = "#" 
+        intervals [24]:
+            xmin = 47.811 
+            xmax = 49.567 
+            text = "non pas triste en colère" 
+        intervals [25]:
+            xmin = 49.567 
+            xmax = 59.9044 
+            text = "#" 

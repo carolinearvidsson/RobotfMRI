@@ -1,0 +1,98 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 60 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Transcription" 
+        xmin = 0 
+        xmax = 60 
+        intervals: size = 21 
+        intervals [1]:
+            xmin = 0 
+            xmax = 4.893 
+            text = "#" 
+        intervals [2]:
+            xmin = 4.893 
+            xmax = 5.172 
+            text = "ouais" 
+        intervals [3]:
+            xmin = 5.172 
+            xmax = 6.96 
+            text = "#" 
+        intervals [4]:
+            xmin = 6.96 
+            xmax = 7.773 
+            text = "et euh" 
+        intervals [5]:
+            xmin = 7.773 
+            xmax = 10.044 
+            text = "#" 
+        intervals [6]:
+            xmin = 10.044 
+            xmax = 12.346 
+            text = "on dirait un peu un méchant dans un dessin animé" 
+        intervals [7]:
+            xmin = 12.346 
+            xmax = 15.892 
+            text = "#" 
+        intervals [8]:
+            xmin = 15.892 
+            xmax = 16.243 
+            text = "ouais" 
+        intervals [9]:
+            xmin = 16.243 
+            xmax = 16.67 
+            text = "#" 
+        intervals [10]:
+            xmin = 16.67 
+            xmax = 16.939 
+            text = "non" 
+        intervals [11]:
+            xmin = 16.939 
+            xmax = 25.119 
+            text = "#" 
+        intervals [12]:
+            xmin = 25.119 
+            xmax = 25.982 
+            text = "oui peut-être oui" 
+        intervals [13]:
+            xmin = 25.982 
+            xmax = 37.531 
+            text = "#" 
+        intervals [14]:
+            xmin = 37.531 
+            xmax = 37.83 
+            text = "ouais" 
+        intervals [15]:
+            xmin = 37.83 
+            xmax = 39.421 
+            text = "#" 
+        intervals [16]:
+            xmin = 39.421 
+            xmax = 42.749 
+            text = "après là j'ai déjà un peu oublié l'image est-ce qu'on peut me la reafficher" 
+        intervals [17]:
+            xmin = 42.749 
+            xmax = 52.666 
+            text = "#" 
+        intervals [18]:
+            xmin = 52.666 
+            xmax = 52.829 
+            text = "bon" 
+        intervals [19]:
+            xmin = 52.829 
+            xmax = 58.229 
+            text = "#" 
+        intervals [20]:
+            xmin = 58.229 
+            xmax = 58.458 
+            text = "ouais" 
+        intervals [21]:
+            xmin = 58.458 
+            xmax = 59.9044 
+            text = "#" 

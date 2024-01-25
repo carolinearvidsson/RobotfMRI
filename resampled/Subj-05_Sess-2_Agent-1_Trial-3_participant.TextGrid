@@ -1,0 +1,106 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 60 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Transcription" 
+        xmin = 0 
+        xmax = 60 
+        intervals: size = 23 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.69 
+            text = "#" 
+        intervals [2]:
+            xmin = 0.69 
+            xmax = 2.663 
+            text = "on aurait dit $Zezette épouse X$ quoi" 
+        intervals [3]:
+            xmin = 2.663 
+            xmax = 5.055 
+            text = "#" 
+        intervals [4]:
+            xmin = 5.055 
+            xmax = 6.391 
+            text = "non sérieux sérieux" 
+        intervals [5]:
+            xmin = 6.391 
+            xmax = 9.181 
+            text = "#" 
+        intervals [6]:
+            xmin = 9.181 
+            xmax = 13.728 
+            text = "ah ah c'est ah c'est $Le Père Noël est une ordure$ quoi on aurait dit $Zezette épouse X$" 
+        intervals [7]:
+            xmin = 13.728 
+            xmax = 14.241 
+            text = "#" 
+        intervals [8]:
+            xmin = 14.241 
+            xmax = 15.801 
+            text = "ah je te jure le truc énorme" 
+        intervals [9]:
+            xmin = 15.801 
+            xmax = 24.809 
+            text = "#" 
+        intervals [10]:
+            xmin = 24.809 
+            xmax = 25.251 
+            text = "ouais" 
+        intervals [11]:
+            xmin = 25.251 
+            xmax = 26.197 
+            text = "#" 
+        intervals [12]:
+            xmin = 26.197 
+            xmax = 34.025 
+            text = "en p- en plus j'ai parlé avec Fuhrat de la précédente de la poir- y a une poire il m'a dit on dirait qu'on l'a frappé j'ai dit c'est une campagne sur les sur les violences domestiques ou quoi" 
+        intervals [13]:
+            xmin = 34.025 
+            xmax = 36.372 
+            text = "#" 
+        intervals [14]:
+            xmin = 36.372 
+            xmax = 36.591 
+            text = "non" 
+        intervals [15]:
+            xmin = 36.591 
+            xmax = 40.31 
+            text = "#" 
+        intervals [16]:
+            xmin = 40.31 
+            xmax = 40.589 
+            text = "ben" 
+        intervals [17]:
+            xmin = 40.589 
+            xmax = 41.544 
+            text = "#" 
+        intervals [18]:
+            xmin = 41.544 
+            xmax = 45.045 
+            text = "ah non non ben on est on a toujours sur le thème du fruit et légume" 
+        intervals [19]:
+            xmin = 45.045 
+            xmax = 45.831 
+            text = "#" 
+        intervals [20]:
+            xmin = 45.831 
+            xmax = 50.166 
+            text = "mais autant les super héros ça donne envie pour les gamins 5 fruits et légumes par jour" 
+        intervals [21]:
+            xmin = 50.166 
+            xmax = 50.583 
+            text = "#" 
+        intervals [22]:
+            xmin = 50.583 
+            xmax = 53.987 
+            text = "autant là ça fait pas envie quoi tu montres ça à un gamin tu le traumatises" 
+        intervals [23]:
+            xmin = 53.987 
+            xmax = 59.9044 
+            text = "#" 

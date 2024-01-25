@@ -1,0 +1,70 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 60 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Transcription" 
+        xmin = 0 
+        xmax = 60 
+        intervals: size = 14 
+        intervals [1]:
+            xmin = 0 
+            xmax = 11.868 
+            text = "#" 
+        intervals [2]:
+            xmin = 11.868 
+            xmax = 12.884 
+            text = "comme les deux autres" 
+        intervals [3]:
+            xmin = 12.884 
+            xmax = 29.254 
+            text = "#" 
+        intervals [4]:
+            xmin = 29.254 
+            xmax = 29.793 
+            text = "peut-être" 
+        intervals [5]:
+            xmin = 29.793 
+            xmax = 30.992 
+            text = "#" 
+        intervals [6]:
+            xmin = 30.992 
+            xmax = 32.419 
+            text = "cette fraise est déformée" 
+        intervals [7]:
+            xmin = 32.419 
+            xmax = 37.841 
+            text = "#" 
+        intervals [8]:
+            xmin = 37.841 
+            xmax = 39.131 
+            text = "la fraise est aussi pourrie" 
+        intervals [9]:
+            xmin = 39.131 
+            xmax = 41.885 
+            text = "#" 
+        intervals [10]:
+            xmin = 41.885 
+            xmax = 42.733 
+            text = "qu'est ce que tu en dis" 
+        intervals [11]:
+            xmin = 42.733 
+            xmax = 52.834 
+            text = "#" 
+        intervals [12]:
+            xmin = 52.834 
+            xmax = 54.251 
+            text = "la fraise est un peu abîmée" 
+        intervals [13]:
+            xmin = 54.251 
+            xmax = 58.468 
+            text = "#" 
+        intervals [14]:
+            xmin = 58.468 
+            xmax = 59.9516 
+            text = "comme la poire et la framboise" 

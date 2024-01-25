@@ -1,0 +1,74 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 60 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Transcription" 
+        xmin = 0 
+        xmax = 60 
+        intervals: size = 15 
+        intervals [1]:
+            xmin = 0 
+            xmax = 4.232 
+            text = "#" 
+        intervals [2]:
+            xmin = 4.232 
+            xmax = 5.782 
+            text = "ouais moi non plus pas des masses" 
+        intervals [3]:
+            xmin = 5.782 
+            xmax = 19.789 
+            text = "#" 
+        intervals [4]:
+            xmin = 19.789 
+            xmax = 20.211 
+            text = "ouais" 
+        intervals [5]:
+            xmin = 20.211 
+            xmax = 30.814 
+            text = "#" 
+        intervals [6]:
+            xmin = 30.814 
+            xmax = 31.51 
+            text = "me souviens pas" 
+        intervals [7]:
+            xmin = 31.51 
+            xmax = 36.667 
+            text = "#" 
+        intervals [8]:
+            xmin = 36.667 
+            xmax = 39.28 
+            text = "ouais possible ouais je regarde pas la télé moi donc euh" 
+        intervals [9]:
+            xmin = 39.28 
+            xmax = 45.746 
+            text = "#" 
+        intervals [10]:
+            xmin = 45.746 
+            xmax = 46.874 
+            text = "là je me souviens pas de ça" 
+        intervals [11]:
+            xmin = 46.874 
+            xmax = 52.945 
+            text = "#" 
+        intervals [12]:
+            xmin = 52.945 
+            xmax = 57.253 
+            text = "ah ouais mais souvent les fruits trop mûrs ils sont bons hein ils ont un bon un arôme développé" 
+        intervals [13]:
+            xmin = 57.253 
+            xmax = 58.57 
+            text = "#" 
+        intervals [14]:
+            xmin = 58.57 
+            xmax = 59.537 
+            text = "c'est juste qu'ils sont moches" 
+        intervals [15]:
+            xmin = 59.537 
+            xmax = 59.9044 
+            text = "#" 

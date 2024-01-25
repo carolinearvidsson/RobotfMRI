@@ -1,0 +1,150 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 60 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Transcription" 
+        xmin = 0 
+        xmax = 60 
+        intervals: size = 34 
+        intervals [1]:
+            xmin = 0 
+            xmax = 2.834 
+            text = "#" 
+        intervals [2]:
+            xmin = 2.834 
+            xmax = 3.546 
+            text = "j'ai pas trop d'idées" 
+        intervals [3]:
+            xmin = 3.546 
+            xmax = 9.181 
+            text = "#" 
+        intervals [4]:
+            xmin = 9.181 
+            xmax = 9.501 
+            text = "ah" 
+        intervals [5]:
+            xmin = 9.501 
+            xmax = 12.046 
+            text = "#" 
+        intervals [6]:
+            xmin = 12.046 
+            xmax = 13.26 
+            text = "pour les ah ben ouais ça c'est" 
+        intervals [7]:
+            xmin = 13.26 
+            xmax = 15.039 
+            text = "#" 
+        intervals [8]:
+            xmin = 15.039 
+            xmax = 17.874 
+            text = "pour que les enfants mangent plus de fruits et de légumes" 
+        intervals [9]:
+            xmin = 17.874 
+            xmax = 19.017 
+            text = "#" 
+        intervals [10]:
+            xmin = 19.017 
+            xmax = 22.284 
+            text = "ça serait le le pendant visuel du 5 fruits et légumes par jour" 
+        intervals [11]:
+            xmin = 22.284 
+            xmax = 31.19 
+            text = "#" 
+        intervals [12]:
+            xmin = 31.19 
+            xmax = 31.978 
+            text = "ouais o- ok" 
+        intervals [13]:
+            xmin = 31.978 
+            xmax = 32.171 
+            text = "#" 
+        intervals [14]:
+            xmin = 32.171 
+            xmax = 33.042 
+            text = "super héros euh" 
+        intervals [15]:
+            xmin = 33.042 
+            xmax = 33.548 
+            text = "#" 
+        intervals [16]:
+            xmin = 33.548 
+            xmax = 36.896 
+            text = "c'est vrai que les super héros c'est assez c'est assez un peu comme ça quoi surtout ceux là" 
+        intervals [17]:
+            xmin = 36.896 
+            xmax = 37.861 
+            text = "#" 
+        intervals [18]:
+            xmin = 37.861 
+            xmax = 40.858 
+            text = "aseptisés enfin de souvenir les $Tortues Ninjas$ peut-être un peu moins" 
+        intervals [19]:
+            xmin = 40.858 
+            xmax = 43.018 
+            text = "#" 
+        intervals [20]:
+            xmin = 43.018 
+            xmax = 43.236 
+            text = "ouais" 
+        intervals [21]:
+            xmin = 43.236 
+            xmax = 43.699 
+            text = "#" 
+        intervals [22]:
+            xmin = 43.699 
+            xmax = 48.479 
+            text = "ouais donc ça ça fait quand même enfant hein couleurs vives qui brillent euh des corps sains super héros" 
+        intervals [23]:
+            xmin = 48.479 
+            xmax = 48.998 
+            text = "#" 
+        intervals [24]:
+            xmin = 48.998 
+            xmax = 50.349 
+            text = "ben moi ça retombe un peu sur un truc" 
+        intervals [25]:
+            xmin = 50.349 
+            xmax = 50.706 
+            text = "#" 
+        intervals [26]:
+            xmin = 50.706 
+            xmax = 53.743 
+            text = "qui m'avait posé problème au début c'est le citron vert" 
+        intervals [27]:
+            xmin = 53.743 
+            xmax = 55.1 
+            text = "#" 
+        intervals [28]:
+            xmin = 55.1 
+            xmax = 55.349 
+            text = "mais bon" 
+        intervals [29]:
+            xmin = 55.349 
+            xmax = 56.268 
+            text = "#" 
+        intervals [30]:
+            xmin = 56.268 
+            xmax = 57.464 
+            text = "imaginons que c'est pour euh" 
+        intervals [31]:
+            xmin = 57.464 
+            xmax = 58.539 
+            text = "#" 
+        intervals [32]:
+            xmin = 58.539 
+            xmax = 59.576 
+            text = "j'allais dire des parfums de glaces" 
+        intervals [33]:
+            xmin = 59.576 
+            xmax = 59.739 
+            text = "#" 
+        intervals [34]:
+            xmin = 59.739 
+            xmax = 59.9516 
+            text = "mais non" 

@@ -1,0 +1,158 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 60 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Transcription" 
+        xmin = 0 
+        xmax = 60 
+        intervals: size = 36 
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.702 
+            text = "#" 
+        intervals [2]:
+            xmin = 1.702 
+            xmax = 4.603 
+            text = "j'étais en train de me dire en re-réfléchissant à tout ce qu'on a vu" 
+        intervals [3]:
+            xmin = 4.603 
+            xmax = 4.923 
+            text = "#" 
+        intervals [4]:
+            xmin = 4.923 
+            xmax = 7.057 
+            text = "ça doit quand même être lié à la nourriture d'une manière ou d'une autre" 
+        intervals [5]:
+            xmin = 7.057 
+            xmax = 7.265 
+            text = "#" 
+        intervals [6]:
+            xmin = 7.265 
+            xmax = 7.916 
+            text = "ça c'est sûr hein" 
+        intervals [7]:
+            xmin = 7.916 
+            xmax = 8.749 
+            text = "#" 
+        intervals [8]:
+            xmin = 8.749 
+            xmax = 10.37 
+            text = "donc c'est lié au fait de manger euh" 
+        intervals [9]:
+            xmin = 10.37 
+            xmax = 11.36 
+            text = "#" 
+        intervals [10]:
+            xmin = 11.36 
+            xmax = 15.069 
+            text = "donc euh je sais pas les premiers ils sont appétissants mais ils ont des têtes de super-héros" 
+        intervals [11]:
+            xmin = 15.069 
+            xmax = 17.776 
+            text = "#" 
+        intervals [12]:
+            xmin = 17.776 
+            xmax = 19.025 
+            text = "qu'est ce que ça veut dire euh" 
+        intervals [13]:
+            xmin = 19.025 
+            xmax = 24.773 
+            text = "#" 
+        intervals [14]:
+            xmin = 24.773 
+            xmax = 25.86 
+            text = "ben ouais c'est ça" 
+        intervals [15]:
+            xmin = 25.86 
+            xmax = 26.455 
+            text = "#" 
+        intervals [16]:
+            xmin = 26.455 
+            xmax = 31.104 
+            text = "ils brillent et tout ça mais à côté de ça c'est super héros mais positif quoi c'est pas les super méchants" 
+        intervals [17]:
+            xmin = 31.104 
+            xmax = 33.512 
+            text = "#" 
+        intervals [18]:
+            xmin = 33.512 
+            xmax = 33.776 
+            text = "ah" 
+        intervals [19]:
+            xmin = 33.776 
+            xmax = 34.711 
+            text = "#" 
+        intervals [20]:
+            xmin = 34.711 
+            xmax = 37.444 
+            text = "donc normalement t'as l'air t'as envie de dire que c'est quand même pour les manger" 
+        intervals [21]:
+            xmin = 37.444 
+            xmax = 37.81 
+            text = "#" 
+        intervals [22]:
+            xmin = 37.81 
+            xmax = 39.497 
+            text = "c'est pas pour euh c'est pas pour les mettre à la poubelle" 
+        intervals [23]:
+            xmin = 39.497 
+            xmax = 40.071 
+            text = "#" 
+        intervals [24]:
+            xmin = 40.071 
+            xmax = 44.334 
+            text = "alors que les autres qui sont des fruits que tout le monde aime genre la fraise et la framboise" 
+        intervals [25]:
+            xmin = 44.334 
+            xmax = 45.654 
+            text = "#" 
+        intervals [26]:
+            xmin = 45.654 
+            xmax = 46.793 
+            text = "ils ont des têtes euh" 
+        intervals [27]:
+            xmin = 46.793 
+            xmax = 48.256 
+            text = "#" 
+        intervals [28]:
+            xmin = 48.256 
+            xmax = 48.683 
+            text = "pourries" 
+        intervals [29]:
+            xmin = 48.683 
+            xmax = 49.399 
+            text = "#" 
+        intervals [30]:
+            xmin = 49.399 
+            xmax = 50.166 
+            text = "t'as envie de les jeter" 
+        intervals [31]:
+            xmin = 50.166 
+            xmax = 54.795 
+            text = "#" 
+        intervals [32]:
+            xmin = 54.795 
+            xmax = 55.227 
+            text = "sait pas trop" 
+        intervals [33]:
+            xmin = 55.227 
+            xmax = 56.309 
+            text = "#" 
+        intervals [34]:
+            xmin = 56.309 
+            xmax = 56.512 
+            text = "euh" 
+        intervals [35]:
+            xmin = 56.512 
+            xmax = 58.204 
+            text = "#" 
+        intervals [36]:
+            xmin = 58.204 
+            xmax = 59.9516 
+            text = "j'aurais bien aimé le contraire que ceux qui" 

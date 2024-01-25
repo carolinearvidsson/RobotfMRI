@@ -1,0 +1,114 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 60 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Transcription" 
+        xmin = 0 
+        xmax = 60 
+        intervals: size = 25 
+        intervals [1]:
+            xmin = 0 
+            xmax = 2.5 
+            text = "#" 
+        intervals [2]:
+            xmin = 2.5 
+            xmax = 2.916 
+            text = "ah" 
+        intervals [3]:
+            xmin = 2.916 
+            xmax = 5.208 
+            text = "#" 
+        intervals [4]:
+            xmin = 5.208 
+            xmax = 5.457 
+            text = "ouais" 
+        intervals [5]:
+            xmin = 5.457 
+            xmax = 5.944 
+            text = "#" 
+        intervals [6]:
+            xmin = 5.944 
+            xmax = 6.371 
+            text = "ouais ouais" 
+        intervals [7]:
+            xmin = 6.371 
+            xmax = 6.706 
+            text = "#" 
+        intervals [8]:
+            xmin = 6.706 
+            xmax = 9.562 
+            text = "est ce que tu penses qu'elle pourrait être blasée du succès des super héros" 
+        intervals [9]:
+            xmin = 9.562 
+            xmax = 12.747 
+            text = "#" 
+        intervals [10]:
+            xmin = 12.747 
+            xmax = 16.629 
+            text = "ouais on nous présente un truc et après on nous présente euh d'autres peut-être que c'est euh" 
+        intervals [11]:
+            xmin = 16.629 
+            xmax = 17.127 
+            text = "#" 
+        intervals [12]:
+            xmin = 17.127 
+            xmax = 18.57 
+            text = "des réactions en mode" 
+        intervals [13]:
+            xmin = 18.57 
+            xmax = 19.586 
+            text = "#" 
+        intervals [14]:
+            xmin = 19.586 
+            xmax = 22.878 
+            text = "tu sais t'as les fruits parfaits un peu comme t'as les femmes parfaites euh" 
+        intervals [15]:
+            xmin = 22.878 
+            xmax = 23.635 
+            text = "#" 
+        intervals [16]:
+            xmin = 23.635 
+            xmax = 29.965 
+            text = "ou les les hommes parfaits avec les proportions idéales et du coup les fruits qui sont moins parfaits i- ils regardent les parfaits avec un" 
+        intervals [17]:
+            xmin = 29.965 
+            xmax = 30.761 
+            text = "#" 
+        intervals [18]:
+            xmin = 30.761 
+            xmax = 31.856 
+            text = "je sais pas t'en penses quoi" 
+        intervals [19]:
+            xmin = 31.856 
+            xmax = 52.28 
+            text = "#" 
+        intervals [20]:
+            xmin = 52.28 
+            xmax = 52.524 
+            text = "ouais" 
+        intervals [21]:
+            xmin = 52.524 
+            xmax = 53.774 
+            text = "#" 
+        intervals [22]:
+            xmin = 53.774 
+            xmax = 56.609 
+            text = "ouais puis j'ai une autre question ouais je suis désolée je suis je mets le bazar @" 
+        intervals [23]:
+            xmin = 56.609 
+            xmax = 57.091 
+            text = "#" 
+        intervals [24]:
+            xmin = 57.091 
+            xmax = 59.657 
+            text = "et je me suis demandé en fait parce qu'on on s'est dit que c'était forcément" 
+        intervals [25]:
+            xmin = 59.657 
+            xmax = 59.9516 
+            text = "#" 

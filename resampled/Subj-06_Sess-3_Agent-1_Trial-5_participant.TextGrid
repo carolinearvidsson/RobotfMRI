@@ -1,0 +1,202 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 60 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Transcription" 
+        xmin = 0 
+        xmax = 60 
+        intervals: size = 47 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.94 
+            text = "#" 
+        intervals [2]:
+            xmin = 0.94 
+            xmax = 1.509 
+            text = "salut salut" 
+        intervals [3]:
+            xmin = 1.509 
+            xmax = 3.323 
+            text = "#" 
+        intervals [4]:
+            xmin = 3.323 
+            xmax = 3.648 
+            text = "c'est" 
+        intervals [5]:
+            xmin = 3.648 
+            xmax = 4.415 
+            text = "#" 
+        intervals [6]:
+            xmin = 4.415 
+            xmax = 7.372 
+            text = "@ est ce que c'est pas une photo de $Birgit$ par hasard" 
+        intervals [7]:
+            xmin = 7.372 
+            xmax = 8.058 
+            text = "#" 
+        intervals [8]:
+            xmin = 8.058 
+            xmax = 12.529 
+            text = "tu sais elle a elle a mis un masque elle s'est cachée et depuis tout à l'heure *" 
+        intervals [9]:
+            xmin = 12.529 
+            xmax = 13.006 
+            text = "#" 
+        intervals [10]:
+            xmin = 13.006 
+            xmax = 14.886 
+            text = "peut-être que @" 
+        intervals [11]:
+            xmin = 14.886 
+            xmax = 18.483 
+            text = "#" 
+        intervals [12]:
+            xmin = 18.483 
+            xmax = 19.601 
+            text = "peut-être que c'est pour l'éthique" 
+        intervals [13]:
+            xmin = 19.601 
+            xmax = 20.973 
+            text = "#" 
+        intervals [14]:
+            xmin = 20.973 
+            xmax = 22.466 
+            text = "c'est vrai c'est vrai les graphismes du" 
+        intervals [15]:
+            xmin = 22.466 
+            xmax = 22.959 
+            text = "#" 
+        intervals [16]:
+            xmin = 22.959 
+            xmax = 23.747 
+            text = "peut-être c'est politique" 
+        intervals [17]:
+            xmin = 23.747 
+            xmax = 24.184 
+            text = "#" 
+        intervals [18]:
+            xmin = 24.184 
+            xmax = 31.022 
+            text = "peut-être que c'est le chemin dans une perspective capitaliste à travers la politique de de l'enfant unique de la Chine" 
+        intervals [19]:
+            xmin = 31.022 
+            xmax = 31.663 
+            text = "#" 
+        intervals [20]:
+            xmin = 31.663 
+            xmax = 32.181 
+            text = "je pense" 
+        intervals [21]:
+            xmin = 32.181 
+            xmax = 32.801 
+            text = "#" 
+        intervals [22]:
+            xmin = 32.801 
+            xmax = 33.542 
+            text = "du coup manger des pommes" 
+        intervals [23]:
+            xmin = 33.542 
+            xmax = 34.061 
+            text = "#" 
+        intervals [24]:
+            xmin = 34.061 
+            xmax = 35.229 
+            text = "voilà @" 
+        intervals [25]:
+            xmin = 35.229 
+            xmax = 36.489 
+            text = "#" 
+        intervals [26]:
+            xmin = 36.489 
+            xmax = 36.733 
+            text = "*" 
+        intervals [27]:
+            xmin = 36.733 
+            xmax = 39.832 
+            text = "#" 
+        intervals [28]:
+            xmin = 39.832 
+            xmax = 40.127 
+            text = "*" 
+        intervals [29]:
+            xmin = 40.127 
+            xmax = 40.452 
+            text = "#" 
+        intervals [30]:
+            xmin = 40.452 
+            xmax = 41.732 
+            text = "@" 
+        intervals [31]:
+            xmin = 41.732 
+            xmax = 43.292 
+            text = "#" 
+        intervals [32]:
+            xmin = 43.292 
+            xmax = 44.699 
+            text = "@ faire l'analyse" 
+        intervals [33]:
+            xmin = 44.699 
+            xmax = 45.05 
+            text = "#" 
+        intervals [34]:
+            xmin = 45.05 
+            xmax = 45.6 
+            text = "pertinente" 
+        intervals [35]:
+            xmin = 45.6 
+            xmax = 45.939 
+            text = "#" 
+        intervals [36]:
+            xmin = 45.939 
+            xmax = 46.346 
+            text = "ouais ouais" 
+        intervals [37]:
+            xmin = 46.346 
+            xmax = 49.653 
+            text = "#" 
+        intervals [38]:
+            xmin = 49.653 
+            xmax = 50.126 
+            text = "ouais ouais ouais" 
+        intervals [39]:
+            xmin = 50.126 
+            xmax = 51.67 
+            text = "#" 
+        intervals [40]:
+            xmin = 51.67 
+            xmax = 53.093 
+            text = "peut-être c'est * je sais pas" 
+        intervals [41]:
+            xmin = 53.093 
+            xmax = 53.57 
+            text = "#" 
+        intervals [42]:
+            xmin = 53.57 
+            xmax = 54.414 
+            text = "@" 
+        intervals [43]:
+            xmin = 54.414 
+            xmax = 55.288 
+            text = "#" 
+        intervals [44]:
+            xmin = 55.288 
+            xmax = 55.954 
+            text = "je chuchote" 
+        intervals [45]:
+            xmin = 55.954 
+            xmax = 57.584 
+            text = "#" 
+        intervals [46]:
+            xmin = 57.584 
+            xmax = 59.637 
+            text = "bon le l'IA me dit c'est pour manger local" 
+        intervals [47]:
+            xmin = 59.637 
+            xmax = 59.9044 
+            text = "#" 

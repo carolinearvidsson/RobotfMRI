@@ -1,0 +1,126 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 60 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Transcription" 
+        xmin = 0 
+        xmax = 60 
+        intervals: size = 28 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.737 
+            text = "#" 
+        intervals [2]:
+            xmin = 0.737 
+            xmax = 1.245 
+            text = "allo" 
+        intervals [3]:
+            xmin = 1.245 
+            xmax = 1.754 
+            text = "#" 
+        intervals [4]:
+            xmin = 1.754 
+            xmax = 1.984 
+            text = "ouais" 
+        intervals [5]:
+            xmin = 1.984 
+            xmax = 9.75 
+            text = "#" 
+        intervals [6]:
+            xmin = 9.75 
+            xmax = 10.141 
+            text = "ah" 
+        intervals [7]:
+            xmin = 10.141 
+            xmax = 18.59 
+            text = "#" 
+        intervals [8]:
+            xmin = 18.59 
+            xmax = 19.881 
+            text = "ah donc ceux là" 
+        intervals [9]:
+            xmin = 19.881 
+            xmax = 20.272 
+            text = "#" 
+        intervals [10]:
+            xmin = 20.272 
+            xmax = 22.162 
+            text = "en fait c'est ambigu parce que c'est contre" 
+        intervals [11]:
+            xmin = 22.162 
+            xmax = 22.528 
+            text = "#" 
+        intervals [12]:
+            xmin = 22.528 
+            xmax = 25.129 
+            text = "et ah ouais parce que c'est vrai que c'est des produits américains les" 
+        intervals [13]:
+            xmin = 25.129 
+            xmax = 26.074 
+            text = "#" 
+        intervals [14]:
+            xmin = 26.074 
+            xmax = 30.502 
+            text = "les super héros c'est euh c'est ouais les trucs $Marvel$ les trucs comics" 
+        intervals [15]:
+            xmin = 30.502 
+            xmax = 30.9 
+            text = "#" 
+        intervals [16]:
+            xmin = 30.9 
+            xmax = 32.404 
+            text = "et donc en gros y a ah" 
+        intervals [17]:
+            xmin = 32.404 
+            xmax = 32.639 
+            text = "#" 
+        intervals [18]:
+            xmin = 32.639 
+            xmax = 33.669 
+            text = "ah ça c'est joli ça" 
+        intervals [19]:
+            xmin = 33.669 
+            xmax = 34.132 
+            text = "#" 
+        intervals [20]:
+            xmin = 34.132 
+            xmax = 36.977 
+            text = "donc ils sont beaux ils brillent euh" 
+        intervals [21]:
+            xmin = 36.977 
+            xmax = 37.576 
+            text = "#" 
+        intervals [22]:
+            xmin = 37.576 
+            xmax = 41.793 
+            text = "mais en fait c'est pas nécessairement les gentils et par contre ils combattent les euh" 
+        intervals [23]:
+            xmin = 41.793 
+            xmax = 43.038 
+            text = "#" 
+        intervals [24]:
+            xmin = 43.038 
+            xmax = 44.903 
+            text = "combattent les locaux qui eux" 
+        intervals [25]:
+            xmin = 44.903 
+            xmax = 51.401 
+            text = "#" 
+        intervals [26]:
+            xmin = 51.401 
+            xmax = 58.214 
+            text = "ouais alors c'est un peu bizarre quand même parce que c'est pas dit que les enfants y comprennent c'est peut-être plus pour les parents que pour les enfants alors dans ce cas là parce que" 
+        intervals [27]:
+            xmin = 58.214 
+            xmax = 59.342 
+            text = "#" 
+        intervals [28]:
+            xmin = 59.342 
+            xmax = 59.9516 
+            text = "ouais parce que" 

@@ -1,0 +1,166 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 60 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Transcription" 
+        xmin = 0 
+        xmax = 60 
+        intervals: size = 38 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.925 
+            text = "#" 
+        intervals [2]:
+            xmin = 0.925 
+            xmax = 2.545 
+            text = "bon alors c'était une framboise c'est bien ça" 
+        intervals [3]:
+            xmin = 2.545 
+            xmax = 2.83 
+            text = "#" 
+        intervals [4]:
+            xmin = 2.83 
+            xmax = 3.343 
+            text = "on aurait dit" 
+        intervals [5]:
+            xmin = 3.343 
+            xmax = 6.844 
+            text = "#" 
+        intervals [6]:
+            xmin = 6.844 
+            xmax = 8.871 
+            text = "un fruit $Oasis$ ouais ouais ben c'est ce qu'on" 
+        intervals [7]:
+            xmin = 8.871 
+            xmax = 9.298 
+            text = "#" 
+        intervals [8]:
+            xmin = 9.298 
+            xmax = 11.533 
+            text = "c'est ce qu'on disait tout à l'heure avec euh avec $Thierry$" 
+        intervals [9]:
+            xmin = 11.533 
+            xmax = 12.051 
+            text = "#" 
+        intervals [10]:
+            xmin = 12.051 
+            xmax = 13.89 
+            text = "mais il a l'air un peu alcoolique ton fruit là" 
+        intervals [11]:
+            xmin = 13.89 
+            xmax = 16.238 
+            text = "#" 
+        intervals [12]:
+            xmin = 16.238 
+            xmax = 18.158 
+            text = "comme la poire tu crois qu'on l'a frappé aussi" 
+        intervals [13]:
+            xmin = 18.158 
+            xmax = 22.477 
+            text = "#" 
+        intervals [14]:
+            xmin = 22.477 
+            xmax = 23.564 
+            text = "et ouais et ouais" 
+        intervals [15]:
+            xmin = 23.564 
+            xmax = 24.301 
+            text = "#" 
+        intervals [16]:
+            xmin = 24.301 
+            xmax = 25.068 
+            text = "et ouais et ouais" 
+        intervals [17]:
+            xmin = 25.068 
+            xmax = 25.81 
+            text = "#" 
+        intervals [18]:
+            xmin = 25.81 
+            xmax = 26.338 
+            text = "non je te dis" 
+        intervals [19]:
+            xmin = 26.338 
+            xmax = 28.751 
+            text = "#" 
+        intervals [20]:
+            xmin = 28.751 
+            xmax = 33.38 
+            text = "ouais ben c'est ce qu'on disait avec $Thierry$ les violences domestiques ou quelque chose comme ça" 
+        intervals [21]:
+            xmin = 33.38 
+            xmax = 36.159 
+            text = "#" 
+        intervals [22]:
+            xmin = 36.159 
+            xmax = 38.788 
+            text = "c'est une fille ah je sais pas j'ai pas regardé l'entrejambe" 
+        intervals [23]:
+            xmin = 38.788 
+            xmax = 39.532 
+            text = "#" 
+        intervals [24]:
+            xmin = 39.532 
+            xmax = 40.635 
+            text = "tu crois que c'est une fille toi" 
+        intervals [25]:
+            xmin = 40.635 
+            xmax = 42.342 
+            text = "#" 
+        intervals [26]:
+            xmin = 42.342 
+            xmax = 43.002 
+            text = "ça a une impor-" 
+        intervals [27]:
+            xmin = 43.002 
+            xmax = 43.455 
+            text = "#" 
+        intervals [28]:
+            xmin = 43.455 
+            xmax = 44.517 
+            text = "ça a une importance" 
+        intervals [29]:
+            xmin = 44.517 
+            xmax = 45.995 
+            text = "#" 
+        intervals [30]:
+            xmin = 45.995 
+            xmax = 47.748 
+            text = "ça a une importance si c'est une fille ou un garçon" 
+        intervals [31]:
+            xmin = 47.748 
+            xmax = 50.303 
+            text = "#" 
+        intervals [32]:
+            xmin = 50.303 
+            xmax = 51.003 
+            text = "ça se pourrait @" 
+        intervals [33]:
+            xmin = 51.003 
+            xmax = 52.483 
+            text = "#" 
+        intervals [34]:
+            xmin = 52.483 
+            xmax = 53.296 
+            text = "mais je saurais pas dire" 
+        intervals [35]:
+            xmin = 53.296 
+            xmax = 54.022 
+            text = "#" 
+        intervals [36]:
+            xmin = 54.022 
+            xmax = 54.962 
+            text = "et si c'était un garçon" 
+        intervals [37]:
+            xmin = 54.962 
+            xmax = 59.179 
+            text = "#" 
+        intervals [38]:
+            xmin = 59.179 
+            xmax = 59.9044 
+            text = "tu ne penses pas" 

@@ -1,0 +1,138 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 60 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Transcription" 
+        xmin = 0 
+        xmax = 60 
+        intervals: size = 31 
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.539 
+            text = "#" 
+        intervals [2]:
+            xmin = 1.539 
+            xmax = 1.88 
+            text = "salut" 
+        intervals [3]:
+            xmin = 1.88 
+            xmax = 4.608 
+            text = "#" 
+        intervals [4]:
+            xmin = 4.608 
+            xmax = 6.224 
+            text = "c'est encore la pomme de $Spiderman$" 
+        intervals [5]:
+            xmin = 6.224 
+            xmax = 8.947 
+            text = "#" 
+        intervals [6]:
+            xmin = 8.947 
+            xmax = 10.11 
+            text = "et on s'en rappelle plus du" 
+        intervals [7]:
+            xmin = 10.11 
+            xmax = 12.514 
+            text = "#" 
+        intervals [8]:
+            xmin = 12.514 
+            xmax = 13.22 
+            text = "on s'en rappelle beaucoup mieux" 
+        intervals [9]:
+            xmin = 13.22 
+            xmax = 17.051 
+            text = "#" 
+        intervals [10]:
+            xmin = 17.051 
+            xmax = 18.768 
+            text = "euh dis moi en plus s'il te plaît" 
+        intervals [11]:
+            xmin = 18.768 
+            xmax = 20.699 
+            text = "#" 
+        intervals [12]:
+            xmin = 20.699 
+            xmax = 21.491 
+            text = "dis moi-z-en plus" 
+        intervals [13]:
+            xmin = 21.491 
+            xmax = 23.442 
+            text = "#" 
+        intervals [14]:
+            xmin = 23.442 
+            xmax = 24.58 
+            text = "ah c'est des affiches bio" 
+        intervals [15]:
+            xmin = 24.58 
+            xmax = 30.972 
+            text = "#" 
+        intervals [16]:
+            xmin = 30.972 
+            xmax = 33.888 
+            text = "* mais c'est pour les enfants pour les pesticides" 
+        intervals [17]:
+            xmin = 33.888 
+            xmax = 38.074 
+            text = "#" 
+        intervals [18]:
+            xmin = 38.074 
+            xmax = 38.46 
+            text = "d'accord" 
+        intervals [19]:
+            xmin = 38.46 
+            xmax = 41.951 
+            text = "#" 
+        intervals [20]:
+            xmin = 41.951 
+            xmax = 42.322 
+            text = "et les *" 
+        intervals [21]:
+            xmin = 42.322 
+            xmax = 43.389 
+            text = "#" 
+        intervals [22]:
+            xmin = 43.389 
+            xmax = 45.472 
+            text = "les enfants et éduquer les enfants aux pesticides" 
+        intervals [23]:
+            xmin = 45.472 
+            xmax = 48.53 
+            text = "#" 
+        intervals [24]:
+            xmin = 48.53 
+            xmax = 48.845 
+            text = "et pour" 
+        intervals [25]:
+            xmin = 48.845 
+            xmax = 50.1 
+            text = "#" 
+        intervals [26]:
+            xmin = 50.1 
+            xmax = 52.727 
+            text = "mais du coup il les faut pour quoi parce qu'en fait il a pas de pesticides" 
+        intervals [27]:
+            xmin = 52.727 
+            xmax = 53.382 
+            text = "#" 
+        intervals [28]:
+            xmin = 53.382 
+            xmax = 53.682 
+            text = "pourquoi" 
+        intervals [29]:
+            xmin = 53.682 
+            xmax = 56.68 
+            text = "#" 
+        intervals [30]:
+            xmin = 56.68 
+            xmax = 57.239 
+            text = "et pourquoi" 
+        intervals [31]:
+            xmin = 57.239 
+            xmax = 59.9044 
+            text = "#" 

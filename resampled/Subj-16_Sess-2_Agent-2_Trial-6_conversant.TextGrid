@@ -1,0 +1,106 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 60 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Transcription" 
+        xmin = 0 
+        xmax = 60 
+        intervals: size = 23 
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.123 
+            text = "#" 
+        intervals [2]:
+            xmin = 1.123 
+            xmax = 1.534 
+            text = "salut" 
+        intervals [3]:
+            xmin = 1.534 
+            xmax = 5.553 
+            text = "#" 
+        intervals [4]:
+            xmin = 5.553 
+            xmax = 6.473 
+            text = "c'est une fraise" 
+        intervals [5]:
+            xmin = 6.473 
+            xmax = 9.394 
+            text = "#" 
+        intervals [6]:
+            xmin = 9.394 
+            xmax = 10.171 
+            text = "tu ne crois pas" 
+        intervals [7]:
+            xmin = 10.171 
+            xmax = 19.967 
+            text = "#" 
+        intervals [8]:
+            xmin = 19.967 
+            xmax = 20.312 
+            text = "ouais" 
+        intervals [9]:
+            xmin = 20.312 
+            xmax = 24.225 
+            text = "#" 
+        intervals [10]:
+            xmin = 24.225 
+            xmax = 24.702 
+            text = "ah oui" 
+        intervals [11]:
+            xmin = 24.702 
+            xmax = 25.383 
+            text = "#" 
+        intervals [12]:
+            xmin = 25.383 
+            xmax = 26.694 
+            text = "elle n'a pas l'air contente" 
+        intervals [13]:
+            xmin = 26.694 
+            xmax = 29.864 
+            text = "#" 
+        intervals [14]:
+            xmin = 29.864 
+            xmax = 31.673 
+            text = "cette fraise est plutôt malheureuse" 
+        intervals [15]:
+            xmin = 31.673 
+            xmax = 39.09 
+            text = "#" 
+        intervals [16]:
+            xmin = 39.09 
+            xmax = 39.619 
+            text = "peut-être" 
+        intervals [17]:
+            xmin = 39.619 
+            xmax = 43.866 
+            text = "#" 
+        intervals [18]:
+            xmin = 43.866 
+            xmax = 45.045 
+            text = "elle est un peu abîmée" 
+        intervals [19]:
+            xmin = 45.045 
+            xmax = 51.899 
+            text = "#" 
+        intervals [20]:
+            xmin = 51.899 
+            xmax = 53.418 
+            text = "tu as une idée du message" 
+        intervals [21]:
+            xmin = 53.418 
+            xmax = 57.305 
+            text = "#" 
+        intervals [22]:
+            xmin = 57.305 
+            xmax = 58.824 
+            text = "tu as une idée du message" 
+        intervals [23]:
+            xmin = 58.824 
+            xmax = 59.9516 
+            text = "#" 

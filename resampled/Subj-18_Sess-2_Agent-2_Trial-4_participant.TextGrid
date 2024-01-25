@@ -1,0 +1,138 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 60 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Transcription" 
+        xmin = 0 
+        xmax = 60 
+        intervals: size = 31 
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.944 
+            text = "#" 
+        intervals [2]:
+            xmin = 1.944 
+            xmax = 4.237 
+            text = "euh c'est une framboise avec euh" 
+        intervals [3]:
+            xmin = 4.237 
+            xmax = 5.016 
+            text = "#" 
+        intervals [4]:
+            xmin = 5.016 
+            xmax = 6.066 
+            text = "des yeux et" 
+        intervals [5]:
+            xmin = 6.066 
+            xmax = 6.849 
+            text = "#" 
+        intervals [6]:
+            xmin = 6.849 
+            xmax = 7.509 
+            text = "et des membres" 
+        intervals [7]:
+            xmin = 7.509 
+            xmax = 14.129 
+            text = "#" 
+        intervals [8]:
+            xmin = 14.129 
+            xmax = 15.862 
+            text = "ouais c'est une framboise abîmée" 
+        intervals [9]:
+            xmin = 15.862 
+            xmax = 18.162 
+            text = "#" 
+        intervals [10]:
+            xmin = 18.162 
+            xmax = 18.935 
+            text = "qui a des yeux" 
+        intervals [11]:
+            xmin = 18.935 
+            xmax = 23.44 
+            text = "#" 
+        intervals [12]:
+            xmin = 23.44 
+            xmax = 24.316 
+            text = "elle a l'air" 
+        intervals [13]:
+            xmin = 24.316 
+            xmax = 24.865 
+            text = "#" 
+        intervals [14]:
+            xmin = 24.865 
+            xmax = 25.865 
+            text = "un peu déprimée" 
+        intervals [15]:
+            xmin = 25.865 
+            xmax = 29.361 
+            text = "#" 
+        intervals [16]:
+            xmin = 29.361 
+            xmax = 30.921 
+            text = "peut-être rejettée un peu" 
+        intervals [17]:
+            xmin = 30.921 
+            xmax = 34.188 
+            text = "#" 
+        intervals [18]:
+            xmin = 34.188 
+            xmax = 35.168 
+            text = "qu'elle ait l'air déprimée" 
+        intervals [19]:
+            xmin = 35.168 
+            xmax = 36.571 
+            text = "#" 
+        intervals [20]:
+            xmin = 36.571 
+            xmax = 37.973 
+            text = "oui elle a pas l'air contente" 
+        intervals [21]:
+            xmin = 37.973 
+            xmax = 39.69 
+            text = "#" 
+        intervals [22]:
+            xmin = 39.69 
+            xmax = 42.662 
+            text = "elle a une posture avec ses b- ses jambes" 
+        intervals [23]:
+            xmin = 42.662 
+            xmax = 43.371 
+            text = "#" 
+        intervals [24]:
+            xmin = 43.371 
+            xmax = 44.618 
+            text = "un peu offensive" 
+        intervals [25]:
+            xmin = 44.618 
+            xmax = 49.333 
+            text = "#" 
+        intervals [26]:
+            xmin = 49.333 
+            xmax = 49.558 
+            text = "ouais" 
+        intervals [27]:
+            xmin = 49.558 
+            xmax = 51.784 
+            text = "#" 
+        intervals [28]:
+            xmin = 51.784 
+            xmax = 52.585 
+            text = "euh" 
+        intervals [29]:
+            xmin = 52.585 
+            xmax = 54.666 
+            text = "#" 
+        intervals [30]:
+            xmin = 54.666 
+            xmax = 57.076 
+            text = "elle elle est pas très appétissante" 
+        intervals [31]:
+            xmin = 57.076 
+            xmax = 59.9044 
+            text = "#" 

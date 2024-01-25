@@ -1,0 +1,118 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 60 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Transcription" 
+        xmin = 0 
+        xmax = 60 
+        intervals: size = 26 
+        intervals [1]:
+            xmin = 0 
+            xmax = 8.424 
+            text = "#" 
+        intervals [2]:
+            xmin = 8.424 
+            xmax = 9.318 
+            text = "euh" 
+        intervals [3]:
+            xmin = 9.318 
+            xmax = 9.592 
+            text = "#" 
+        intervals [4]:
+            xmin = 9.592 
+            xmax = 11.899 
+            text = "oui $Zorro$ j'aurais peut-être dit les $Tortues Ninjas$" 
+        intervals [5]:
+            xmin = 11.899 
+            xmax = 22.655 
+            text = "#" 
+        intervals [6]:
+            xmin = 22.655 
+            xmax = 25.027 
+            text = "je pense que c'est ouais basé sur les super héros" 
+        intervals [7]:
+            xmin = 25.027 
+            xmax = 26.318 
+            text = "#" 
+        intervals [8]:
+            xmin = 26.318 
+            xmax = 26.877 
+            text = "et euh" 
+        intervals [9]:
+            xmin = 26.877 
+            xmax = 32.018 
+            text = "#" 
+        intervals [10]:
+            xmin = 32.018 
+            xmax = 32.811 
+            text = "euh" 
+        intervals [11]:
+            xmin = 32.811 
+            xmax = 33.172 
+            text = "#" 
+        intervals [12]:
+            xmin = 33.172 
+            xmax = 36.245 
+            text = "je sais pas peut-être un tout petit peu les super héros ouais" 
+        intervals [13]:
+            xmin = 36.245 
+            xmax = 44.136 
+            text = "#" 
+        intervals [14]:
+            xmin = 44.136 
+            xmax = 44.496 
+            text = "ouais" 
+        intervals [15]:
+            xmin = 44.496 
+            xmax = 49.707 
+            text = "#" 
+        intervals [16]:
+            xmin = 49.707 
+            xmax = 50.004 
+            text = "plus" 
+        intervals [17]:
+            xmin = 50.004 
+            xmax = 50.385 
+            text = "#" 
+        intervals [18]:
+            xmin = 50.385 
+            xmax = 52.666 
+            text = "euh ce que ça veut dire je pense que" 
+        intervals [19]:
+            xmin = 52.666 
+            xmax = 53.743 
+            text = "#" 
+        intervals [20]:
+            xmin = 53.743 
+            xmax = 55.491 
+            text = "c'est pour imager euh" 
+        intervals [21]:
+            xmin = 55.491 
+            xmax = 56.527 
+            text = "#" 
+        intervals [22]:
+            xmin = 56.527 
+            xmax = 57.767 
+            text = "les fruits et les légumes" 
+        intervals [23]:
+            xmin = 57.767 
+            xmax = 58.051 
+            text = "#" 
+        intervals [24]:
+            xmin = 58.051 
+            xmax = 58.905 
+            text = "ou quelque chose" 
+        intervals [25]:
+            xmin = 58.905 
+            xmax = 59.306 
+            text = "#" 
+        intervals [26]:
+            xmin = 59.306 
+            xmax = 59.9044 
+            text = "c'est pour peut-être" 

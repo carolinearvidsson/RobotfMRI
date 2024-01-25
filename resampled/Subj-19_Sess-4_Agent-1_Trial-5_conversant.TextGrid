@@ -1,0 +1,106 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 60 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Transcription" 
+        xmin = 0 
+        xmax = 60 
+        intervals: size = 23 
+        intervals [1]:
+            xmin = 0 
+            xmax = 7.113 
+            text = "#" 
+        intervals [2]:
+            xmin = 7.113 
+            xmax = 7.845 
+            text = "ouais ouais ouais" 
+        intervals [3]:
+            xmin = 7.845 
+            xmax = 12.763 
+            text = "#" 
+        intervals [4]:
+            xmin = 12.763 
+            xmax = 13.738 
+            text = "ah c'est ouais" 
+        intervals [5]:
+            xmin = 13.738 
+            xmax = 13.967 
+            text = "#" 
+        intervals [6]:
+            xmin = 13.967 
+            xmax = 19.072 
+            text = "bah c'est peut-être pour ça que ça m'évoquait euh le fait qu'elle soit battue mais dans ces cas elle aurait battue par euh par qui" 
+        intervals [7]:
+            xmin = 19.072 
+            xmax = 19.434 
+            text = "#" 
+        intervals [8]:
+            xmin = 19.434 
+            xmax = 19.889 
+            text = "ou par quoi" 
+        intervals [9]:
+            xmin = 19.889 
+            xmax = 25.205 
+            text = "#" 
+        intervals [10]:
+            xmin = 25.205 
+            xmax = 28.228 
+            text = "euh donc euh la framboise du début" 
+        intervals [11]:
+            xmin = 28.228 
+            xmax = 38.75 
+            text = "#" 
+        intervals [12]:
+            xmin = 38.75 
+            xmax = 39.893 
+            text = "ah ouais je vois" 
+        intervals [13]:
+            xmin = 39.893 
+            xmax = 40.12 
+            text = "#" 
+        intervals [14]:
+            xmin = 40.12 
+            xmax = 40.293 
+            text = "ouais" 
+        intervals [15]:
+            xmin = 40.293 
+            xmax = 42.937 
+            text = "#" 
+        intervals [16]:
+            xmin = 42.937 
+            xmax = 44.887 
+            text = "du coup il y aurait les euh" 
+        intervals [17]:
+            xmin = 44.887 
+            xmax = 45.355 
+            text = "#" 
+        intervals [18]:
+            xmin = 45.355 
+            xmax = 46.681 
+            text = "les euh" 
+        intervals [19]:
+            xmin = 46.681 
+            xmax = 47.145 
+            text = "#" 
+        intervals [20]:
+            xmin = 47.145 
+            xmax = 50.136 
+            text = "les fruits et légumes donc de la première série qui seraient euh" 
+        intervals [21]:
+            xmin = 50.136 
+            xmax = 50.669 
+            text = "#" 
+        intervals [22]:
+            xmin = 50.669 
+            xmax = 51.152 
+            text = "qui seraient" 
+        intervals [23]:
+            xmin = 51.152 
+            xmax = 59.9516 
+            text = "#" 

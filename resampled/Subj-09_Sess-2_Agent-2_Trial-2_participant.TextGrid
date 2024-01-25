@@ -1,0 +1,114 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 60 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Transcription" 
+        xmin = 0 
+        xmax = 60 
+        intervals: size = 25 
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.973 
+            text = "#" 
+        intervals [2]:
+            xmin = 1.973 
+            xmax = 5.111 
+            text = "la poire ne donne pas très envie de d'être mangée" 
+        intervals [3]:
+            xmin = 5.111 
+            xmax = 7.336 
+            text = "#" 
+        intervals [4]:
+            xmin = 7.336 
+            xmax = 11.711 
+            text = "c'est une poire pourrie oui elle a plein de coups et elle a l'air elle euh un peu mal en point" 
+        intervals [5]:
+            xmin = 11.711 
+            xmax = 13.779 
+            text = "#" 
+        intervals [6]:
+            xmin = 13.779 
+            xmax = 14.241 
+            text = "elle donne" 
+        intervals [7]:
+            xmin = 14.241 
+            xmax = 15.826 
+            text = "#" 
+        intervals [8]:
+            xmin = 15.826 
+            xmax = 19.56 
+            text = "elle est abîmée elle a des bras elle a des jambes les autres fruits n'en avaient pas" 
+        intervals [9]:
+            xmin = 19.56 
+            xmax = 22.009 
+            text = "#" 
+        intervals [10]:
+            xmin = 22.009 
+            xmax = 22.649 
+            text = "et euh" 
+        intervals [11]:
+            xmin = 22.649 
+            xmax = 25.246 
+            text = "#" 
+        intervals [12]:
+            xmin = 25.246 
+            xmax = 26.938 
+            text = "elle a un visage qui fait peine" 
+        intervals [13]:
+            xmin = 26.938 
+            xmax = 27.999 
+            text = "#" 
+        intervals [14]:
+            xmin = 27.999 
+            xmax = 29.051 
+            text = "elle fait un peu pitié" 
+        intervals [15]:
+            xmin = 29.051 
+            xmax = 35.214 
+            text = "#" 
+        intervals [16]:
+            xmin = 35.214 
+            xmax = 35.981 
+            text = "en tout cas de" 
+        intervals [17]:
+            xmin = 35.981 
+            xmax = 37.51 
+            text = "#" 
+        intervals [18]:
+            xmin = 37.51 
+            xmax = 38.298 
+            text = "elle est triste oui" 
+        intervals [19]:
+            xmin = 38.298 
+            xmax = 38.593 
+            text = "#" 
+        intervals [20]:
+            xmin = 38.593 
+            xmax = 40.823 
+            text = "et elle donne vraiment pas envie d'être goûtée" 
+        intervals [21]:
+            xmin = 40.823 
+            xmax = 49.622 
+            text = "#" 
+        intervals [22]:
+            xmin = 49.622 
+            xmax = 51.946 
+            text = "peut-être on l'a oubliée dans le panier à fruits" 
+        intervals [23]:
+            xmin = 51.946 
+            xmax = 59.024 
+            text = "#" 
+        intervals [24]:
+            xmin = 59.024 
+            xmax = 59.639 
+            text = "euh" 
+        intervals [25]:
+            xmin = 59.639 
+            xmax = 59.9044 
+            text = "#" 

@@ -1,0 +1,90 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 60 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Transcription" 
+        xmin = 0 
+        xmax = 60 
+        intervals: size = 19 
+        intervals [1]:
+            xmin = 0 
+            xmax = 8.303 
+            text = "#" 
+        intervals [2]:
+            xmin = 8.303 
+            xmax = 8.525 
+            text = "ouais" 
+        intervals [3]:
+            xmin = 8.525 
+            xmax = 10.017 
+            text = "#" 
+        intervals [4]:
+            xmin = 10.017 
+            xmax = 10.558 
+            text = "ou euh" 
+        intervals [5]:
+            xmin = 10.558 
+            xmax = 13.149 
+            text = "#" 
+        intervals [6]:
+            xmin = 13.149 
+            xmax = 19.395 
+            text = "ah la pomme croquée c'est euh c'est aussi euh bon c'est aussi $Apple$ mais c'est aussi le fruit défendu sinon" 
+        intervals [7]:
+            xmin = 19.395 
+            xmax = 22.303 
+            text = "#" 
+        intervals [8]:
+            xmin = 22.303 
+            xmax = 25.048 
+            text = "euh et ouais ouais tu me disais ça peut renvoyer à quoi" 
+        intervals [9]:
+            xmin = 25.048 
+            xmax = 32.262 
+            text = "#" 
+        intervals [10]:
+            xmin = 32.262 
+            xmax = 32.425 
+            text = "ouais" 
+        intervals [11]:
+            xmin = 32.425 
+            xmax = 38.113 
+            text = "#" 
+        intervals [12]:
+            xmin = 38.113 
+            xmax = 42.566 
+            text = "euh ben si c'est un super héros les super héros ils font tout le temps des cabrioles" 
+        intervals [13]:
+            xmin = 42.566 
+            xmax = 46.747 
+            text = "#" 
+        intervals [14]:
+            xmin = 46.747 
+            xmax = 47.253 
+            text = "euh" 
+        intervals [15]:
+            xmin = 47.253 
+            xmax = 51.091 
+            text = "#" 
+        intervals [16]:
+            xmin = 51.091 
+            xmax = 56.909 
+            text = "et moi j'arrive pas à savoir lesquels on est sensé aimer et lesquels on est sensé pas aimer est-ce qu'on doit tous les aimer ou euh" 
+        intervals [17]:
+            xmin = 56.909 
+            xmax = 57.582 
+            text = "#" 
+        intervals [18]:
+            xmin = 57.582 
+            xmax = 57.835 
+            text = "tu vois" 
+        intervals [19]:
+            xmin = 57.835 
+            xmax = 59.9516 
+            text = "#" 

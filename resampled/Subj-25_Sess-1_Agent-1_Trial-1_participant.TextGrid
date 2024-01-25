@@ -1,0 +1,114 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 60 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Transcription" 
+        xmin = 0 
+        xmax = 60 
+        intervals: size = 25 
+        intervals [1]:
+            xmin = 0 
+            xmax = 7.067 
+            text = "#" 
+        intervals [2]:
+            xmin = 7.067 
+            xmax = 7.306 
+            text = "ouais" 
+        intervals [3]:
+            xmin = 7.306 
+            xmax = 7.494 
+            text = "#" 
+        intervals [4]:
+            xmin = 7.494 
+            xmax = 8.607 
+            text = "l'aubergine" 
+        intervals [5]:
+            xmin = 8.607 
+            xmax = 9.051 
+            text = "#" 
+        intervals [6]:
+            xmin = 9.051 
+            xmax = 10.537 
+            text = "découpée on dirait un bonhomme" 
+        intervals [7]:
+            xmin = 10.537 
+            xmax = 15.633 
+            text = "#" 
+        intervals [8]:
+            xmin = 15.633 
+            xmax = 16.187 
+            text = "c'est ça" 
+        intervals [9]:
+            xmin = 16.187 
+            xmax = 28.447 
+            text = "#" 
+        intervals [10]:
+            xmin = 28.447 
+            xmax = 29.762 
+            text = "j'ai pas entendu ta dernière phrase" 
+        intervals [11]:
+            xmin = 29.762 
+            xmax = 33.979 
+            text = "#" 
+        intervals [12]:
+            xmin = 33.979 
+            xmax = 34.233 
+            text = "oui" 
+        intervals [13]:
+            xmin = 34.233 
+            xmax = 38.344 
+            text = "#" 
+        intervals [14]:
+            xmin = 38.344 
+            xmax = 40.168 
+            text = "je sais pas ça me fait penser euh" 
+        intervals [15]:
+            xmin = 40.168 
+            xmax = 42.164 
+            text = "#" 
+        intervals [16]:
+            xmin = 42.164 
+            xmax = 44.903 
+            text = "à cette période de l'année $Halloween$ où on" 
+        intervals [17]:
+            xmin = 44.903 
+            xmax = 45.335 
+            text = "#" 
+        intervals [18]:
+            xmin = 45.335 
+            xmax = 46.488 
+            text = "on découpe les citrouilles" 
+        intervals [19]:
+            xmin = 46.488 
+            xmax = 49.983 
+            text = "#" 
+        intervals [20]:
+            xmin = 49.983 
+            xmax = 50.562 
+            text = "euh" 
+        intervals [21]:
+            xmin = 50.562 
+            xmax = 52.646 
+            text = "#" 
+        intervals [22]:
+            xmin = 52.646 
+            xmax = 54.901 
+            text = "mais oui c'est du coup rendre" 
+        intervals [23]:
+            xmin = 54.901 
+            xmax = 56.523 
+            text = "#" 
+        intervals [24]:
+            xmin = 56.523 
+            xmax = 59.047 
+            text = "un peu plus vivant on va dire ce un légume" 
+        intervals [25]:
+            xmin = 59.047 
+            xmax = 59.9044 
+            text = "#" 

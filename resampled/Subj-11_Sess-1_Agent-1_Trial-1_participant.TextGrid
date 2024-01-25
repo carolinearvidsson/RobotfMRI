@@ -1,0 +1,122 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 60 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Transcription" 
+        xmin = 0 
+        xmax = 60 
+        intervals: size = 27 
+        intervals [1]:
+            xmin = 0 
+            xmax = 3.932 
+            text = "#" 
+        intervals [2]:
+            xmin = 3.932 
+            xmax = 4.217 
+            text = "alors" 
+        intervals [3]:
+            xmin = 4.217 
+            xmax = 4.507 
+            text = "#" 
+        intervals [4]:
+            xmin = 4.507 
+            xmax = 5.106 
+            text = "j'ai vu" 
+        intervals [5]:
+            xmin = 5.106 
+            xmax = 5.389 
+            text = "#" 
+        intervals [6]:
+            xmin = 5.389 
+            xmax = 7.469 
+            text = "une aubergine qui ressemblait à $Batman$" 
+        intervals [7]:
+            xmin = 7.469 
+            xmax = 8.038 
+            text = "#" 
+        intervals [8]:
+            xmin = 8.038 
+            xmax = 9.877 
+            text = "on aurait dit que c'était sur une pomme de terre" 
+        intervals [9]:
+            xmin = 9.877 
+            xmax = 13.596 
+            text = "#" 
+        intervals [10]:
+            xmin = 13.596 
+            xmax = 15.029 
+            text = "y a ouais un masque" 
+        intervals [11]:
+            xmin = 15.029 
+            xmax = 15.836 
+            text = "#" 
+        intervals [12]:
+            xmin = 15.836 
+            xmax = 19.581 
+            text = "et c'était comme Miss France à l'image" 
+        intervals [13]:
+            xmin = 19.581 
+            xmax = 20.81 
+            text = "#" 
+        intervals [14]:
+            xmin = 20.81 
+            xmax = 21.293 
+            text = "comique" 
+        intervals [15]:
+            xmin = 21.293 
+            xmax = 26.836 
+            text = "#" 
+        intervals [16]:
+            xmin = 26.836 
+            xmax = 30.982 
+            text = "ah non je veux dire que l'image ça faisait comique en fait -fin voilà" 
+        intervals [17]:
+            xmin = 30.982 
+            xmax = 31.875 
+            text = "#" 
+        intervals [18]:
+            xmin = 31.875 
+            xmax = 32.282 
+            text = "voilà" 
+        intervals [19]:
+            xmin = 32.282 
+            xmax = 36.87 
+            text = "#" 
+        intervals [20]:
+            xmin = 36.87 
+            xmax = 37.287 
+            text = "ah ouais" 
+        intervals [21]:
+            xmin = 37.287 
+            xmax = 41.166 
+            text = "#" 
+        intervals [22]:
+            xmin = 41.166 
+            xmax = 44.435 
+            text = "ah c'est étiré mais en même temps y a une touche d'humour en fait" 
+        intervals [23]:
+            xmin = 44.435 
+            xmax = 45.312 
+            text = "#" 
+        intervals [24]:
+            xmin = 45.312 
+            xmax = 46.843 
+            text = "bah oui je pense" 
+        intervals [25]:
+            xmin = 46.843 
+            xmax = 55.027 
+            text = "#" 
+        intervals [26]:
+            xmin = 55.027 
+            xmax = 56.419 
+            text = "-fin voilà *" 
+        intervals [27]:
+            xmin = 56.419 
+            xmax = 59.9044 
+            text = "#" 

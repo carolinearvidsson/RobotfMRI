@@ -1,0 +1,114 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 60 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Transcription" 
+        xmin = 0 
+        xmax = 60 
+        intervals: size = 25 
+        intervals [1]:
+            xmin = 0 
+            xmax = 7.392 
+            text = "#" 
+        intervals [2]:
+            xmin = 7.392 
+            xmax = 7.753 
+            text = "ouais" 
+        intervals [3]:
+            xmin = 7.753 
+            xmax = 8.053 
+            text = "#" 
+        intervals [4]:
+            xmin = 8.053 
+            xmax = 9.398 
+            text = "on dirait ouais y a un masque" 
+        intervals [5]:
+            xmin = 9.398 
+            xmax = 14.216 
+            text = "#" 
+        intervals [6]:
+            xmin = 14.216 
+            xmax = 14.725 
+            text = "mh mh" 
+        intervals [7]:
+            xmin = 14.725 
+            xmax = 15.486 
+            text = "#" 
+        intervals [8]:
+            xmin = 15.486 
+            xmax = 16.471 
+            text = "ça fait le tour des yeux" 
+        intervals [9]:
+            xmin = 16.471 
+            xmax = 17.305 
+            text = "#" 
+        intervals [10]:
+            xmin = 17.305 
+            xmax = 18.063 
+            text = "euh" 
+        intervals [11]:
+            xmin = 18.063 
+            xmax = 19.835 
+            text = "#" 
+        intervals [12]:
+            xmin = 19.835 
+            xmax = 20.928 
+            text = "ça te ferait penser à quoi" 
+        intervals [13]:
+            xmin = 20.928 
+            xmax = 23.935 
+            text = "#" 
+        intervals [14]:
+            xmin = 23.935 
+            xmax = 24.235 
+            text = "ouais" 
+        intervals [15]:
+            xmin = 24.235 
+            xmax = 30.169 
+            text = "#" 
+        intervals [16]:
+            xmin = 30.169 
+            xmax = 30.514 
+            text = "ouais" 
+        intervals [17]:
+            xmin = 30.514 
+            xmax = 36.926 
+            text = "#" 
+        intervals [18]:
+            xmin = 36.926 
+            xmax = 37.139 
+            text = "que" 
+        intervals [19]:
+            xmin = 37.139 
+            xmax = 38.598 
+            text = "#" 
+        intervals [20]:
+            xmin = 38.598 
+            xmax = 41.021 
+            text = "c'est euh si c'est dans les super héros ça doit être" 
+        intervals [21]:
+            xmin = 41.021 
+            xmax = 41.346 
+            text = "#" 
+        intervals [22]:
+            xmin = 41.346 
+            xmax = 45.797 
+            text = "dans les personnages de dessins animés ou de comics logiquement" 
+        intervals [23]:
+            xmin = 45.797 
+            xmax = 48.53 
+            text = "#" 
+        intervals [24]:
+            xmin = 48.53 
+            xmax = 51.531 
+            text = "mais peut-être comme pour euh tu sais comme pour l'aubergine" 
+        intervals [25]:
+            xmin = 51.531 
+            xmax = 59.9516 
+            text = "#" 

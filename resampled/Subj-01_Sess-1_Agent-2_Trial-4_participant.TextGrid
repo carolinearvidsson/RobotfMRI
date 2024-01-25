@@ -1,0 +1,170 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 60 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Transcription" 
+        xmin = 0 
+        xmax = 60 
+        intervals: size = 39 
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.087 
+            text = "#" 
+        intervals [2]:
+            xmin = 1.087 
+            xmax = 3.575 
+            text = "là encore une fois il s'agit de l'aubergine" 
+        intervals [3]:
+            xmin = 3.575 
+            xmax = 3.9 
+            text = "#" 
+        intervals [4]:
+            xmin = 3.9 
+            xmax = 4.866 
+            text = "euh qui" 
+        intervals [5]:
+            xmin = 4.866 
+            xmax = 5.924 
+            text = "#" 
+        intervals [6]:
+            xmin = 5.924 
+            xmax = 7.651 
+            text = "oui en effet elle ressemble à batman" 
+        intervals [7]:
+            xmin = 7.651 
+            xmax = 7.972 
+            text = "#" 
+        intervals [8]:
+            xmin = 7.972 
+            xmax = 13.179 
+            text = "ce que j'avais pas remarqué précédemment c'est que le pédoncule au dessus de l'aubergine" 
+        intervals [9]:
+            xmin = 13.179 
+            xmax = 13.418 
+            text = "#" 
+        intervals [10]:
+            xmin = 13.418 
+            xmax = 17.687 
+            text = "lui donne comme une coupe de cheveux assez étrange qui ressemble pas à batman" 
+        intervals [11]:
+            xmin = 17.687 
+            xmax = 19.124 
+            text = "#" 
+        intervals [12]:
+            xmin = 19.124 
+            xmax = 19.743 
+            text = "***" 
+        intervals [13]:
+            xmin = 19.743 
+            xmax = 22.832 
+            text = "#" 
+        intervals [14]:
+            xmin = 22.832 
+            xmax = 25.072 
+            text = "elle a l'air plus méchante que la pomme oui" 
+        intervals [15]:
+            xmin = 25.072 
+            xmax = 25.493 
+            text = "#" 
+        intervals [16]:
+            xmin = 25.493 
+            xmax = 26.641 
+            text = "un batman euh" 
+        intervals [17]:
+            xmin = 26.641 
+            xmax = 26.866 
+            text = "#" 
+        intervals [18]:
+            xmin = 26.866 
+            xmax = 27.752 
+            text = "globalement" 
+        intervals [19]:
+            xmin = 27.752 
+            xmax = 28.045 
+            text = "#" 
+        intervals [20]:
+            xmin = 28.045 
+            xmax = 29.149 
+            text = "un peu plus dark que" 
+        intervals [21]:
+            xmin = 29.149 
+            xmax = 29.361 
+            text = "#" 
+        intervals [22]:
+            xmin = 29.361 
+            xmax = 30.311 
+            text = "spiderman" 
+        intervals [23]:
+            xmin = 30.311 
+            xmax = 31.703 
+            text = "#" 
+        intervals [24]:
+            xmin = 31.703 
+            xmax = 35.758 
+            text = "après oui ça semble être lié à l'alimentation ou à la promotion de" 
+        intervals [25]:
+            xmin = 35.758 
+            xmax = 36.27 
+            text = "#" 
+        intervals [26]:
+            xmin = 36.27 
+            xmax = 37.709 
+            text = "du fait de manger des fruits et légumes" 
+        intervals [27]:
+            xmin = 37.709 
+            xmax = 37.907 
+            text = "#" 
+        intervals [28]:
+            xmin = 37.907 
+            xmax = 42.017 
+            text = "***" 
+        intervals [29]:
+            xmin = 42.017 
+            xmax = 42.256 
+            text = "#" 
+        intervals [30]:
+            xmin = 42.256 
+            xmax = 45.483 
+            text = "pour rendre ludique les aliments les fruits légumes" 
+        intervals [31]:
+            xmin = 45.483 
+            xmax = 47.438 
+            text = "#" 
+        intervals [32]:
+            xmin = 47.438 
+            xmax = 49.435 
+            text = "***" 
+        intervals [33]:
+            xmin = 49.435 
+            xmax = 49.618 
+            text = "#" 
+        intervals [34]:
+            xmin = 49.618 
+            xmax = 51.121 
+            text = "***" 
+        intervals [35]:
+            xmin = 51.121 
+            xmax = 51.452 
+            text = "#" 
+        intervals [36]:
+            xmin = 51.452 
+            xmax = 52.579 
+            text = "ça fait sens" 
+        intervals [37]:
+            xmin = 52.579 
+            xmax = 55.872 
+            text = "#" 
+        intervals [38]:
+            xmin = 55.872 
+            xmax = 59.586 
+            text = "locaux oui pourquoi pas produisent des aubergines des pommes" 
+        intervals [39]:
+            xmin = 59.586 
+            xmax = 59.9044 
+            text = "#" 

@@ -1,0 +1,158 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 60 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Transcription" 
+        xmin = 0 
+        xmax = 60 
+        intervals: size = 36 
+        intervals [1]:
+            xmin = 0 
+            xmax = 2.434 
+            text = "#" 
+        intervals [2]:
+            xmin = 2.434 
+            xmax = 2.611 
+            text = "be" 
+        intervals [3]:
+            xmin = 2.611 
+            xmax = 4.217 
+            text = "#" 
+        intervals [4]:
+            xmin = 4.217 
+            xmax = 5.802 
+            text = "ouais on est de retour sur l'aubergine" 
+        intervals [5]:
+            xmin = 5.802 
+            xmax = 7.001 
+            text = "#" 
+        intervals [6]:
+            xmin = 7.001 
+            xmax = 12.732 
+            text = "euh du coup attends pour l'instant on a vu euh on en a vu six c'est ça" 
+        intervals [7]:
+            xmin = 12.732 
+            xmax = 16.116 
+            text = "#" 
+        intervals [8]:
+            xmin = 16.116 
+            xmax = 17.64 
+            text = "euh" 
+        intervals [9]:
+            xmin = 17.64 
+            xmax = 19.301 
+            text = "#" 
+        intervals [10]:
+            xmin = 19.301 
+            xmax = 20.251 
+            text = "du coup y avait" 
+        intervals [11]:
+            xmin = 20.251 
+            xmax = 20.587 
+            text = "#" 
+        intervals [12]:
+            xmin = 20.587 
+            xmax = 21.643 
+            text = "euh" 
+        intervals [13]:
+            xmin = 21.643 
+            xmax = 23.716 
+            text = "#" 
+        intervals [14]:
+            xmin = 23.716 
+            xmax = 24.133 
+            text = "euh le" 
+        intervals [15]:
+            xmin = 24.133 
+            xmax = 27.09 
+            text = "#" 
+        intervals [16]:
+            xmin = 27.09 
+            xmax = 27.425 
+            text = "ouais" 
+        intervals [17]:
+            xmin = 27.425 
+            xmax = 31.038 
+            text = "#" 
+        intervals [18]:
+            xmin = 31.038 
+            xmax = 31.287 
+            text = "ouais" 
+        intervals [19]:
+            xmin = 31.287 
+            xmax = 34.289 
+            text = "#" 
+        intervals [20]:
+            xmin = 34.289 
+            xmax = 34.538 
+            text = "ouais" 
+        intervals [21]:
+            xmin = 34.538 
+            xmax = 36.555 
+            text = "#" 
+        intervals [22]:
+            xmin = 36.555 
+            xmax = 38.603 
+            text = "euh oui c'est ça" 
+        intervals [23]:
+            xmin = 38.603 
+            xmax = 40.574 
+            text = "#" 
+        intervals [24]:
+            xmin = 40.574 
+            xmax = 43.521 
+            text = "euh et le point commun" 
+        intervals [25]:
+            xmin = 43.521 
+            xmax = 45.171 
+            text = "#" 
+        intervals [26]:
+            xmin = 45.171 
+            xmax = 46.976 
+            text = "c'est euh c'est qu'ils sont tous" 
+        intervals [27]:
+            xmin = 46.976 
+            xmax = 47.326 
+            text = "#" 
+        intervals [28]:
+            xmin = 47.326 
+            xmax = 48.012 
+            text = "personnifiés" 
+        intervals [29]:
+            xmin = 48.012 
+            xmax = 48.937 
+            text = "#" 
+        intervals [30]:
+            xmin = 48.937 
+            xmax = 51.264 
+            text = "et qu'ils ont des des yeux des bras des jambes" 
+        intervals [31]:
+            xmin = 51.264 
+            xmax = 52.041 
+            text = "#" 
+        intervals [32]:
+            xmin = 52.041 
+            xmax = 53.337 
+            text = "donc doit y avoir un" 
+        intervals [33]:
+            xmin = 53.337 
+            xmax = 55.445 
+            text = "#" 
+        intervals [34]:
+            xmin = 55.445 
+            xmax = 56.913 
+            text = "doit doit y avoir un message derrière non" 
+        intervals [35]:
+            xmin = 56.913 
+            xmax = 59.205 
+            text = "#" 
+        intervals [36]:
+            xmin = 59.205 
+            xmax = 59.9516 
+            text = "en général quand tu pers-" 

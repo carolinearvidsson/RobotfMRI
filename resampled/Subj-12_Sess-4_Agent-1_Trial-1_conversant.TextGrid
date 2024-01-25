@@ -1,0 +1,114 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 60 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Transcription" 
+        xmin = 0 
+        xmax = 60 
+        intervals: size = 25 
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.407 
+            text = "#" 
+        intervals [2]:
+            xmin = 1.407 
+            xmax = 1.575 
+            text = "ah" 
+        intervals [3]:
+            xmin = 1.575 
+            xmax = 2.169 
+            text = "#" 
+        intervals [4]:
+            xmin = 2.169 
+            xmax = 3.526 
+            text = "euh re coucou on dirait que" 
+        intervals [5]:
+            xmin = 3.526 
+            xmax = 4.496 
+            text = "#" 
+        intervals [6]:
+            xmin = 4.496 
+            xmax = 5.401 
+            text = "ça y est ça remarche" 
+        intervals [7]:
+            xmin = 5.401 
+            xmax = 12.818 
+            text = "#" 
+        intervals [8]:
+            xmin = 12.818 
+            xmax = 13.057 
+            text = "ouais" 
+        intervals [9]:
+            xmin = 13.057 
+            xmax = 17.482 
+            text = "#" 
+        intervals [10]:
+            xmin = 17.482 
+            xmax = 17.752 
+            text = "ouais" 
+        intervals [11]:
+            xmin = 17.752 
+            xmax = 32.918 
+            text = "#" 
+        intervals [12]:
+            xmin = 32.918 
+            xmax = 33.156 
+            text = "ouais" 
+        intervals [13]:
+            xmin = 33.156 
+            xmax = 33.766 
+            text = "#" 
+        intervals [14]:
+            xmin = 33.766 
+            xmax = 34.296 
+            text = "bah s-" 
+        intervals [15]:
+            xmin = 34.296 
+            xmax = 34.675 
+            text = "#" 
+        intervals [16]:
+            xmin = 34.675 
+            xmax = 38.684 
+            text = "y a un contraste donc je pense que ça doit être fait pour valoriser l'une des deux séries par rapport à l'autre" 
+        intervals [17]:
+            xmin = 38.684 
+            xmax = 40.086 
+            text = "#" 
+        intervals [18]:
+            xmin = 40.086 
+            xmax = 40.686 
+            text = "et euh" 
+        intervals [19]:
+            xmin = 40.686 
+            xmax = 43.948 
+            text = "#" 
+        intervals [20]:
+            xmin = 43.948 
+            xmax = 46.589 
+            text = "la la la question c'est ouais quel est le message derrière" 
+        intervals [21]:
+            xmin = 46.589 
+            xmax = 46.786 
+            text = "#" 
+        intervals [22]:
+            xmin = 46.786 
+            xmax = 47.246 
+            text = "je sais" 
+        intervals [23]:
+            xmin = 47.246 
+            xmax = 58.275 
+            text = "#" 
+        intervals [24]:
+            xmin = 58.275 
+            xmax = 58.499 
+            text = "mh mh" 
+        intervals [25]:
+            xmin = 58.499 
+            xmax = 59.9516 
+            text = "#" 

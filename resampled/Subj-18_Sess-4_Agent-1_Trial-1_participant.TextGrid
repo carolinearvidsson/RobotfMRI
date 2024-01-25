@@ -1,0 +1,106 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 60 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Transcription" 
+        xmin = 0 
+        xmax = 60 
+        intervals: size = 23 
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.712 
+            text = "#" 
+        intervals [2]:
+            xmin = 1.712 
+            xmax = 2.144 
+            text = "alors c'est" 
+        intervals [3]:
+            xmin = 2.144 
+            xmax = 9.846 
+            text = "#" 
+        intervals [4]:
+            xmin = 9.846 
+            xmax = 10.273 
+            text = "ouais" 
+        intervals [5]:
+            xmin = 10.273 
+            xmax = 13.784 
+            text = "#" 
+        intervals [6]:
+            xmin = 13.784 
+            xmax = 14.825 
+            text = "ouais non c'est vrai" 
+        intervals [7]:
+            xmin = 14.825 
+            xmax = 15.587 
+            text = "#" 
+        intervals [8]:
+            xmin = 15.587 
+            xmax = 18.158 
+            text = "-fin après on peut aussi la prendre en pitié" 
+        intervals [9]:
+            xmin = 18.158 
+            xmax = 19.063 
+            text = "#" 
+        intervals [10]:
+            xmin = 19.063 
+            xmax = 19.672 
+            text = "@" 
+        intervals [11]:
+            xmin = 19.672 
+            xmax = 20.155 
+            text = "#" 
+        intervals [12]:
+            xmin = 20.155 
+            xmax = 22.101 
+            text = "mais je sais pas si c'est trop le message" 
+        intervals [13]:
+            xmin = 22.101 
+            xmax = 29.01 
+            text = "#" 
+        intervals [14]:
+            xmin = 29.01 
+            xmax = 29.397 
+            text = "ouais" 
+        intervals [15]:
+            xmin = 29.397 
+            xmax = 29.691 
+            text = "#" 
+        intervals [16]:
+            xmin = 29.691 
+            xmax = 35.453 
+            text = "et aussi qu'en fait on est pas parfait et que malgré qu'elle ait des défauts elle doit être sympathique quand même" 
+        intervals [17]:
+            xmin = 35.453 
+            xmax = 39.98 
+            text = "#" 
+        intervals [18]:
+            xmin = 39.98 
+            xmax = 42.459 
+            text = "voilà je sais pas mais c'est vrai que ils sont elle est" 
+        intervals [19]:
+            xmin = 42.459 
+            xmax = 42.916 
+            text = "#" 
+        intervals [20]:
+            xmin = 42.916 
+            xmax = 46.269 
+            text = "elle est assez différente des trois derniers qui sont assez propres et lisses" 
+        intervals [21]:
+            xmin = 46.269 
+            xmax = 48.647 
+            text = "#" 
+        intervals [22]:
+            xmin = 48.647 
+            xmax = 50.857 
+            text = "elle elle fait plus négligée quand même" 
+        intervals [23]:
+            xmin = 50.857 
+            xmax = 59.9044 
+            text = "#" 

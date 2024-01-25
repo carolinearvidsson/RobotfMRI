@@ -1,0 +1,114 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 60 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Transcription" 
+        xmin = 0 
+        xmax = 60 
+        intervals: size = 25 
+        intervals [1]:
+            xmin = 0 
+            xmax = 4.969 
+            text = "#" 
+        intervals [2]:
+            xmin = 4.969 
+            xmax = 5.314 
+            text = "ouais" 
+        intervals [3]:
+            xmin = 5.314 
+            xmax = 7.062 
+            text = "#" 
+        intervals [4]:
+            xmin = 7.062 
+            xmax = 7.509 
+            text = "ouais ouais" 
+        intervals [5]:
+            xmin = 7.509 
+            xmax = 9.445 
+            text = "#" 
+        intervals [6]:
+            xmin = 9.445 
+            xmax = 9.806 
+            text = "c'est bon" 
+        intervals [7]:
+            xmin = 9.806 
+            xmax = 15.719 
+            text = "#" 
+        intervals [8]:
+            xmin = 15.719 
+            xmax = 15.984 
+            text = "ouais" 
+        intervals [9]:
+            xmin = 15.984 
+            xmax = 16.644 
+            text = "#" 
+        intervals [10]:
+            xmin = 16.644 
+            xmax = 17.594 
+            text = "c'était une aubergine" 
+        intervals [11]:
+            xmin = 17.594 
+            xmax = 25.19 
+            text = "#" 
+        intervals [12]:
+            xmin = 25.19 
+            xmax = 26.999 
+            text = "ouais on aurait $Batman$" 
+        intervals [13]:
+            xmin = 26.999 
+            xmax = 28.401 
+            text = "#" 
+        intervals [14]:
+            xmin = 28.401 
+            xmax = 31.222 
+            text = "je sais pas si c'est le message mais on aurait dit $Batman$ limite" 
+        intervals [15]:
+            xmin = 31.222 
+            xmax = 40.605 
+            text = "#" 
+        intervals [16]:
+            xmin = 40.605 
+            xmax = 40.889 
+            text = "ouais" 
+        intervals [17]:
+            xmin = 40.889 
+            xmax = 42.2 
+            text = "#" 
+        intervals [18]:
+            xmin = 42.2 
+            xmax = 44.76 
+            text = "mais je pense que ce serait plus pour des légumes" 
+        intervals [19]:
+            xmin = 44.76 
+            xmax = 47.855 
+            text = "#" 
+        intervals [20]:
+            xmin = 47.855 
+            xmax = 48.276 
+            text = "ouais" 
+        intervals [21]:
+            xmin = 48.276 
+            xmax = 54.251 
+            text = "#" 
+        intervals [22]:
+            xmin = 54.251 
+            xmax = 56.426 
+            text = "remarque ouais ça doit être pour les enfants" 
+        intervals [23]:
+            xmin = 56.426 
+            xmax = 58.666 
+            text = "#" 
+        intervals [24]:
+            xmin = 58.666 
+            xmax = 59.027 
+            text = "ouais" 
+        intervals [25]:
+            xmin = 59.027 
+            xmax = 59.9044 
+            text = "#" 

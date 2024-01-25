@@ -1,0 +1,106 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 60 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Transcription" 
+        xmin = 0 
+        xmax = 60 
+        intervals: size = 23 
+        intervals [1]:
+            xmin = 0 
+            xmax = 3.968 
+            text = "#" 
+        intervals [2]:
+            xmin = 3.968 
+            xmax = 4.359 
+            text = "salut" 
+        intervals [3]:
+            xmin = 4.359 
+            xmax = 6.518 
+            text = "#" 
+        intervals [4]:
+            xmin = 6.518 
+            xmax = 6.96 
+            text = "ça va" 
+        intervals [5]:
+            xmin = 6.96 
+            xmax = 10.552 
+            text = "#" 
+        intervals [6]:
+            xmin = 10.552 
+            xmax = 10.964 
+            text = "ça va" 
+        intervals [7]:
+            xmin = 10.964 
+            xmax = 15.11 
+            text = "#" 
+        intervals [8]:
+            xmin = 15.11 
+            xmax = 15.455 
+            text = "ouais" 
+        intervals [9]:
+            xmin = 15.455 
+            xmax = 22.578 
+            text = "#" 
+        intervals [10]:
+            xmin = 22.578 
+            xmax = 23.747 
+            text = "je ne suis pas sûre" 
+        intervals [11]:
+            xmin = 23.747 
+            xmax = 24.661 
+            text = "#" 
+        intervals [12]:
+            xmin = 24.661 
+            xmax = 25.718 
+            text = "c'est une poire pourrie" 
+        intervals [13]:
+            xmin = 25.718 
+            xmax = 33.085 
+            text = "#" 
+        intervals [14]:
+            xmin = 33.085 
+            xmax = 33.624 
+            text = "peut-être" 
+        intervals [15]:
+            xmin = 33.624 
+            xmax = 36.469 
+            text = "#" 
+        intervals [16]:
+            xmin = 36.469 
+            xmax = 37.343 
+            text = "elle est déformée" 
+        intervals [17]:
+            xmin = 37.343 
+            xmax = 44.308 
+            text = "#" 
+        intervals [18]:
+            xmin = 44.308 
+            xmax = 44.781 
+            text = "ah oui" 
+        intervals [19]:
+            xmin = 44.781 
+            xmax = 48.464 
+            text = "#" 
+        intervals [20]:
+            xmin = 48.464 
+            xmax = 48.866 
+            text = "oui" 
+        intervals [21]:
+            xmin = 48.866 
+            xmax = 51.828 
+            text = "#" 
+        intervals [22]:
+            xmin = 51.828 
+            xmax = 52.808 
+            text = "c'est une poire moche" 
+        intervals [23]:
+            xmin = 52.808 
+            xmax = 59.9516 
+            text = "#" 

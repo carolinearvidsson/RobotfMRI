@@ -1,0 +1,134 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 60 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Transcription" 
+        xmin = 0 
+        xmax = 60 
+        intervals: size = 30 
+        intervals [1]:
+            xmin = 0 
+            xmax = 3.104 
+            text = "#" 
+        intervals [2]:
+            xmin = 3.104 
+            xmax = 5.05 
+            text = "allez on est de retour sur la bat-aubergine" 
+        intervals [3]:
+            xmin = 5.05 
+            xmax = 7.037 
+            text = "#" 
+        intervals [4]:
+            xmin = 7.037 
+            xmax = 8.322 
+            text = "euh" 
+        intervals [5]:
+            xmin = 8.322 
+            xmax = 10.405 
+            text = "#" 
+        intervals [6]:
+            xmin = 10.405 
+            xmax = 14.861 
+            text = "elle a l'air vraiment austère hein maintenant qu'on la re regarde par rapport aux autres qui faisaient plutôt pitié" 
+        intervals [7]:
+            xmin = 14.861 
+            xmax = 22.919 
+            text = "#" 
+        intervals [8]:
+            xmin = 22.919 
+            xmax = 23.198 
+            text = "quoi" 
+        intervals [9]:
+            xmin = 23.198 
+            xmax = 26.567 
+            text = "#" 
+        intervals [10]:
+            xmin = 26.567 
+            xmax = 26.856 
+            text = "ah" 
+        intervals [11]:
+            xmin = 26.856 
+            xmax = 28.289 
+            text = "#" 
+        intervals [12]:
+            xmin = 28.289 
+            xmax = 28.858 
+            text = "l'aubergine" 
+        intervals [13]:
+            xmin = 28.858 
+            xmax = 31.19 
+            text = "#" 
+        intervals [14]:
+            xmin = 31.19 
+            xmax = 32.364 
+            text = "ah peut-être" 
+        intervals [15]:
+            xmin = 32.364 
+            xmax = 33.715 
+            text = "#" 
+        intervals [16]:
+            xmin = 33.715 
+            xmax = 37.18 
+            text = "peut-être je sais pas par rapport à la framboise" 
+        intervals [17]:
+            xmin = 37.18 
+            xmax = 37.358 
+            text = "#" 
+        intervals [18]:
+            xmin = 37.358 
+            xmax = 38.156 
+            text = "peut-être" 
+        intervals [19]:
+            xmin = 38.156 
+            xmax = 39.065 
+            text = "#" 
+        intervals [20]:
+            xmin = 39.065 
+            xmax = 42.205 
+            text = "euh mais par rapport à la poire parce que tu vois la poire elle avait l'air bien mûre" 
+        intervals [21]:
+            xmin = 42.205 
+            xmax = 42.931 
+            text = "#" 
+        intervals [22]:
+            xmin = 42.931 
+            xmax = 46.386 
+            text = "mais en même temps c'est une poire je pense que moi je pourrais manger et que j'apprécierais" 
+        intervals [23]:
+            xmin = 46.386 
+            xmax = 46.955 
+            text = "#" 
+        intervals [24]:
+            xmin = 46.955 
+            xmax = 48.637 
+            text = "elle a l'air sucrée du coup un peu" 
+        intervals [25]:
+            xmin = 48.637 
+            xmax = 50.029 
+            text = "#" 
+        intervals [26]:
+            xmin = 50.029 
+            xmax = 52.95 
+            text = "parce que la ça fait très euh brillant" 
+        intervals [27]:
+            xmin = 52.95 
+            xmax = 56.222 
+            text = "#" 
+        intervals [28]:
+            xmin = 56.222 
+            xmax = 56.466 
+            text = "quoi" 
+        intervals [29]:
+            xmin = 56.466 
+            xmax = 57.792 
+            text = "#" 
+        intervals [30]:
+            xmin = 57.792 
+            xmax = 59.9516 
+            text = "ouais c'est ça on se demande si euh" 

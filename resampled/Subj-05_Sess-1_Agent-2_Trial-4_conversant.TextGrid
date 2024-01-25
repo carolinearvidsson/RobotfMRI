@@ -1,0 +1,142 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 60 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Transcription" 
+        xmin = 0 
+        xmax = 60 
+        intervals: size = 32 
+        intervals [1]:
+            xmin = 0 
+            xmax = 4.715 
+            text = "#" 
+        intervals [2]:
+            xmin = 4.715 
+            xmax = 5.136 
+            text = "moi" 
+        intervals [3]:
+            xmin = 5.136 
+            xmax = 5.36 
+            text = "#" 
+        intervals [4]:
+            xmin = 5.36 
+            xmax = 6.976 
+            text = "je crois que c'est une aubergine" 
+        intervals [5]:
+            xmin = 6.976 
+            xmax = 12.407 
+            text = "#" 
+        intervals [6]:
+            xmin = 12.407 
+            xmax = 13.438 
+            text = "je suis d'accord" 
+        intervals [7]:
+            xmin = 13.438 
+            xmax = 13.956 
+            text = "#" 
+        intervals [8]:
+            xmin = 13.956 
+            xmax = 15.288 
+            text = "elle ressemble à $Batman$" 
+        intervals [9]:
+            xmin = 15.288 
+            xmax = 16.959 
+            text = "#" 
+        intervals [10]:
+            xmin = 16.959 
+            xmax = 18.951 
+            text = "elle a l'air plus méchante que la pomme" 
+        intervals [11]:
+            xmin = 18.951 
+            xmax = 21.298 
+            text = "#" 
+        intervals [12]:
+            xmin = 21.298 
+            xmax = 23.279 
+            text = "elle a l'air plus méchante que la pomme" 
+        intervals [13]:
+            xmin = 23.279 
+            xmax = 30.255 
+            text = "#" 
+        intervals [14]:
+            xmin = 30.255 
+            xmax = 31.51 
+            text = "elle a l'air forte" 
+        intervals [15]:
+            xmin = 31.51 
+            xmax = 31.744 
+            text = "#" 
+        intervals [16]:
+            xmin = 31.744 
+            xmax = 32.547 
+            text = "comme la pomme" 
+        intervals [17]:
+            xmin = 32.547 
+            xmax = 35.122 
+            text = "#" 
+        intervals [18]:
+            xmin = 35.122 
+            xmax = 36.367 
+            text = "elle a l'air forte comme la pomme" 
+        intervals [19]:
+            xmin = 36.367 
+            xmax = 36.611 
+            text = "#" 
+        intervals [20]:
+            xmin = 36.611 
+            xmax = 37.404 
+            text = "comme la pomme" 
+        intervals [21]:
+            xmin = 37.404 
+            xmax = 40.279 
+            text = "#" 
+        intervals [22]:
+            xmin = 40.279 
+            xmax = 40.61 
+            text = "oui" 
+        intervals [23]:
+            xmin = 40.61 
+            xmax = 43.206 
+            text = "#" 
+        intervals [24]:
+            xmin = 43.206 
+            xmax = 43.993 
+            text = "tu ne penses pas" 
+        intervals [25]:
+            xmin = 43.993 
+            xmax = 49.943 
+            text = "#" 
+        intervals [26]:
+            xmin = 49.943 
+            xmax = 50.674 
+            text = "oui en effet" 
+        intervals [27]:
+            xmin = 50.674 
+            xmax = 51.645 
+            text = "#" 
+        intervals [28]:
+            xmin = 51.645 
+            xmax = 54.556 
+            text = "les yeux et la bouche ressemblent à ceux d'un super héros" 
+        intervals [29]:
+            xmin = 54.556 
+            xmax = 59.098 
+            text = "#" 
+        intervals [30]:
+            xmin = 59.098 
+            xmax = 59.494 
+            text = "oui" 
+        intervals [31]:
+            xmin = 59.494 
+            xmax = 59.718 
+            text = "#" 
+        intervals [32]:
+            xmin = 59.718 
+            xmax = 59.9516 
+            text = "je crois" 

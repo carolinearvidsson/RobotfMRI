@@ -1,0 +1,174 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 60 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Transcription" 
+        xmin = 0 
+        xmax = 60 
+        intervals: size = 40 
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.616 
+            text = "#" 
+        intervals [2]:
+            xmin = 1.616 
+            xmax = 1.9 
+            text = "a-" 
+        intervals [3]:
+            xmin = 1.9 
+            xmax = 2.83 
+            text = "#" 
+        intervals [4]:
+            xmin = 2.83 
+            xmax = 3.404 
+            text = "-lors" 
+        intervals [5]:
+            xmin = 3.404 
+            xmax = 4.425 
+            text = "#" 
+        intervals [6]:
+            xmin = 4.425 
+            xmax = 6.3 
+            text = "la poire toute cabossée" 
+        intervals [7]:
+            xmin = 6.3 
+            xmax = 6.518 
+            text = "#" 
+        intervals [8]:
+            xmin = 6.518 
+            xmax = 7.936 
+            text = "déformée euh" 
+        intervals [9]:
+            xmin = 7.936 
+            xmax = 10.619 
+            text = "#" 
+        intervals [10]:
+            xmin = 10.619 
+            xmax = 11.289 
+            text = "euh ouais" 
+        intervals [11]:
+            xmin = 11.289 
+            xmax = 11.757 
+            text = "#" 
+        intervals [12]:
+            xmin = 11.757 
+            xmax = 14.459 
+            text = "pas elle a l'air elle a l'air de pourrir un peu" 
+        intervals [13]:
+            xmin = 14.459 
+            xmax = 15.923 
+            text = "#" 
+        intervals [14]:
+            xmin = 15.923 
+            xmax = 16.919 
+            text = "elle a l'air" 
+        intervals [15]:
+            xmin = 16.919 
+            xmax = 19.149 
+            text = "#" 
+        intervals [16]:
+            xmin = 19.149 
+            xmax = 21.674 
+            text = "ouais -fin elle a l'air pas très en forme et euh" 
+        intervals [17]:
+            xmin = 21.674 
+            xmax = 22.67 
+            text = "#" 
+        intervals [18]:
+            xmin = 22.67 
+            xmax = 24.58 
+            text = "c'est pas une poire qui donne envie d'être manger" 
+        intervals [19]:
+            xmin = 24.58 
+            xmax = 33.7 
+            text = "#" 
+        intervals [20]:
+            xmin = 33.7 
+            xmax = 34.355 
+            text = "ah ouais s-" 
+        intervals [21]:
+            xmin = 34.355 
+            xmax = 36.286 
+            text = "#" 
+        intervals [22]:
+            xmin = 36.286 
+            xmax = 36.591 
+            text = "ah" 
+        intervals [23]:
+            xmin = 36.591 
+            xmax = 36.885 
+            text = "#" 
+        intervals [24]:
+            xmin = 36.885 
+            xmax = 37.343 
+            text = "peut-être" 
+        intervals [25]:
+            xmin = 37.343 
+            xmax = 37.526 
+            text = "#" 
+        intervals [26]:
+            xmin = 37.526 
+            xmax = 38.339 
+            text = "mais euh" 
+        intervals [27]:
+            xmin = 38.339 
+            xmax = 39.593 
+            text = "#" 
+        intervals [28]:
+            xmin = 39.593 
+            xmax = 42.179 
+            text = "ben je sais pas c'est pas une poire qui donne envie d'être mangé je sais pas" 
+        intervals [29]:
+            xmin = 42.179 
+            xmax = 42.393 
+            text = "#" 
+        intervals [30]:
+            xmin = 42.393 
+            xmax = 44.009 
+            text = "elle donne pas envie d'être mangé tu te dis et" 
+        intervals [31]:
+            xmin = 44.009 
+            xmax = 44.827 
+            text = "#" 
+        intervals [32]:
+            xmin = 44.827 
+            xmax = 47.402 
+            text = "c'est pas la poire qui va me rendre super" 
+        intervals [33]:
+            xmin = 47.402 
+            xmax = 48.378 
+            text = "#" 
+        intervals [34]:
+            xmin = 48.378 
+            xmax = 48.866 
+            text = "en forme" 
+        intervals [35]:
+            xmin = 48.866 
+            xmax = 49.104 
+            text = "#" 
+        intervals [36]:
+            xmin = 49.104 
+            xmax = 49.557 
+            text = "ouais" 
+        intervals [37]:
+            xmin = 49.557 
+            xmax = 49.872 
+            text = "#" 
+        intervals [38]:
+            xmin = 49.872 
+            xmax = 52.585 
+            text = "ouais * en bonne santé et tout ça" 
+        intervals [39]:
+            xmin = 52.585 
+            xmax = 58.636 
+            text = "#" 
+        intervals [40]:
+            xmin = 58.636 
+            xmax = 59.9044 
+            text = "euh ouais @" 

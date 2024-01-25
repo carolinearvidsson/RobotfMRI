@@ -1,0 +1,106 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 60 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Transcription" 
+        xmin = 0 
+        xmax = 60 
+        intervals: size = 23 
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.59 
+            text = "#" 
+        intervals [2]:
+            xmin = 1.59 
+            xmax = 1.859 
+            text = "hey" 
+        intervals [3]:
+            xmin = 1.859 
+            xmax = 3.638 
+            text = "#" 
+        intervals [4]:
+            xmin = 3.638 
+            xmax = 8.871 
+            text = "ils a- ils j'a- j'avais eu une autre idée à proposer aussi je sais pas ce que ça vaut mais c'est pour essayer de comprendre" 
+        intervals [5]:
+            xmin = 8.871 
+            xmax = 9.242 
+            text = "#" 
+        intervals [6]:
+            xmin = 9.242 
+            xmax = 10.537 
+            text = "peut-être c'est deux" 
+        intervals [7]:
+            xmin = 10.537 
+            xmax = 10.761 
+            text = "#" 
+        intervals [8]:
+            xmin = 10.761 
+            xmax = 14.968 
+            text = "séries qui doivent amener à la au même message ils essayent de voir laquelle" 
+        intervals [9]:
+            xmin = 14.968 
+            xmax = 15.664 
+            text = "#" 
+        intervals [10]:
+            xmin = 15.664 
+            xmax = 18.179 
+            text = "avec laquelle on on comprend" 
+        intervals [11]:
+            xmin = 18.179 
+            xmax = 24.611 
+            text = "#" 
+        intervals [12]:
+            xmin = 24.611 
+            xmax = 25.973 
+            text = "euh" 
+        intervals [13]:
+            xmin = 25.973 
+            xmax = 28.243 
+            text = "#" 
+        intervals [14]:
+            xmin = 28.243 
+            xmax = 30.291 
+            text = "les fruits sont forts parce que" 
+        intervals [15]:
+            xmin = 30.291 
+            xmax = 34.533 
+            text = "#" 
+        intervals [16]:
+            xmin = 34.533 
+            xmax = 39.517 
+            text = "et ou alors ils sont forts parce que ils ont ont eu plein de pesticides" 
+        intervals [17]:
+            xmin = 39.517 
+            xmax = 49.785 
+            text = "#" 
+        intervals [18]:
+            xmin = 49.785 
+            xmax = 53.677 
+            text = "ouais ou alors c'est le contraire des est ce qu'on peut avoir l'antithèse" 
+        intervals [19]:
+            xmin = 53.677 
+            xmax = 53.931 
+            text = "#" 
+        intervals [20]:
+            xmin = 53.931 
+            xmax = 57.442 
+            text = "euh les beaux c'est les s- ouais mais ça serait pas les super héros en tout cas" 
+        intervals [21]:
+            xmin = 57.442 
+            xmax = 57.747 
+            text = "#" 
+        intervals [22]:
+            xmin = 57.747 
+            xmax = 58.803 
+            text = "normalement les beaux" 
+        intervals [23]:
+            xmin = 58.803 
+            xmax = 59.9516 
+            text = "#" 

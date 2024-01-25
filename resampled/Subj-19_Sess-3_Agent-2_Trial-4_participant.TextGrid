@@ -1,0 +1,130 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 60 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Transcription" 
+        xmin = 0 
+        xmax = 60 
+        intervals: size = 29 
+        intervals [1]:
+            xmin = 0 
+            xmax = 2.2 
+            text = "#" 
+        intervals [2]:
+            xmin = 2.2 
+            xmax = 2.628 
+            text = "salut" 
+        intervals [3]:
+            xmin = 2.628 
+            xmax = 4.466 
+            text = "#" 
+        intervals [4]:
+            xmin = 4.466 
+            xmax = 7.296 
+            text = "est-ce que tu penses que c'est une aubergine qui a grandit en $Amérique$" 
+        intervals [5]:
+            xmin = 7.296 
+            xmax = 11.223 
+            text = "#" 
+        intervals [6]:
+            xmin = 11.223 
+            xmax = 11.619 
+            text = "ah" 
+        intervals [7]:
+            xmin = 11.619 
+            xmax = 14.932 
+            text = "#" 
+        intervals [8]:
+            xmin = 14.932 
+            xmax = 16.863 
+            text = "oh je pense que c'est une aubergine américaine" 
+        intervals [9]:
+            xmin = 16.863 
+            xmax = 19.358 
+            text = "#" 
+        intervals [10]:
+            xmin = 19.358 
+            xmax = 19.806 
+            text = "parce que" 
+        intervals [11]:
+            xmin = 19.806 
+            xmax = 21.302 
+            text = "#" 
+        intervals [12]:
+            xmin = 21.302 
+            xmax = 24.902 
+            text = "elle ressemble à $Batman$ ouais ça c'est un premier argument et deux elle est elle est" 
+        intervals [13]:
+            xmin = 24.902 
+            xmax = 26.362 
+            text = "#" 
+        intervals [14]:
+            xmin = 26.362 
+            xmax = 27.288 
+            text = "fait plastique" 
+        intervals [15]:
+            xmin = 27.288 
+            xmax = 28.749 
+            text = "#" 
+        intervals [16]:
+            xmin = 28.749 
+            xmax = 29.678 
+            text = "elle a pas vraiment l'air" 
+        intervals [17]:
+            xmin = 29.678 
+            xmax = 30.443 
+            text = "#" 
+        intervals [18]:
+            xmin = 30.443 
+            xmax = 31.351 
+            text = "de sortir d'un champ" 
+        intervals [19]:
+            xmin = 31.351 
+            xmax = 35.934 
+            text = "#" 
+        intervals [20]:
+            xmin = 35.934 
+            xmax = 39.292 
+            text = "genre $Batman$ l'aubergine américaine je sais pas ça semble euh" 
+        intervals [21]:
+            xmin = 39.292 
+            xmax = 40.328 
+            text = "#" 
+        intervals [22]:
+            xmin = 40.328 
+            xmax = 41.322 
+            text = "bien pour la campagne" 
+        intervals [23]:
+            xmin = 41.322 
+            xmax = 51.232 
+            text = "#" 
+        intervals [24]:
+            xmin = 51.232 
+            xmax = 53.158 
+            text = "ah elle combat la mauvaise nourriture" 
+        intervals [25]:
+            xmin = 53.158 
+            xmax = 53.745 
+            text = "#" 
+        intervals [26]:
+            xmin = 53.745 
+            xmax = 55.528 
+            text = "il y a de la bonne et de la mauvaise nourriture ouais" 
+        intervals [27]:
+            xmin = 55.528 
+            xmax = 58.127 
+            text = "#" 
+        intervals [28]:
+            xmin = 58.127 
+            xmax = 59.289 
+            text = "oui oui c'est une piste" 
+        intervals [29]:
+            xmin = 59.289 
+            xmax = 59.9044 
+            text = "#" 

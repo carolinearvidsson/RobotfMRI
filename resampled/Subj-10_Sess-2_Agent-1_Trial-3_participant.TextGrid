@@ -1,0 +1,134 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 60 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Transcription" 
+        xmin = 0 
+        xmax = 60 
+        intervals: size = 30 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.914 
+            text = "#" 
+        intervals [2]:
+            xmin = 0.914 
+            xmax = 1.275 
+            text = "re" 
+        intervals [3]:
+            xmin = 1.275 
+            xmax = 6.153 
+            text = "#" 
+        intervals [4]:
+            xmin = 6.153 
+            xmax = 6.31 
+            text = "ouais" 
+        intervals [5]:
+            xmin = 6.31 
+            xmax = 7.042 
+            text = "#" 
+        intervals [6]:
+            xmin = 7.042 
+            xmax = 10.415 
+            text = "bah du coup euh là pareil elle est deformée je pense que c'est pour euh" 
+        intervals [7]:
+            xmin = 10.415 
+            xmax = 11.472 
+            text = "#" 
+        intervals [8]:
+            xmin = 11.472 
+            xmax = 14.724 
+            text = "des fruits qui sont pas très présentables et qu'on jette parce que" 
+        intervals [9]:
+            xmin = 14.724 
+            xmax = 15.841 
+            text = "#" 
+        intervals [10]:
+            xmin = 15.841 
+            xmax = 16.996 
+            text = "dans les supermarchés par exemple" 
+        intervals [11]:
+            xmin = 16.996 
+            xmax = 18.997 
+            text = "#" 
+        intervals [12]:
+            xmin = 18.997 
+            xmax = 19.825 
+            text = "ouais elle fait pas envie mais bon" 
+        intervals [13]:
+            xmin = 19.825 
+            xmax = 22.289 
+            text = "#" 
+        intervals [14]:
+            xmin = 22.289 
+            xmax = 27.669 
+            text = "tu sais qu'il y a eu pas mal de bruit par rapport au fait qu'on jetait souvent les pommes qu'étaient pas très jaunes pas très rouge pas" 
+        intervals [15]:
+            xmin = 27.669 
+            xmax = 29.447 
+            text = "#" 
+        intervals [16]:
+            xmin = 29.447 
+            xmax = 31.591 
+            text = "oui ça donne pas envie du tout la framboise était vraiment dégueulasse" 
+        intervals [17]:
+            xmin = 31.591 
+            xmax = 33.232 
+            text = "#" 
+        intervals [18]:
+            xmin = 33.232 
+            xmax = 33.42 
+            text = "ouais" 
+        intervals [19]:
+            xmin = 33.42 
+            xmax = 42.743 
+            text = "#" 
+        intervals [20]:
+            xmin = 42.743 
+            xmax = 42.972 
+            text = "ouais" 
+        intervals [21]:
+            xmin = 42.972 
+            xmax = 49.226 
+            text = "#" 
+        intervals [22]:
+            xmin = 49.226 
+            xmax = 49.679 
+            text = "ouais c'est ça" 
+        intervals [23]:
+            xmin = 49.679 
+            xmax = 53.133 
+            text = "#" 
+        intervals [24]:
+            xmin = 53.133 
+            xmax = 53.763 
+            text = "pas présentable" 
+        intervals [25]:
+            xmin = 53.763 
+            xmax = 55.034 
+            text = "#" 
+        intervals [26]:
+            xmin = 55.034 
+            xmax = 55.247 
+            text = "ouais" 
+        intervals [27]:
+            xmin = 55.247 
+            xmax = 55.852 
+            text = "#" 
+        intervals [28]:
+            xmin = 55.852 
+            xmax = 58.438 
+            text = "je sais pas si les deux pubs sont liées par contre si c'est les mêmes euh" 
+        intervals [29]:
+            xmin = 58.438 
+            xmax = 59.2 
+            text = "#" 
+        intervals [30]:
+            xmin = 59.2 
+            xmax = 59.9044 
+            text = "si c'est la même campagne" 

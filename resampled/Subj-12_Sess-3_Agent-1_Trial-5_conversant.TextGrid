@@ -1,0 +1,134 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 60 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Transcription" 
+        xmin = 0 
+        xmax = 60 
+        intervals: size = 30 
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.788 
+            text = "#" 
+        intervals [2]:
+            xmin = 1.788 
+            xmax = 3.114 
+            text = "oui on est de retour sur la" 
+        intervals [3]:
+            xmin = 3.114 
+            xmax = 3.313 
+            text = "#" 
+        intervals [4]:
+            xmin = 3.313 
+            xmax = 3.76 
+            text = "pomme" 
+        intervals [5]:
+            xmin = 3.76 
+            xmax = 8.947 
+            text = "#" 
+        intervals [6]:
+            xmin = 8.947 
+            xmax = 9.176 
+            text = "ouais" 
+        intervals [7]:
+            xmin = 9.176 
+            xmax = 9.938 
+            text = "#" 
+        intervals [8]:
+            xmin = 9.938 
+            xmax = 10.354 
+            text = "ok" 
+        intervals [9]:
+            xmin = 10.354 
+            xmax = 12.737 
+            text = "#" 
+        intervals [10]:
+            xmin = 12.737 
+            xmax = 13.728 
+            text = "ouais oui oui c'est possible" 
+        intervals [11]:
+            xmin = 13.728 
+            xmax = 14.18 
+            text = "#" 
+        intervals [12]:
+            xmin = 14.18 
+            xmax = 16.309 
+            text = "c'est complètement possible en plus elle est à l'envers" 
+        intervals [13]:
+            xmin = 16.309 
+            xmax = 17.411 
+            text = "#" 
+        intervals [14]:
+            xmin = 17.411 
+            xmax = 17.625 
+            text = "ouais" 
+        intervals [15]:
+            xmin = 17.625 
+            xmax = 20.18 
+            text = "#" 
+        intervals [16]:
+            xmin = 20.18 
+            xmax = 21.308 
+            text = "ouais ouais ouais" 
+        intervals [17]:
+            xmin = 21.308 
+            xmax = 24.265 
+            text = "#" 
+        intervals [18]:
+            xmin = 24.265 
+            xmax = 29.579 
+            text = "parce que dans la catégorie euh héros masqué moi sinon ça m'av- fait penser à $Deadpool$" 
+        intervals [19]:
+            xmin = 29.579 
+            xmax = 30.047 
+            text = "#" 
+        intervals [20]:
+            xmin = 30.047 
+            xmax = 33.319 
+            text = "euh c'est un c'est un personnage d'un d'un $Marvel$ récent" 
+        intervals [21]:
+            xmin = 33.319 
+            xmax = 35.92 
+            text = "#" 
+        intervals [22]:
+            xmin = 35.92 
+            xmax = 38.501 
+            text = "euh c'est c'est un film récent avec des super héros" 
+        intervals [23]:
+            xmin = 38.501 
+            xmax = 38.862 
+            text = "#" 
+        intervals [24]:
+            xmin = 38.862 
+            xmax = 39.578 
+            text = "mais euh" 
+        intervals [25]:
+            xmin = 39.578 
+            xmax = 41.158 
+            text = "#" 
+        intervals [26]:
+            xmin = 41.158 
+            xmax = 45.939 
+            text = "mais peut-être que euh ouais peut-être que peut-être qu'il a raison et que $Spiderman$ ça correspond mieux" 
+        intervals [27]:
+            xmin = 45.939 
+            xmax = 53.819 
+            text = "#" 
+        intervals [28]:
+            xmin = 53.819 
+            xmax = 54.068 
+            text = "ouais" 
+        intervals [29]:
+            xmin = 54.068 
+            xmax = 56.415 
+            text = "#" 
+        intervals [30]:
+            xmin = 56.415 
+            xmax = 59.9516 
+            text = "bah je sais pas tu me parlais de personnage tout à l'heure pour les la deuxième série mais" 

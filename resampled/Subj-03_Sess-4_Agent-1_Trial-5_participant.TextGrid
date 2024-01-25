@@ -1,0 +1,142 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 60 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Transcription" 
+        xmin = 0 
+        xmax = 60 
+        intervals: size = 32 
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.793 
+            text = "#" 
+        intervals [2]:
+            xmin = 1.793 
+            xmax = 2.429 
+            text = "euh" 
+        intervals [3]:
+            xmin = 2.429 
+            xmax = 3.841 
+            text = "#" 
+        intervals [4]:
+            xmin = 3.841 
+            xmax = 6.96 
+            text = "toujours pareil hein c'est une poire toute démoralisée toute" 
+        intervals [5]:
+            xmin = 6.96 
+            xmax = 7.945 
+            text = "#" 
+        intervals [6]:
+            xmin = 7.945 
+            xmax = 8.708 
+            text = "toute abimée" 
+        intervals [7]:
+            xmin = 8.708 
+            xmax = 9.775 
+            text = "#" 
+        intervals [8]:
+            xmin = 9.775 
+            xmax = 10.946 
+            text = "comme si elle avait pris des coups" 
+        intervals [9]:
+            xmin = 10.946 
+            xmax = 16.609 
+            text = "#" 
+        intervals [10]:
+            xmin = 16.609 
+            xmax = 16.858 
+            text = "ouais" 
+        intervals [11]:
+            xmin = 16.858 
+            xmax = 17.269 
+            text = "#" 
+        intervals [12]:
+            xmin = 17.269 
+            xmax = 18.328 
+            text = "ouais c'est fort possible" 
+        intervals [13]:
+            xmin = 18.328 
+            xmax = 19.633 
+            text = "#" 
+        intervals [14]:
+            xmin = 19.633 
+            xmax = 20.983 
+            text = "ça donne un peu cet aspect là ouais" 
+        intervals [15]:
+            xmin = 20.983 
+            xmax = 21.873 
+            text = "#" 
+        intervals [16]:
+            xmin = 21.873 
+            xmax = 27.481 
+            text = "que tout le monde -fin on l'a ouais maltraitée on sen- on l'a mise dans un coin on a pas fait attention euh" 
+        intervals [17]:
+            xmin = 27.481 
+            xmax = 29.331 
+            text = "#" 
+        intervals [18]:
+            xmin = 29.331 
+            xmax = 29.519 
+            text = "ouais" 
+        intervals [19]:
+            xmin = 29.519 
+            xmax = 42.769 
+            text = "#" 
+        intervals [20]:
+            xmin = 42.769 
+            xmax = 43.155 
+            text = "ouais" 
+        intervals [21]:
+            xmin = 43.155 
+            xmax = 43.993 
+            text = "#" 
+        intervals [22]:
+            xmin = 43.993 
+            xmax = 48.297 
+            text = "contre le fait de produire beaucoup et en grande quantité sans euh" 
+        intervals [23]:
+            xmin = 48.297 
+            xmax = 48.927 
+            text = "#" 
+        intervals [24]:
+            xmin = 48.927 
+            xmax = 50.999 
+            text = "sans voir la qualité et qu'au final" 
+        intervals [25]:
+            xmin = 50.999 
+            xmax = 51.553 
+            text = "#" 
+        intervals [26]:
+            xmin = 51.553 
+            xmax = 54.089 
+            text = "les vrais bons fruits bio euh" 
+        intervals [27]:
+            xmin = 54.089 
+            xmax = 54.307 
+            text = "#" 
+        intervals [28]:
+            xmin = 54.307 
+            xmax = 55.349 
+            text = "sont de meilleurs qualités" 
+        intervals [29]:
+            xmin = 55.349 
+            xmax = 55.872 
+            text = "#" 
+        intervals [30]:
+            xmin = 55.872 
+            xmax = 58.346 
+            text = "healthy du coup ils sont moins bien -fin ils sont" 
+        intervals [31]:
+            xmin = 58.346 
+            xmax = 59.032 
+            text = "#" 
+        intervals [32]:
+            xmin = 59.032 
+            xmax = 59.9044 
+            text = "produits en moins grande quantité" 

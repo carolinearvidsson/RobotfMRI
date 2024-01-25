@@ -1,0 +1,98 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 60 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Transcription" 
+        xmin = 0 
+        xmax = 60 
+        intervals: size = 21 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.996 
+            text = "#" 
+        intervals [2]:
+            xmin = 0.996 
+            xmax = 4.4 
+            text = "ouais alors euh y a- y avait un truc que je me suis dit c'est enfin" 
+        intervals [3]:
+            xmin = 4.4 
+            xmax = 4.933 
+            text = "#" 
+        intervals [4]:
+            xmin = 4.933 
+            xmax = 6.209 
+            text = "comme le fruit est beaucoup trop beau" 
+        intervals [5]:
+            xmin = 6.209 
+            xmax = 7.839 
+            text = "#" 
+        intervals [6]:
+            xmin = 7.839 
+            xmax = 9.978 
+            text = "trop beau ben ouais beaucoup trop beau il est trop parfait" 
+        intervals [7]:
+            xmin = 9.978 
+            xmax = 10.4 
+            text = "#" 
+        intervals [8]:
+            xmin = 10.4 
+            xmax = 17.427 
+            text = "ah il il il disait est ce que c'est pas du u- une campagne pour les fruits locaux tu sais parce que c'est des trucs qui vient de loin qui est traité qui est tout ce que tu veux euh" 
+        intervals [9]:
+            xmin = 17.427 
+            xmax = 17.736 
+            text = "#" 
+        intervals [10]:
+            xmin = 17.736 
+            xmax = 20.013 
+            text = "tu sais en comparaison avec les fruits et les légumes moches" 
+        intervals [11]:
+            xmin = 20.013 
+            xmax = 20.414 
+            text = "#" 
+        intervals [12]:
+            xmin = 20.414 
+            xmax = 21.938 
+            text = "par rapport aux fruits et aux légumes moches" 
+        intervals [13]:
+            xmin = 21.938 
+            xmax = 27.41 
+            text = "#" 
+        intervals [14]:
+            xmin = 27.41 
+            xmax = 27.669 
+            text = "bah" 
+        intervals [15]:
+            xmin = 27.669 
+            xmax = 28.025 
+            text = "#" 
+        intervals [16]:
+            xmin = 28.025 
+            xmax = 33.868 
+            text = "bah non bah justement ouais y a une ambiguité y a y a un gros contre message j'ai l'impression on peut vraiment le prendre dans les deux sens" 
+        intervals [17]:
+            xmin = 33.868 
+            xmax = 42.931 
+            text = "#" 
+        intervals [18]:
+            xmin = 42.931 
+            xmax = 43.206 
+            text = "ouais" 
+        intervals [19]:
+            xmin = 43.206 
+            xmax = 46.569 
+            text = "#" 
+        intervals [20]:
+            xmin = 46.569 
+            xmax = 51.304 
+            text = "ouais c'est ça mais là avec l'image seule tu peux autant dire quelque chose comme son contraire c'est risqué" 
+        intervals [21]:
+            xmin = 51.304 
+            xmax = 59.9044 
+            text = "#" 

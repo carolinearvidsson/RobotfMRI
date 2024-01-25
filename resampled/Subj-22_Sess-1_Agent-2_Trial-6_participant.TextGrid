@@ -1,0 +1,98 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 60 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Transcription" 
+        xmin = 0 
+        xmax = 60 
+        intervals: size = 21 
+        intervals [1]:
+            xmin = 0 
+            xmax = 2.53 
+            text = "#" 
+        intervals [2]:
+            xmin = 2.53 
+            xmax = 2.855 
+            text = "salut" 
+        intervals [3]:
+            xmin = 2.855 
+            xmax = 4.913 
+            text = "#" 
+        intervals [4]:
+            xmin = 4.913 
+            xmax = 5.233 
+            text = "ouais" 
+        intervals [5]:
+            xmin = 5.233 
+            xmax = 6.778 
+            text = "#" 
+        intervals [6]:
+            xmin = 6.778 
+            xmax = 8.566 
+            text = "ouais c'est un citron $Tortue Ninja$" 
+        intervals [7]:
+            xmin = 8.566 
+            xmax = 13.154 
+            text = "#" 
+        intervals [8]:
+            xmin = 13.154 
+            xmax = 14.134 
+            text = "exactement" 
+        intervals [9]:
+            xmin = 14.134 
+            xmax = 19.784 
+            text = "#" 
+        intervals [10]:
+            xmin = 19.784 
+            xmax = 20.394 
+            text = "exactement" 
+        intervals [11]:
+            xmin = 20.394 
+            xmax = 28.863 
+            text = "#" 
+        intervals [12]:
+            xmin = 28.863 
+            xmax = 31.002 
+            text = "non pas autant que les deux autres en effet" 
+        intervals [13]:
+            xmin = 31.002 
+            xmax = 36.885 
+            text = "#" 
+        intervals [14]:
+            xmin = 36.885 
+            xmax = 38.013 
+            text = "je pense ouais" 
+        intervals [15]:
+            xmin = 38.013 
+            xmax = 39.233 
+            text = "#" 
+        intervals [16]:
+            xmin = 39.233 
+            xmax = 39.903 
+            text = "euh ou pas" 
+        intervals [17]:
+            xmin = 39.903 
+            xmax = 41.768 
+            text = "#" 
+        intervals [18]:
+            xmin = 41.768 
+            xmax = 42.301 
+            text = "je sais pas" 
+        intervals [19]:
+            xmin = 42.301 
+            xmax = 52.122 
+            text = "#" 
+        intervals [20]:
+            xmin = 52.122 
+            xmax = 54.901 
+            text = "ouais c'est pour inciter les enfants à manger les fruits et légumes" 
+        intervals [21]:
+            xmin = 54.901 
+            xmax = 59.9044 
+            text = "#" 

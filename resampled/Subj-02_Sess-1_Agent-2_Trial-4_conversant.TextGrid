@@ -1,0 +1,78 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 60 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Transcription" 
+        xmin = 0 
+        xmax = 60 
+        intervals: size = 16 
+        intervals [1]:
+            xmin = 0 
+            xmax = 4.715 
+            text = "#" 
+        intervals [2]:
+            xmin = 4.715 
+            xmax = 5.814 
+            text = "c'est une aubergine" 
+        intervals [3]:
+            xmin = 5.814 
+            xmax = 13.647 
+            text = "#" 
+        intervals [4]:
+            xmin = 13.647 
+            xmax = 15.064 
+            text = "elle ressemble à $Batman$" 
+        intervals [5]:
+            xmin = 15.064 
+            xmax = 20.932 
+            text = "#" 
+        intervals [6]:
+            xmin = 20.932 
+            xmax = 22.974 
+            text = "non je pense que tu as tort" 
+        intervals [7]:
+            xmin = 22.974 
+            xmax = 23.407 
+            text = "#" 
+        intervals [8]:
+            xmin = 23.407 
+            xmax = 24.814 
+            text = "elle ressemble à $Batman$" 
+        intervals [9]:
+            xmin = 24.814 
+            xmax = 29.635 
+            text = "#" 
+        intervals [10]:
+            xmin = 29.635 
+            xmax = 31.093 
+            text = "je pense" 
+        intervals [11]:
+            xmin = 31.093 
+            xmax = 35.051 
+            text = "#" 
+        intervals [12]:
+            xmin = 35.051 
+            xmax = 38.008 
+            text = "les yeux et la bouche ressemblent à ceux d'un super héros" 
+        intervals [13]:
+            xmin = 38.008 
+            xmax = 46.772 
+            text = "#" 
+        intervals [14]:
+            xmin = 46.772 
+            xmax = 48.54 
+            text = "tu as une idée du message" 
+        intervals [15]:
+            xmin = 48.54 
+            xmax = 57.528 
+            text = "#" 
+        intervals [16]:
+            xmin = 57.528 
+            xmax = 59.9516 
+            text = "c'est peut-être une pub pour manger plus sainement" 

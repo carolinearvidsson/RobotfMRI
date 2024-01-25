@@ -1,0 +1,90 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 60 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Transcription" 
+        xmin = 0 
+        xmax = 60 
+        intervals: size = 19 
+        intervals [1]:
+            xmin = 0 
+            xmax = 9.648 
+            text = "#" 
+        intervals [2]:
+            xmin = 9.648 
+            xmax = 10.954 
+            text = "l'aubergine combat la pomme" 
+        intervals [3]:
+            xmin = 10.954 
+            xmax = 13.758 
+            text = "#" 
+        intervals [4]:
+            xmin = 13.758 
+            xmax = 20.079 
+            text = "euh d'accord ça ça expliquerait peut-être pourquoi tous les euh tous les deux on l'air un peu déterminés" 
+        intervals [5]:
+            xmin = 20.079 
+            xmax = 21.522 
+            text = "#" 
+        intervals [6]:
+            xmin = 21.522 
+            xmax = 24.57 
+            text = "et euh dans ces cas là le citron viendrait faire quoi là dedans" 
+        intervals [7]:
+            xmin = 24.57 
+            xmax = 31.135 
+            text = "#" 
+        intervals [8]:
+            xmin = 31.135 
+            xmax = 31.33 
+            text = "ouais" 
+        intervals [9]:
+            xmin = 31.33 
+            xmax = 42.23 
+            text = "#" 
+        intervals [10]:
+            xmin = 42.23 
+            xmax = 43.211 
+            text = "euh mh" 
+        intervals [11]:
+            xmin = 43.211 
+            xmax = 45.772 
+            text = "#" 
+        intervals [12]:
+            xmin = 45.772 
+            xmax = 46.396 
+            text = "dans ces cas là" 
+        intervals [13]:
+            xmin = 46.396 
+            xmax = 46.991 
+            text = "#" 
+        intervals [14]:
+            xmin = 46.991 
+            xmax = 50.745 
+            text = "l'aubergine elle serait en anto- en antagoniste avec tous les autres ce serait un peu" 
+        intervals [15]:
+            xmin = 50.745 
+            xmax = 51.921 
+            text = "#" 
+        intervals [16]:
+            xmin = 51.921 
+            xmax = 52.122 
+            text = "ouais" 
+        intervals [17]:
+            xmin = 52.122 
+            xmax = 54.129 
+            text = "#" 
+        intervals [18]:
+            xmin = 54.129 
+            xmax = 55.948 
+            text = "mais est-ce qu'il y a un intrus dans le deuxième" 
+        intervals [19]:
+            xmin = 55.948 
+            xmax = 59.9516 
+            text = "#" 

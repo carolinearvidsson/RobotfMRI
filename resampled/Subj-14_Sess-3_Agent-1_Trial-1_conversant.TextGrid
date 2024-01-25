@@ -1,0 +1,130 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 60 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Transcription" 
+        xmin = 0 
+        xmax = 60 
+        intervals: size = 29 
+        intervals [1]:
+            xmin = 0 
+            xmax = 6.081 
+            text = "#" 
+        intervals [2]:
+            xmin = 6.081 
+            xmax = 8.2 
+            text = "ouais on l'a déjà vu celle là on l'a déjà vu ouais" 
+        intervals [3]:
+            xmin = 8.2 
+            xmax = 9.232 
+            text = "#" 
+        intervals [4]:
+            xmin = 9.232 
+            xmax = 9.948 
+            text = "c'est l'aubergine" 
+        intervals [5]:
+            xmin = 9.948 
+            xmax = 15.928 
+            text = "#" 
+        intervals [6]:
+            xmin = 15.928 
+            xmax = 17.101 
+            text = "ouais ouais ouais ben" 
+        intervals [7]:
+            xmin = 17.101 
+            xmax = 18.753 
+            text = "#" 
+        intervals [8]:
+            xmin = 18.753 
+            xmax = 27.872 
+            text = "on avait on on avait identifié euh $Spiderman$ et euh et les $Tortues Ninja$ alors je me demande si celle ci ce serait pas euh" 
+        intervals [9]:
+            xmin = 27.872 
+            xmax = 28.66 
+            text = "#" 
+        intervals [10]:
+            xmin = 28.66 
+            xmax = 32.201 
+            text = "euh un autre tu sais un autre ouais" 
+        intervals [11]:
+            xmin = 32.201 
+            xmax = 32.669 
+            text = "#" 
+        intervals [12]:
+            xmin = 32.669 
+            xmax = 33.177 
+            text = "euh ouais" 
+        intervals [13]:
+            xmin = 33.177 
+            xmax = 33.502 
+            text = "#" 
+        intervals [14]:
+            xmin = 33.502 
+            xmax = 35.58 
+            text = "ça me fait penser à mh" 
+        intervals [15]:
+            xmin = 35.58 
+            xmax = 36.078 
+            text = "#" 
+        intervals [16]:
+            xmin = 36.078 
+            xmax = 38.753 
+            text = "au personnage là qui parle avec une voix tout le temps un peu rauque" 
+        intervals [17]:
+            xmin = 38.753 
+            xmax = 39.781 
+            text = "#" 
+        intervals [18]:
+            xmin = 39.781 
+            xmax = 41.854 
+            text = "euh avec une cagoule" 
+        intervals [19]:
+            xmin = 41.854 
+            xmax = 42.835 
+            text = "#" 
+        intervals [20]:
+            xmin = 42.835 
+            xmax = 46.366 
+            text = "euh mince il s'apelle comment ce euh" 
+        intervals [21]:
+            xmin = 46.366 
+            xmax = 48.546 
+            text = "#" 
+        intervals [22]:
+            xmin = 48.546 
+            xmax = 49.17 
+            text = "ouais ouais ouais" 
+        intervals [23]:
+            xmin = 49.17 
+            xmax = 55.105 
+            text = "#" 
+        intervals [24]:
+            xmin = 55.105 
+            xmax = 55.45 
+            text = "si" 
+        intervals [25]:
+            xmin = 55.45 
+            xmax = 56.034 
+            text = "#" 
+        intervals [26]:
+            xmin = 56.034 
+            xmax = 56.69 
+            text = "si c'est ça" 
+        intervals [27]:
+            xmin = 56.69 
+            xmax = 56.868 
+            text = "#" 
+        intervals [28]:
+            xmin = 56.868 
+            xmax = 58.295 
+            text = "c'est ça bah c'est $Batman$ lui-même" 
+        intervals [29]:
+            xmin = 58.295 
+            xmax = 59.9516 
+            text = "#" 

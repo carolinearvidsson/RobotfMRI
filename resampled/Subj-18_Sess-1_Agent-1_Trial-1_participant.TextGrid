@@ -1,0 +1,90 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 60 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Transcription" 
+        xmin = 0 
+        xmax = 60 
+        intervals: size = 19 
+        intervals [1]:
+            xmin = 0 
+            xmax = 5.832 
+            text = "#" 
+        intervals [2]:
+            xmin = 5.832 
+            xmax = 6.798 
+            text = "euh oui" 
+        intervals [3]:
+            xmin = 6.798 
+            xmax = 7.946 
+            text = "#" 
+        intervals [4]:
+            xmin = 7.946 
+            xmax = 8.993 
+            text = "l'aubergine euh" 
+        intervals [5]:
+            xmin = 8.993 
+            xmax = 10.708 
+            text = "#" 
+        intervals [6]:
+            xmin = 10.708 
+            xmax = 11.657 
+            text = "un peu déguisée" 
+        intervals [7]:
+            xmin = 11.657 
+            xmax = 14.673 
+            text = "#" 
+        intervals [8]:
+            xmin = 14.673 
+            xmax = 16.649 
+            text = "euh oui je trouve aussi qu'on dirait une aubergine" 
+        intervals [9]:
+            xmin = 16.649 
+            xmax = 24.341 
+            text = "#" 
+        intervals [10]:
+            xmin = 24.341 
+            xmax = 26.348 
+            text = "ouais un peu déguisée ouais" 
+        intervals [11]:
+            xmin = 26.348 
+            xmax = 27.959 
+            text = "#" 
+        intervals [12]:
+            xmin = 27.959 
+            xmax = 29.762 
+            text = "un peu les méchants dans les films" 
+        intervals [13]:
+            xmin = 29.762 
+            xmax = 30.687 
+            text = "#" 
+        intervals [14]:
+            xmin = 30.687 
+            xmax = 32.059 
+            text = "comme les méchants dans les films" 
+        intervals [15]:
+            xmin = 32.059 
+            xmax = 40.081 
+            text = "#" 
+        intervals [16]:
+            xmin = 40.081 
+            xmax = 42.271 
+            text = "pas trop des films de super héros un peu" 
+        intervals [17]:
+            xmin = 42.271 
+            xmax = 58.483 
+            text = "#" 
+        intervals [18]:
+            xmin = 58.483 
+            xmax = 59.149 
+            text = "ben" 
+        intervals [19]:
+            xmin = 59.149 
+            xmax = 59.9044 
+            text = "#" 

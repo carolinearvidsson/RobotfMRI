@@ -1,0 +1,174 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 60 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Transcription" 
+        xmin = 0 
+        xmax = 60 
+        intervals: size = 40 
+        intervals [1]:
+            xmin = 0 
+            xmax = 2.485 
+            text = "#" 
+        intervals [2]:
+            xmin = 2.485 
+            xmax = 2.916 
+            text = "euh" 
+        intervals [3]:
+            xmin = 2.916 
+            xmax = 3.272 
+            text = "#" 
+        intervals [4]:
+            xmin = 3.272 
+            xmax = 3.993 
+            text = "c'est euh" 
+        intervals [5]:
+            xmin = 3.993 
+            xmax = 5.883 
+            text = "#" 
+        intervals [6]:
+            xmin = 5.883 
+            xmax = 6.29 
+            text = "euh" 
+        intervals [7]:
+            xmin = 6.29 
+            xmax = 7.656 
+            text = "#" 
+        intervals [8]:
+            xmin = 7.656 
+            xmax = 10.781 
+            text = "c'est la fraise qui a l'air" 
+        intervals [9]:
+            xmin = 10.781 
+            xmax = 12.707 
+            text = "#" 
+        intervals [10]:
+            xmin = 12.707 
+            xmax = 13.708 
+            text = "aussi un peu" 
+        intervals [11]:
+            xmin = 13.708 
+            xmax = 14.917 
+            text = "#" 
+        intervals [12]:
+            xmin = 14.917 
+            xmax = 15.272 
+            text = "elle a" 
+        intervals [13]:
+            xmin = 15.272 
+            xmax = 16.52 
+            text = "#" 
+        intervals [14]:
+            xmin = 16.52 
+            xmax = 17.294 
+            text = "ouais elle a pas l'air" 
+        intervals [15]:
+            xmin = 17.294 
+            xmax = 17.477 
+            text = "#" 
+        intervals [16]:
+            xmin = 17.477 
+            xmax = 18.158 
+            text = "très en forme elle" 
+        intervals [17]:
+            xmin = 18.158 
+            xmax = 21.273 
+            text = "#" 
+        intervals [18]:
+            xmin = 21.273 
+            xmax = 22.121 
+            text = "euh" 
+        intervals [19]:
+            xmin = 22.121 
+            xmax = 23.183 
+            text = "#" 
+        intervals [20]:
+            xmin = 23.183 
+            xmax = 26.389 
+            text = "si c'est euh pour les produits locaux euh" 
+        intervals [21]:
+            xmin = 26.389 
+            xmax = 30.316 
+            text = "#" 
+        intervals [22]:
+            xmin = 30.316 
+            xmax = 33.156 
+            text = "euh oui ça prouverait que les fruits locaux euh" 
+        intervals [23]:
+            xmin = 33.156 
+            xmax = 34.269 
+            text = "#" 
+        intervals [24]:
+            xmin = 34.269 
+            xmax = 41.102 
+            text = "bah sont de meilleure qualité qu'ils ont pas besoin de * de pesticides des choses comme ça pour" 
+        intervals [25]:
+            xmin = 41.102 
+            xmax = 41.682 
+            text = "#" 
+        intervals [26]:
+            xmin = 41.682 
+            xmax = 43.968 
+            text = "pour les préserver de la route" 
+        intervals [27]:
+            xmin = 43.968 
+            xmax = 44.471 
+            text = "#" 
+        intervals [28]:
+            xmin = 44.471 
+            xmax = 45.167 
+            text = "donc euh" 
+        intervals [29]:
+            xmin = 45.167 
+            xmax = 46.452 
+            text = "#" 
+        intervals [30]:
+            xmin = 46.452 
+            xmax = 47.91 
+            text = "donc voilà qui c'est tout simplement" 
+        intervals [31]:
+            xmin = 47.91 
+            xmax = 48.292 
+            text = "#" 
+        intervals [32]:
+            xmin = 48.292 
+            xmax = 50.105 
+            text = "* les fruits locaux et que euh" 
+        intervals [33]:
+            xmin = 50.105 
+            xmax = 50.664 
+            text = "#" 
+        intervals [34]:
+            xmin = 50.664 
+            xmax = 51.873 
+            text = "c'est mieux euh" 
+        intervals [35]:
+            xmin = 51.873 
+            xmax = 52.397 
+            text = "#" 
+        intervals [36]:
+            xmin = 52.397 
+            xmax = 54.048 
+            text = "pour la santé déjà et euh" 
+        intervals [37]:
+            xmin = 54.048 
+            xmax = 55.45 
+            text = "#" 
+        intervals [38]:
+            xmin = 55.45 
+            xmax = 57.625 
+            text = "et pour la s- leur santé à eux" 
+        intervals [39]:
+            xmin = 57.625 
+            xmax = 59.408 
+            text = "#" 
+        intervals [40]:
+            xmin = 59.408 
+            xmax = 59.9044 
+            text = "*" 

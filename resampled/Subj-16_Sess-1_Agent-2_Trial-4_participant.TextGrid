@@ -1,0 +1,126 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 60 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Transcription" 
+        xmin = 0 
+        xmax = 60 
+        intervals: size = 28 
+        intervals [1]:
+            xmin = 0 
+            xmax = 3.561 
+            text = "#" 
+        intervals [2]:
+            xmin = 3.561 
+            xmax = 4.716 
+            text = "c'est de nouveau l'aubergine" 
+        intervals [3]:
+            xmin = 4.716 
+            xmax = 10.928 
+            text = "#" 
+        intervals [4]:
+            xmin = 10.928 
+            xmax = 12 
+            text = "t'es pas très bavard" 
+        intervals [5]:
+            xmin = 12 
+            xmax = 16.243 
+            text = "#" 
+        intervals [6]:
+            xmin = 16.243 
+            xmax = 17.917 
+            text = "j'ai de nouveau vu une aubergine" 
+        intervals [7]:
+            xmin = 17.917 
+            xmax = 21.508 
+            text = "#" 
+        intervals [8]:
+            xmin = 21.508 
+            xmax = 22.751 
+            text = "oui exactement" 
+        intervals [9]:
+            xmin = 22.751 
+            xmax = 26.546 
+            text = "#" 
+        intervals [10]:
+            xmin = 26.546 
+            xmax = 28.563 
+            text = "oui c'est vrai c'est ce que j'ai dit tout à l'heure" 
+        intervals [11]:
+            xmin = 28.563 
+            xmax = 30.9 
+            text = "#" 
+        intervals [12]:
+            xmin = 30.9 
+            xmax = 31.307 
+            text = "et" 
+        intervals [13]:
+            xmin = 31.307 
+            xmax = 32.135 
+            text = "#" 
+        intervals [14]:
+            xmin = 32.135 
+            xmax = 33.908 
+            text = "c'est un visage qui fait peur à nouveau" 
+        intervals [15]:
+            xmin = 33.908 
+            xmax = 36.311 
+            text = "#" 
+        intervals [16]:
+            xmin = 36.311 
+            xmax = 36.997 
+            text = "tu trouves pas" 
+        intervals [17]:
+            xmin = 36.997 
+            xmax = 40.98 
+            text = "#" 
+        intervals [18]:
+            xmin = 40.98 
+            xmax = 42.159 
+            text = "c'est ce que ça m'évoque moi" 
+        intervals [19]:
+            xmin = 42.159 
+            xmax = 42.284 
+            text = "#" 
+        intervals [20]:
+            xmin = 42.284 
+            xmax = 43.907 
+            text = "le visage qui fait peur toujours" 
+        intervals [21]:
+            xmin = 43.907 
+            xmax = 44.684 
+            text = "#" 
+        intervals [22]:
+            xmin = 44.684 
+            xmax = 46.305 
+            text = "c'est toujours à propos des fruits" 
+        intervals [23]:
+            xmin = 46.305 
+            xmax = 54.078 
+            text = "#" 
+        intervals [24]:
+            xmin = 54.078 
+            xmax = 56.405 
+            text = "je sais pas elles m'ont l'air toutes les deux méchantes" 
+        intervals [25]:
+            xmin = 56.405 
+            xmax = 56.852 
+            text = "#" 
+        intervals [26]:
+            xmin = 56.852 
+            xmax = 59.332 
+            text = "la pomme elle a pas de bouche donc ça fait encore plus peur" 
+        intervals [27]:
+            xmin = 59.332 
+            xmax = 59.682 
+            text = "#" 
+        intervals [28]:
+            xmin = 59.682 
+            xmax = 59.9044 
+            text = "c'est des" 

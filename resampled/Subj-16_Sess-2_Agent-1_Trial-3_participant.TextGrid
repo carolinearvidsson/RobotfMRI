@@ -1,0 +1,106 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 60 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Transcription" 
+        xmin = 0 
+        xmax = 60 
+        intervals: size = 23 
+        intervals [1]:
+            xmin = 0 
+            xmax = 6.346 
+            text = "#" 
+        intervals [2]:
+            xmin = 6.346 
+            xmax = 8.449 
+            text = "ouais c'est clair elle a l'air en colère" 
+        intervals [3]:
+            xmin = 8.449 
+            xmax = 9.12 
+            text = "#" 
+        intervals [4]:
+            xmin = 9.12 
+            xmax = 9.785 
+            text = "elle a l'air un" 
+        intervals [5]:
+            xmin = 9.785 
+            xmax = 10.39 
+            text = "#" 
+        intervals [6]:
+            xmin = 10.39 
+            xmax = 12.813 
+            text = "elle a l'air en m- meilleure santé que la framboise quand même" 
+        intervals [7]:
+            xmin = 12.813 
+            xmax = 18.173 
+            text = "#" 
+        intervals [8]:
+            xmin = 18.173 
+            xmax = 20.069 
+            text = "exactement un crin de battante ouais" 
+        intervals [9]:
+            xmin = 20.069 
+            xmax = 21.737 
+            text = "#" 
+        intervals [10]:
+            xmin = 21.737 
+            xmax = 23.381 
+            text = "une fraise qui a pas envie de pourrir quoi" 
+        intervals [11]:
+            xmin = 23.381 
+            xmax = 25.093 
+            text = "#" 
+        intervals [12]:
+            xmin = 25.093 
+            xmax = 26.003 
+            text = "ouais ouais c'est vrai" 
+        intervals [13]:
+            xmin = 26.003 
+            xmax = 31.429 
+            text = "#" 
+        intervals [14]:
+            xmin = 31.429 
+            xmax = 34.701 
+            text = "non exactement alors que la première framboise c'était plus ça ouais" 
+        intervals [15]:
+            xmin = 34.701 
+            xmax = 39.512 
+            text = "#" 
+        intervals [16]:
+            xmin = 39.512 
+            xmax = 40.838 
+            text = "je m'en rappelle très bien oui oui" 
+        intervals [17]:
+            xmin = 40.838 
+            xmax = 53.956 
+            text = "#" 
+        intervals [18]:
+            xmin = 53.956 
+            xmax = 55.735 
+            text = "c'est ça donc là elle a l'air" 
+        intervals [19]:
+            xmin = 55.735 
+            xmax = 56.283 
+            text = "#" 
+        intervals [20]:
+            xmin = 56.283 
+            xmax = 58.641 
+            text = "elle a l'air elle a l'air mieux la la la fraise" 
+        intervals [21]:
+            xmin = 58.641 
+            xmax = 58.966 
+            text = "#" 
+        intervals [22]:
+            xmin = 58.966 
+            xmax = 59.352 
+            text = "et euh" 
+        intervals [23]:
+            xmin = 59.352 
+            xmax = 59.9044 
+            text = "#" 

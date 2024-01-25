@@ -1,0 +1,182 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 60 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Transcription" 
+        xmin = 0 
+        xmax = 60 
+        intervals: size = 42 
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.113 
+            text = "#" 
+        intervals [2]:
+            xmin = 1.113 
+            xmax = 2.205 
+            text = "ah elle est belle cette pomme" 
+        intervals [3]:
+            xmin = 2.205 
+            xmax = 8.281 
+            text = "#" 
+        intervals [4]:
+            xmin = 8.281 
+            xmax = 8.485 
+            text = "ouais" 
+        intervals [5]:
+            xmin = 8.485 
+            xmax = 8.993 
+            text = "#" 
+        intervals [6]:
+            xmin = 8.993 
+            xmax = 9.379 
+            text = "ouais ouais" 
+        intervals [7]:
+            xmin = 9.379 
+            xmax = 10.253 
+            text = "#" 
+        intervals [8]:
+            xmin = 10.253 
+            xmax = 12.732 
+            text = "-fin surtout des des yeux moi je je me rappelle pas" 
+        intervals [9]:
+            xmin = 12.732 
+            xmax = 14.663 
+            text = "#" 
+        intervals [10]:
+            xmin = 14.663 
+            xmax = 19.459 
+            text = "ah alors tout à l'heure on a eu les $Tortues Ninjas$ on a eu $Batman$ du coup je pense que ça ça doit être $Spiderman$" 
+        intervals [11]:
+            xmin = 19.459 
+            xmax = 21.903 
+            text = "#" 
+        intervals [12]:
+            xmin = 21.903 
+            xmax = 22.121 
+            text = "ouais" 
+        intervals [13]:
+            xmin = 22.121 
+            xmax = 22.406 
+            text = "#" 
+        intervals [14]:
+            xmin = 22.406 
+            xmax = 23.239 
+            text = "ouais ouais carrément" 
+        intervals [15]:
+            xmin = 23.239 
+            xmax = 23.457 
+            text = "#" 
+        intervals [16]:
+            xmin = 23.457 
+            xmax = 23.95 
+            text = "ah mais oui" 
+        intervals [17]:
+            xmin = 23.95 
+            xmax = 24.133 
+            text = "#" 
+        intervals [18]:
+            xmin = 24.133 
+            xmax = 24.377 
+            text = "mais oui" 
+        intervals [19]:
+            xmin = 24.377 
+            xmax = 25.048 
+            text = "#" 
+        intervals [20]:
+            xmin = 25.048 
+            xmax = 25.271 
+            text = "ouais" 
+        intervals [21]:
+            xmin = 25.271 
+            xmax = 27.532 
+            text = "#" 
+        intervals [22]:
+            xmin = 27.532 
+            xmax = 29.193 
+            text = "tu as complètement raison puis ses yeux en fente" 
+        intervals [23]:
+            xmin = 29.193 
+            xmax = 29.92 
+            text = "#" 
+        intervals [24]:
+            xmin = 29.92 
+            xmax = 30.636 
+            text = "que sinon j'aurais" 
+        intervals [25]:
+            xmin = 30.636 
+            xmax = 31.515 
+            text = "#" 
+        intervals [26]:
+            xmin = 31.515 
+            xmax = 33.359 
+            text = "presque pu hésiter aussi avec $Deadpool$" 
+        intervals [27]:
+            xmin = 33.359 
+            xmax = 33.578 
+            text = "#" 
+        intervals [28]:
+            xmin = 33.578 
+            xmax = 34.818 
+            text = "je sais pas si t'as vu $Deadpool$" 
+        intervals [29]:
+            xmin = 34.818 
+            xmax = 36.123 
+            text = "#" 
+        intervals [30]:
+            xmin = 36.123 
+            xmax = 36.428 
+            text = "ouais" 
+        intervals [31]:
+            xmin = 36.428 
+            xmax = 36.616 
+            text = "#" 
+        intervals [32]:
+            xmin = 36.616 
+            xmax = 40.859 
+            text = "mais euh l'aspect à l'envers c'est quelque chose qu'on retrouve chez $Spiderman$ et pas chez $Deadpool$" 
+        intervals [33]:
+            xmin = 40.859 
+            xmax = 46.717 
+            text = "#" 
+        intervals [34]:
+            xmin = 46.717 
+            xmax = 46.955 
+            text = "quoi" 
+        intervals [35]:
+            xmin = 46.955 
+            xmax = 51.711 
+            text = "#" 
+        intervals [36]:
+            xmin = 51.711 
+            xmax = 53.784 
+            text = "ah oui oui oui oui oui c'est ça exactement ouais" 
+        intervals [37]:
+            xmin = 53.784 
+            xmax = 54.622 
+            text = "#" 
+        intervals [38]:
+            xmin = 54.622 
+            xmax = 54.942 
+            text = "ouais ouais" 
+        intervals [39]:
+            xmin = 54.942 
+            xmax = 57.625 
+            text = "#" 
+        intervals [40]:
+            xmin = 57.625 
+            xmax = 57.813 
+            text = "ouais" 
+        intervals [41]:
+            xmin = 57.813 
+            xmax = 58.509 
+            text = "#" 
+        intervals [42]:
+            xmin = 58.509 
+            xmax = 59.9516 
+            text = "euh" 

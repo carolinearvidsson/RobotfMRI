@@ -1,0 +1,94 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 60 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Transcription" 
+        xmin = 0 
+        xmax = 60 
+        intervals: size = 20 
+        intervals [1]:
+            xmin = 0 
+            xmax = 6.986 
+            text = "#" 
+        intervals [2]:
+            xmin = 6.986 
+            xmax = 7.753 
+            text = "ouais c'est une" 
+        intervals [3]:
+            xmin = 7.753 
+            xmax = 7.931 
+            text = "#" 
+        intervals [4]:
+            xmin = 7.931 
+            xmax = 8.336 
+            text = "poire" 
+        intervals [5]:
+            xmin = 17.366 
+            xmax = 18.605 
+            text = "euh ouais" 
+        intervals [6]:
+            xmin = 18.605 
+            xmax = 18.88 
+            text = "#" 
+        intervals [7]:
+            xmin = 18.88 
+            xmax = 20.079 
+            text = "qui est pas trop pourri" 
+        intervals [8]:
+            xmin = 20.079 
+            xmax = 29.402 
+            text = "#" 
+        intervals [9]:
+            xmin = 29.402 
+            xmax = 29.849 
+            text = "d'accord" 
+        intervals [10]:
+            xmin = 29.849 
+            xmax = 30.276 
+            text = "#" 
+        intervals [11]:
+            xmin = 30.276 
+            xmax = 31.034 
+            text = "c'est une poire pourrie" 
+        intervals [12]:
+            xmin = 31.034 
+            xmax = 39.893 
+            text = "#" 
+        intervals [13]:
+            xmin = 39.893 
+            xmax = 40.472 
+            text = "oui" 
+        intervals [14]:
+            xmin = 40.472 
+            xmax = 46.837 
+            text = "#" 
+        intervals [15]:
+            xmin = 46.837 
+            xmax = 47.136 
+            text = "non" 
+        intervals [16]:
+            xmin = 47.136 
+            xmax = 55.836 
+            text = "#" 
+        intervals [17]:
+            xmin = 55.836 
+            xmax = 56.71 
+            text = "euh" 
+        intervals [18]:
+            xmin = 56.71 
+            xmax = 57.061 
+            text = "#" 
+        intervals [19]:
+            xmin = 57.061 
+            xmax = 57.869 
+            text = "ouais pas trop" 
+        intervals [20]:
+            xmin = 57.869 
+            xmax = 59.9044 
+            text = "#" 

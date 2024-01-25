@@ -1,0 +1,202 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 60 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Transcription" 
+        xmin = 0 
+        xmax = 60 
+        intervals: size = 47 
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.28 
+            text = "#" 
+        intervals [2]:
+            xmin = 1.28 
+            xmax = 2.185 
+            text = "elle donne super" 
+        intervals [3]:
+            xmin = 2.185 
+            xmax = 3.363 
+            text = "#" 
+        intervals [4]:
+            xmin = 3.363 
+            xmax = 5.192 
+            text = "ouais elle est super brillante elle donne faim" 
+        intervals [5]:
+            xmin = 5.192 
+            xmax = 5.69 
+            text = "#" 
+        intervals [6]:
+            xmin = 5.69 
+            xmax = 7.082 
+            text = "moi j'ai envie de la manger quand je la vois" 
+        intervals [7]:
+            xmin = 7.082 
+            xmax = 7.479 
+            text = "#" 
+        intervals [8]:
+            xmin = 7.479 
+            xmax = 8.281 
+            text = "elle a l'air super bonne" 
+        intervals [9]:
+            xmin = 8.281 
+            xmax = 11.569 
+            text = "#" 
+        intervals [10]:
+            xmin = 11.569 
+            xmax = 12 
+            text = "mais euh" 
+        intervals [11]:
+            xmin = 12 
+            xmax = 14.881 
+            text = "#" 
+        intervals [12]:
+            xmin = 14.881 
+            xmax = 15.191 
+            text = "ouais" 
+        intervals [13]:
+            xmin = 15.191 
+            xmax = 15.811 
+            text = "#" 
+        intervals [14]:
+            xmin = 15.811 
+            xmax = 17.467 
+            text = "sûrement les producteurs de fruits locaux" 
+        intervals [15]:
+            xmin = 17.467 
+            xmax = 18.135 
+            text = "#" 
+        intervals [16]:
+            xmin = 18.135 
+            xmax = 18.941 
+            text = "qui sont meilleurs" 
+        intervals [17]:
+            xmin = 18.941 
+            xmax = 21.603 
+            text = "#" 
+        intervals [18]:
+            xmin = 21.603 
+            xmax = 22.812 
+            text = "ouais des fruits bio" 
+        intervals [19]:
+            xmin = 22.812 
+            xmax = 24.113 
+            text = "#" 
+        intervals [20]:
+            xmin = 24.113 
+            xmax = 25.007 
+            text = "merde j'ai bougé" 
+        intervals [21]:
+            xmin = 25.007 
+            xmax = 25.308 
+            text = "#" 
+        intervals [22]:
+            xmin = 25.308 
+            xmax = 26.028 
+            text = "je trouve ça subtil" 
+        intervals [23]:
+            xmin = 26.028 
+            xmax = 26.648 
+            text = "#" 
+        intervals [24]:
+            xmin = 26.648 
+            xmax = 27.303 
+            text = "euh" 
+        intervals [25]:
+            xmin = 27.303 
+            xmax = 32.663 
+            text = "#" 
+        intervals [26]:
+            xmin = 32.663 
+            xmax = 32.994 
+            text = "ouais" 
+        intervals [27]:
+            xmin = 32.994 
+            xmax = 33.278 
+            text = "#" 
+        intervals [28]:
+            xmin = 33.278 
+            xmax = 34.843 
+            text = "manger plus sainement euh" 
+        intervals [29]:
+            xmin = 34.843 
+            xmax = 35.656 
+            text = "#" 
+        intervals [30]:
+            xmin = 35.656 
+            xmax = 36.245 
+            text = "peut-être plus" 
+        intervals [31]:
+            xmin = 36.245 
+            xmax = 36.423 
+            text = "#" 
+        intervals [32]:
+            xmin = 36.423 
+            xmax = 39.456 
+            text = "pas parce que si ça s'oppose aux autres fruits et légumes qui sont abimés" 
+        intervals [33]:
+            xmin = 39.456 
+            xmax = 40.234 
+            text = "#" 
+        intervals [34]:
+            xmin = 40.234 
+            xmax = 42.865 
+            text = "peut-être l'aspect bio contre l'aspect euh" 
+        intervals [35]:
+            xmin = 42.865 
+            xmax = 43.983 
+            text = "#" 
+        intervals [36]:
+            xmin = 43.983 
+            xmax = 44.649 
+            text = "euh" 
+        intervals [37]:
+            xmin = 44.649 
+            xmax = 44.862 
+            text = "#" 
+        intervals [38]:
+            xmin = 44.862 
+            xmax = 46.322 
+            text = "avec plein de pesticides comme euh" 
+        intervals [39]:
+            xmin = 46.322 
+            xmax = 48.114 
+            text = "#" 
+        intervals [40]:
+            xmin = 48.114 
+            xmax = 48.261 
+            text = "ouais" 
+        intervals [41]:
+            xmin = 48.261 
+            xmax = 52.564 
+            text = "#" 
+        intervals [42]:
+            xmin = 52.564 
+            xmax = 53.621 
+            text = "ah possible" 
+        intervals [43]:
+            xmin = 53.621 
+            xmax = 54.896 
+            text = "#" 
+        intervals [44]:
+            xmin = 54.896 
+            xmax = 56.487 
+            text = "elles sont fortes elles combattent les pesticides" 
+        intervals [45]:
+            xmin = 56.487 
+            xmax = 57.533 
+            text = "#" 
+        intervals [46]:
+            xmin = 57.533 
+            xmax = 59.454 
+            text = "alors que les autres elles sont toutes abimées et" 
+        intervals [47]:
+            xmin = 59.454 
+            xmax = 59.9044 
+            text = "#" 

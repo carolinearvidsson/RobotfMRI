@@ -1,0 +1,122 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 60 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Transcription" 
+        xmin = 0 
+        xmax = 60 
+        intervals: size = 27 
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.992 
+            text = "#" 
+        intervals [2]:
+            xmin = 1.992 
+            xmax = 4.009 
+            text = "euh je suis paumé" 
+        intervals [3]:
+            xmin = 4.009 
+            xmax = 12.712 
+            text = "#" 
+        intervals [4]:
+            xmin = 12.712 
+            xmax = 13.525 
+            text = "euh" 
+        intervals [5]:
+            xmin = 13.525 
+            xmax = 14.602 
+            text = "#" 
+        intervals [6]:
+            xmin = 14.602 
+            xmax = 17.833 
+            text = "je sais pas ah peut-être non ben y a quand même -fin faut" 
+        intervals [7]:
+            xmin = 17.833 
+            xmax = 18.488 
+            text = "#" 
+        intervals [8]:
+            xmin = 18.488 
+            xmax = 18.89 
+            text = "faut" 
+        intervals [9]:
+            xmin = 18.89 
+            xmax = 19.129 
+            text = "#" 
+        intervals [10]:
+            xmin = 19.129 
+            xmax = 20.881 
+            text = "faut s'embêter pour les faire ces images quand même" 
+        intervals [11]:
+            xmin = 20.881 
+            xmax = 21.349 
+            text = "#" 
+        intervals [12]:
+            xmin = 21.349 
+            xmax = 21.552 
+            text = "@" 
+        intervals [13]:
+            xmin = 21.552 
+            xmax = 22.309 
+            text = "#" 
+        intervals [14]:
+            xmin = 22.309 
+            xmax = 22.893 
+            text = "@" 
+        intervals [15]:
+            xmin = 22.893 
+            xmax = 35.234 
+            text = "#" 
+        intervals [16]:
+            xmin = 35.234 
+            xmax = 38.095 
+            text = "alors là il va me falloir le temps" 
+        intervals [17]:
+            xmin = 38.095 
+            xmax = 38.379 
+            text = "#" 
+        intervals [18]:
+            xmin = 38.379 
+            xmax = 42.606 
+            text = "qu'il nous est imparti pour terminer cette discussion ne me permettra pas" 
+        intervals [19]:
+            xmin = 42.606 
+            xmax = 45.817 
+            text = "#" 
+        intervals [20]:
+            xmin = 45.817 
+            xmax = 49.435 
+            text = "non euh mais je dirais c'est manger plus de fruits et légumes" 
+        intervals [21]:
+            xmin = 49.435 
+            xmax = 50.1 
+            text = "#" 
+        intervals [22]:
+            xmin = 50.1 
+            xmax = 50.613 
+            text = "pour les enfants" 
+        intervals [23]:
+            xmin = 50.613 
+            xmax = 50.801 
+            text = "#" 
+        intervals [24]:
+            xmin = 50.801 
+            xmax = 51.426 
+            text = "restons simple" 
+        intervals [25]:
+            xmin = 51.426 
+            xmax = 55.257 
+            text = "#" 
+        intervals [26]:
+            xmin = 55.257 
+            xmax = 57.36 
+            text = "manger plus et puis pas des pourris" 
+        intervals [27]:
+            xmin = 57.36 
+            xmax = 59.9516 
+            text = "#" 

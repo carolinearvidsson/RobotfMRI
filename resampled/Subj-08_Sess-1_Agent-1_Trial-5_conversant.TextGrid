@@ -1,0 +1,102 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 60 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Transcription" 
+        xmin = 0 
+        xmax = 60 
+        intervals: size = 22 
+        intervals [1]:
+            xmin = 0 
+            xmax = 4.674 
+            text = "#" 
+        intervals [2]:
+            xmin = 4.674 
+            xmax = 5.213 
+            text = "ah d'accord" 
+        intervals [3]:
+            xmin = 5.213 
+            xmax = 9.78 
+            text = "#" 
+        intervals [4]:
+            xmin = 9.78 
+            xmax = 12.053 
+            text = "euh alors moi pour l'instant j'ai vu une aubergine" 
+        intervals [5]:
+            xmin = 12.053 
+            xmax = 13.093 
+            text = "#" 
+        intervals [6]:
+            xmin = 13.093 
+            xmax = 15.293 
+            text = "et j'ai vu un citron" 
+        intervals [7]:
+            xmin = 15.293 
+            xmax = 15.608 
+            text = "#" 
+        intervals [8]:
+            xmin = 15.608 
+            xmax = 17.508 
+            text = "et là du coup y a la là du coup y a la pomme" 
+        intervals [9]:
+            xmin = 17.508 
+            xmax = 26.313 
+            text = "#" 
+        intervals [10]:
+            xmin = 26.313 
+            xmax = 26.551 
+            text = "quoi" 
+        intervals [11]:
+            xmin = 26.551 
+            xmax = 28.843 
+            text = "#" 
+        intervals [12]:
+            xmin = 28.843 
+            xmax = 29.234 
+            text = "ah" 
+        intervals [13]:
+            xmin = 29.234 
+            xmax = 30.032 
+            text = "#" 
+        intervals [14]:
+            xmin = 30.032 
+            xmax = 34.518 
+            text = "ah si si on est sur le sur le truc des super héros c'est possible parce que comme elle est à l'envers" 
+        intervals [15]:
+            xmin = 34.518 
+            xmax = 35.244 
+            text = "#" 
+        intervals [16]:
+            xmin = 35.244 
+            xmax = 35.9 
+            text = "y a l'aspect" 
+        intervals [17]:
+            xmin = 35.9 
+            xmax = 48.83 
+            text = "#" 
+        intervals [18]:
+            xmin = 48.83 
+            xmax = 49.028 
+            text = "ouais" 
+        intervals [19]:
+            xmin = 49.028 
+            xmax = 50.146 
+            text = "#" 
+        intervals [20]:
+            xmin = 50.146 
+            xmax = 55.491 
+            text = "non c'est c'est c'est c'est complètement possible moi j'avais pensé à $Deadpool$ quand je l'avais vu tu sais avec l'aspect rouge" 
+        intervals [21]:
+            xmin = 55.491 
+            xmax = 56.731 
+            text = "#" 
+        intervals [22]:
+            xmin = 56.731 
+            xmax = 59.9516 
+            text = "mais euh mais $Deadpool$ à l'envers c'est pas pareil quoi" 

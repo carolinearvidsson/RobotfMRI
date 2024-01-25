@@ -1,0 +1,142 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 60 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Transcription" 
+        xmin = 0 
+        xmax = 60 
+        intervals: size = 32 
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.814 
+            text = "#" 
+        intervals [2]:
+            xmin = 1.814 
+            xmax = 2.042 
+            text = "ah oui" 
+        intervals [3]:
+            xmin = 2.042 
+            xmax = 3.628 
+            text = "#" 
+        intervals [4]:
+            xmin = 3.628 
+            xmax = 4.928 
+            text = "ouais un demi citron vert" 
+        intervals [5]:
+            xmin = 4.928 
+            xmax = 5.355 
+            text = "#" 
+        intervals [6]:
+            xmin = 5.355 
+            xmax = 6.015 
+            text = "avec un masque" 
+        intervals [7]:
+            xmin = 6.015 
+            xmax = 10.537 
+            text = "#" 
+        intervals [8]:
+            xmin = 10.537 
+            xmax = 10.964 
+            text = "ah" 
+        intervals [9]:
+            xmin = 10.964 
+            xmax = 11.797 
+            text = "#" 
+        intervals [10]:
+            xmin = 11.797 
+            xmax = 12.041 
+            text = "ouais" 
+        intervals [11]:
+            xmin = 12.041 
+            xmax = 15.963 
+            text = "#" 
+        intervals [12]:
+            xmin = 15.963 
+            xmax = 20.048 
+            text = "ouais c'est vrai que c'est une toute petite fente pour les yeux ça pourrait être un un peu comme les bandeaux euh" 
+        intervals [13]:
+            xmin = 20.048 
+            xmax = 20.744 
+            text = "#" 
+        intervals [14]:
+            xmin = 20.744 
+            xmax = 23.442 
+            text = "dans euh dans $Naruto$ peut-être ou euh" 
+        intervals [15]:
+            xmin = 23.442 
+            xmax = 24.346 
+            text = "#" 
+        intervals [16]:
+            xmin = 24.346 
+            xmax = 25.373 
+            text = "euh c'est un" 
+        intervals [17]:
+            xmin = 25.373 
+            xmax = 25.571 
+            text = "#" 
+        intervals [18]:
+            xmin = 25.571 
+            xmax = 27.669 
+            text = "c'est un dessin animé avec des ninjas" 
+        intervals [19]:
+            xmin = 27.669 
+            xmax = 34.35 
+            text = "#" 
+        intervals [20]:
+            xmin = 34.35 
+            xmax = 34.64 
+            text = "ouais" 
+        intervals [21]:
+            xmin = 34.64 
+            xmax = 36.235 
+            text = "#" 
+        intervals [22]:
+            xmin = 36.235 
+            xmax = 37.261 
+            text = "ouais comme si y avait du vent" 
+        intervals [23]:
+            xmin = 37.261 
+            xmax = 37.653 
+            text = "#" 
+        intervals [24]:
+            xmin = 37.653 
+            xmax = 39.375 
+            text = "c'est bien fait hein c'est super bien fait" 
+        intervals [25]:
+            xmin = 39.375 
+            xmax = 42.982 
+            text = "#" 
+        intervals [26]:
+            xmin = 42.982 
+            xmax = 43.297 
+            text = "euh" 
+        intervals [27]:
+            xmin = 43.297 
+            xmax = 44.745 
+            text = "#" 
+        intervals [28]:
+            xmin = 44.745 
+            xmax = 45.267 
+            text = "ah" 
+        intervals [29]:
+            xmin = 45.267 
+            xmax = 46.529 
+            text = "#" 
+        intervals [30]:
+            xmin = 46.529 
+            xmax = 49.536 
+            text = "euh c'est ouais c'est possible j'ai pas j'ai pas eu le temps de bien voir" 
+        intervals [31]:
+            xmin = 49.536 
+            xmax = 56.873 
+            text = "#" 
+        intervals [32]:
+            xmin = 56.873 
+            xmax = 59.9516 
+            text = "non mais euh dans dans tous les cas la le là le premier" 

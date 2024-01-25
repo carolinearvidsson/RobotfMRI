@@ -1,0 +1,118 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 60 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Transcription" 
+        xmin = 0 
+        xmax = 60 
+        intervals: size = 26 
+        intervals [1]:
+            xmin = 0 
+            xmax = 3.359 
+            text = "#" 
+        intervals [2]:
+            xmin = 3.359 
+            xmax = 3.775 
+            text = "salut" 
+        intervals [3]:
+            xmin = 3.775 
+            xmax = 6.076 
+            text = "#" 
+        intervals [4]:
+            xmin = 6.076 
+            xmax = 7.174 
+            text = "alors ce citron" 
+        intervals [5]:
+            xmin = 7.174 
+            xmax = 8.231 
+            text = "#" 
+        intervals [6]:
+            xmin = 8.231 
+            xmax = 10.871 
+            text = "à part qu'il est sympathique on sait pas trop quoi dire quoi donc" 
+        intervals [7]:
+            xmin = 10.871 
+            xmax = 16.446 
+            text = "#" 
+        intervals [8]:
+            xmin = 16.446 
+            xmax = 17.112 
+            text = "il est pas quoi" 
+        intervals [9]:
+            xmin = 17.112 
+            xmax = 20.932 
+            text = "#" 
+        intervals [10]:
+            xmin = 20.932 
+            xmax = 22.335 
+            text = "ah aussi" 
+        intervals [11]:
+            xmin = 22.335 
+            xmax = 24.362 
+            text = "#" 
+        intervals [12]:
+            xmin = 24.362 
+            xmax = 25.424 
+            text = "il a l'air gentil c'est ça" 
+        intervals [13]:
+            xmin = 25.424 
+            xmax = 27.496 
+            text = "#" 
+        intervals [14]:
+            xmin = 27.496 
+            xmax = 27.877 
+            text = "non" 
+        intervals [15]:
+            xmin = 27.877 
+            xmax = 33.431 
+            text = "#" 
+        intervals [16]:
+            xmin = 33.431 
+            xmax = 37.455 
+            text = "je comprends que c'est une comparaison par rapport aux autres mais je comprends pas la ce qui dit de la comparaison" 
+        intervals [17]:
+            xmin = 37.455 
+            xmax = 41.627 
+            text = "#" 
+        intervals [18]:
+            xmin = 41.627 
+            xmax = 42.701 
+            text = "mais pareil que les autres" 
+        intervals [19]:
+            xmin = 42.701 
+            xmax = 44.409 
+            text = "#" 
+        intervals [20]:
+            xmin = 44.409 
+            xmax = 47.738 
+            text = "je j'en pense pas grand chose parce que je comprends pas très bien mais euh" 
+        intervals [21]:
+            xmin = 47.738 
+            xmax = 48.723 
+            text = "#" 
+        intervals [22]:
+            xmin = 48.723 
+            xmax = 51.132 
+            text = "je crois un niveau dans le champ de la caméra" 
+        intervals [23]:
+            xmin = 51.132 
+            xmax = 53.374 
+            text = "#" 
+        intervals [24]:
+            xmin = 53.374 
+            xmax = 55.444 
+            text = "peut-être que ça m'aide à mieux comprendre je sais pas" 
+        intervals [25]:
+            xmin = 55.444 
+            xmax = 59.157 
+            text = "#" 
+        intervals [26]:
+            xmin = 59.157 
+            xmax = 59.9044 
+            text = "je pense que" 

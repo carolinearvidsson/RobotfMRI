@@ -1,0 +1,138 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 60 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Transcription" 
+        xmin = 0 
+        xmax = 60 
+        intervals: size = 31 
+        intervals [1]:
+            xmin = 0 
+            xmax = 4.278 
+            text = "#" 
+        intervals [2]:
+            xmin = 4.278 
+            xmax = 4.562 
+            text = "ouais" 
+        intervals [3]:
+            xmin = 4.562 
+            xmax = 5.985 
+            text = "#" 
+        intervals [4]:
+            xmin = 5.985 
+            xmax = 6.229 
+            text = "ouais" 
+        intervals [5]:
+            xmin = 6.229 
+            xmax = 6.712 
+            text = "#" 
+        intervals [6]:
+            xmin = 6.712 
+            xmax = 7.469 
+            text = "des yeux en fente" 
+        intervals [7]:
+            xmin = 7.469 
+            xmax = 8.637 
+            text = "#" 
+        intervals [8]:
+            xmin = 8.637 
+            xmax = 9.46 
+            text = "des yeux en fente" 
+        intervals [9]:
+            xmin = 9.46 
+            xmax = 14.363 
+            text = "#" 
+        intervals [10]:
+            xmin = 14.363 
+            xmax = 15.191 
+            text = "ouais déterminée" 
+        intervals [11]:
+            xmin = 15.191 
+            xmax = 19.266 
+            text = "#" 
+        intervals [12]:
+            xmin = 19.266 
+            xmax = 21.959 
+            text = "ah ouais moi je j'ai du mal à la voir la" 
+        intervals [13]:
+            xmin = 21.959 
+            xmax = 25.363 
+            text = "#" 
+        intervals [14]:
+            xmin = 25.363 
+            xmax = 26.612 
+            text = "la la" 
+        intervals [15]:
+            xmin = 26.612 
+            xmax = 27.237 
+            text = "#" 
+        intervals [16]:
+            xmin = 27.237 
+            xmax = 29.559 
+            text = "comment dire la la corrélation parce que les" 
+        intervals [17]:
+            xmin = 29.559 
+            xmax = 32.897 
+            text = "#" 
+        intervals [18]:
+            xmin = 32.897 
+            xmax = 33.339 
+            text = "d'accord" 
+        intervals [19]:
+            xmin = 33.339 
+            xmax = 35.244 
+            text = "#" 
+        intervals [20]:
+            xmin = 35.244 
+            xmax = 35.656 
+            text = "ok" 
+        intervals [21]:
+            xmin = 35.656 
+            xmax = 36.469 
+            text = "#" 
+        intervals [22]:
+            xmin = 36.469 
+            xmax = 36.997 
+            text = "ok ok" 
+        intervals [23]:
+            xmin = 36.997 
+            xmax = 38.206 
+            text = "#" 
+        intervals [24]:
+            xmin = 38.206 
+            xmax = 40.454 
+            text = "euh c'est c'est possible je sais pas du tout" 
+        intervals [25]:
+            xmin = 40.454 
+            xmax = 42.337 
+            text = "#" 
+        intervals [26]:
+            xmin = 42.337 
+            xmax = 44.964 
+            text = "ouais moi ça m'évoque pas forcément ça mais pourquoi pas" 
+        intervals [27]:
+            xmin = 44.964 
+            xmax = 46.315 
+            text = "#" 
+        intervals [28]:
+            xmin = 46.315 
+            xmax = 46.549 
+            text = "ouais" 
+        intervals [29]:
+            xmin = 46.549 
+            xmax = 47.961 
+            text = "#" 
+        intervals [30]:
+            xmin = 47.961 
+            xmax = 48.947 
+            text = "tu penses que ça veut dire quoi" 
+        intervals [31]:
+            xmin = 48.947 
+            xmax = 59.9516 
+            text = "#" 

@@ -1,0 +1,126 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 60 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Transcription" 
+        xmin = 0 
+        xmax = 60 
+        intervals: size = 28 
+        intervals [1]:
+            xmin = 0 
+            xmax = 4.222 
+            text = "#" 
+        intervals [2]:
+            xmin = 4.222 
+            xmax = 5.136 
+            text = "alors" 
+        intervals [3]:
+            xmin = 5.136 
+            xmax = 7.672 
+            text = "#" 
+        intervals [4]:
+            xmin = 7.672 
+            xmax = 8.332 
+            text = "euh" 
+        intervals [5]:
+            xmin = 8.332 
+            xmax = 10.685 
+            text = "#" 
+        intervals [6]:
+            xmin = 10.685 
+            xmax = 15.181 
+            text = "je sais qu'est-ce qu'on peut parce que comme je comprends pas ce que tu me dis je sais pas trop ce que tu peux me dire" 
+        intervals [7]:
+            xmin = 15.181 
+            xmax = 17.843 
+            text = "#" 
+        intervals [8]:
+            xmin = 17.843 
+            xmax = 18.473 
+            text = "peut-être que ça" 
+        intervals [9]:
+            xmin = 18.473 
+            xmax = 20.856 
+            text = "#" 
+        intervals [10]:
+            xmin = 20.856 
+            xmax = 21.928 
+            text = "réfléchir au message" 
+        intervals [11]:
+            xmin = 21.928 
+            xmax = 23.229 
+            text = "#" 
+        intervals [12]:
+            xmin = 23.229 
+            xmax = 23.716 
+            text = "ouais" 
+        intervals [13]:
+            xmin = 23.716 
+            xmax = 24.835 
+            text = "#" 
+        intervals [14]:
+            xmin = 24.835 
+            xmax = 29.143 
+            text = "oui oui alors c'est une framboise qui va pas bien puis peut-être que si il se passait quelque chose ça irait mieux" 
+        intervals [15]:
+            xmin = 29.143 
+            xmax = 30.23 
+            text = "#" 
+        intervals [16]:
+            xmin = 30.23 
+            xmax = 32.293 
+            text = "c'est peut-être pour mieux entretenir les" 
+        intervals [17]:
+            xmin = 32.293 
+            xmax = 32.918 
+            text = "#" 
+        intervals [18]:
+            xmin = 32.918 
+            xmax = 33.492 
+            text = "les jardins" 
+        intervals [19]:
+            xmin = 33.492 
+            xmax = 36.698 
+            text = "#" 
+        intervals [20]:
+            xmin = 36.698 
+            xmax = 37.861 
+            text = "ouais c'est pas très sûr" 
+        intervals [21]:
+            xmin = 37.861 
+            xmax = 40.249 
+            text = "#" 
+        intervals [22]:
+            xmin = 40.249 
+            xmax = 41.336 
+            text = "quelqu'un l'a attrapée" 
+        intervals [23]:
+            xmin = 41.336 
+            xmax = 42.601 
+            text = "#" 
+        intervals [24]:
+            xmin = 42.601 
+            xmax = 43.292 
+            text = "ah oh" 
+        intervals [25]:
+            xmin = 43.292 
+            xmax = 48.916 
+            text = "#" 
+        intervals [26]:
+            xmin = 48.916 
+            xmax = 52.226 
+            text = "peut-être qu'un fruit malade ça devient un fruit pourri pour" 
+        intervals [27]:
+            xmin = 52.226 
+            xmax = 57.968 
+            text = "#" 
+        intervals [28]:
+            xmin = 57.968 
+            xmax = 59.9044 
+            text = "ouais non là je peux pas dé- je suis débile" 

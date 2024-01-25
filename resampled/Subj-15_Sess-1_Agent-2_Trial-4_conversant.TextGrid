@@ -1,0 +1,106 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 60 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Transcription" 
+        xmin = 0 
+        xmax = 60 
+        intervals: size = 23 
+        intervals [1]:
+            xmin = 0 
+            xmax = 4.73 
+            text = "#" 
+        intervals [2]:
+            xmin = 4.73 
+            xmax = 5.863 
+            text = "c'est une aubergine" 
+        intervals [3]:
+            xmin = 5.863 
+            xmax = 7.377 
+            text = "#" 
+        intervals [4]:
+            xmin = 7.377 
+            xmax = 8.703 
+            text = "elle ressemble à $Batman$" 
+        intervals [5]:
+            xmin = 8.703 
+            xmax = 11.467 
+            text = "#" 
+        intervals [6]:
+            xmin = 11.467 
+            xmax = 11.919 
+            text = "ah oui" 
+        intervals [7]:
+            xmin = 11.919 
+            xmax = 12.102 
+            text = "#" 
+        intervals [8]:
+            xmin = 12.102 
+            xmax = 12.488 
+            text = "oui" 
+        intervals [9]:
+            xmin = 12.488 
+            xmax = 17.152 
+            text = "#" 
+        intervals [10]:
+            xmin = 17.152 
+            xmax = 17.589 
+            text = "oui" 
+        intervals [11]:
+            xmin = 17.589 
+            xmax = 18.473 
+            text = "#" 
+        intervals [12]:
+            xmin = 18.473 
+            xmax = 20.272 
+            text = "on dirait qu'elle a des cheveux verts" 
+        intervals [13]:
+            xmin = 20.272 
+            xmax = 26.866 
+            text = "#" 
+        intervals [14]:
+            xmin = 26.866 
+            xmax = 29.376 
+            text = "elle a le même visage qu'une citrouille d'$Halloween$" 
+        intervals [15]:
+            xmin = 29.376 
+            xmax = 33.603 
+            text = "#" 
+        intervals [16]:
+            xmin = 33.603 
+            xmax = 34.437 
+            text = "tu ne penses pas" 
+        intervals [17]:
+            xmin = 34.437 
+            xmax = 42.418 
+            text = "#" 
+        intervals [18]:
+            xmin = 42.418 
+            xmax = 42.83 
+            text = "oui" 
+        intervals [19]:
+            xmin = 42.83 
+            xmax = 43.089 
+            text = "#" 
+        intervals [20]:
+            xmin = 43.089 
+            xmax = 43.805 
+            text = "tu as raison" 
+        intervals [21]:
+            xmin = 43.805 
+            xmax = 47.479 
+            text = "#" 
+        intervals [22]:
+            xmin = 47.479 
+            xmax = 49.536 
+            text = "elle a l'air plus méchante que la pomme" 
+        intervals [23]:
+            xmin = 49.536 
+            xmax = 59.9516 
+            text = "#" 

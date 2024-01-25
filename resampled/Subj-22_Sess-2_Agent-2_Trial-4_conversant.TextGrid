@@ -1,0 +1,90 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 60 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Transcription" 
+        xmin = 0 
+        xmax = 60 
+        intervals: size = 19 
+        intervals [1]:
+            xmin = 0 
+            xmax = 7.946 
+            text = "#" 
+        intervals [2]:
+            xmin = 7.946 
+            xmax = 9.13 
+            text = "c'est une framboise" 
+        intervals [3]:
+            xmin = 9.13 
+            xmax = 9.526 
+            text = "#" 
+        intervals [4]:
+            xmin = 9.526 
+            xmax = 11.249 
+            text = "cette framboise n'est pas très jolie" 
+        intervals [5]:
+            xmin = 11.249 
+            xmax = 15.394 
+            text = "#" 
+        intervals [6]:
+            xmin = 15.394 
+            xmax = 15.841 
+            text = "oui" 
+        intervals [7]:
+            xmin = 15.841 
+            xmax = 21.755 
+            text = "#" 
+        intervals [8]:
+            xmin = 21.755 
+            xmax = 22.543 
+            text = "comme la poire" 
+        intervals [9]:
+            xmin = 22.543 
+            xmax = 23.823 
+            text = "#" 
+        intervals [10]:
+            xmin = 23.823 
+            xmax = 25.672 
+            text = "peut-être que quelqu'un l'a frappé" 
+        intervals [11]:
+            xmin = 25.672 
+            xmax = 32.984 
+            text = "#" 
+        intervals [12]:
+            xmin = 32.984 
+            xmax = 35.432 
+            text = "peut-être que c'est une pub contre la violence" 
+        intervals [13]:
+            xmin = 35.432 
+            xmax = 36.403 
+            text = "#" 
+        intervals [14]:
+            xmin = 36.403 
+            xmax = 37.241 
+            text = "tu ne penses pas" 
+        intervals [15]:
+            xmin = 37.241 
+            xmax = 53.713 
+            text = "#" 
+        intervals [16]:
+            xmin = 53.713 
+            xmax = 55.227 
+            text = "elle a des bras trop courts" 
+        intervals [17]:
+            xmin = 55.227 
+            xmax = 56.746 
+            text = "#" 
+        intervals [18]:
+            xmin = 56.746 
+            xmax = 57.99 
+            text = "elle a des genoux courbés" 
+        intervals [19]:
+            xmin = 57.99 
+            xmax = 59.9516 
+            text = "#" 

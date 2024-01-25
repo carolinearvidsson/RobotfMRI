@@ -1,0 +1,122 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 60 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Transcription" 
+        xmin = 0 
+        xmax = 60 
+        intervals: size = 27 
+        intervals [1]:
+            xmin = 0 
+            xmax = 2.053 
+            text = "#" 
+        intervals [2]:
+            xmin = 2.053 
+            xmax = 2.698 
+            text = "salut" 
+        intervals [3]:
+            xmin = 2.698 
+            xmax = 7.646 
+            text = "#" 
+        intervals [4]:
+            xmin = 7.646 
+            xmax = 8.891 
+            text = "ça va très bien et toi" 
+        intervals [5]:
+            xmin = 8.891 
+            xmax = 12.064 
+            text = "#" 
+        intervals [6]:
+            xmin = 12.064 
+            xmax = 13.139 
+            text = "j'essaye de pas bouger" 
+        intervals [7]:
+            xmin = 13.139 
+            xmax = 16.103 
+            text = "#" 
+        intervals [8]:
+            xmin = 16.103 
+            xmax = 17.63 
+            text = "alors cette poire euh" 
+        intervals [9]:
+            xmin = 17.63 
+            xmax = 18.062 
+            text = "#" 
+        intervals [10]:
+            xmin = 18.062 
+            xmax = 20.475 
+            text = "elle avait l'air plus rigolote que la première framboise" 
+        intervals [11]:
+            xmin = 20.475 
+            xmax = 26.917 
+            text = "#" 
+        intervals [12]:
+            xmin = 26.917 
+            xmax = 28.502 
+            text = "oui c'est une poire pourrie mais" 
+        intervals [13]:
+            xmin = 28.502 
+            xmax = 29.132 
+            text = "#" 
+        intervals [14]:
+            xmin = 29.132 
+            xmax = 31.307 
+            text = "ça ça n'empêche pas qu'elle est rigolote" 
+        intervals [15]:
+            xmin = 31.307 
+            xmax = 34.081 
+            text = "#" 
+        intervals [16]:
+            xmin = 34.081 
+            xmax = 35.534 
+            text = "je la mangerais pas non plus" 
+        intervals [17]:
+            xmin = 35.534 
+            xmax = 38.389 
+            text = "#" 
+        intervals [18]:
+            xmin = 38.389 
+            xmax = 40.676 
+            text = "elle est déformée oui et elle a des petites tâches marron" 
+        intervals [19]:
+            xmin = 40.676 
+            xmax = 41.412 
+            text = "#" 
+        intervals [20]:
+            xmin = 41.412 
+            xmax = 43.216 
+            text = "je pense pas qu'elle soit très fraîche" 
+        intervals [21]:
+            xmin = 43.216 
+            xmax = 45.314 
+            text = "#" 
+        intervals [22]:
+            xmin = 45.314 
+            xmax = 46.407 
+            text = "elle est un peu trop mûre" 
+        intervals [23]:
+            xmin = 46.407 
+            xmax = 53.692 
+            text = "#" 
+        intervals [24]:
+            xmin = 53.692 
+            xmax = 55.227 
+            text = "oui c'est pas t- une très belle poire" 
+        intervals [25]:
+            xmin = 55.227 
+            xmax = 55.486 
+            text = "#" 
+        intervals [26]:
+            xmin = 55.486 
+            xmax = 57.747 
+            text = "mais souvent les poires les plus mûres sont les meilleures" 
+        intervals [27]:
+            xmin = 57.747 
+            xmax = 59.9044 
+            text = "#" 

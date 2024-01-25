@@ -1,0 +1,130 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 60 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Transcription" 
+        xmin = 0 
+        xmax = 60 
+        intervals: size = 29 
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.133 
+            text = "#" 
+        intervals [2]:
+            xmin = 1.133 
+            xmax = 1.331 
+            text = "ouais" 
+        intervals [3]:
+            xmin = 1.331 
+            xmax = 6.833 
+            text = "#" 
+        intervals [4]:
+            xmin = 6.833 
+            xmax = 7.164 
+            text = "ouais" 
+        intervals [5]:
+            xmin = 7.164 
+            xmax = 10.354 
+            text = "#" 
+        intervals [6]:
+            xmin = 10.354 
+            xmax = 11.538 
+            text = "vous avez trop" 
+        intervals [7]:
+            xmin = 11.538 
+            xmax = 12.437 
+            text = "#" 
+        intervals [8]:
+            xmin = 12.437 
+            xmax = 13.042 
+            text = "trop éclaté quoi" 
+        intervals [9]:
+            xmin = 13.042 
+            xmax = 16.695 
+            text = "#" 
+        intervals [10]:
+            xmin = 16.695 
+            xmax = 19.784 
+            text = "après ouais c'est peut-être pour dire qu'elle s'est fait battre euh" 
+        intervals [11]:
+            xmin = 19.784 
+            xmax = 20.206 
+            text = "#" 
+        intervals [12]:
+            xmin = 20.206 
+            xmax = 21.308 
+            text = "physiquement quoi -fin li-" 
+        intervals [13]:
+            xmin = 21.308 
+            xmax = 22.06 
+            text = "#" 
+        intervals [14]:
+            xmin = 22.06 
+            xmax = 23.767 
+            text = "littéralement et physiquement parlant ouais" 
+        intervals [15]:
+            xmin = 23.767 
+            xmax = 24.641 
+            text = "#" 
+        intervals [16]:
+            xmin = 24.641 
+            xmax = 25.576 
+            text = "par les produits américains" 
+        intervals [17]:
+            xmin = 25.576 
+            xmax = 34.818 
+            text = "#" 
+        intervals [18]:
+            xmin = 34.818 
+            xmax = 35.107 
+            text = "ouais" 
+        intervals [19]:
+            xmin = 35.107 
+            xmax = 39.908 
+            text = "#" 
+        intervals [20]:
+            xmin = 39.908 
+            xmax = 40.371 
+            text = "c'est ça" 
+        intervals [21]:
+            xmin = 40.371 
+            xmax = 47.987 
+            text = "#" 
+        intervals [22]:
+            xmin = 47.987 
+            xmax = 48.236 
+            text = "ouais" 
+        intervals [23]:
+            xmin = 48.236 
+            xmax = 51.213 
+            text = "#" 
+        intervals [24]:
+            xmin = 51.213 
+            xmax = 55.003 
+            text = "parce que là de toutes façons à choisir je préfère manger la pomme rouge $Spiderman$ que le" 
+        intervals [25]:
+            xmin = 55.003 
+            xmax = 55.603 
+            text = "#" 
+        intervals [26]:
+            xmin = 55.603 
+            xmax = 56.669 
+            text = "que la framboise euh" 
+        intervals [27]:
+            xmin = 56.669 
+            xmax = 58.737 
+            text = "#" 
+        intervals [28]:
+            xmin = 58.737 
+            xmax = 58.885 
+            text = "ouais" 
+        intervals [29]:
+            xmin = 58.885 
+            xmax = 59.9044 
+            text = "#" 

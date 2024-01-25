@@ -1,0 +1,142 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 60 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Transcription" 
+        xmin = 0 
+        xmax = 60 
+        intervals: size = 32 
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.732 
+            text = "#" 
+        intervals [2]:
+            xmin = 1.732 
+            xmax = 2.632 
+            text = "bonjour $Morgane$" 
+        intervals [3]:
+            xmin = 2.632 
+            xmax = 3.186 
+            text = "#" 
+        intervals [4]:
+            xmin = 3.186 
+            xmax = 4.654 
+            text = "on dirait une" 
+        intervals [5]:
+            xmin = 4.654 
+            xmax = 5.89 
+            text = "#" 
+        intervals [6]:
+            xmin = 7.997 
+            xmax = 8.612 
+            text = "#" 
+        intervals [7]:
+            xmin = 8.612 
+            xmax = 9.763 
+            text = "ça fait penser euh" 
+        intervals [8]:
+            xmin = 9.763 
+            xmax = 10.212 
+            text = "#" 
+        intervals [9]:
+            xmin = 10.212 
+            xmax = 12.944 
+            text = "euh parc d'attraction avec euh" 
+        intervals [10]:
+            xmin = 12.944 
+            xmax = 14.545 
+            text = "#" 
+        intervals [11]:
+            xmin = 14.545 
+            xmax = 14.895 
+            text = "mais" 
+        intervals [12]:
+            xmin = 14.895 
+            xmax = 15.537 
+            text = "#" 
+        intervals [13]:
+            xmin = 15.537 
+            xmax = 19.078 
+            text = "avec trou la citrou- un peu comme une citrouille mais en forme d'aubergine" 
+        intervals [14]:
+            xmin = 19.078 
+            xmax = 22.914 
+            text = "#" 
+        intervals [15]:
+            xmin = 22.914 
+            xmax = 23.97 
+            text = "ok j'essaye" 
+        intervals [16]:
+            xmin = 23.97 
+            xmax = 24.595 
+            text = "#" 
+        intervals [17]:
+            xmin = 24.595 
+            xmax = 25.312 
+            text = "c'est mieux comme ça" 
+        intervals [18]:
+            xmin = 25.312 
+            xmax = 25.972 
+            text = "#" 
+        intervals [19]:
+            xmin = 25.972 
+            xmax = 31.022 
+            text = "voilà donc je euh oui ça me fait penser aux citrouilles dans lesquelles on met une bougie euh" 
+        intervals [20]:
+            xmin = 31.022 
+            xmax = 31.913 
+            text = "#" 
+        intervals [21]:
+            xmin = 31.913 
+            xmax = 32.506 
+            text = "pour euh" 
+        intervals [22]:
+            xmin = 32.506 
+            xmax = 36.794 
+            text = "#" 
+        intervals [23]:
+            xmin = 36.794 
+            xmax = 37.383 
+            text = "oui euh" 
+        intervals [24]:
+            xmin = 37.383 
+            xmax = 37.968 
+            text = "#" 
+        intervals [25]:
+            xmin = 37.968 
+            xmax = 40.798 
+            text = "faut les écorcher aussi pour pouvoir mettre la bougie dedans" 
+        intervals [26]:
+            xmin = 40.798 
+            xmax = 42.637 
+            text = "#" 
+        intervals [27]:
+            xmin = 42.637 
+            xmax = 44.105 
+            text = "un peu ouais @" 
+        intervals [28]:
+            xmin = 44.105 
+            xmax = 45.739 
+            text = "#" 
+        intervals [29]:
+            xmin = 45.739 
+            xmax = 50.349 
+            text = "donc euh ouais c'est étonnant pour un fruit -fin pour un légume justement euh" 
+        intervals [30]:
+            xmin = 50.349 
+            xmax = 51.731 
+            text = "#" 
+        intervals [31]:
+            xmin = 51.731 
+            xmax = 53.353 
+            text = "vision d'horreur c'était" 
+        intervals [32]:
+            xmin = 53.353 
+            xmax = 59.9044 
+            text = "#" 

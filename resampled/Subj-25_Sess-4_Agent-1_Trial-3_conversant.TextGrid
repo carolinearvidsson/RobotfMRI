@@ -1,0 +1,106 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 60 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Transcription" 
+        xmin = 0 
+        xmax = 60 
+        intervals: size = 23 
+        intervals [1]:
+            xmin = 0 
+            xmax = 2.103 
+            text = "#" 
+        intervals [2]:
+            xmin = 2.103 
+            xmax = 3.236 
+            text = "par contre" 
+        intervals [3]:
+            xmin = 3.236 
+            xmax = 3.993 
+            text = "#" 
+        intervals [4]:
+            xmin = 3.993 
+            xmax = 5.253 
+            text = "y a un truc auquel j'ai pensé" 
+        intervals [5]:
+            xmin = 5.253 
+            xmax = 6.254 
+            text = "#" 
+        intervals [6]:
+            xmin = 6.254 
+            xmax = 7.728 
+            text = "euh" 
+        intervals [7]:
+            xmin = 7.728 
+            xmax = 8.139 
+            text = "#" 
+        intervals [8]:
+            xmin = 8.139 
+            xmax = 11.995 
+            text = "si c'est ceux qui sont censés être nature parce que la" 
+        intervals [9]:
+            xmin = 11.995 
+            xmax = 12.757 
+            text = "#" 
+        intervals [10]:
+            xmin = 12.757 
+            xmax = 14.703 
+            text = "tu sais la la framboise $Oasis$ qu'on avait vu" 
+        intervals [11]:
+            xmin = 14.703 
+            xmax = 15.217 
+            text = "#" 
+        intervals [12]:
+            xmin = 15.217 
+            xmax = 16.329 
+            text = "elle a pas l'air" 
+        intervals [13]:
+            xmin = 16.329 
+            xmax = 16.593 
+            text = "#" 
+        intervals [14]:
+            xmin = 16.593 
+            xmax = 18.382 
+            text = "super naturelle et t'avais dit toi même" 
+        intervals [15]:
+            xmin = 18.382 
+            xmax = 18.58 
+            text = "#" 
+        intervals [16]:
+            xmin = 18.58 
+            xmax = 21.552 
+            text = "plutôt que c'était un quelque chose de synthèse" 
+        intervals [17]:
+            xmin = 21.552 
+            xmax = 24.067 
+            text = "#" 
+        intervals [18]:
+            xmin = 24.067 
+            xmax = 26.186 
+            text = "euh du coup comment est ce que t'expliquerais ça" 
+        intervals [19]:
+            xmin = 26.186 
+            xmax = 52.666 
+            text = "#" 
+        intervals [20]:
+            xmin = 52.666 
+            xmax = 53.133 
+            text = "mh mh" 
+        intervals [21]:
+            xmin = 53.133 
+            xmax = 59.22 
+            text = "#" 
+        intervals [22]:
+            xmin = 59.22 
+            xmax = 59.454 
+            text = "ouais" 
+        intervals [23]:
+            xmin = 59.454 
+            xmax = 59.9516 
+            text = "#" 

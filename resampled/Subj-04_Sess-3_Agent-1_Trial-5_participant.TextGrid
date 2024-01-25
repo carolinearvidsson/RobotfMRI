@@ -1,0 +1,90 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 60 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Transcription" 
+        xmin = 0 
+        xmax = 60 
+        intervals: size = 19 
+        intervals [1]:
+            xmin = 0 
+            xmax = 6.757 
+            text = "#" 
+        intervals [2]:
+            xmin = 6.757 
+            xmax = 9.643 
+            text = "euh ouais c'est vrai que ça peut être pour les enfants comme il a dit le robot" 
+        intervals [3]:
+            xmin = 9.643 
+            xmax = 16.985 
+            text = "#" 
+        intervals [4]:
+            xmin = 16.985 
+            xmax = 17.64 
+            text = "de légumes ouais" 
+        intervals [5]:
+            xmin = 17.64 
+            xmax = 18.153 
+            text = "#" 
+        intervals [6]:
+            xmin = 18.153 
+            xmax = 18.356 
+            text = "ouais" 
+        intervals [7]:
+            xmin = 18.356 
+            xmax = 22.812 
+            text = "#" 
+        intervals [8]:
+            xmin = 22.812 
+            xmax = 23.808 
+            text = "ouais possiblement ouais" 
+        intervals [9]:
+            xmin = 23.808 
+            xmax = 24.336 
+            text = "#" 
+        intervals [10]:
+            xmin = 24.336 
+            xmax = 28.299 
+            text = "en plus ils ont l'air bien aseptisés quoi bien bien tout clean tout bien" 
+        intervals [11]:
+            xmin = 28.299 
+            xmax = 29.31 
+            text = "#" 
+        intervals [12]:
+            xmin = 29.31 
+            xmax = 32.181 
+            text = "comme les costumes des super héros un peu bien colorés et nets" 
+        intervals [13]:
+            xmin = 32.181 
+            xmax = 37.556 
+            text = "#" 
+        intervals [14]:
+            xmin = 37.556 
+            xmax = 37.889 
+            text = "ouais" 
+        intervals [15]:
+            xmin = 37.889 
+            xmax = 41.432 
+            text = "#" 
+        intervals [16]:
+            xmin = 41.432 
+            xmax = 42.002 
+            text = "couleurs vives" 
+        intervals [17]:
+            xmin = 42.002 
+            xmax = 45.326 
+            text = "#" 
+        intervals [18]:
+            xmin = 45.326 
+            xmax = 45.838 
+            text = "ouais ouais" 
+        intervals [19]:
+            xmin = 45.838 
+            xmax = 59.9044 
+            text = "#" 

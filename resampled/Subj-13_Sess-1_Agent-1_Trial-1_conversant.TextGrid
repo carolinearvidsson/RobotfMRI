@@ -1,0 +1,126 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 60 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Transcription" 
+        xmin = 0 
+        xmax = 60 
+        intervals: size = 28 
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.102 
+            text = "#" 
+        intervals [2]:
+            xmin = 1.102 
+            xmax = 1.29 
+            text = "ah" 
+        intervals [3]:
+            xmin = 1.29 
+            xmax = 2.51 
+            text = "#" 
+        intervals [4]:
+            xmin = 2.51 
+            xmax = 4.423 
+            text = "euh on dirait une aubergine non" 
+        intervals [5]:
+            xmin = 4.423 
+            xmax = 13.642 
+            text = "#" 
+        intervals [6]:
+            xmin = 13.642 
+            xmax = 15.403 
+            text = "ouais euh un méchant" 
+        intervals [7]:
+            xmin = 15.403 
+            xmax = 16.766 
+            text = "#" 
+        intervals [8]:
+            xmin = 16.766 
+            xmax = 21.471 
+            text = "ok ben je sais pas moi je trouve qu'elle ressemble à merde comment il s'appelle" 
+        intervals [9]:
+            xmin = 21.471 
+            xmax = 21.832 
+            text = "#" 
+        intervals [10]:
+            xmin = 21.832 
+            xmax = 24.296 
+            text = "celui qui parle avec une voix rauque là euh $Batman$" 
+        intervals [11]:
+            xmin = 24.296 
+            xmax = 26.435 
+            text = "#" 
+        intervals [12]:
+            xmin = 26.435 
+            xmax = 26.877 
+            text = "mh mh" 
+        intervals [13]:
+            xmin = 26.877 
+            xmax = 28.233 
+            text = "#" 
+        intervals [14]:
+            xmin = 28.233 
+            xmax = 29.301 
+            text = "euh" 
+        intervals [15]:
+            xmin = 29.301 
+            xmax = 31.886 
+            text = "#" 
+        intervals [16]:
+            xmin = 31.886 
+            xmax = 35.62 
+            text = "du coup du coup s- mais en même temps c'est vrai qu'il a pas l'air très aimable" 
+        intervals [17]:
+            xmin = 35.62 
+            xmax = 43.45 
+            text = "#" 
+        intervals [18]:
+            xmin = 43.45 
+            xmax = 44.354 
+            text = "euh je" 
+        intervals [19]:
+            xmin = 44.354 
+            xmax = 44.628 
+            text = "#" 
+        intervals [20]:
+            xmin = 44.628 
+            xmax = 47.423 
+            text = "sais pas du tout c'est vrai que si on nous l'affichait on pourrait revoir" 
+        intervals [21]:
+            xmin = 47.423 
+            xmax = 48.292 
+            text = "#" 
+        intervals [22]:
+            xmin = 48.292 
+            xmax = 49.496 
+            text = "euh" 
+        intervals [23]:
+            xmin = 49.496 
+            xmax = 50.425 
+            text = "#" 
+        intervals [24]:
+            xmin = 50.425 
+            xmax = 51.487 
+            text = "j'en sais rien du tout" 
+        intervals [25]:
+            xmin = 51.487 
+            xmax = 55.567 
+            text = "#" 
+        intervals [26]:
+            xmin = 55.567 
+            xmax = 57.767 
+            text = "euh en tout cas y avait un visage qui été découpé" 
+        intervals [27]:
+            xmin = 57.767 
+            xmax = 59.235 
+            text = "#" 
+        intervals [28]:
+            xmin = 59.235 
+            xmax = 59.9516 
+            text = "euh" 

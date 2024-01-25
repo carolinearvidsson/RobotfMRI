@@ -1,0 +1,126 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 60 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Transcription" 
+        xmin = 0 
+        xmax = 60 
+        intervals: size = 28 
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.9 
+            text = "#" 
+        intervals [2]:
+            xmin = 1.9 
+            xmax = 2.347 
+            text = "salut" 
+        intervals [3]:
+            xmin = 2.347 
+            xmax = 5.914 
+            text = "#" 
+        intervals [4]:
+            xmin = 5.914 
+            xmax = 8.241 
+            text = "on a on a toujours cette petite poire pourrie" 
+        intervals [5]:
+            xmin = 8.241 
+            xmax = 10.075 
+            text = "#" 
+        intervals [6]:
+            xmin = 10.075 
+            xmax = 11.492 
+            text = "ça va mais j'ai mal aux oreilles" 
+        intervals [7]:
+            xmin = 11.492 
+            xmax = 16.746 
+            text = "#" 
+        intervals [8]:
+            xmin = 16.746 
+            xmax = 18.26 
+            text = "t'es pas très empathique toi" 
+        intervals [9]:
+            xmin = 18.26 
+            xmax = 21.964 
+            text = "#" 
+        intervals [10]:
+            xmin = 21.964 
+            xmax = 23.056 
+            text = "ah bon je vois ça" 
+        intervals [11]:
+            xmin = 23.056 
+            xmax = 26.099 
+            text = "#" 
+        intervals [12]:
+            xmin = 26.099 
+            xmax = 29.879 
+            text = "on a toujours donc cette poire pourrie et elle m'a l'air très sympathique la pauvre" 
+        intervals [13]:
+            xmin = 29.879 
+            xmax = 30.464 
+            text = "#" 
+        intervals [14]:
+            xmin = 30.464 
+            xmax = 31.693 
+            text = "elle me fait presque de la peine" 
+        intervals [15]:
+            xmin = 31.693 
+            xmax = 35.077 
+            text = "#" 
+        intervals [16]:
+            xmin = 35.077 
+            xmax = 35.595 
+            text = "pardon" 
+        intervals [17]:
+            xmin = 35.595 
+            xmax = 35.773 
+            text = "#" 
+        intervals [18]:
+            xmin = 35.773 
+            xmax = 36.916 
+            text = "qu'est ce que tu as dit" 
+        intervals [19]:
+            xmin = 36.916 
+            xmax = 41.458 
+            text = "#" 
+        intervals [20]:
+            xmin = 41.458 
+            xmax = 41.834 
+            text = "je ne" 
+        intervals [21]:
+            xmin = 41.834 
+            xmax = 42.383 
+            text = "#" 
+        intervals [22]:
+            xmin = 42.383 
+            xmax = 44.374 
+            text = "moi je l'a je l'a je l'achèterais quand même mais" 
+        intervals [23]:
+            xmin = 44.374 
+            xmax = 44.888 
+            text = "#" 
+        intervals [24]:
+            xmin = 44.888 
+            xmax = 46.798 
+            text = "je l'achèterais quand même puisqu'elle m'a l'air bien mûre" 
+        intervals [25]:
+            xmin = 46.798 
+            xmax = 50.207 
+            text = "#" 
+        intervals [26]:
+            xmin = 50.207 
+            xmax = 51.873 
+            text = "donc je pourrais la manger instantanément" 
+        intervals [27]:
+            xmin = 51.873 
+            xmax = 55.74 
+            text = "#" 
+        intervals [28]:
+            xmin = 55.74 
+            xmax = 59.9044 
+            text = "puis elle me fait un peu de la peine elle elle donc j'au- j'aurais en- j'aurais envie de l'acheter" 

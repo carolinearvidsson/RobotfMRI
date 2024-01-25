@@ -1,0 +1,142 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 60 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Transcription" 
+        xmin = 0 
+        xmax = 60 
+        intervals: size = 32 
+        intervals [1]:
+            xmin = 0 
+            xmax = 3.13 
+            text = "#" 
+        intervals [2]:
+            xmin = 3.13 
+            xmax = 4.327 
+            text = "elle a une sale tête je trouve" 
+        intervals [3]:
+            xmin = 4.327 
+            xmax = 7.921 
+            text = "#" 
+        intervals [4]:
+            xmin = 7.921 
+            xmax = 10.008 
+            text = "j'ai dit la pauvre elle a une sale tête" 
+        intervals [5]:
+            xmin = 10.008 
+            xmax = 14.993 
+            text = "#" 
+        intervals [6]:
+            xmin = 14.993 
+            xmax = 15.252 
+            text = "ah" 
+        intervals [7]:
+            xmin = 15.252 
+            xmax = 15.796 
+            text = "#" 
+        intervals [8]:
+            xmin = 15.796 
+            xmax = 16.37 
+            text = "euh" 
+        intervals [9]:
+            xmin = 16.37 
+            xmax = 16.609 
+            text = "#" 
+        intervals [10]:
+            xmin = 16.609 
+            xmax = 19.256 
+            text = "peut-être moi je la trouve plus en colère ou malheureuse" 
+        intervals [11]:
+            xmin = 19.256 
+            xmax = 19.954 
+            text = "#" 
+        intervals [12]:
+            xmin = 19.954 
+            xmax = 20.495 
+            text = "que méchante" 
+        intervals [13]:
+            xmin = 20.495 
+            xmax = 23.473 
+            text = "#" 
+        intervals [14]:
+            xmin = 23.473 
+            xmax = 24.682 
+            text = "en colère peut-être ouais" 
+        intervals [15]:
+            xmin = 24.682 
+            xmax = 25.581 
+            text = "#" 
+        intervals [16]:
+            xmin = 25.581 
+            xmax = 29.275 
+            text = "elle elle a l'air vraiment vraiment pas appétiss- appétissante" 
+        intervals [17]:
+            xmin = 29.275 
+            xmax = 29.458 
+            text = "#" 
+        intervals [18]:
+            xmin = 29.458 
+            xmax = 31.51 
+            text = "tu sais complètement chimique et tout euh" 
+        intervals [19]:
+            xmin = 31.51 
+            xmax = 33.746 
+            text = "#" 
+        intervals [20]:
+            xmin = 33.746 
+            xmax = 39.416 
+            text = "ouais moi elle me fait penser aux paquets de bonbons euh tu sais t'as certains paquets de bonbons avec euh des trucs comme ça sauf que" 
+        intervals [21]:
+            xmin = 39.416 
+            xmax = 39.659 
+            text = "#" 
+        intervals [22]:
+            xmin = 39.659 
+            xmax = 41.184 
+            text = "que les paquets de bonbons t'as envie de les manger quoi" 
+        intervals [23]:
+            xmin = 41.184 
+            xmax = 44.578 
+            text = "#" 
+        intervals [24]:
+            xmin = 44.578 
+            xmax = 45.472 
+            text = "ouais c'est ça pareil" 
+        intervals [25]:
+            xmin = 45.472 
+            xmax = 48.119 
+            text = "#" 
+        intervals [26]:
+            xmin = 48.119 
+            xmax = 49.638 
+            text = "et y en a qui ressemble ah moisie" 
+        intervals [27]:
+            xmin = 49.638 
+            xmax = 56.212 
+            text = "#" 
+        intervals [28]:
+            xmin = 56.212 
+            xmax = 56.934 
+            text = "ouais ouais ouais" 
+        intervals [29]:
+            xmin = 56.934 
+            xmax = 57.574 
+            text = "#" 
+        intervals [30]:
+            xmin = 57.574 
+            xmax = 58.056 
+            text = "euh" 
+        intervals [31]:
+            xmin = 58.056 
+            xmax = 58.742 
+            text = "#" 
+        intervals [32]:
+            xmin = 58.742 
+            xmax = 59.9516 
+            text = "là je pense qu'on est clairement sur un" 

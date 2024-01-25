@@ -1,0 +1,162 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 60 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Transcription" 
+        xmin = 0 
+        xmax = 60 
+        intervals: size = 37 
+        intervals [1]:
+            xmin = 0 
+            xmax = 2.235 
+            text = "#" 
+        intervals [2]:
+            xmin = 2.235 
+            xmax = 5.045 
+            text = "là il semble y avoir un pattern sur cette pomme" 
+        intervals [3]:
+            xmin = 5.045 
+            xmax = 6.92 
+            text = "#" 
+        intervals [4]:
+            xmin = 6.92 
+            xmax = 10.537 
+            text = "c'est une pomme on aurait dit qu'elle avait un masque de de superman" 
+        intervals [5]:
+            xmin = 10.537 
+            xmax = 13.662 
+            text = "#" 
+        intervals [6]:
+            xmin = 13.662 
+            xmax = 16.065 
+            text = "elle a des grands yeux et elle est à l'envers aussi donc euh" 
+        intervals [7]:
+            xmin = 16.065 
+            xmax = 16.705 
+            text = "#" 
+        intervals [8]:
+            xmin = 16.705 
+            xmax = 18.239 
+            text = "est ce que ça signifie quelque chose" 
+        intervals [9]:
+            xmin = 18.239 
+            xmax = 18.483 
+            text = "#" 
+        intervals [10]:
+            xmin = 18.483 
+            xmax = 18.707 
+            text = "***" 
+        intervals [11]:
+            xmin = 18.707 
+            xmax = 22.014 
+            text = "#" 
+        intervals [12]:
+            xmin = 22.014 
+            xmax = 23.605 
+            text = "ouais ouais on dirait spider man" 
+        intervals [13]:
+            xmin = 23.605 
+            xmax = 23.843 
+            text = "#" 
+        intervals [14]:
+            xmin = 23.843 
+            xmax = 24.418 
+            text = "à l'envers" 
+        intervals [15]:
+            xmin = 24.418 
+            xmax = 25.221 
+            text = "#" 
+        intervals [16]:
+            xmin = 25.221 
+            xmax = 26.125 
+            text = "une pomme rouge" 
+        intervals [17]:
+            xmin = 26.125 
+            xmax = 27.354 
+            text = "#" 
+        intervals [18]:
+            xmin = 27.354 
+            xmax = 28.238 
+            text = "elle avait que les yeux" 
+        intervals [19]:
+            xmin = 28.238 
+            xmax = 32.973 
+            text = "#" 
+        intervals [20]:
+            xmin = 32.973 
+            xmax = 34.294 
+            text = "c'est ça donc euh" 
+        intervals [21]:
+            xmin = 34.294 
+            xmax = 35.178 
+            text = "#" 
+        intervals [22]:
+            xmin = 35.178 
+            xmax = 37.912 
+            text = "ça fait sens avec ce qu'on a vu précédemment sur euh" 
+        intervals [23]:
+            xmin = 37.912 
+            xmax = 38.476 
+            text = "#" 
+        intervals [24]:
+            xmin = 38.476 
+            xmax = 39.314 
+            text = "sur l'aubergine" 
+        intervals [25]:
+            xmin = 39.314 
+            xmax = 44.324 
+            text = "#" 
+        intervals [26]:
+            xmin = 44.324 
+            xmax = 45.309 
+            text = "relativement oui" 
+        intervals [27]:
+            xmin = 45.309 
+            xmax = 47.382 
+            text = "#" 
+        intervals [28]:
+            xmin = 47.382 
+            xmax = 48.17 
+            text = "elle est euh" 
+        intervals [29]:
+            xmin = 48.17 
+            xmax = 49.907 
+            text = "#" 
+        intervals [30]:
+            xmin = 49.907 
+            xmax = 50.756 
+            text = "elle est rouge elle est" 
+        intervals [31]:
+            xmin = 50.756 
+            xmax = 51.127 
+            text = "#" 
+        intervals [32]:
+            xmin = 51.127 
+            xmax = 52.158 
+            text = "elle est en spider man" 
+        intervals [33]:
+            xmin = 52.158 
+            xmax = 53.626 
+            text = "#" 
+        intervals [34]:
+            xmin = 53.626 
+            xmax = 54.414 
+            text = "posée à l'envers" 
+        intervals [35]:
+            xmin = 54.414 
+            xmax = 56.228 
+            text = "#" 
+        intervals [36]:
+            xmin = 56.228 
+            xmax = 56.918 
+            text = "que après euh" 
+        intervals [37]:
+            xmin = 56.918 
+            xmax = 59.9044 
+            text = "#" 

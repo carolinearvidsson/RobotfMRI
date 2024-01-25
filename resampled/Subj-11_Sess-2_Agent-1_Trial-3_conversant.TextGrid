@@ -1,0 +1,130 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 60 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Transcription" 
+        xmin = 0 
+        xmax = 60 
+        intervals: size = 29 
+        intervals [1]:
+            xmin = 0 
+            xmax = 7.966 
+            text = "#" 
+        intervals [2]:
+            xmin = 7.966 
+            xmax = 8.18 
+            text = "non c-" 
+        intervals [3]:
+            xmin = 8.18 
+            xmax = 8.998 
+            text = "#" 
+        intervals [4]:
+            xmin = 8.998 
+            xmax = 9.928 
+            text = "c'est c'est une fraise ouais" 
+        intervals [5]:
+            xmin = 9.928 
+            xmax = 10.182 
+            text = "#" 
+        intervals [6]:
+            xmin = 10.182 
+            xmax = 13.642 
+            text = "cassée et en colère aussi avec euh tu sais les yeux un peu euh" 
+        intervals [7]:
+            xmin = 13.642 
+            xmax = 18.001 
+            text = "#" 
+        intervals [8]:
+            xmin = 18.001 
+            xmax = 19.317 
+            text = "qui étaient un peu plus quoi défoncée" 
+        intervals [9]:
+            xmin = 19.317 
+            xmax = 21.572 
+            text = "#" 
+        intervals [10]:
+            xmin = 21.572 
+            xmax = 23.442 
+            text = "@ euh @" 
+        intervals [11]:
+            xmin = 23.442 
+            xmax = 25.251 
+            text = "#" 
+        intervals [12]:
+            xmin = 25.251 
+            xmax = 25.657 
+            text = "@" 
+        intervals [13]:
+            xmin = 25.657 
+            xmax = 26.572 
+            text = "#" 
+        intervals [14]:
+            xmin = 26.572 
+            xmax = 31.205 
+            text = "ben je sais pas défoncée moi je voyais ça plus comme stone là elle je trouve un peu agressive aussi mais @" 
+        intervals [15]:
+            xmin = 31.205 
+            xmax = 35.534 
+            text = "#" 
+        intervals [16]:
+            xmin = 35.534 
+            xmax = 36.042 
+            text = "ah ouais" 
+        intervals [17]:
+            xmin = 36.042 
+            xmax = 37.18 
+            text = "#" 
+        intervals [18]:
+            xmin = 37.18 
+            xmax = 37.627 
+            text = "ok" 
+        intervals [19]:
+            xmin = 37.627 
+            xmax = 37.958 
+            text = "#" 
+        intervals [20]:
+            xmin = 37.958 
+            xmax = 41.997 
+            text = "euh je je sais pas du tout moi je l'avais vraiment trouvée en colère mais euh" 
+        intervals [21]:
+            xmin = 41.997 
+            xmax = 48.678 
+            text = "#" 
+        intervals [22]:
+            xmin = 48.678 
+            xmax = 51.02 
+            text = "ouais ouais ouais un petit peu comme la comme la" 
+        intervals [23]:
+            xmin = 51.02 
+            xmax = 51.716 
+            text = "#" 
+        intervals [24]:
+            xmin = 51.716 
+            xmax = 52.564 
+            text = "comme la framboise" 
+        intervals [25]:
+            xmin = 52.564 
+            xmax = 54.652 
+            text = "#" 
+        intervals [26]:
+            xmin = 54.652 
+            xmax = 56.934 
+            text = "mais euh tu penses que euh" 
+        intervals [27]:
+            xmin = 56.934 
+            xmax = 57.985 
+            text = "#" 
+        intervals [28]:
+            xmin = 57.985 
+            xmax = 59.454 
+            text = "ouais tu penses que c'est la vie qui l'a abîmée" 
+        intervals [29]:
+            xmin = 59.454 
+            xmax = 59.9516 
+            text = "#" 

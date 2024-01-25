@@ -1,0 +1,82 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 60 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Transcription" 
+        xmin = 0 
+        xmax = 60 
+        intervals: size = 17 
+        intervals [1]:
+            xmin = 0 
+            xmax = 3.336 
+            text = "#" 
+        intervals [2]:
+            xmin = 3.336 
+            xmax = 3.943 
+            text = "salut" 
+        intervals [3]:
+            xmin = 3.943 
+            xmax = 14.693 
+            text = "#" 
+        intervals [4]:
+            xmin = 14.693 
+            xmax = 15.1 
+            text = "ouais" 
+        intervals [5]:
+            xmin = 15.1 
+            xmax = 15.506 
+            text = "#" 
+        intervals [6]:
+            xmin = 15.506 
+            xmax = 15.892 
+            text = "oui" 
+        intervals [7]:
+            xmin = 15.892 
+            xmax = 16.141 
+            text = "#" 
+        intervals [8]:
+            xmin = 16.141 
+            xmax = 16.908 
+            text = "ça se pourrait" 
+        intervals [9]:
+            xmin = 16.908 
+            xmax = 31.149 
+            text = "#" 
+        intervals [10]:
+            xmin = 31.149 
+            xmax = 31.663 
+            text = "ah oui" 
+        intervals [11]:
+            xmin = 31.663 
+            xmax = 32.094 
+            text = "#" 
+        intervals [12]:
+            xmin = 32.094 
+            xmax = 32.751 
+            text = "peut-être" 
+        intervals [13]:
+            xmin = 32.751 
+            xmax = 33.71 
+            text = "#" 
+        intervals [14]:
+            xmin = 33.71 
+            xmax = 36.784 
+            text = "c'est peut-être une campagne pour favoriser les fruits locaux" 
+        intervals [15]:
+            xmin = 36.784 
+            xmax = 42.326 
+            text = "#" 
+        intervals [16]:
+            xmin = 42.326 
+            xmax = 45.543 
+            text = "c'est peut-être une campagne pour favoriser les fruits locaux" 
+        intervals [17]:
+            xmin = 45.543 
+            xmax = 59.9516 
+            text = "#" 

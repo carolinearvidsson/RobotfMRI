@@ -1,0 +1,166 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 60 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Transcription" 
+        xmin = 0 
+        xmax = 60 
+        intervals: size = 38 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.991 
+            text = "#" 
+        intervals [2]:
+            xmin = 0.991 
+            xmax = 1.656 
+            text = "alors" 
+        intervals [3]:
+            xmin = 1.656 
+            xmax = 1.941 
+            text = "#" 
+        intervals [4]:
+            xmin = 1.941 
+            xmax = 3.465 
+            text = "la fraise" 
+        intervals [5]:
+            xmin = 3.465 
+            xmax = 4.596 
+            text = "#" 
+        intervals [6]:
+            xmin = 4.596 
+            xmax = 5.396 
+            text = "a l'air malade" 
+        intervals [7]:
+            xmin = 5.396 
+            xmax = 10.716 
+            text = "#" 
+        intervals [8]:
+            xmin = 10.716 
+            xmax = 14.602 
+            text = "ah ouais ouais euh moi je la trouvais malade entre le jaune en haut" 
+        intervals [9]:
+            xmin = 14.602 
+            xmax = 15.211 
+            text = "#" 
+        intervals [10]:
+            xmin = 15.211 
+            xmax = 16.532 
+            text = "et sur euh" 
+        intervals [11]:
+            xmin = 16.532 
+            xmax = 16.922 
+            text = "#" 
+        intervals [12]:
+            xmin = 16.922 
+            xmax = 17.609 
+            text = "le dessin là" 
+        intervals [13]:
+            xmin = 17.609 
+            xmax = 18.148 
+            text = "#" 
+        intervals [14]:
+            xmin = 18.148 
+            xmax = 21.694 
+            text = "sur la queue et euh elle a des yeux aussi euh" 
+        intervals [15]:
+            xmin = 21.694 
+            xmax = 24.749 
+            text = "#" 
+        intervals [16]:
+            xmin = 24.749 
+            xmax = 25.373 
+            text = "ouais c'est ça" 
+        intervals [17]:
+            xmin = 25.373 
+            xmax = 28.863 
+            text = "#" 
+        intervals [18]:
+            xmin = 28.863 
+            xmax = 32.74 
+            text = "c'est ça et moi au niveau des bras ça m'a pas fait penser à déterminée" 
+        intervals [19]:
+            xmin = 32.74 
+            xmax = 33.426 
+            text = "#" 
+        intervals [20]:
+            xmin = 33.426 
+            xmax = 33.807 
+            text = "ça" 
+        intervals [21]:
+            xmin = 33.807 
+            xmax = 34.233 
+            text = "#" 
+        intervals [22]:
+            xmin = 34.233 
+            xmax = 34.514 
+            text = "non" 
+        intervals [23]:
+            xmin = 34.514 
+            xmax = 36.245 
+            text = "#" 
+        intervals [24]:
+            xmin = 36.245 
+            xmax = 37.688 
+            text = "c'est c'est vrai" 
+        intervals [25]:
+            xmin = 37.688 
+            xmax = 38.754 
+            text = "#" 
+        intervals [26]:
+            xmin = 38.754 
+            xmax = 41.697 
+            text = "c'est vrai et ça m'a moi ça m'a fait penser à euh" 
+        intervals [27]:
+            xmin = 41.697 
+            xmax = 42.022 
+            text = "#" 
+        intervals [28]:
+            xmin = 42.022 
+            xmax = 44.273 
+            text = "quand il est un petit peu plus haut là qu'il est en haut" 
+        intervals [29]:
+            xmin = 44.273 
+            xmax = 45.075 
+            text = "#" 
+        intervals [30]:
+            xmin = 45.075 
+            xmax = 46.874 
+            text = "et là comme si elle les avait à l'envers quoi" 
+        intervals [31]:
+            xmin = 46.874 
+            xmax = 47.306 
+            text = "#" 
+        intervals [32]:
+            xmin = 47.306 
+            xmax = 47.545 
+            text = "si" 
+        intervals [33]:
+            xmin = 47.545 
+            xmax = 48.977 
+            text = "#" 
+        intervals [34]:
+            xmin = 48.977 
+            xmax = 54.353 
+            text = "comme si quand euh quand tu fais je suis costaud euh tu mets les bras en pour montrer les muscles là quand tu es petit" 
+        intervals [35]:
+            xmin = 54.353 
+            xmax = 55.602 
+            text = "#" 
+        intervals [36]:
+            xmin = 55.602 
+            xmax = 58.996 
+            text = "et ben là c'était tout l'inverse en fait c'était tout vers le bas c'était" 
+        intervals [37]:
+            xmin = 58.996 
+            xmax = 59.591 
+            text = "#" 
+        intervals [38]:
+            xmin = 59.591 
+            xmax = 59.9044 
+            text = "et c'est vrai" 

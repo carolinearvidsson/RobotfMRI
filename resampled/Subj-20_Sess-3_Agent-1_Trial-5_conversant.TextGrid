@@ -1,0 +1,134 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 60 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Transcription" 
+        xmin = 0 
+        xmax = 60 
+        intervals: size = 30 
+        intervals [1]:
+            xmin = 0 
+            xmax = 2.093 
+            text = "#" 
+        intervals [2]:
+            xmin = 2.093 
+            xmax = 3.489 
+            text = "je je l'aime bien celle là" 
+        intervals [3]:
+            xmin = 3.489 
+            xmax = 5.065 
+            text = "#" 
+        intervals [4]:
+            xmin = 5.065 
+            xmax = 6.554 
+            text = "ouais ouais ouais elle est sympa elle est" 
+        intervals [5]:
+            xmin = 6.554 
+            xmax = 6.976 
+            text = "#" 
+        intervals [6]:
+            xmin = 6.976 
+            xmax = 9.643 
+            text = "elle donne vran- vran- vraiment envie de la manger tu sais elle est euh" 
+        intervals [7]:
+            xmin = 9.643 
+            xmax = 11.035 
+            text = "#" 
+        intervals [8]:
+            xmin = 11.035 
+            xmax = 13.824 
+            text = "ça ressemble presque à des euh à des pubs pour parfum euh" 
+        intervals [9]:
+            xmin = 13.824 
+            xmax = 14.429 
+            text = "#" 
+        intervals [10]:
+            xmin = 14.429 
+            xmax = 14.932 
+            text = "ou euh" 
+        intervals [11]:
+            xmin = 14.932 
+            xmax = 17.925 
+            text = "#" 
+        intervals [12]:
+            xmin = 17.925 
+            xmax = 19.256 
+            text = "ouais oui oui c'est vrai aussi" 
+        intervals [13]:
+            xmin = 19.256 
+            xmax = 21.003 
+            text = "#" 
+        intervals [14]:
+            xmin = 21.003 
+            xmax = 21.308 
+            text = "c'est vrai" 
+        intervals [15]:
+            xmin = 21.308 
+            xmax = 29.031 
+            text = "#" 
+        intervals [16]:
+            xmin = 29.031 
+            xmax = 32.181 
+            text = "ah une pub contre les p- ah mais dans ces cas là ouais ça pourrait f-" 
+        intervals [17]:
+            xmin = 32.181 
+            xmax = 32.765 
+            text = "#" 
+        intervals [18]:
+            xmin = 32.765 
+            xmax = 34.762 
+            text = "ça pourrait faire écho à la couleur parce que euh" 
+        intervals [19]:
+            xmin = 34.762 
+            xmax = 35.758 
+            text = "#" 
+        intervals [20]:
+            xmin = 35.758 
+            xmax = 37.83 
+            text = "parce qu'elles sont quand même super brillantes" 
+        intervals [21]:
+            xmin = 37.83 
+            xmax = 38.501 
+            text = "#" 
+        intervals [22]:
+            xmin = 38.501 
+            xmax = 40.98 
+            text = "là on sent qu'il a été exposé à la radioactivité $Spiderman$ hein" 
+        intervals [23]:
+            xmin = 40.98 
+            xmax = 47.016 
+            text = "#" 
+        intervals [24]:
+            xmin = 47.016 
+            xmax = 47.565 
+            text = "ah d'accord" 
+        intervals [25]:
+            xmin = 47.565 
+            xmax = 49.689 
+            text = "#" 
+        intervals [26]:
+            xmin = 49.689 
+            xmax = 52.768 
+            text = "ah ok du coup c'est les deuxièmes qu'auraient qu'auraient eu des pesticides" 
+        intervals [27]:
+            xmin = 52.768 
+            xmax = 55.181 
+            text = "#" 
+        intervals [28]:
+            xmin = 55.181 
+            xmax = 58.981 
+            text = "ah je sais pas quand on fait des reproches aux pesticides on a plutôt euh" 
+        intervals [29]:
+            xmin = 58.981 
+            xmax = 59.52 
+            text = "#" 
+        intervals [30]:
+            xmin = 59.52 
+            xmax = 59.9516 
+            text = "la critique" 

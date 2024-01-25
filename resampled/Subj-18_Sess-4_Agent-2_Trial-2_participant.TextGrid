@@ -1,0 +1,146 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 60 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Transcription" 
+        xmin = 0 
+        xmax = 60 
+        intervals: size = 33 
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.814 
+            text = "#" 
+        intervals [2]:
+            xmin = 1.814 
+            xmax = 4.435 
+            text = "que é- elle est assez mignonne elle a un" 
+        intervals [3]:
+            xmin = 4.435 
+            xmax = 5.253 
+            text = "#" 
+        intervals [4]:
+            xmin = 5.253 
+            xmax = 6.94 
+            text = "même si elle est pas très euh" 
+        intervals [5]:
+            xmin = 6.94 
+            xmax = 8.088 
+            text = "#" 
+        intervals [6]:
+            xmin = 8.088 
+            xmax = 10.415 
+            text = "régulière elle elle inspire la sympathie" 
+        intervals [7]:
+            xmin = 10.415 
+            xmax = 14.185 
+            text = "#" 
+        intervals [8]:
+            xmin = 14.185 
+            xmax = 15.171 
+            text = "elle a l'air gentille" 
+        intervals [9]:
+            xmin = 15.171 
+            xmax = 19.347 
+            text = "#" 
+        intervals [10]:
+            xmin = 19.347 
+            xmax = 20.206 
+            text = "et euh" 
+        intervals [11]:
+            xmin = 20.206 
+            xmax = 22.157 
+            text = "#" 
+        intervals [12]:
+            xmin = 22.157 
+            xmax = 23.036 
+            text = "oui un petit peu" 
+        intervals [13]:
+            xmin = 23.036 
+            xmax = 25.408 
+            text = "#" 
+        intervals [14]:
+            xmin = 25.408 
+            xmax = 27.507 
+            text = "elle elle ressemble pas à euh" 
+        intervals [15]:
+            xmin = 27.507 
+            xmax = 28.076 
+            text = "#" 
+        intervals [16]:
+            xmin = 28.076 
+            xmax = 29.579 
+            text = "aux super héros comme les autres" 
+        intervals [17]:
+            xmin = 29.579 
+            xmax = 31.119 
+            text = "#" 
+        intervals [18]:
+            xmin = 31.119 
+            xmax = 33.116 
+            text = "euh elle a l'air plutôt euh" 
+        intervals [19]:
+            xmin = 33.116 
+            xmax = 33.984 
+            text = "#" 
+        intervals [20]:
+            xmin = 33.984 
+            xmax = 37.018 
+            text = "normale à vrai dire comme quelqu'un de fatigué quoi" 
+        intervals [21]:
+            xmin = 37.018 
+            xmax = 39.903 
+            text = "#" 
+        intervals [22]:
+            xmin = 39.903 
+            xmax = 40.594 
+            text = "euh" 
+        intervals [23]:
+            xmin = 40.594 
+            xmax = 41.011 
+            text = "#" 
+        intervals [24]:
+            xmin = 41.011 
+            xmax = 42.596 
+            text = "euh là je crois que tout le monde à vrai dire" 
+        intervals [25]:
+            xmin = 42.596 
+            xmax = 45.675 
+            text = "#" 
+        intervals [26]:
+            xmin = 45.675 
+            xmax = 46.629 
+            text = "pas comme tout le monde" 
+        intervals [27]:
+            xmin = 46.629 
+            xmax = 48.713 
+            text = "#" 
+        intervals [28]:
+            xmin = 48.713 
+            xmax = 49.562 
+            text = "ah malade" 
+        intervals [29]:
+            xmin = 49.562 
+            xmax = 52.366 
+            text = "#" 
+        intervals [30]:
+            xmin = 52.366 
+            xmax = 54.495 
+            text = "oh triste peut-être mais" 
+        intervals [31]:
+            xmin = 54.495 
+            xmax = 56.583 
+            text = "#" 
+        intervals [32]:
+            xmin = 56.583 
+            xmax = 58.687 
+            text = "malheureuse je sais pas plutôt triste" 
+        intervals [33]:
+            xmin = 58.687 
+            xmax = 59.9044 
+            text = "#" 

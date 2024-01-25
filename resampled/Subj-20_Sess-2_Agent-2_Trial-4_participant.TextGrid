@@ -1,0 +1,74 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 60 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Transcription" 
+        xmin = 0 
+        xmax = 60 
+        intervals: size = 15 
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.946 
+            text = "#" 
+        intervals [2]:
+            xmin = 1.946 
+            xmax = 4.593 
+            text = "du coup c'est une framboise qui a l'air un peu fatiguée" 
+        intervals [3]:
+            xmin = 4.593 
+            xmax = 13.413 
+            text = "#" 
+        intervals [4]:
+            xmin = 13.413 
+            xmax = 14.073 
+            text = "ouais voilà" 
+        intervals [5]:
+            xmin = 14.073 
+            xmax = 14.921 
+            text = "#" 
+        intervals [6]:
+            xmin = 14.921 
+            xmax = 16.228 
+            text = "on dirait qu'elle est un peu vieille aussi" 
+        intervals [7]:
+            xmin = 16.228 
+            xmax = 24.428 
+            text = "#" 
+        intervals [8]:
+            xmin = 24.428 
+            xmax = 25.901 
+            text = "ouais ça donne pas envie de la manger" 
+        intervals [9]:
+            xmin = 25.901 
+            xmax = 35.798 
+            text = "#" 
+        intervals [10]:
+            xmin = 35.798 
+            xmax = 36.957 
+            text = "ouais elle a l'air fatiguée" 
+        intervals [11]:
+            xmin = 36.957 
+            xmax = 45.599 
+            text = "#" 
+        intervals [12]:
+            xmin = 45.599 
+            xmax = 46.264 
+            text = "ouais c'est ça" 
+        intervals [13]:
+            xmin = 46.264 
+            xmax = 52.346 
+            text = "#" 
+        intervals [14]:
+            xmin = 52.346 
+            xmax = 52.849 
+            text = "oui c'est ça" 
+        intervals [15]:
+            xmin = 52.849 
+            xmax = 59.9044 
+            text = "#" 

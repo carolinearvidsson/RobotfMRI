@@ -1,0 +1,106 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 60 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Transcription" 
+        xmin = 0 
+        xmax = 60 
+        intervals: size = 23 
+        intervals [1]:
+            xmin = 0 
+            xmax = 2.149 
+            text = "#" 
+        intervals [2]:
+            xmin = 2.149 
+            xmax = 6.209 
+            text = "alors on a re la photo de la pomme en $Spiderman$" 
+        intervals [3]:
+            xmin = 6.209 
+            xmax = 8.815 
+            text = "#" 
+        intervals [4]:
+            xmin = 8.815 
+            xmax = 11.675 
+            text = "et euh moi j'arrive pas à savoir pour euh" 
+        intervals [5]:
+            xmin = 11.675 
+            xmax = 12.27 
+            text = "#" 
+        intervals [6]:
+            xmin = 12.27 
+            xmax = 12.427 
+            text = "ouais" 
+        intervals [7]:
+            xmin = 12.427 
+            xmax = 12.697 
+            text = "#" 
+        intervals [8]:
+            xmin = 12.697 
+            xmax = 15.232 
+            text = "quel serait le message parce que y a pas d'écritures autour" 
+        intervals [9]:
+            xmin = 15.232 
+            xmax = 16.329 
+            text = "#" 
+        intervals [10]:
+            xmin = 16.329 
+            xmax = 18.097 
+            text = "y a que l'image et euh" 
+        intervals [11]:
+            xmin = 18.097 
+            xmax = 23.849 
+            text = "#" 
+        intervals [12]:
+            xmin = 23.849 
+            xmax = 25.672 
+            text = "c'est compliqué de savoir ce que ça pourrait dire" 
+        intervals [13]:
+            xmin = 25.672 
+            xmax = 26.78 
+            text = "#" 
+        intervals [14]:
+            xmin = 26.78 
+            xmax = 28.787 
+            text = "à qui c'est adressé et" 
+        intervals [15]:
+            xmin = 28.787 
+            xmax = 29.615 
+            text = "#" 
+        intervals [16]:
+            xmin = 29.615 
+            xmax = 31.043 
+            text = "qui adresse le message aussi" 
+        intervals [17]:
+            xmin = 31.043 
+            xmax = 35.651 
+            text = "#" 
+        intervals [18]:
+            xmin = 35.651 
+            xmax = 36.509 
+            text = "t'en penses quoi toi" 
+        intervals [19]:
+            xmin = 36.509 
+            xmax = 49.084 
+            text = "#" 
+        intervals [20]:
+            xmin = 49.084 
+            xmax = 51.487 
+            text = "ben les super héros sont en bon état" 
+        intervals [21]:
+            xmin = 51.487 
+            xmax = 55.719 
+            text = "#" 
+        intervals [22]:
+            xmin = 55.719 
+            xmax = 57.401 
+            text = "est ce que ça serait contre les pesticides alors" 
+        intervals [23]:
+            xmin = 57.401 
+            xmax = 59.9044 
+            text = "#" 

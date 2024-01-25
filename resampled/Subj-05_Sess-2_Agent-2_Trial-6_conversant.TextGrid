@@ -1,0 +1,134 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 60 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Transcription" 
+        xmin = 0 
+        xmax = 60 
+        intervals: size = 30 
+        intervals [1]:
+            xmin = 0 
+            xmax = 2.759 
+            text = "#" 
+        intervals [2]:
+            xmin = 2.759 
+            xmax = 3.18 
+            text = "oui" 
+        intervals [3]:
+            xmin = 3.18 
+            xmax = 3.673 
+            text = "#" 
+        intervals [4]:
+            xmin = 3.673 
+            xmax = 4.136 
+            text = "moi" 
+        intervals [5]:
+            xmin = 4.136 
+            xmax = 4.319 
+            text = "#" 
+        intervals [6]:
+            xmin = 4.319 
+            xmax = 5.985 
+            text = "je crois que c'est une fraise" 
+        intervals [7]:
+            xmin = 5.985 
+            xmax = 13.86 
+            text = "#" 
+        intervals [8]:
+            xmin = 13.86 
+            xmax = 15.15 
+            text = "cette fraise a des bras" 
+        intervals [9]:
+            xmin = 15.15 
+            xmax = 16.41 
+            text = "#" 
+        intervals [10]:
+            xmin = 16.41 
+            xmax = 16.837 
+            text = "oui" 
+        intervals [11]:
+            xmin = 16.837 
+            xmax = 17.015 
+            text = "#" 
+        intervals [12]:
+            xmin = 17.015 
+            xmax = 17.787 
+            text = "exactement" 
+        intervals [13]:
+            xmin = 17.787 
+            xmax = 23.102 
+            text = "#" 
+        intervals [14]:
+            xmin = 23.102 
+            xmax = 23.97 
+            text = "je ne sais pas" 
+        intervals [15]:
+            xmin = 23.97 
+            xmax = 25.769 
+            text = "#" 
+        intervals [16]:
+            xmin = 25.769 
+            xmax = 27.649 
+            text = "peut-être que quelqu'un l'a frappé" 
+        intervals [17]:
+            xmin = 27.649 
+            xmax = 30.85 
+            text = "#" 
+        intervals [18]:
+            xmin = 30.85 
+            xmax = 31.713 
+            text = "je ne sais pas" 
+        intervals [19]:
+            xmin = 31.713 
+            xmax = 32.521 
+            text = "#" 
+        intervals [20]:
+            xmin = 32.521 
+            xmax = 33.319 
+            text = "peut-être" 
+        intervals [21]:
+            xmin = 33.319 
+            xmax = 37.287 
+            text = "#" 
+        intervals [22]:
+            xmin = 37.287 
+            xmax = 37.709 
+            text = "oui" 
+        intervals [23]:
+            xmin = 37.709 
+            xmax = 39.776 
+            text = "#" 
+        intervals [24]:
+            xmin = 39.776 
+            xmax = 41.428 
+            text = "elle est moche parce qu'elle vient de loin" 
+        intervals [25]:
+            xmin = 41.428 
+            xmax = 46.325 
+            text = "#" 
+        intervals [26]:
+            xmin = 46.325 
+            xmax = 47.28 
+            text = "oui bien sûr" 
+        intervals [27]:
+            xmin = 47.28 
+            xmax = 48.937 
+            text = "#" 
+        intervals [28]:
+            xmin = 48.937 
+            xmax = 52.442 
+            text = "c'est peut-être une campagne pour favoriser les fruits locaux" 
+        intervals [29]:
+            xmin = 52.442 
+            xmax = 59.129 
+            text = "#" 
+        intervals [30]:
+            xmin = 59.129 
+            xmax = 59.9516 
+            text = "et si c'était une" 

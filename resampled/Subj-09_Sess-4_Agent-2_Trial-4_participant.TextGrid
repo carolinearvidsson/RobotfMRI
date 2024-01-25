@@ -1,0 +1,134 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 60 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Transcription" 
+        xmin = 0 
+        xmax = 60 
+        intervals: size = 30 
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.466 
+            text = "#" 
+        intervals [2]:
+            xmin = 1.466 
+            xmax = 5.741 
+            text = "la framboise est vraiment vraiment mal en point on dirait qu'elle a une maladie euh" 
+        intervals [3]:
+            xmin = 5.741 
+            xmax = 6.442 
+            text = "#" 
+        intervals [4]:
+            xmin = 6.442 
+            xmax = 6.96 
+            text = "de peau" 
+        intervals [5]:
+            xmin = 6.96 
+            xmax = 7.529 
+            text = "#" 
+        intervals [6]:
+            xmin = 7.529 
+            xmax = 9.48 
+            text = "telle la lèpre ou euh" 
+        intervals [7]:
+            xmin = 9.48 
+            xmax = 10.608 
+            text = "#" 
+        intervals [8]:
+            xmin = 10.608 
+            xmax = 12.509 
+            text = "en tout cas c'est c'est assez ragoûtant" 
+        intervals [9]:
+            xmin = 12.509 
+            xmax = 13.921 
+            text = "#" 
+        intervals [10]:
+            xmin = 13.921 
+            xmax = 15.635 
+            text = "la framboise a l'air malade" 
+        intervals [11]:
+            xmin = 15.635 
+            xmax = 16.78 
+            text = "#" 
+        intervals [12]:
+            xmin = 16.78 
+            xmax = 18.036 
+            text = "elle a l'air euh" 
+        intervals [13]:
+            xmin = 18.036 
+            xmax = 18.392 
+            text = "#" 
+        intervals [14]:
+            xmin = 18.392 
+            xmax = 21.227 
+            text = "d'avoir une une peau qui se décompose" 
+        intervals [15]:
+            xmin = 21.227 
+            xmax = 22.439 
+            text = "#" 
+        intervals [16]:
+            xmin = 22.439 
+            xmax = 25.881 
+            text = "comme si elle fondait au soleil comme si elle allait perdre" 
+        intervals [17]:
+            xmin = 25.881 
+            xmax = 29.158 
+            text = "#" 
+        intervals [18]:
+            xmin = 29.158 
+            xmax = 32.303 
+            text = "euh oui la poire a l'air malade mais la framboise est" 
+        intervals [19]:
+            xmin = 32.303 
+            xmax = 33.826 
+            text = "#" 
+        intervals [20]:
+            xmin = 33.826 
+            xmax = 35.697 
+            text = "et dé- et dégoulinante" 
+        intervals [21]:
+            xmin = 35.697 
+            xmax = 42.977 
+            text = "#" 
+        intervals [22]:
+            xmin = 42.977 
+            xmax = 44.571 
+            text = "oui on dirait qu'elle a fondu" 
+        intervals [23]:
+            xmin = 44.571 
+            xmax = 45.106 
+            text = "#" 
+        intervals [24]:
+            xmin = 45.106 
+            xmax = 45.959 
+            text = "qu'elle a" 
+        intervals [25]:
+            xmin = 45.959 
+            xmax = 48.83 
+            text = "#" 
+        intervals [26]:
+            xmin = 48.83 
+            xmax = 49.922 
+            text = "qu'elle est elle est pas belle" 
+        intervals [27]:
+            xmin = 49.922 
+            xmax = 50.979 
+            text = "#" 
+        intervals [28]:
+            xmin = 50.979 
+            xmax = 52.442 
+            text = "donne pas envie d'être goûtée" 
+        intervals [29]:
+            xmin = 52.442 
+            xmax = 58.158 
+            text = "#" 
+        intervals [30]:
+            xmin = 58.158 
+            xmax = 59.9044 
+            text = "elle a pas l'air naturelle aussi" 

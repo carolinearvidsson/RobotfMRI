@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "RobotfMRI",
+			"path": "."
+		},
+		{
+			"name": "Resampled",
+			"path": "../../../Desktop/Resampled"
+		}
+	],
+	"settings": {}
+}

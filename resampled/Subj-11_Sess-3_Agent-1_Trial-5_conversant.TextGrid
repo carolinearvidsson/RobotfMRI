@@ -1,0 +1,106 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 60 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Transcription" 
+        xmin = 0 
+        xmax = 60 
+        intervals: size = 23 
+        intervals [1]:
+            xmin = 0 
+            xmax = 2.286 
+            text = "#" 
+        intervals [2]:
+            xmin = 2.286 
+            xmax = 3.323 
+            text = "ah euh" 
+        intervals [3]:
+            xmin = 3.323 
+            xmax = 4.283 
+            text = "#" 
+        intervals [4]:
+            xmin = 4.283 
+            xmax = 5.944 
+            text = "ce que je te disais avant qu'on soit coupées" 
+        intervals [5]:
+            xmin = 5.944 
+            xmax = 6.645 
+            text = "#" 
+        intervals [6]:
+            xmin = 6.645 
+            xmax = 10.7 
+            text = "euh c'est que peut-être que tu vois ils sont trop beaux trop propres pour être honnêtes" 
+        intervals [7]:
+            xmin = 10.7 
+            xmax = 11.315 
+            text = "#" 
+        intervals [8]:
+            xmin = 11.315 
+            xmax = 19.174 
+            text = "parce que ils sont quand même tout nickel tu sais un peu comme les trucs en mode euh surtraités sursélectionnés euh" 
+        intervals [9]:
+            xmin = 19.174 
+            xmax = 21.877 
+            text = "#" 
+        intervals [10]:
+            xmin = 21.877 
+            xmax = 22.803 
+            text = "ouais peut-être" 
+        intervals [11]:
+            xmin = 22.803 
+            xmax = 23.554 
+            text = "#" 
+        intervals [12]:
+            xmin = 23.554 
+            xmax = 26.12 
+            text = "et euh tu sais le côté de" 
+        intervals [13]:
+            xmin = 26.12 
+            xmax = 26.745 
+            text = "#" 
+        intervals [14]:
+            xmin = 26.745 
+            xmax = 31.063 
+            text = "mh parfois finalement les bourreaux c'est un peu ceux qui sont bien vu par tout le monde je sais pas comment dire ça" 
+        intervals [15]:
+            xmin = 31.063 
+            xmax = 46.727 
+            text = "#" 
+        intervals [16]:
+            xmin = 46.727 
+            xmax = 47.199 
+            text = "d'accord" 
+        intervals [17]:
+            xmin = 47.199 
+            xmax = 50.43 
+            text = "#" 
+        intervals [18]:
+            xmin = 50.43 
+            xmax = 51.362 
+            text = "peut-être peut-être" 
+        intervals [19]:
+            xmin = 51.362 
+            xmax = 52.336 
+            text = "#" 
+        intervals [20]:
+            xmin = 52.336 
+            xmax = 54.698 
+            text = "euh mais" 
+        intervals [21]:
+            xmin = 54.698 
+            xmax = 58.392 
+            text = "#" 
+        intervals [22]:
+            xmin = 58.392 
+            xmax = 59.129 
+            text = "ouais tu penses que c-" 
+        intervals [23]:
+            xmin = 59.129 
+            xmax = 59.9516 
+            text = "#" 

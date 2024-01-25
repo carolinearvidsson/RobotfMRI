@@ -1,0 +1,114 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 60 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Transcription" 
+        xmin = 0 
+        xmax = 60 
+        intervals: size = 25 
+        intervals [1]:
+            xmin = 0 
+            xmax = 4.405 
+            text = "#" 
+        intervals [2]:
+            xmin = 4.405 
+            xmax = 4.642 
+            text = "alors" 
+        intervals [3]:
+            xmin = 4.642 
+            xmax = 6.722 
+            text = "#" 
+        intervals [4]:
+            xmin = 6.722 
+            xmax = 7.098 
+            text = "ouais" 
+        intervals [5]:
+            xmin = 7.098 
+            xmax = 7.707 
+            text = "#" 
+        intervals [6]:
+            xmin = 7.707 
+            xmax = 9.694 
+            text = "on recommence en fait sur la même image ouais" 
+        intervals [7]:
+            xmin = 9.694 
+            xmax = 17.142 
+            text = "#" 
+        intervals [8]:
+            xmin = 17.142 
+            xmax = 18.961 
+            text = "carrément il y a un dessin de" 
+        intervals [9]:
+            xmin = 18.961 
+            xmax = 19.352 
+            text = "#" 
+        intervals [10]:
+            xmin = 19.352 
+            xmax = 20.709 
+            text = "de visage et de masque ouais" 
+        intervals [11]:
+            xmin = 20.709 
+            xmax = 30.271 
+            text = "#" 
+        intervals [12]:
+            xmin = 30.271 
+            xmax = 33.166 
+            text = "ouais elle a les sourcils froncés quoi en tout cas ouais ouais ouais" 
+        intervals [13]:
+            xmin = 33.166 
+            xmax = 34.838 
+            text = "#" 
+        intervals [14]:
+            xmin = 34.838 
+            xmax = 35.321 
+            text = "dis moi" 
+        intervals [15]:
+            xmin = 35.321 
+            xmax = 41.181 
+            text = "#" 
+        intervals [16]:
+            xmin = 41.181 
+            xmax = 44.954 
+            text = "oui moi j'ai l'impression que c'est $Batman$ le justicier l'aubergine quoi l'aubergine $Batman$" 
+        intervals [17]:
+            xmin = 44.954 
+            xmax = 48.866 
+            text = "#" 
+        intervals [18]:
+            xmin = 48.866 
+            xmax = 49.689 
+            text = "de $Marvel$" 
+        intervals [19]:
+            xmin = 49.689 
+            xmax = 50.227 
+            text = "#" 
+        intervals [20]:
+            xmin = 50.227 
+            xmax = 53.586 
+            text = "oui ah je sais pas ouais je je les connais pas hyper bien quoi vite fait" 
+        intervals [21]:
+            xmin = 53.586 
+            xmax = 54.287 
+            text = "#" 
+        intervals [22]:
+            xmin = 54.287 
+            xmax = 55.379 
+            text = "ouais $Marvel$ je pense ouais" 
+        intervals [23]:
+            xmin = 55.379 
+            xmax = 57.218 
+            text = "#" 
+        intervals [24]:
+            xmin = 57.218 
+            xmax = 57.635 
+            text = "et" 
+        intervals [25]:
+            xmin = 57.635 
+            xmax = 59.9044 
+            text = "#" 

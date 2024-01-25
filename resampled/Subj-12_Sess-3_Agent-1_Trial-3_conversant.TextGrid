@@ -1,0 +1,130 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 60 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Transcription" 
+        xmin = 0 
+        xmax = 60 
+        intervals: size = 29 
+        intervals [1]:
+            xmin = 0 
+            xmax = 3.648 
+            text = "#" 
+        intervals [2]:
+            xmin = 3.648 
+            xmax = 6.269 
+            text = "ouais ouais ouais ça c'est ton ton $Tortue Ninja$" 
+        intervals [3]:
+            xmin = 6.269 
+            xmax = 7.408 
+            text = "#" 
+        intervals [4]:
+            xmin = 7.408 
+            xmax = 8.708 
+            text = "euh" 
+        intervals [5]:
+            xmin = 8.708 
+            xmax = 9.033 
+            text = "#" 
+        intervals [6]:
+            xmin = 9.033 
+            xmax = 9.298 
+            text = "mh" 
+        intervals [7]:
+            xmin = 9.298 
+            xmax = 11.467 
+            text = "#" 
+        intervals [8]:
+            xmin = 11.467 
+            xmax = 11.777 
+            text = "euh" 
+        intervals [9]:
+            xmin = 11.777 
+            xmax = 18.854 
+            text = "#" 
+        intervals [10]:
+            xmin = 18.854 
+            xmax = 19.078 
+            text = "ouais" 
+        intervals [11]:
+            xmin = 19.078 
+            xmax = 19.479 
+            text = "#" 
+        intervals [12]:
+            xmin = 19.479 
+            xmax = 19.784 
+            text = "mh mh" 
+        intervals [13]:
+            xmin = 19.784 
+            xmax = 20.287 
+            text = "#" 
+        intervals [14]:
+            xmin = 20.287 
+            xmax = 20.759 
+            text = "en" 
+        intervals [15]:
+            xmin = 20.759 
+            xmax = 21.344 
+            text = "#" 
+        intervals [16]:
+            xmin = 21.344 
+            xmax = 21.999 
+            text = "en regardant la" 
+        intervals [17]:
+            xmin = 21.999 
+            xmax = 22.497 
+            text = "#" 
+        intervals [18]:
+            xmin = 22.497 
+            xmax = 26.653 
+            text = "série par rapport à la deuxième je me dis qu'ils sont tous très propres ces fr- ces ces légumes" 
+        intervals [19]:
+            xmin = 26.653 
+            xmax = 28.04 
+            text = "#" 
+        intervals [20]:
+            xmin = 28.04 
+            xmax = 28.198 
+            text = "ouais" 
+        intervals [21]:
+            xmin = 28.198 
+            xmax = 33.761 
+            text = "#" 
+        intervals [22]:
+            xmin = 33.761 
+            xmax = 34.01 
+            text = "ouais" 
+        intervals [23]:
+            xmin = 34.01 
+            xmax = 38.318 
+            text = "#" 
+        intervals [24]:
+            xmin = 38.318 
+            xmax = 43.805 
+            text = "tu veux dire que ce serait les fruits pourris qui seraient promus et ceux-là qui seraient les pas bons entres guillemets" 
+        intervals [25]:
+            xmin = 43.805 
+            xmax = 51.645 
+            text = "#" 
+        intervals [26]:
+            xmin = 51.645 
+            xmax = 51.955 
+            text = "ah" 
+        intervals [27]:
+            xmin = 51.955 
+            xmax = 52.244 
+            text = "#" 
+        intervals [28]:
+            xmin = 52.244 
+            xmax = 52.544 
+            text = "ok" 
+        intervals [29]:
+            xmin = 52.544 
+            xmax = 59.9516 
+            text = "#" 

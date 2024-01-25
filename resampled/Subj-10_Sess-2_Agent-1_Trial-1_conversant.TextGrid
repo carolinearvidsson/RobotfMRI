@@ -1,0 +1,134 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 60 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Transcription" 
+        xmin = 0 
+        xmax = 60 
+        intervals: size = 30 
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.976 
+            text = "#" 
+        intervals [2]:
+            xmin = 1.976 
+            xmax = 3.404 
+            text = "allo ouais c'est bon" 
+        intervals [3]:
+            xmin = 3.404 
+            xmax = 6.823 
+            text = "#" 
+        intervals [4]:
+            xmin = 6.823 
+            xmax = 7.042 
+            text = "vas y" 
+        intervals [5]:
+            xmin = 7.042 
+            xmax = 7.702 
+            text = "#" 
+        intervals [6]:
+            xmin = 7.702 
+            xmax = 9.277 
+            text = "ben y a pas de super héros" 
+        intervals [7]:
+            xmin = 9.277 
+            xmax = 11.127 
+            text = "#" 
+        intervals [8]:
+            xmin = 11.127 
+            xmax = 13.916 
+            text = "ouais euh une amibe on disait" 
+        intervals [9]:
+            xmin = 13.916 
+            xmax = 18.234 
+            text = "#" 
+        intervals [10]:
+            xmin = 18.234 
+            xmax = 25.373 
+            text = "euh ouais une framboise avec des yeux avec une bouche avec euh" 
+        intervals [11]:
+            xmin = 25.373 
+            xmax = 26.247 
+            text = "#" 
+        intervals [12]:
+            xmin = 26.247 
+            xmax = 27.598 
+            text = "euh des jambes" 
+        intervals [13]:
+            xmin = 27.598 
+            xmax = 28.157 
+            text = "#" 
+        intervals [14]:
+            xmin = 28.157 
+            xmax = 28.665 
+            text = "de lui-même" 
+        intervals [15]:
+            xmin = 28.665 
+            xmax = 30.636 
+            text = "#" 
+        intervals [16]:
+            xmin = 30.636 
+            xmax = 37.663 
+            text = "bah elle avait pas euh elle avait moins l'air en forme que ceux de tout à l'heure quoi ça faisait ça faisait pas du tout le même le même type de" 
+        intervals [17]:
+            xmin = 37.663 
+            xmax = 39.339 
+            text = "#" 
+        intervals [18]:
+            xmin = 39.339 
+            xmax = 39.939 
+            text = "de" 
+        intervals [19]:
+            xmin = 39.939 
+            xmax = 40.234 
+            text = "#" 
+        intervals [20]:
+            xmin = 40.234 
+            xmax = 40.859 
+            text = "d'histoire" 
+        intervals [21]:
+            xmin = 40.859 
+            xmax = 41.499 
+            text = "#" 
+        intervals [22]:
+            xmin = 41.499 
+            xmax = 43.917 
+            text = "euh donc sur le coup ben je sais pas ce que c'est à l'arrivée" 
+        intervals [23]:
+            xmin = 43.917 
+            xmax = 49.48 
+            text = "#" 
+        intervals [24]:
+            xmin = 49.48 
+            xmax = 54.983 
+            text = "ben si ça se ressemblait à une framboise hein euh pardon je t'ai j'ai pas répondu à ça mais si si c'était bien une framboise mais euh" 
+        intervals [25]:
+            xmin = 54.983 
+            xmax = 55.75 
+            text = "#" 
+        intervals [26]:
+            xmin = 55.75 
+            xmax = 57.076 
+            text = "un petit peu bizarre la framboise" 
+        intervals [27]:
+            xmin = 57.076 
+            xmax = 57.904 
+            text = "#" 
+        intervals [28]:
+            xmin = 57.904 
+            xmax = 58.641 
+            text = "euh pourrie en fait" 
+        intervals [29]:
+            xmin = 58.641 
+            xmax = 59.494 
+            text = "#" 
+        intervals [30]:
+            xmin = 59.494 
+            xmax = 59.9516 
+            text = "comme si la" 

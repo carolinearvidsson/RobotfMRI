@@ -1,0 +1,130 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 60 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Transcription" 
+        xmin = 0 
+        xmax = 60 
+        intervals: size = 29 
+        intervals [1]:
+            xmin = 0 
+            xmax = 5.009 
+            text = "#" 
+        intervals [2]:
+            xmin = 5.009 
+            xmax = 6.859 
+            text = "elle in- elle inspire de la pitié celle là" 
+        intervals [3]:
+            xmin = 6.859 
+            xmax = 7.54 
+            text = "#" 
+        intervals [4]:
+            xmin = 7.54 
+            xmax = 9.155 
+            text = "elle inspire de la pitié celle là" 
+        intervals [5]:
+            xmin = 9.155 
+            xmax = 11.289 
+            text = "#" 
+        intervals [6]:
+            xmin = 11.289 
+            xmax = 11.492 
+            text = "ouais" 
+        intervals [7]:
+            xmin = 11.492 
+            xmax = 14.261 
+            text = "#" 
+        intervals [8]:
+            xmin = 14.261 
+            xmax = 15.11 
+            text = "ouais ouais ouais" 
+        intervals [9]:
+            xmin = 15.11 
+            xmax = 16.776 
+            text = "#" 
+        intervals [10]:
+            xmin = 16.776 
+            xmax = 20.678 
+            text = "mais euh du coup tu disais tout à l'heure que tu trouvais qu'ils avaient l'air méchant les autres" 
+        intervals [11]:
+            xmin = 20.678 
+            xmax = 22.954 
+            text = "#" 
+        intervals [12]:
+            xmin = 22.954 
+            xmax = 28.828 
+            text = "parce que pourtant la merde comment comment il s'appelle là l'autre l'autre super héros de dessins animés" 
+        intervals [13]:
+            xmin = 28.828 
+            xmax = 29.417 
+            text = "#" 
+        intervals [14]:
+            xmin = 29.417 
+            xmax = 30.575 
+            text = "euh avec le citron" 
+        intervals [15]:
+            xmin = 30.575 
+            xmax = 33.654 
+            text = "#" 
+        intervals [16]:
+            xmin = 33.654 
+            xmax = 33.949 
+            text = "ouais" 
+        intervals [17]:
+            xmin = 33.949 
+            xmax = 36.164 
+            text = "#" 
+        intervals [18]:
+            xmin = 36.164 
+            xmax = 40.107 
+            text = "euh c'étit c'était c'était c'était c'était" 
+        intervals [19]:
+            xmin = 40.107 
+            xmax = 40.538 
+            text = "#" 
+        intervals [20]:
+            xmin = 40.538 
+            xmax = 41.997 
+            text = "les les $Tortues Ninja$ c'est ça" 
+        intervals [21]:
+            xmin = 41.997 
+            xmax = 43.577 
+            text = "#" 
+        intervals [22]:
+            xmin = 43.577 
+            xmax = 43.765 
+            text = "ouais" 
+        intervals [23]:
+            xmin = 43.765 
+            xmax = 44.969 
+            text = "#" 
+        intervals [24]:
+            xmin = 44.969 
+            xmax = 47.159 
+            text = "euh ouais" 
+        intervals [25]:
+            xmin = 47.159 
+            xmax = 55.45 
+            text = "#" 
+        intervals [26]:
+            xmin = 55.45 
+            xmax = 56.679 
+            text = "ouais peut-être" 
+        intervals [27]:
+            xmin = 56.679 
+            xmax = 57.218 
+            text = "#" 
+        intervals [28]:
+            xmin = 57.218 
+            xmax = 59.088 
+            text = "un peu énervée aussi peut-être aussi hein" 
+        intervals [29]:
+            xmin = 59.088 
+            xmax = 59.9516 
+            text = "#" 

@@ -1,0 +1,142 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 60 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Transcription" 
+        xmin = 0 
+        xmax = 60 
+        intervals: size = 32 
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.235 
+            text = "#" 
+        intervals [2]:
+            xmin = 1.235 
+            xmax = 2.423 
+            text = "alors on disait euh" 
+        intervals [3]:
+            xmin = 2.423 
+            xmax = 3.516 
+            text = "#" 
+        intervals [4]:
+            xmin = 3.516 
+            xmax = 8.845 
+            text = "que à la limite c'était la poire qui euh était la plus sympa" 
+        intervals [5]:
+            xmin = 8.845 
+            xmax = 9.816 
+            text = "#" 
+        intervals [6]:
+            xmin = 9.816 
+            xmax = 11.35 
+            text = "si on dit que les fruits" 
+        intervals [7]:
+            xmin = 11.35 
+            xmax = 12.138 
+            text = "#" 
+        intervals [8]:
+            xmin = 12.138 
+            xmax = 14.155 
+            text = "que les fruits traités euh sont" 
+        intervals [9]:
+            xmin = 14.155 
+            xmax = 15.623 
+            text = "#" 
+        intervals [10]:
+            xmin = 15.623 
+            xmax = 19.271 
+            text = "ils sont des super héros et que ça existe pas et que des super héros euh" 
+        intervals [11]:
+            xmin = 19.271 
+            xmax = 19.51 
+            text = "#" 
+        intervals [12]:
+            xmin = 19.51 
+            xmax = 20.312 
+            text = "ça n'existe pas" 
+        intervals [13]:
+            xmin = 20.312 
+            xmax = 21.755 
+            text = "#" 
+        intervals [14]:
+            xmin = 21.755 
+            xmax = 25.779 
+            text = "au niveau des fruits non traités euh à la limite la poire" 
+        intervals [15]:
+            xmin = 25.779 
+            xmax = 26.084 
+            text = "#" 
+        intervals [16]:
+            xmin = 26.084 
+            xmax = 28.746 
+            text = "elle est acceptable mangeable mais la framboise c'est la pire" 
+        intervals [17]:
+            xmin = 28.746 
+            xmax = 29.432 
+            text = "#" 
+        intervals [18]:
+            xmin = 29.432 
+            xmax = 31.022 
+            text = "une framboise vraiment euh" 
+        intervals [19]:
+            xmin = 31.022 
+            xmax = 31.896 
+            text = "#" 
+        intervals [20]:
+            xmin = 31.896 
+            xmax = 34.599 
+            text = "on dirait qu'elle est chimique gélatineuse" 
+        intervals [21]:
+            xmin = 34.599 
+            xmax = 36.057 
+            text = "#" 
+        intervals [22]:
+            xmin = 36.057 
+            xmax = 37.2 
+            text = "elle est vraiment pas belle je" 
+        intervals [23]:
+            xmin = 37.2 
+            xmax = 37.876 
+            text = "#" 
+        intervals [24]:
+            xmin = 37.876 
+            xmax = 40.554 
+            text = "si ça veut représenter les fruits non traités euh" 
+        intervals [25]:
+            xmin = 40.554 
+            xmax = 44.318 
+            text = "#" 
+        intervals [26]:
+            xmin = 44.318 
+            xmax = 45.045 
+            text = "je le mange" 
+        intervals [27]:
+            xmin = 45.045 
+            xmax = 47.219 
+            text = "#" 
+        intervals [28]:
+            xmin = 47.219 
+            xmax = 48.571 
+            text = "elle est chimique elle est euh" 
+        intervals [29]:
+            xmin = 48.571 
+            xmax = 56.964 
+            text = "#" 
+        intervals [30]:
+            xmin = 56.964 
+            xmax = 58.676 
+            text = "limite plus mangeable que la" 
+        intervals [31]:
+            xmin = 58.676 
+            xmax = 59.576 
+            text = "#" 
+        intervals [32]:
+            xmin = 59.576 
+            xmax = 59.9044 
+            text = "framboi-" 

@@ -1,0 +1,122 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 60 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Transcription" 
+        xmin = 0 
+        xmax = 60 
+        intervals: size = 27 
+        intervals [1]:
+            xmin = 0 
+            xmax = 2.078 
+            text = "#" 
+        intervals [2]:
+            xmin = 2.078 
+            xmax = 4.379 
+            text = "la poire elle a l'air d'avoir reçu pas mal de coups" 
+        intervals [3]:
+            xmin = 4.379 
+            xmax = 11.279 
+            text = "#" 
+        intervals [4]:
+            xmin = 11.279 
+            xmax = 12.366 
+            text = "je je t'ai pas entendu" 
+        intervals [5]:
+            xmin = 12.366 
+            xmax = 14.587 
+            text = "#" 
+        intervals [6]:
+            xmin = 14.587 
+            xmax = 14.912 
+            text = "oui" 
+        intervals [7]:
+            xmin = 14.912 
+            xmax = 17.609 
+            text = "#" 
+        intervals [8]:
+            xmin = 17.609 
+            xmax = 18.727 
+            text = "oui oui mais exactement" 
+        intervals [9]:
+            xmin = 18.727 
+            xmax = 19.408 
+            text = "#" 
+        intervals [10]:
+            xmin = 19.408 
+            xmax = 23.352 
+            text = "j'avoue que cette poire c'est la pire de tous les fruits et légumes qu'ils nous ont montré" 
+        intervals [11]:
+            xmin = 23.352 
+            xmax = 27.857 
+            text = "#" 
+        intervals [12]:
+            xmin = 27.857 
+            xmax = 30.006 
+            text = "ouais elle est entièrement marquée et" 
+        intervals [13]:
+            xmin = 30.006 
+            xmax = 30.764 
+            text = "#" 
+        intervals [14]:
+            xmin = 30.764 
+            xmax = 31.558 
+            text = "et destroy" 
+        intervals [15]:
+            xmin = 31.558 
+            xmax = 46.96 
+            text = "#" 
+        intervals [16]:
+            xmin = 46.96 
+            xmax = 48.154 
+            text = "oui je suis d'accord avec toi" 
+        intervals [17]:
+            xmin = 48.154 
+            xmax = 49.826 
+            text = "#" 
+        intervals [18]:
+            xmin = 49.826 
+            xmax = 51.548 
+            text = "et du coup le message ça serait quoi" 
+        intervals [19]:
+            xmin = 51.548 
+            xmax = 52.488 
+            text = "#" 
+        intervals [20]:
+            xmin = 52.488 
+            xmax = 53.418 
+            text = "de" 
+        intervals [21]:
+            xmin = 53.418 
+            xmax = 54.81 
+            text = "#" 
+        intervals [22]:
+            xmin = 54.81 
+            xmax = 56.873 
+            text = "de manger des fruits et légumes" 
+        intervals [23]:
+            xmin = 56.873 
+            xmax = 57.366 
+            text = "#" 
+        intervals [24]:
+            xmin = 57.366 
+            xmax = 58.011 
+            text = "pas abimés" 
+        intervals [25]:
+            xmin = 58.011 
+            xmax = 58.742 
+            text = "#" 
+        intervals [26]:
+            xmin = 58.742 
+            xmax = 59.6 
+            text = "et en super héros" 
+        intervals [27]:
+            xmin = 59.6 
+            xmax = 59.9044 
+            text = "#" 

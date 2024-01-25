@@ -1,0 +1,130 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 60 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Transcription" 
+        xmin = 0 
+        xmax = 60 
+        intervals: size = 29 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.838 
+            text = "#" 
+        intervals [2]:
+            xmin = 0.838 
+            xmax = 2.937 
+            text = "* c'était une pomme avec des trous" 
+        intervals [3]:
+            xmin = 2.937 
+            xmax = 3.733 
+            text = "#" 
+        intervals [4]:
+            xmin = 3.733 
+            xmax = 4.197 
+            text = "euh" 
+        intervals [5]:
+            xmin = 4.197 
+            xmax = 4.451 
+            text = "#" 
+        intervals [6]:
+            xmin = 4.451 
+            xmax = 8.424 
+            text = "en c'était une pomme avec une découpe sur les en forme" 
+        intervals [7]:
+            xmin = 8.424 
+            xmax = 9.343 
+            text = "#" 
+        intervals [8]:
+            xmin = 9.343 
+            xmax = 10.07 
+            text = "d'yeux -fin" 
+        intervals [9]:
+            xmin = 10.07 
+            xmax = 10.608 
+            text = "#" 
+        intervals [10]:
+            xmin = 10.608 
+            xmax = 11.452 
+            text = "la forme des yeux" 
+        intervals [11]:
+            xmin = 11.452 
+            xmax = 16.588 
+            text = "#" 
+        intervals [12]:
+            xmin = 16.588 
+            xmax = 17.691 
+            text = "oui elle est à l'envers ouais" 
+        intervals [13]:
+            xmin = 17.691 
+            xmax = 19.032 
+            text = "#" 
+        intervals [14]:
+            xmin = 19.032 
+            xmax = 19.825 
+            text = "et euh" 
+        intervals [15]:
+            xmin = 19.825 
+            xmax = 22.004 
+            text = "#" 
+        intervals [16]:
+            xmin = 22.004 
+            xmax = 24.519 
+            text = "ouais bah c'est tout en fait elle est moins compliquée que les autres" 
+        intervals [17]:
+            xmin = 24.519 
+            xmax = 24.974 
+            text = "#" 
+        intervals [18]:
+            xmin = 24.974 
+            xmax = 26.217 
+            text = "que l'aubergine et l'autre" 
+        intervals [19]:
+            xmin = 26.217 
+            xmax = 27.332 
+            text = "#" 
+        intervals [20]:
+            xmin = 27.332 
+            xmax = 30.186 
+            text = "elle est moins complexe -fin c'est plus simple à la découpe" 
+        intervals [21]:
+            xmin = 30.186 
+            xmax = 36.128 
+            text = "#" 
+        intervals [22]:
+            xmin = 36.128 
+            xmax = 37.094 
+            text = "oui c'est vrai" 
+        intervals [23]:
+            xmin = 37.094 
+            xmax = 43.312 
+            text = "#" 
+        intervals [24]:
+            xmin = 43.312 
+            xmax = 43.866 
+            text = "oui c'est vrai" 
+        intervals [25]:
+            xmin = 43.866 
+            xmax = 44.481 
+            text = "#" 
+        intervals [26]:
+            xmin = 44.481 
+            xmax = 46.874 
+            text = "pourtant y a que deux deux yeux en fait mais" 
+        intervals [27]:
+            xmin = 46.874 
+            xmax = 54.795 
+            text = "#" 
+        intervals [28]:
+            xmin = 54.795 
+            xmax = 57.828 
+            text = "oui ça me fait penser à $Spiderman$ avec le côté à l'envers du coup oui" 
+        intervals [29]:
+            xmin = 57.828 
+            xmax = 59.9044 
+            text = "#" 

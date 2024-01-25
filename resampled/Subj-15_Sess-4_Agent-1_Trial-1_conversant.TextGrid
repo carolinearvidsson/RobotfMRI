@@ -1,0 +1,126 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 60 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Transcription" 
+        xmin = 0 
+        xmax = 60 
+        intervals: size = 28 
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.189 
+            text = "#" 
+        intervals [2]:
+            xmin = 1.189 
+            xmax = 1.412 
+            text = "salut" 
+        intervals [3]:
+            xmin = 1.412 
+            xmax = 1.946 
+            text = "#" 
+        intervals [4]:
+            xmin = 1.946 
+            xmax = 2.22 
+            text = "allo" 
+        intervals [5]:
+            xmin = 2.22 
+            xmax = 2.667 
+            text = "#" 
+        intervals [6]:
+            xmin = 2.667 
+            xmax = 4.44 
+            text = "ah tu m'entends donc c'est bien une framboise hein" 
+        intervals [7]:
+            xmin = 4.44 
+            xmax = 6.026 
+            text = "#" 
+        intervals [8]:
+            xmin = 6.026 
+            xmax = 6.92 
+            text = "après réflexion" 
+        intervals [9]:
+            xmin = 6.92 
+            xmax = 7.169 
+            text = "#" 
+        intervals [10]:
+            xmin = 7.169 
+            xmax = 9.765 
+            text = "j'ai bien entendu ils t'ont dit euh ils t'ont dit dernier run c'est ça" 
+        intervals [11]:
+            xmin = 9.765 
+            xmax = 10.725 
+            text = "#" 
+        intervals [12]:
+            xmin = 10.725 
+            xmax = 12.224 
+            text = "donc ça veut dire que là c'est on arrive au bout" 
+        intervals [13]:
+            xmin = 12.224 
+            xmax = 12.448 
+            text = "#" 
+        intervals [14]:
+            xmin = 12.448 
+            xmax = 12.651 
+            text = "ouais" 
+        intervals [15]:
+            xmin = 12.651 
+            xmax = 12.93 
+            text = "#" 
+        intervals [16]:
+            xmin = 12.93 
+            xmax = 17.237 
+            text = "que je me rappelle aussi on avait fait euh on avait fait quatre fois euh quatre fois cinq minutes à peu près" 
+        intervals [17]:
+            xmin = 17.237 
+            xmax = 31.814 
+            text = "#" 
+        intervals [18]:
+            xmin = 31.814 
+            xmax = 32.384 
+            text = "de loin" 
+        intervals [19]:
+            xmin = 32.384 
+            xmax = 32.658 
+            text = "#" 
+        intervals [20]:
+            xmin = 32.658 
+            xmax = 32.933 
+            text = "ouais" 
+        intervals [21]:
+            xmin = 32.933 
+            xmax = 39.212 
+            text = "#" 
+        intervals [22]:
+            xmin = 39.212 
+            xmax = 39.477 
+            text = "ah" 
+        intervals [23]:
+            xmin = 39.477 
+            xmax = 47.021 
+            text = "#" 
+        intervals [24]:
+            xmin = 47.021 
+            xmax = 52.305 
+            text = "ouais c'est à dire que dans ces cas là c'est le petit me- le petit message qui serait mis à côté de l'image qui donnerait le" 
+        intervals [25]:
+            xmin = 52.305 
+            xmax = 53.113 
+            text = "#" 
+        intervals [26]:
+            xmin = 53.113 
+            xmax = 55.483 
+            text = "qui ferait twister dans un sens ou dans l'autre en fait" 
+        intervals [27]:
+            xmin = 55.483 
+            xmax = 58.468 
+            text = "#" 
+        intervals [28]:
+            xmin = 58.468 
+            xmax = 59.9516 
+            text = "elle a elle aura du mal à devenir appétiss-" 

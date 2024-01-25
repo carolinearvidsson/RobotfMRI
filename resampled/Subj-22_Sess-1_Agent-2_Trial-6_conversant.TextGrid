@@ -1,0 +1,126 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 60 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Transcription" 
+        xmin = 0 
+        xmax = 60 
+        intervals: size = 28 
+        intervals [1]:
+            xmin = 0 
+            xmax = 2.896 
+            text = "#" 
+        intervals [2]:
+            xmin = 2.896 
+            xmax = 3.912 
+            text = "c'est un citron" 
+        intervals [3]:
+            xmin = 3.912 
+            xmax = 5.396 
+            text = "#" 
+        intervals [4]:
+            xmin = 5.396 
+            xmax = 6.249 
+            text = "tu ne penses pas" 
+        intervals [5]:
+            xmin = 6.249 
+            xmax = 11.564 
+            text = "#" 
+        intervals [6]:
+            xmin = 11.564 
+            xmax = 12.874 
+            text = "il ressemble à un ninja" 
+        intervals [7]:
+            xmin = 12.874 
+            xmax = 13.54 
+            text = "#" 
+        intervals [8]:
+            xmin = 13.54 
+            xmax = 14.82 
+            text = "il ressemble à un ninja" 
+        intervals [9]:
+            xmin = 14.82 
+            xmax = 16.217 
+            text = "#" 
+        intervals [10]:
+            xmin = 16.217 
+            xmax = 18.504 
+            text = "quelqu'un a découpé un bandeau dans le citron" 
+        intervals [11]:
+            xmin = 18.504 
+            xmax = 22.553 
+            text = "#" 
+        intervals [12]:
+            xmin = 22.553 
+            xmax = 24.702 
+            text = "il n'est pas méchant comme les deux autres" 
+        intervals [13]:
+            xmin = 24.702 
+            xmax = 26.983 
+            text = "#" 
+        intervals [14]:
+            xmin = 26.983 
+            xmax = 27.832 
+            text = "tu ne crois pas" 
+        intervals [15]:
+            xmin = 27.832 
+            xmax = 31.739 
+            text = "#" 
+        intervals [16]:
+            xmin = 31.739 
+            xmax = 33.42 
+            text = "les trois sont de la même pub" 
+        intervals [17]:
+            xmin = 33.42 
+            xmax = 42.84 
+            text = "#" 
+        intervals [18]:
+            xmin = 42.84 
+            xmax = 43.724 
+            text = "je ne sais pas" 
+        intervals [19]:
+            xmin = 43.724 
+            xmax = 45.863 
+            text = "#" 
+        intervals [20]:
+            xmin = 45.863 
+            xmax = 47.54 
+            text = "est ce qu'on peut revenir au sujet" 
+        intervals [21]:
+            xmin = 47.54 
+            xmax = 49.684 
+            text = "#" 
+        intervals [22]:
+            xmin = 49.684 
+            xmax = 51.121 
+            text = "tu as une idée du message" 
+        intervals [23]:
+            xmin = 51.121 
+            xmax = 57.132 
+            text = "#" 
+        intervals [24]:
+            xmin = 57.132 
+            xmax = 57.686 
+            text = "hum" 
+        intervals [25]:
+            xmin = 57.686 
+            xmax = 58.265 
+            text = "#" 
+        intervals [26]:
+            xmin = 58.265 
+            xmax = 59.088 
+            text = "peut-être" 
+        intervals [27]:
+            xmin = 59.088 
+            xmax = 59.444 
+            text = "#" 
+        intervals [28]:
+            xmin = 59.444 
+            xmax = 59.9516 
+            text = "ah oui" 

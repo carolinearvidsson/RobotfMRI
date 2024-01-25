@@ -1,0 +1,142 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 60 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Transcription" 
+        xmin = 0 
+        xmax = 60 
+        intervals: size = 32 
+        intervals [1]:
+            xmin = 0 
+            xmax = 2.129 
+            text = "#" 
+        intervals [2]:
+            xmin = 2.129 
+            xmax = 3.18 
+            text = "ah elle est moche celle là hein" 
+        intervals [3]:
+            xmin = 3.18 
+            xmax = 6.183 
+            text = "#" 
+        intervals [4]:
+            xmin = 6.183 
+            xmax = 9.724 
+            text = "ouais déformée complètement déformée et avec une couleur un peu étrange" 
+        intervals [5]:
+            xmin = 9.724 
+            xmax = 11.345 
+            text = "#" 
+        intervals [6]:
+            xmin = 11.345 
+            xmax = 12.254 
+            text = "euh" 
+        intervals [7]:
+            xmin = 12.254 
+            xmax = 15.501 
+            text = "#" 
+        intervals [8]:
+            xmin = 15.501 
+            xmax = 17.813 
+            text = "je sais pas moi ça me fait un peu penser aux paquets de bonbons" 
+        intervals [9]:
+            xmin = 17.813 
+            xmax = 20.724 
+            text = "#" 
+        intervals [10]:
+            xmin = 20.724 
+            xmax = 22.954 
+            text = "ouais t'as des framboises comme ça dans certains paquets de bonbons" 
+        intervals [11]:
+            xmin = 22.954 
+            xmax = 26.455 
+            text = "#" 
+        intervals [12]:
+            xmin = 26.455 
+            xmax = 27.227 
+            text = "euh" 
+        intervals [13]:
+            xmin = 27.227 
+            xmax = 29.91 
+            text = "#" 
+        intervals [14]:
+            xmin = 29.91 
+            xmax = 31.185 
+            text = "ouais ben oui voilà c'est ça" 
+        intervals [15]:
+            xmin = 31.185 
+            xmax = 32.267 
+            text = "#" 
+        intervals [16]:
+            xmin = 32.267 
+            xmax = 32.628 
+            text = "c'est ça" 
+        intervals [17]:
+            xmin = 32.628 
+            xmax = 34.03 
+            text = "#" 
+        intervals [18]:
+            xmin = 34.03 
+            xmax = 35.006 
+            text = "euh" 
+        intervals [19]:
+            xmin = 35.006 
+            xmax = 36.982 
+            text = "#" 
+        intervals [20]:
+            xmin = 36.982 
+            xmax = 39.568 
+            text = "ben en tout cas c'est pas c'est pas beau @" 
+        intervals [21]:
+            xmin = 39.568 
+            xmax = 39.781 
+            text = "#" 
+        intervals [22]:
+            xmin = 39.781 
+            xmax = 40.269 
+            text = "je sais pas" 
+        intervals [23]:
+            xmin = 40.269 
+            xmax = 40.508 
+            text = "#" 
+        intervals [24]:
+            xmin = 40.508 
+            xmax = 42.586 
+            text = "ouais c'est ça c'est pas quelque chose qui doit être euh" 
+        intervals [25]:
+            xmin = 42.586 
+            xmax = 43.709 
+            text = "#" 
+        intervals [26]:
+            xmin = 43.709 
+            xmax = 45.289 
+            text = "pour pour promouvoir" 
+        intervals [27]:
+            xmin = 45.289 
+            xmax = 47.26 
+            text = "#" 
+        intervals [28]:
+            xmin = 47.26 
+            xmax = 48.352 
+            text = "euh" 
+        intervals [29]:
+            xmin = 48.352 
+            xmax = 48.576 
+            text = "#" 
+        intervals [30]:
+            xmin = 48.576 
+            xmax = 52.747 
+            text = "peut-être pour mettre en valeur tu sais les les super héros qu'on a vu avant" 
+        intervals [31]:
+            xmin = 52.747 
+            xmax = 59.794 
+            text = "#" 
+        intervals [32]:
+            xmin = 59.794 
+            xmax = 59.9516 
+            text = "ouais" 

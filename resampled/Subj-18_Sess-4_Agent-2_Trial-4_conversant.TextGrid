@@ -1,0 +1,82 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 60 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Transcription" 
+        xmin = 0 
+        xmax = 60 
+        intervals: size = 17 
+        intervals [1]:
+            xmin = 0 
+            xmax = 10.705 
+            text = "#" 
+        intervals [2]:
+            xmin = 10.705 
+            xmax = 11.071 
+            text = "ah oui" 
+        intervals [3]:
+            xmin = 11.071 
+            xmax = 15.999 
+            text = "#" 
+        intervals [4]:
+            xmin = 15.999 
+            xmax = 16.349 
+            text = "ouais" 
+        intervals [5]:
+            xmin = 16.349 
+            xmax = 19.53 
+            text = "#" 
+        intervals [6]:
+            xmin = 19.53 
+            xmax = 21.105 
+            text = "peut-être que quelqu'un l'a frappé" 
+        intervals [7]:
+            xmin = 21.105 
+            xmax = 30.27 
+            text = "#" 
+        intervals [8]:
+            xmin = 30.27 
+            xmax = 31.226 
+            text = "oui c'est possible" 
+        intervals [9]:
+            xmin = 31.226 
+            xmax = 39.969 
+            text = "#" 
+        intervals [10]:
+            xmin = 39.969 
+            xmax = 40.371 
+            text = "ah non" 
+        intervals [11]:
+            xmin = 40.371 
+            xmax = 41.28 
+            text = "#" 
+        intervals [12]:
+            xmin = 41.28 
+            xmax = 42.525 
+            text = "elle semble malheureuse" 
+        intervals [13]:
+            xmin = 42.525 
+            xmax = 50.74 
+            text = "#" 
+        intervals [14]:
+            xmin = 50.74 
+            xmax = 51.121 
+            text = "oui" 
+        intervals [15]:
+            xmin = 51.121 
+            xmax = 54.017 
+            text = "#" 
+        intervals [16]:
+            xmin = 54.017 
+            xmax = 55.653 
+            text = "elle est pourrie parce qu'elle vient de loin" 
+        intervals [17]:
+            xmin = 55.653 
+            xmax = 59.9516 
+            text = "#" 

@@ -1,0 +1,66 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 60 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Transcription" 
+        xmin = 0 
+        xmax = 60 
+        intervals: size = 13 
+        intervals [1]:
+            xmin = 0 
+            xmax = 2.047 
+            text = "#" 
+        intervals [2]:
+            xmin = 2.047 
+            xmax = 4.359 
+            text = "est ce qu'il est changé depuis la dernière fois celui là" 
+        intervals [3]:
+            xmin = 4.359 
+            xmax = 13.926 
+            text = "#" 
+        intervals [4]:
+            xmin = 13.926 
+            xmax = 14.419 
+            text = "pas du tout" 
+        intervals [5]:
+            xmin = 14.419 
+            xmax = 19.79 
+            text = "#" 
+        intervals [6]:
+            xmin = 19.79 
+            xmax = 22.609 
+            text = "et pourquoi tu penses qu'on a découpé dans le légume" 
+        intervals [7]:
+            xmin = 22.609 
+            xmax = 30.875 
+            text = "#" 
+        intervals [8]:
+            xmin = 30.875 
+            xmax = 32.099 
+            text = "mais pourquoi les découper" 
+        intervals [9]:
+            xmin = 32.099 
+            xmax = 42.642 
+            text = "#" 
+        intervals [10]:
+            xmin = 42.642 
+            xmax = 44.714 
+            text = "ça veut dire quoi combattre la mauvaise nourriture" 
+        intervals [11]:
+            xmin = 44.714 
+            xmax = 56.868 
+            text = "#" 
+        intervals [12]:
+            xmin = 56.868 
+            xmax = 58.925 
+            text = "peut-être mais pourquoi alors les fraises" 
+        intervals [13]:
+            xmin = 58.925 
+            xmax = 59.9044 
+            text = "#" 

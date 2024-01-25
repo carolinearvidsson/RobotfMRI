@@ -1,0 +1,126 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 60 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Transcription" 
+        xmin = 0 
+        xmax = 60 
+        intervals: size = 28 
+        intervals [1]:
+            xmin = 0 
+            xmax = 6.3 
+            text = "#" 
+        intervals [2]:
+            xmin = 6.3 
+            xmax = 6.778 
+            text = "allo" 
+        intervals [3]:
+            xmin = 6.778 
+            xmax = 8.469 
+            text = "#" 
+        intervals [4]:
+            xmin = 8.469 
+            xmax = 8.891 
+            text = "allo" 
+        intervals [5]:
+            xmin = 8.891 
+            xmax = 9.821 
+            text = "#" 
+        intervals [6]:
+            xmin = 9.821 
+            xmax = 11.538 
+            text = "ah pardon excuse moi je t'entendais pas" 
+        intervals [7]:
+            xmin = 11.538 
+            xmax = 11.838 
+            text = "#" 
+        intervals [8]:
+            xmin = 11.838 
+            xmax = 15.76 
+            text = "ouais donc c'est la même tâche mais moi j'ai pas jamais vu ces images là hein pour moi c'est des nouvelles" 
+        intervals [9]:
+            xmin = 15.76 
+            xmax = 16.085 
+            text = "#" 
+        intervals [10]:
+            xmin = 16.085 
+            xmax = 16.969 
+            text = "c'est des nouvelles images" 
+        intervals [11]:
+            xmin = 16.969 
+            xmax = 17.782 
+            text = "#" 
+        intervals [12]:
+            xmin = 17.782 
+            xmax = 22.284 
+            text = "euh donc là on part sur euh" 
+        intervals [13]:
+            xmin = 22.284 
+            xmax = 23.107 
+            text = "#" 
+        intervals [14]:
+            xmin = 23.107 
+            xmax = 25.637 
+            text = "euh c'est quoi c'était une aubergine euh" 
+        intervals [15]:
+            xmin = 25.637 
+            xmax = 29.798 
+            text = "#" 
+        intervals [16]:
+            xmin = 29.798 
+            xmax = 34.315 
+            text = "le le le masque c'est les trucs qu'ils avaient découpés donc ouais d'accord on est on est bien d'accord c'était bien un masque" 
+        intervals [17]:
+            xmin = 34.315 
+            xmax = 35.117 
+            text = "#" 
+        intervals [18]:
+            xmin = 35.117 
+            xmax = 38.339 
+            text = "ils avaient découpés la la peau en enlevant la peau là en épluchant" 
+        intervals [19]:
+            xmin = 38.339 
+            xmax = 39.035 
+            text = "#" 
+        intervals [20]:
+            xmin = 39.035 
+            xmax = 41.956 
+            text = "et un masque moi je sais pas ça me faisait un peu penser à un truc euh" 
+        intervals [21]:
+            xmin = 41.956 
+            xmax = 43.983 
+            text = "#" 
+        intervals [22]:
+            xmin = 43.983 
+            xmax = 45.411 
+            text = "j'aurais dit super héros quoi" 
+        intervals [23]:
+            xmin = 45.411 
+            xmax = 46.986 
+            text = "#" 
+        intervals [24]:
+            xmin = 46.986 
+            xmax = 49.536 
+            text = "$Batman$ $Batman$ ouais je cherchais lequel c'était mais euh" 
+        intervals [25]:
+            xmin = 49.536 
+            xmax = 55.155 
+            text = "#" 
+        intervals [26]:
+            xmin = 55.155 
+            xmax = 57.767 
+            text = "ah un peu allongé comme une comme une aubergine" 
+        intervals [27]:
+            xmin = 57.767 
+            xmax = 59.245 
+            text = "#" 
+        intervals [28]:
+            xmin = 59.245 
+            xmax = 59.9516 
+            text = "mais ouais d'accord" 

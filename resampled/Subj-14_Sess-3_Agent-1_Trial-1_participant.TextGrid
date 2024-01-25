@@ -1,0 +1,110 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 60 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Transcription" 
+        xmin = 0 
+        xmax = 60 
+        intervals: size = 24 
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.737 
+            text = "#" 
+        intervals [2]:
+            xmin = 1.737 
+            xmax = 2.947 
+            text = "genre euh" 
+        intervals [3]:
+            xmin = 2.947 
+            xmax = 3.506 
+            text = "#" 
+        intervals [4]:
+            xmin = 3.506 
+            xmax = 4.014 
+            text = "c'est la" 
+        intervals [5]:
+            xmin = 4.014 
+            xmax = 6.28 
+            text = "#" 
+        intervals [6]:
+            xmin = 6.28 
+            xmax = 6.818 
+            text = "ouais on l'a" 
+        intervals [7]:
+            xmin = 6.818 
+            xmax = 7.606 
+            text = "#" 
+        intervals [8]:
+            xmin = 7.606 
+            xmax = 9.582 
+            text = "ouais voilà et euh" 
+        intervals [9]:
+            xmin = 9.582 
+            xmax = 10.44 
+            text = "#" 
+        intervals [10]:
+            xmin = 10.44 
+            xmax = 14.846 
+            text = "et plus je la regarde plus j'ai l'impression que ses yeux sont petits et que sa bouche est grande" 
+        intervals [11]:
+            xmin = 14.846 
+            xmax = 30.657 
+            text = "#" 
+        intervals [12]:
+            xmin = 30.657 
+            xmax = 31.835 
+            text = "à un super héros" 
+        intervals [13]:
+            xmin = 31.835 
+            xmax = 33.629 
+            text = "#" 
+        intervals [14]:
+            xmin = 33.629 
+            xmax = 33.989 
+            text = "euh" 
+        intervals [15]:
+            xmin = 33.989 
+            xmax = 40.401 
+            text = "#" 
+        intervals [16]:
+            xmin = 40.401 
+            xmax = 41.224 
+            text = "je vois pas" 
+        intervals [17]:
+            xmin = 41.224 
+            xmax = 46.538 
+            text = "#" 
+        intervals [18]:
+            xmin = 46.538 
+            xmax = 50.059 
+            text = "je vois pas parce que ça me fait penser à quelqu'un en fait maintenant que tu dis ça" 
+        intervals [19]:
+            xmin = 50.059 
+            xmax = 51.061 
+            text = "#" 
+        intervals [20]:
+            xmin = 51.061 
+            xmax = 55.801 
+            text = "je je cherche mais c'est pas dans $Batman$ qu'il y a des méchants comme ça" 
+        intervals [21]:
+            xmin = 55.801 
+            xmax = 57.066 
+            text = "#" 
+        intervals [22]:
+            xmin = 57.066 
+            xmax = 58.153 
+            text = "c'est s- s-" 
+        intervals [23]:
+            xmin = 58.153 
+            xmax = 59.103 
+            text = "#" 
+        intervals [24]:
+            xmin = 59.103 
+            xmax = 59.9044 
+            text = "ouais mais il est pas" 

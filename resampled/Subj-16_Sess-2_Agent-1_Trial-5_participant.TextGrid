@@ -1,0 +1,118 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 60 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Transcription" 
+        xmin = 0 
+        xmax = 60 
+        intervals: size = 26 
+        intervals [1]:
+            xmin = 0 
+            xmax = 2.749 
+            text = "#" 
+        intervals [2]:
+            xmin = 2.749 
+            xmax = 4.522 
+            text = "on se retrouve encore avec la poire pourrie" 
+        intervals [3]:
+            xmin = 4.522 
+            xmax = 6.793 
+            text = "#" 
+        intervals [4]:
+            xmin = 6.793 
+            xmax = 8.464 
+            text = "ah oui c'est la deuxième fois moi que je l'ai" 
+        intervals [5]:
+            xmin = 8.464 
+            xmax = 11.985 
+            text = "#" 
+        intervals [6]:
+            xmin = 11.985 
+            xmax = 13.464 
+            text = "et euh j'ai j'ai l'impression que tout" 
+        intervals [7]:
+            xmin = 13.464 
+            xmax = 13.647 
+            text = "#" 
+        intervals [8]:
+            xmin = 13.647 
+            xmax = 14.683 
+            text = "tous ces fruits euh" 
+        intervals [9]:
+            xmin = 14.683 
+            xmax = 15.237 
+            text = "#" 
+        intervals [10]:
+            xmin = 15.237 
+            xmax = 18.097 
+            text = "moi ils m'inspirent pas trop confiance tu sais c'est c'est pas comme par exemple" 
+        intervals [11]:
+            xmin = 18.097 
+            xmax = 18.61 
+            text = "#" 
+        intervals [12]:
+            xmin = 18.61 
+            xmax = 20.272 
+            text = "dans les pubs pour les $M&M's$ et tout" 
+        intervals [13]:
+            xmin = 20.272 
+            xmax = 20.48 
+            text = "#" 
+        intervals [14]:
+            xmin = 20.48 
+            xmax = 25.399 
+            text = "les $M&M's$ ils sont tout mignons tout ronds tout beaux tout frais ou comme comme dans les pubs pour le $Orangina$ où ça donne trop envie" 
+        intervals [15]:
+            xmin = 25.399 
+            xmax = 26.104 
+            text = "#" 
+        intervals [16]:
+            xmin = 26.104 
+            xmax = 28.36 
+            text = "là là c'est pas très très" 
+        intervals [17]:
+            xmin = 28.36 
+            xmax = 28.863 
+            text = "#" 
+        intervals [18]:
+            xmin = 28.863 
+            xmax = 29.762 
+            text = "pas très appétissant" 
+        intervals [19]:
+            xmin = 29.762 
+            xmax = 44.786 
+            text = "#" 
+        intervals [20]:
+            xmin = 44.786 
+            xmax = 46.813 
+            text = "et ouais elle a l'air un peu pourrie elle est toute marron" 
+        intervals [21]:
+            xmin = 46.813 
+            xmax = 51.487 
+            text = "#" 
+        intervals [22]:
+            xmin = 51.487 
+            xmax = 54.777 
+            text = "c'est vrai les les les les les poires les plus mûres sont pas les plus mauvaises" 
+        intervals [23]:
+            xmin = 54.777 
+            xmax = 56.776 
+            text = "#" 
+        intervals [24]:
+            xmin = 56.776 
+            xmax = 57.178 
+            text = "oui" 
+        intervals [25]:
+            xmin = 57.178 
+            xmax = 59.545 
+            text = "#" 
+        intervals [26]:
+            xmin = 59.545 
+            xmax = 59.9044 
+            text = "c'est vrai" 

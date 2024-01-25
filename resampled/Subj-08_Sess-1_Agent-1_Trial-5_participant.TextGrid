@@ -1,0 +1,114 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 60 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Transcription" 
+        xmin = 0 
+        xmax = 60 
+        intervals: size = 25 
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.336 
+            text = "#" 
+        intervals [2]:
+            xmin = 1.336 
+            xmax = 3.384 
+            text = "euh donc j'ai vu la pomme rouge" 
+        intervals [3]:
+            xmin = 3.384 
+            xmax = 5.51 
+            text = "#" 
+        intervals [4]:
+            xmin = 5.51 
+            xmax = 5.821 
+            text = "ouais" 
+        intervals [5]:
+            xmin = 5.821 
+            xmax = 6.494 
+            text = "#" 
+        intervals [6]:
+            xmin = 6.494 
+            xmax = 9.115 
+            text = "euh -fin je sais pas si tu vois les images toi aussi" 
+        intervals [7]:
+            xmin = 9.115 
+            xmax = 15.608 
+            text = "#" 
+        intervals [8]:
+            xmin = 15.608 
+            xmax = 15.984 
+            text = "voilà" 
+        intervals [9]:
+            xmin = 15.984 
+            xmax = 16.482 
+            text = "#" 
+        intervals [10]:
+            xmin = 16.482 
+            xmax = 24.56 
+            text = "la pomme euh je l'ai déjà vu tout à l'heure et j'avais pas pensé mais maintenant elle me fait penser à $Spiderman$" 
+        intervals [11]:
+            xmin = 24.56 
+            xmax = 26.779 
+            text = "#" 
+        intervals [12]:
+            xmin = 26.779 
+            xmax = 28.319 
+            text = "ah j'ai pensé à $Spiderman$" 
+        intervals [13]:
+            xmin = 28.319 
+            xmax = 29.788 
+            text = "#" 
+        intervals [14]:
+            xmin = 29.788 
+            xmax = 30.077 
+            text = "voilà" 
+        intervals [15]:
+            xmin = 30.077 
+            xmax = 35.275 
+            text = "#" 
+        intervals [16]:
+            xmin = 35.275 
+            xmax = 40.513 
+            text = "bah ouais et tout à l'heure j'avais pas pensé mais j- en la revoyant ch- et du coup euh" 
+        intervals [17]:
+            xmin = 40.513 
+            xmax = 41.392 
+            text = "#" 
+        intervals [18]:
+            xmin = 41.392 
+            xmax = 45.147 
+            text = "elle me fait penser vraiment au masque des $Spiderman$ et au rouge et" 
+        intervals [19]:
+            xmin = 45.147 
+            xmax = 45.751 
+            text = "#" 
+        intervals [20]:
+            xmin = 45.751 
+            xmax = 48.297 
+            text = "c'est les yeux comme ça un peu *" 
+        intervals [21]:
+            xmin = 48.297 
+            xmax = 50.039 
+            text = "#" 
+        intervals [22]:
+            xmin = 50.039 
+            xmax = 51.235 
+            text = "et voilà" 
+        intervals [23]:
+            xmin = 51.235 
+            xmax = 55.077 
+            text = "#" 
+        intervals [24]:
+            xmin = 55.077 
+            xmax = 56.548 
+            text = "ah oui c'est de la triche" 
+        intervals [25]:
+            xmin = 56.548 
+            xmax = 59.9044 
+            text = "#" 

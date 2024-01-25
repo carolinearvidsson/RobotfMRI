@@ -1,0 +1,134 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 60 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Transcription" 
+        xmin = 0 
+        xmax = 60 
+        intervals: size = 30 
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.778 
+            text = "#" 
+        intervals [2]:
+            xmin = 1.778 
+            xmax = 2.408 
+            text = "allez" 
+        intervals [3]:
+            xmin = 2.408 
+            xmax = 2.784 
+            text = "#" 
+        intervals [4]:
+            xmin = 2.784 
+            xmax = 5.904 
+            text = "donc ça c'est la série fruits rouges fruits rouges pourris du jardin" 
+        intervals [5]:
+            xmin = 5.904 
+            xmax = 11.345 
+            text = "#" 
+        intervals [6]:
+            xmin = 11.345 
+            xmax = 12.183 
+            text = "ouais c'est vrai" 
+        intervals [7]:
+            xmin = 12.183 
+            xmax = 13.393 
+            text = "#" 
+        intervals [8]:
+            xmin = 13.393 
+            xmax = 13.83 
+            text = "c'est vrai" 
+        intervals [9]:
+            xmin = 13.83 
+            xmax = 16.99 
+            text = "#" 
+        intervals [10]:
+            xmin = 16.99 
+            xmax = 19.235 
+            text = "c'est vrai la poire elle était plus noire et euh" 
+        intervals [11]:
+            xmin = 19.235 
+            xmax = 19.657 
+            text = "#" 
+        intervals [12]:
+            xmin = 19.657 
+            xmax = 22.406 
+            text = "la framboise et la fraise c'est un peu moins c'est un peu moins évident" 
+        intervals [13]:
+            xmin = 22.406 
+            xmax = 22.756 
+            text = "#" 
+        intervals [14]:
+            xmin = 22.756 
+            xmax = 22.914 
+            text = "par" 
+        intervals [15]:
+            xmin = 22.914 
+            xmax = 27.72 
+            text = "#" 
+        intervals [16]:
+            xmin = 27.72 
+            xmax = 30.413 
+            text = "donc il serait donc il serait encore bon donc ce serait pas euh" 
+        intervals [17]:
+            xmin = 30.413 
+            xmax = 30.789 
+            text = "#" 
+        intervals [18]:
+            xmin = 30.789 
+            xmax = 31.917 
+            text = "qui faut les mettre à la poubelle" 
+        intervals [19]:
+            xmin = 31.917 
+            xmax = 32.557 
+            text = "#" 
+        intervals [20]:
+            xmin = 32.557 
+            xmax = 33.542 
+            text = "c'est plutôt qu'il faut les manger" 
+        intervals [21]:
+            xmin = 33.542 
+            xmax = 47.91 
+            text = "#" 
+        intervals [22]:
+            xmin = 47.91 
+            xmax = 50.735 
+            text = "ah @ euh" 
+        intervals [23]:
+            xmin = 50.735 
+            xmax = 51.228 
+            text = "#" 
+        intervals [24]:
+            xmin = 51.228 
+            xmax = 51.792 
+            text = "c'est possible" 
+        intervals [25]:
+            xmin = 51.792 
+            xmax = 52.366 
+            text = "#" 
+        intervals [26]:
+            xmin = 52.366 
+            xmax = 56.974 
+            text = "c'est possible mais à mon avis euh les gens qui ont le copyright ils se font pas avoir comme ça hein @" 
+        intervals [27]:
+            xmin = 56.974 
+            xmax = 57.355 
+            text = "#" 
+        intervals [28]:
+            xmin = 57.355 
+            xmax = 57.686 
+            text = "@" 
+        intervals [29]:
+            xmin = 57.686 
+            xmax = 57.98 
+            text = "#" 
+        intervals [30]:
+            xmin = 57.98 
+            xmax = 59.9516 
+            text = "mais euh mais l'idée mais l'idée est bonne" 

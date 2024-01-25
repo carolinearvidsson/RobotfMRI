@@ -1,0 +1,154 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 60 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Transcription" 
+        xmin = 0 
+        xmax = 60 
+        intervals: size = 35 
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.275 
+            text = "#" 
+        intervals [2]:
+            xmin = 1.275 
+            xmax = 2.916 
+            text = "ouais c'est le même que tout à l'heure" 
+        intervals [3]:
+            xmin = 2.916 
+            xmax = 3.67 
+            text = "#" 
+        intervals [4]:
+            xmin = 3.67 
+            xmax = 4.319 
+            text = "l'aubergine" 
+        intervals [5]:
+            xmin = 4.319 
+            xmax = 4.628 
+            text = "#" 
+        intervals [6]:
+            xmin = 4.628 
+            xmax = 4.999 
+            text = "avec" 
+        intervals [7]:
+            xmin = 4.999 
+            xmax = 5.486 
+            text = "#" 
+        intervals [8]:
+            xmin = 5.486 
+            xmax = 7.994 
+            text = "le masque -fin ou la patate avec un masque et" 
+        intervals [9]:
+            xmin = 7.994 
+            xmax = 10.882 
+            text = "#" 
+        intervals [10]:
+            xmin = 10.882 
+            xmax = 11.248 
+            text = "oui" 
+        intervals [11]:
+            xmin = 11.248 
+            xmax = 19.464 
+            text = "#" 
+        intervals [12]:
+            xmin = 19.464 
+            xmax = 22.019 
+            text = "euh ah oui d'accord et ensuite y a les fruits" 
+        intervals [13]:
+            xmin = 22.019 
+            xmax = 23.188 
+            text = "#" 
+        intervals [14]:
+            xmin = 23.188 
+            xmax = 25.495 
+            text = "et les fruits ils ont des expressions plus particulières" 
+        intervals [15]:
+            xmin = 25.495 
+            xmax = 26.501 
+            text = "#" 
+        intervals [16]:
+            xmin = 26.501 
+            xmax = 26.836 
+            text = "d'accord" 
+        intervals [17]:
+            xmin = 26.836 
+            xmax = 27.024 
+            text = "#" 
+        intervals [18]:
+            xmin = 27.024 
+            xmax = 27.466 
+            text = "euh" 
+        intervals [19]:
+            xmin = 27.466 
+            xmax = 29.381 
+            text = "#" 
+        intervals [20]:
+            xmin = 29.381 
+            xmax = 34.376 
+            text = "ben du coup je sais pas si c'est une incitation à manger des fruits peut-être à destination des enfants" 
+        intervals [21]:
+            xmin = 34.376 
+            xmax = 35.051 
+            text = "#" 
+        intervals [22]:
+            xmin = 35.051 
+            xmax = 36.473 
+            text = "et aussi à manger des légumes" 
+        intervals [23]:
+            xmin = 36.473 
+            xmax = 39.832 
+            text = "#" 
+        intervals [24]:
+            xmin = 39.832 
+            xmax = 40.676 
+            text = "euh" 
+        intervals [25]:
+            xmin = 40.676 
+            xmax = 41.118 
+            text = "#" 
+        intervals [26]:
+            xmin = 41.118 
+            xmax = 42.576 
+            text = "ouais ça pourrait rentrer là dedans" 
+        intervals [27]:
+            xmin = 42.576 
+            xmax = 43.216 
+            text = "#" 
+        intervals [28]:
+            xmin = 43.216 
+            xmax = 43.805 
+            text = "et du coup comme" 
+        intervals [29]:
+            xmin = 43.805 
+            xmax = 44.166 
+            text = "#" 
+        intervals [30]:
+            xmin = 44.166 
+            xmax = 46.508 
+            text = "c'est un peu ludique comme genre d'images" 
+        intervals [31]:
+            xmin = 46.508 
+            xmax = 46.981 
+            text = "#" 
+        intervals [32]:
+            xmin = 46.981 
+            xmax = 48.825 
+            text = "peut-être que c'est destiné un peu plus jeune" 
+        intervals [33]:
+            xmin = 48.825 
+            xmax = 55.658 
+            text = "#" 
+        intervals [34]:
+            xmin = 55.658 
+            xmax = 58.214 
+            text = "les fruits aussi je pense les deux ça peut marcher" 
+        intervals [35]:
+            xmin = 58.214 
+            xmax = 59.9044 
+            text = "#" 

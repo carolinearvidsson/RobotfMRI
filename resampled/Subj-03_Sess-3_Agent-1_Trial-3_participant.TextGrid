@@ -1,0 +1,146 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 60 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Transcription" 
+        xmin = 0 
+        xmax = 60 
+        intervals: size = 33 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.787 
+            text = "#" 
+        intervals [2]:
+            xmin = 0.787 
+            xmax = 3.546 
+            text = "mais tu sais du coup j'ai retrouvé qui c'était c'est une tortue ninja" 
+        intervals [3]:
+            xmin = 3.546 
+            xmax = 5.162 
+            text = "#" 
+        intervals [4]:
+            xmin = 5.162 
+            xmax = 5.944 
+            text = "je sais pas si tu te rappelles" 
+        intervals [5]:
+            xmin = 5.944 
+            xmax = 12.966 
+            text = "#" 
+        intervals [6]:
+            xmin = 12.966 
+            xmax = 14.033 
+            text = "et euh" 
+        intervals [7]:
+            xmin = 14.033 
+            xmax = 14.49 
+            text = "#" 
+        intervals [8]:
+            xmin = 14.49 
+            xmax = 15.76 
+            text = "et du coup ils combattaient des méchants" 
+        intervals [9]:
+            xmin = 15.76 
+            xmax = 16.578 
+            text = "#" 
+        intervals [10]:
+            xmin = 16.578 
+            xmax = 17.427 
+            text = "donc là pareil" 
+        intervals [11]:
+            xmin = 17.427 
+            xmax = 17.737 
+            text = "#" 
+        intervals [12]:
+            xmin = 17.737 
+            xmax = 19.886 
+            text = "-fin le citron euh frais et tout euh" 
+        intervals [13]:
+            xmin = 19.886 
+            xmax = 20.577 
+            text = "#" 
+        intervals [14]:
+            xmin = 20.577 
+            xmax = 22.502 
+            text = "doit combattre tout ce qui est euh" 
+        intervals [15]:
+            xmin = 22.502 
+            xmax = 23.33 
+            text = "#" 
+        intervals [16]:
+            xmin = 23.33 
+            xmax = 27.446 
+            text = "peut-être avec des pesticides ou alors qui viennent de loin qui ont été transportés etcetera" 
+        intervals [17]:
+            xmin = 27.446 
+            xmax = 28.675 
+            text = "#" 
+        intervals [18]:
+            xmin = 28.675 
+            xmax = 31.978 
+            text = "je sais pas si l'aspect c'est l'aspect bio ou l'aspect locaux qui compte le plus" 
+        intervals [19]:
+            xmin = 31.978 
+            xmax = 41.549 
+            text = "#" 
+        intervals [20]:
+            xmin = 41.549 
+            xmax = 41.834 
+            text = "ouais" 
+        intervals [21]:
+            xmin = 41.834 
+            xmax = 42.698 
+            text = "#" 
+        intervals [22]:
+            xmin = 42.698 
+            xmax = 45.167 
+            text = "ouais parce que les autres elles sont abimées donc c'est plus euh" 
+        intervals [23]:
+            xmin = 45.167 
+            xmax = 45.477 
+            text = "#" 
+        intervals [24]:
+            xmin = 45.477 
+            xmax = 46.955 
+            text = "à cause du transport que euh" 
+        intervals [25]:
+            xmin = 46.955 
+            xmax = 47.316 
+            text = "#" 
+        intervals [26]:
+            xmin = 47.316 
+            xmax = 47.535 
+            text = "ouais" 
+        intervals [27]:
+            xmin = 47.535 
+            xmax = 49.973 
+            text = "#" 
+        intervals [28]:
+            xmin = 49.973 
+            xmax = 50.543 
+            text = "je pense" 
+        intervals [29]:
+            xmin = 50.543 
+            xmax = 52.794 
+            text = "#" 
+        intervals [30]:
+            xmin = 52.794 
+            xmax = 53.763 
+            text = "je voterais plus là dessus" 
+        intervals [31]:
+            xmin = 53.763 
+            xmax = 55.643 
+            text = "#" 
+        intervals [32]:
+            xmin = 55.643 
+            xmax = 58.081 
+            text = "ça me donne envie de me faire un petit s- un petit porridge" 
+        intervals [33]:
+            xmin = 58.081 
+            xmax = 59.9044 
+            text = "#" 

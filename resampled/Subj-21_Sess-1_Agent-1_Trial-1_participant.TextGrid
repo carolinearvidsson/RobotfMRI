@@ -1,0 +1,98 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 60 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Transcription" 
+        xmin = 0 
+        xmax = 60 
+        intervals: size = 21 
+        intervals [1]:
+            xmin = 0 
+            xmax = 3.683 
+            text = "#" 
+        intervals [2]:
+            xmin = 3.683 
+            xmax = 4.237 
+            text = "ça y est" 
+        intervals [3]:
+            xmin = 4.237 
+            xmax = 6.102 
+            text = "#" 
+        intervals [4]:
+            xmin = 6.102 
+            xmax = 6.696 
+            text = "tu m'entends" 
+        intervals [5]:
+            xmin = 6.696 
+            xmax = 9.084 
+            text = "#" 
+        intervals [6]:
+            xmin = 9.084 
+            xmax = 9.785 
+            text = "oui c'est bon" 
+        intervals [7]:
+            xmin = 9.785 
+            xmax = 16.679 
+            text = "#" 
+        intervals [8]:
+            xmin = 16.679 
+            xmax = 17.668 
+            text = "t'as pas mangé encore" 
+        intervals [9]:
+            xmin = 17.668 
+            xmax = 27.898 
+            text = "#" 
+        intervals [10]:
+            xmin = 27.898 
+            xmax = 28.319 
+            text = "ah oui" 
+        intervals [11]:
+            xmin = 28.319 
+            xmax = 30.088 
+            text = "#" 
+        intervals [12]:
+            xmin = 30.088 
+            xmax = 31.124 
+            text = "et c'est quoi l'autre légume" 
+        intervals [13]:
+            xmin = 31.124 
+            xmax = 32.521 
+            text = "#" 
+        intervals [14]:
+            xmin = 32.521 
+            xmax = 33.944 
+            text = "un autre légume l'autre chose" 
+        intervals [15]:
+            xmin = 33.944 
+            xmax = 37.607 
+            text = "#" 
+        intervals [16]:
+            xmin = 37.607 
+            xmax = 40.737 
+            text = "c'est une aubergine mais y a quoi au milieu c'est un peu un visage avec euh" 
+        intervals [17]:
+            xmin = 40.737 
+            xmax = 48.678 
+            text = "#" 
+        intervals [18]:
+            xmin = 48.678 
+            xmax = 51.223 
+            text = "moi je pensais que c'était une aubergine et un autre légume" 
+        intervals [19]:
+            xmin = 51.223 
+            xmax = 54.175 
+            text = "#" 
+        intervals [20]:
+            xmin = 54.175 
+            xmax = 55.125 
+            text = "non j'ai déjà mangé" 
+        intervals [21]:
+            xmin = 55.125 
+            xmax = 59.9044 
+            text = "#" 

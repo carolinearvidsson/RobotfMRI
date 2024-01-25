@@ -1,0 +1,174 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 60 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Transcription" 
+        xmin = 0 
+        xmax = 60 
+        intervals: size = 40 
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.472 
+            text = "#" 
+        intervals [2]:
+            xmin = 1.472 
+            xmax = 3.079 
+            text = "alors j'ai revu l'image du citron" 
+        intervals [3]:
+            xmin = 3.079 
+            xmax = 3.648 
+            text = "#" 
+        intervals [4]:
+            xmin = 3.648 
+            xmax = 4.705 
+            text = "je l'ai déjà vu" 
+        intervals [5]:
+            xmin = 4.705 
+            xmax = 6.615 
+            text = "#" 
+        intervals [6]:
+            xmin = 6.615 
+            xmax = 7.712 
+            text = "et euh" 
+        intervals [7]:
+            xmin = 7.712 
+            xmax = 9.694 
+            text = "#" 
+        intervals [8]:
+            xmin = 9.694 
+            xmax = 12.407 
+            text = "le vert moi je pensais qu'il était rajouté" 
+        intervals [9]:
+            xmin = 12.407 
+            xmax = 12.996 
+            text = "#" 
+        intervals [10]:
+            xmin = 12.996 
+            xmax = 13.951 
+            text = "mais peut-être pas" 
+        intervals [11]:
+            xmin = 13.951 
+            xmax = 14.266 
+            text = "#" 
+        intervals [12]:
+            xmin = 14.266 
+            xmax = 16.182 
+            text = "petit pas trop piquant euh" 
+        intervals [13]:
+            xmin = 16.182 
+            xmax = 16.995 
+            text = "#" 
+        intervals [14]:
+            xmin = 16.995 
+            xmax = 19.418 
+            text = "ça peut être un citron vert ou découpé" 
+        intervals [15]:
+            xmin = 19.418 
+            xmax = 21.276 
+            text = "#" 
+        intervals [16]:
+            xmin = 21.276 
+            xmax = 24.763 
+            text = "et euh ça m'a fait penser la première fois * où je l'ai vu aux $Tortues Ninja$" 
+        intervals [17]:
+            xmin = 24.763 
+            xmax = 25.017 
+            text = "#" 
+        intervals [18]:
+            xmin = 25.017 
+            xmax = 27.629 
+            text = "et ça continue elle me d- fait penser aux $Tortue Ninja$" 
+        intervals [19]:
+            xmin = 27.629 
+            xmax = 27.852 
+            text = "#" 
+        intervals [20]:
+            xmin = 27.852 
+            xmax = 29.615 
+            text = "je pense que c'est les détails verts" 
+        intervals [21]:
+            xmin = 29.615 
+            xmax = 34.183 
+            text = "#" 
+        intervals [22]:
+            xmin = 34.183 
+            xmax = 34.498 
+            text = "ah" 
+        intervals [23]:
+            xmin = 34.498 
+            xmax = 35.605 
+            text = "#" 
+        intervals [24]:
+            xmin = 35.605 
+            xmax = 37.241 
+            text = "et le vert m'a fait penser vraiment" 
+        intervals [25]:
+            xmin = 37.241 
+            xmax = 39.375 
+            text = "#" 
+        intervals [26]:
+            xmin = 39.375 
+            xmax = 39.695 
+            text = "au" 
+        intervals [27]:
+            xmin = 39.695 
+            xmax = 40.442 
+            text = "#" 
+        intervals [28]:
+            xmin = 40.442 
+            xmax = 41.163 
+            text = "dessiné animé" 
+        intervals [29]:
+            xmin = 41.163 
+            xmax = 43.099 
+            text = "#" 
+        intervals [30]:
+            xmin = 43.099 
+            xmax = 45.228 
+            text = "le fait que ce soit un citron euh" 
+        intervals [31]:
+            xmin = 45.228 
+            xmax = 47.535 
+            text = "#" 
+        intervals [32]:
+            xmin = 47.535 
+            xmax = 49.13 
+            text = "me paraît plutôt de bien *" 
+        intervals [33]:
+            xmin = 49.13 
+            xmax = 51.914 
+            text = "#" 
+        intervals [34]:
+            xmin = 51.914 
+            xmax = 53.052 
+            text = "quoi quand même bien que ça c'est" 
+        intervals [35]:
+            xmin = 53.052 
+            xmax = 55.094 
+            text = "#" 
+        intervals [36]:
+            xmin = 55.094 
+            xmax = 55.853 
+            text = "oui exact" 
+        intervals [37]:
+            xmin = 55.853 
+            xmax = 56.583 
+            text = "#" 
+        intervals [38]:
+            xmin = 56.583 
+            xmax = 57.401 
+            text = "c'est" 
+        intervals [39]:
+            xmin = 57.401 
+            xmax = 59.059 
+            text = "#" 
+        intervals [40]:
+            xmin = 59.059 
+            xmax = 59.9044 
+            text = "bah parce que si on met" 

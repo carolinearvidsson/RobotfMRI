@@ -1,0 +1,130 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 60 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Transcription" 
+        xmin = 0 
+        xmax = 60 
+        intervals: size = 29 
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.934 
+            text = "#" 
+        intervals [2]:
+            xmin = 1.934 
+            xmax = 4.806 
+            text = "ok donc là on est sur la la poire" 
+        intervals [3]:
+            xmin = 4.806 
+            xmax = 6.136 
+            text = "#" 
+        intervals [4]:
+            xmin = 6.136 
+            xmax = 7.326 
+            text = "euh" 
+        intervals [5]:
+            xmin = 7.326 
+            xmax = 8.998 
+            text = "#" 
+        intervals [6]:
+            xmin = 8.998 
+            xmax = 9.181 
+            text = "elle a" 
+        intervals [7]:
+            xmin = 9.181 
+            xmax = 10.989 
+            text = "#" 
+        intervals [8]:
+            xmin = 10.989 
+            xmax = 12.625 
+            text = "ouais elle a l'air sympa mais euh" 
+        intervals [9]:
+            xmin = 12.625 
+            xmax = 14.881 
+            text = "#" 
+        intervals [10]:
+            xmin = 14.881 
+            xmax = 19.642 
+            text = "on dirait que ouais on dirait qu'on l'a tapée quoi comme de comme tout à l'heure pour la pour la pour la fraise je crois" 
+        intervals [11]:
+            xmin = 19.642 
+            xmax = 20.606 
+            text = "#" 
+        intervals [12]:
+            xmin = 20.606 
+            xmax = 21.314 
+            text = "mais euh" 
+        intervals [13]:
+            xmin = 21.314 
+            xmax = 22.502 
+            text = "#" 
+        intervals [14]:
+            xmin = 22.502 
+            xmax = 27.12 
+            text = "pas euh par rapport à ce que tu me disais tout à l'heure est ce qu'on peut dire que les fruits et légumes sont meilleurs que d'autres" 
+        intervals [15]:
+            xmin = 27.12 
+            xmax = 27.852 
+            text = "#" 
+        intervals [16]:
+            xmin = 27.852 
+            xmax = 31.287 
+            text = "euh -fin donner une équivalence à des fruits et légumes peut-être pas aux fruits et légumes en eux mêmes mais au" 
+        intervals [17]:
+            xmin = 31.287 
+            xmax = 31.79 
+            text = "#" 
+        intervals [18]:
+            xmin = 31.79 
+            xmax = 32.912 
+            text = "type de fruits et légumes tu vois" 
+        intervals [19]:
+            xmin = 32.912 
+            xmax = 33.09 
+            text = "#" 
+        intervals [20]:
+            xmin = 33.09 
+            xmax = 34.193 
+            text = "-fin je sais pas mais euh" 
+        intervals [21]:
+            xmin = 34.193 
+            xmax = 43.114 
+            text = "#" 
+        intervals [22]:
+            xmin = 43.114 
+            xmax = 44.09 
+            text = "ouais c'est ça c'est ça" 
+        intervals [23]:
+            xmin = 44.09 
+            xmax = 47.123 
+            text = "#" 
+        intervals [24]:
+            xmin = 47.123 
+            xmax = 52.91 
+            text = "tu sais quand tu vas voir la famille et qu'on te dit ah il a poussé dans le jardin dans un sens c'est pas pareil que quand tu le prends au supermarché je sais pas si tu vois ce que je veux dire" 
+        intervals [25]:
+            xmin = 52.91 
+            xmax = 53.459 
+            text = "#" 
+        intervals [26]:
+            xmin = 53.459 
+            xmax = 53.601 
+            text = "ouais" 
+        intervals [27]:
+            xmin = 53.601 
+            xmax = 54.698 
+            text = "#" 
+        intervals [28]:
+            xmin = 54.698 
+            xmax = 55.571 
+            text = "euh" 
+        intervals [29]:
+            xmin = 55.571 
+            xmax = 59.9516 
+            text = "#" 

@@ -1,0 +1,130 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 60 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Transcription" 
+        xmin = 0 
+        xmax = 60 
+        intervals: size = 29 
+        intervals [1]:
+            xmin = 0 
+            xmax = 7.728 
+            text = "#" 
+        intervals [2]:
+            xmin = 7.728 
+            xmax = 7.951 
+            text = "ouais" 
+        intervals [3]:
+            xmin = 7.951 
+            xmax = 8.144 
+            text = "#" 
+        intervals [4]:
+            xmin = 8.144 
+            xmax = 10.964 
+            text = "une framboise avec des bras et des jambes non" 
+        intervals [5]:
+            xmin = 10.964 
+            xmax = 13.103 
+            text = "#" 
+        intervals [6]:
+            xmin = 13.103 
+            xmax = 13.296 
+            text = "mh" 
+        intervals [7]:
+            xmin = 13.296 
+            xmax = 14.002 
+            text = "#" 
+        intervals [8]:
+            xmin = 14.002 
+            xmax = 15.516 
+            text = "pas très jolie -fin moi je la trouve moche" 
+        intervals [9]:
+            xmin = 15.516 
+            xmax = 22.502 
+            text = "#" 
+        intervals [10]:
+            xmin = 22.502 
+            xmax = 23.686 
+            text = "bah c'est un peu euh" 
+        intervals [11]:
+            xmin = 23.686 
+            xmax = 24.621 
+            text = "#" 
+        intervals [12]:
+            xmin = 24.621 
+            xmax = 25.617 
+            text = "tu vois les paquets de bonbons" 
+        intervals [13]:
+            xmin = 25.617 
+            xmax = 25.967 
+            text = "#" 
+        intervals [14]:
+            xmin = 25.967 
+            xmax = 28.34 
+            text = "avec certains bonbons un peu gélatineux à l'intérieur" 
+        intervals [15]:
+            xmin = 28.34 
+            xmax = 30.301 
+            text = "#" 
+        intervals [16]:
+            xmin = 30.301 
+            xmax = 30.433 
+            text = "*" 
+        intervals [17]:
+            xmin = 30.433 
+            xmax = 31.49 
+            text = "#" 
+        intervals [18]:
+            xmin = 31.49 
+            xmax = 32.892 
+            text = "moi ça me fait penser à ça" 
+        intervals [19]:
+            xmin = 32.892 
+            xmax = 33.456 
+            text = "#" 
+        intervals [20]:
+            xmin = 33.456 
+            xmax = 34.289 
+            text = "tu sais c'est euh" 
+        intervals [21]:
+            xmin = 34.289 
+            xmax = 37.038 
+            text = "#" 
+        intervals [22]:
+            xmin = 37.038 
+            xmax = 40.066 
+            text = "des trucs avec un goût assez sucré un peu un peu gélatineux" 
+        intervals [23]:
+            xmin = 40.066 
+            xmax = 48.927 
+            text = "#" 
+        intervals [24]:
+            xmin = 48.927 
+            xmax = 49.932 
+            text = "une mauvaise framboise" 
+        intervals [25]:
+            xmin = 49.932 
+            xmax = 52.331 
+            text = "#" 
+        intervals [26]:
+            xmin = 52.331 
+            xmax = 52.524 
+            text = "pour" 
+        intervals [27]:
+            xmin = 52.524 
+            xmax = 53.011 
+            text = "#" 
+        intervals [28]:
+            xmin = 53.011 
+            xmax = 53.763 
+            text = "pourquoi mauvaise" 
+        intervals [29]:
+            xmin = 53.763 
+            xmax = 59.9516 
+            text = "#" 

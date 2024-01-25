@@ -1,0 +1,118 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 60 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Transcription" 
+        xmin = 0 
+        xmax = 60 
+        intervals: size = 26 
+        intervals [1]:
+            xmin = 0 
+            xmax = 2.931 
+            text = "#" 
+        intervals [2]:
+            xmin = 2.931 
+            xmax = 6.33 
+            text = "euh ben là avec la pomme on est bien avancé parce que on la mange ou on la boit" 
+        intervals [3]:
+            xmin = 6.33 
+            xmax = 10.166 
+            text = "#" 
+        intervals [4]:
+            xmin = 10.166 
+            xmax = 13.301 
+            text = "ah mince j'étais complètement parti sur qu'est ce qu'on faisait avec et euh" 
+        intervals [5]:
+            xmin = 13.301 
+            xmax = 13.88 
+            text = "#" 
+        intervals [6]:
+            xmin = 13.88 
+            xmax = 14.968 
+            text = "j'ai pas regardé le" 
+        intervals [7]:
+            xmin = 14.968 
+            xmax = 15.928 
+            text = "#" 
+        intervals [8]:
+            xmin = 15.928 
+            xmax = 21.105 
+            text = "elle a- elle avait quoi dessus les yeux les deux yeux ouais y a pas la bouche y a les deux yeux" 
+        intervals [9]:
+            xmin = 21.105 
+            xmax = 25.017 
+            text = "#" 
+        intervals [10]:
+            xmin = 25.017 
+            xmax = 25.576 
+            text = "ouais c'est ça" 
+        intervals [11]:
+            xmin = 25.576 
+            xmax = 30.011 
+            text = "#" 
+        intervals [12]:
+            xmin = 30.011 
+            xmax = 31.53 
+            text = "j'ai pas fait attention pourquoi elle est à l'envers" 
+        intervals [13]:
+            xmin = 31.53 
+            xmax = 35.565 
+            text = "#" 
+        intervals [14]:
+            xmin = 35.565 
+            xmax = 37.424 
+            text = "non mais pourquoi tu dis que la pomme était à l'envers j-" 
+        intervals [15]:
+            xmin = 37.424 
+            xmax = 40.203 
+            text = "#" 
+        intervals [16]:
+            xmin = 40.203 
+            xmax = 44.862 
+            text = "ah ok ok ok ok ouais j'avais pas fait attention en fait j'ai pensé complètement à autre chose en regardant" 
+        intervals [17]:
+            xmin = 44.862 
+            xmax = 51.36 
+            text = "#" 
+        intervals [18]:
+            xmin = 51.36 
+            xmax = 53.128 
+            text = "ah ok c'est bon ben c'est ça alors hein" 
+        intervals [19]:
+            xmin = 53.128 
+            xmax = 53.342 
+            text = "#" 
+        intervals [20]:
+            xmin = 53.342 
+            xmax = 54.129 
+            text = "là au moins on est sûrs" 
+        intervals [21]:
+            xmin = 54.129 
+            xmax = 54.49 
+            text = "#" 
+        intervals [22]:
+            xmin = 54.49 
+            xmax = 55.816 
+            text = "donc ça doit être euh" 
+        intervals [23]:
+            xmin = 55.816 
+            xmax = 56.72 
+            text = "#" 
+        intervals [24]:
+            xmin = 56.72 
+            xmax = 59.083 
+            text = "euh on avait parce que euh" 
+        intervals [25]:
+            xmin = 59.083 
+            xmax = 59.317 
+            text = "#" 
+        intervals [26]:
+            xmin = 59.317 
+            xmax = 59.9516 
+            text = "bah $Batman$ et s-" 

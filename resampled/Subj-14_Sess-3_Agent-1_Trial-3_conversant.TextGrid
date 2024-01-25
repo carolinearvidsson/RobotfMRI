@@ -1,0 +1,138 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 60 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Transcription" 
+        xmin = 0 
+        xmax = 60 
+        intervals: size = 31 
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.087 
+            text = "#" 
+        intervals [2]:
+            xmin = 1.087 
+            xmax = 2.002 
+            text = "ok donc là" 
+        intervals [3]:
+            xmin = 2.002 
+            xmax = 3.577 
+            text = "#" 
+        intervals [4]:
+            xmin = 3.577 
+            xmax = 3.831 
+            text = "ouais" 
+        intervals [5]:
+            xmin = 3.831 
+            xmax = 5.177 
+            text = "#" 
+        intervals [6]:
+            xmin = 5.177 
+            xmax = 7.021 
+            text = "ouais c'est le citron $Tortue Ninja$" 
+        intervals [7]:
+            xmin = 7.021 
+            xmax = 15.145 
+            text = "#" 
+        intervals [8]:
+            xmin = 15.145 
+            xmax = 15.415 
+            text = "ouais" 
+        intervals [9]:
+            xmin = 15.415 
+            xmax = 24.412 
+            text = "#" 
+        intervals [10]:
+            xmin = 24.412 
+            xmax = 25.012 
+            text = "ouais ouais ouais" 
+        intervals [11]:
+            xmin = 25.012 
+            xmax = 25.718 
+            text = "#" 
+        intervals [12]:
+            xmin = 25.718 
+            xmax = 31.175 
+            text = "bah moi c'est la sensation que j'ai eu hein après je peux me tromper mais parce qu'on les voit pas très pas très longtemps mais" 
+        intervals [13]:
+            xmin = 31.175 
+            xmax = 32.318 
+            text = "#" 
+        intervals [14]:
+            xmin = 32.318 
+            xmax = 32.506 
+            text = "ouais" 
+        intervals [15]:
+            xmin = 32.506 
+            xmax = 36.017 
+            text = "#" 
+        intervals [16]:
+            xmin = 36.017 
+            xmax = 36.904 
+            text = "le le citron" 
+        intervals [17]:
+            xmin = 36.904 
+            xmax = 37.49 
+            text = "#" 
+        intervals [18]:
+            xmin = 37.49 
+            xmax = 37.871 
+            text = "bah" 
+        intervals [19]:
+            xmin = 37.871 
+            xmax = 39.67 
+            text = "#" 
+        intervals [20]:
+            xmin = 39.67 
+            xmax = 44.293 
+            text = "tu je trouve qu'aucune aucun des fruits de la série a l'air a l'air vraiment naturel hein le" 
+        intervals [21]:
+            xmin = 44.293 
+            xmax = 44.938 
+            text = "#" 
+        intervals [22]:
+            xmin = 44.938 
+            xmax = 47.484 
+            text = "le rouge de $Spiderman$ ben ça @" 
+        intervals [23]:
+            xmin = 47.484 
+            xmax = 47.738 
+            text = "#" 
+        intervals [24]:
+            xmin = 47.738 
+            xmax = 49.577 
+            text = "ça ramène un peu à la radioactivité du film hein" 
+        intervals [25]:
+            xmin = 49.577 
+            xmax = 50.751 
+            text = "#" 
+        intervals [26]:
+            xmin = 50.751 
+            xmax = 51.65 
+            text = "mais euh c'est euh" 
+        intervals [27]:
+            xmin = 51.65 
+            xmax = 54.708 
+            text = "#" 
+        intervals [28]:
+            xmin = 54.708 
+            xmax = 55.45 
+            text = "ouais ouais ouais" 
+        intervals [29]:
+            xmin = 55.45 
+            xmax = 56.07 
+            text = "#" 
+        intervals [30]:
+            xmin = 56.07 
+            xmax = 58.986 
+            text = "ils ont peut-être ils ont peut-être tous été traités je sais pas" 
+        intervals [31]:
+            xmin = 58.986 
+            xmax = 59.9516 
+            text = "#" 

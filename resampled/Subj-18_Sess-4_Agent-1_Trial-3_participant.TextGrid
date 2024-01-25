@@ -1,0 +1,130 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 60 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Transcription" 
+        xmin = 0 
+        xmax = 60 
+        intervals: size = 29 
+        intervals [1]:
+            xmin = 0 
+            xmax = 9.028 
+            text = "#" 
+        intervals [2]:
+            xmin = 9.028 
+            xmax = 12 
+            text = "ah ben là pour le coup elles sont assez différentes je trouve" 
+        intervals [3]:
+            xmin = 12 
+            xmax = 12.915 
+            text = "#" 
+        intervals [4]:
+            xmin = 12.915 
+            xmax = 13.728 
+            text = "donc euh" 
+        intervals [5]:
+            xmin = 13.728 
+            xmax = 14.5 
+            text = "#" 
+        intervals [6]:
+            xmin = 14.5 
+            xmax = 19.906 
+            text = "-fin d'un côté on a des super héros un peu lisses propres etcetera et de l'autre on a des fruits euh" 
+        intervals [7]:
+            xmin = 19.906 
+            xmax = 20.536 
+            text = "#" 
+        intervals [8]:
+            xmin = 20.536 
+            xmax = 24.275 
+            text = "un peu abîmés qui représentent un peu des gens qui ont l'air fatigués" 
+        intervals [9]:
+            xmin = 24.275 
+            xmax = 25.352 
+            text = "#" 
+        intervals [10]:
+            xmin = 25.352 
+            xmax = 25.86 
+            text = "euh" 
+        intervals [11]:
+            xmin = 25.86 
+            xmax = 26.384 
+            text = "#" 
+        intervals [12]:
+            xmin = 26.384 
+            xmax = 27.425 
+            text = "un peu comme" 
+        intervals [13]:
+            xmin = 27.425 
+            xmax = 28.477 
+            text = "#" 
+        intervals [14]:
+            xmin = 28.477 
+            xmax = 30.9 
+            text = "comme si ouais elles étaient en en opposition" 
+        intervals [15]:
+            xmin = 30.9 
+            xmax = 33.1 
+            text = "#" 
+        intervals [16]:
+            xmin = 33.1 
+            xmax = 33.598 
+            text = "euh" 
+        intervals [17]:
+            xmin = 33.598 
+            xmax = 34.183 
+            text = "#" 
+        intervals [18]:
+            xmin = 34.183 
+            xmax = 35.656 
+            text = "ils ont l'air un peu plus euh" 
+        intervals [19]:
+            xmin = 35.656 
+            xmax = 43.231 
+            text = "#" 
+        intervals [20]:
+            xmin = 43.231 
+            xmax = 44.105 
+            text = "je sais pas est-ce que ce" 
+        intervals [21]:
+            xmin = 44.105 
+            xmax = 44.969 
+            text = "#" 
+        intervals [22]:
+            xmin = 44.969 
+            xmax = 48.317 
+            text = "ce serait étrange de mettre une balance sur des fruits euh" 
+        intervals [23]:
+            xmin = 48.317 
+            xmax = 50.486 
+            text = "#" 
+        intervals [24]:
+            xmin = 50.486 
+            xmax = 53.459 
+            text = "bah je sais pas en fait est ce que c'est au hasard ou est ce que" 
+        intervals [25]:
+            xmin = 53.459 
+            xmax = 54.027 
+            text = "#" 
+        intervals [26]:
+            xmin = 54.027 
+            xmax = 55.247 
+            text = "est-ce qu'on veut -fin" 
+        intervals [27]:
+            xmin = 55.247 
+            xmax = 55.816 
+            text = "#" 
+        intervals [28]:
+            xmin = 55.816 
+            xmax = 58.031 
+            text = "mettre l'accent sur certains fruits et légumes plus que d'autres" 
+        intervals [29]:
+            xmin = 58.031 
+            xmax = 59.9044 
+            text = "#" 

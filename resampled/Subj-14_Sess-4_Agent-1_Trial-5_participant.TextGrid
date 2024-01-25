@@ -1,0 +1,126 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 60 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Transcription" 
+        xmin = 0 
+        xmax = 60 
+        intervals: size = 28 
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.072 
+            text = "#" 
+        intervals [2]:
+            xmin = 1.072 
+            xmax = 7.225 
+            text = "bah l'ordinateur le robot vient de me suggérer que la fraise était triste parce qu'elle était punie" 
+        intervals [3]:
+            xmin = 7.225 
+            xmax = 9.821 
+            text = "#" 
+        intervals [4]:
+            xmin = 9.821 
+            xmax = 9.989 
+            text = "bon" 
+        intervals [5]:
+            xmin = 9.989 
+            xmax = 11.934 
+            text = "#" 
+        intervals [6]:
+            xmin = 11.934 
+            xmax = 12.305 
+            text = "moi je" 
+        intervals [7]:
+            xmin = 12.305 
+            xmax = 16.583 
+            text = "#" 
+        intervals [8]:
+            xmin = 16.583 
+            xmax = 16.939 
+            text = "ouais" 
+        intervals [9]:
+            xmin = 16.939 
+            xmax = 17.945 
+            text = "#" 
+        intervals [10]:
+            xmin = 17.945 
+            xmax = 19.337 
+            text = "et euh" 
+        intervals [11]:
+            xmin = 19.337 
+            xmax = 20.61 
+            text = "#" 
+        intervals [12]:
+            xmin = 20.61 
+            xmax = 21.298 
+            text = "et euh" 
+        intervals [13]:
+            xmin = 21.298 
+            xmax = 22.594 
+            text = "#" 
+        intervals [14]:
+            xmin = 22.594 
+            xmax = 24.377 
+            text = "non je je vois pas pourquoi elle serait" 
+        intervals [15]:
+            xmin = 24.377 
+            xmax = 26.811 
+            text = "#" 
+        intervals [16]:
+            xmin = 26.811 
+            xmax = 27.811 
+            text = "punie punie" 
+        intervals [17]:
+            xmin = 27.811 
+            xmax = 29.773 
+            text = "#" 
+        intervals [18]:
+            xmin = 29.773 
+            xmax = 31.571 
+            text = "ouais comme si punie on" 
+        intervals [19]:
+            xmin = 31.571 
+            xmax = 31.876 
+            text = "#" 
+        intervals [20]:
+            xmin = 31.876 
+            xmax = 33.339 
+            text = "on me mange pas on me" 
+        intervals [21]:
+            xmin = 33.339 
+            xmax = 33.568 
+            text = "#" 
+        intervals [22]:
+            xmin = 33.568 
+            xmax = 33.908 
+            text = "voilà" 
+        intervals [23]:
+            xmin = 33.908 
+            xmax = 45.502 
+            text = "#" 
+        intervals [24]:
+            xmin = 45.502 
+            xmax = 50.451 
+            text = "ouais ça existe mais ils sont aussi malades hein moi c'est ça tu vois * t'es pas obligé d'être malade hein" 
+        intervals [25]:
+            xmin = 50.451 
+            xmax = 53.337 
+            text = "#" 
+        intervals [26]:
+            xmin = 53.337 
+            xmax = 57.787 
+            text = "elle a la peau la poire elle a la peau qui est pas ragoutante" 
+        intervals [27]:
+            xmin = 57.787 
+            xmax = 58.895 
+            text = "#" 
+        intervals [28]:
+            xmin = 58.895 
+            xmax = 59.9044 
+            text = "euh elle elle a la" 

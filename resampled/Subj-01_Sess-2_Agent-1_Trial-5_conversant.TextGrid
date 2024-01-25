@@ -1,0 +1,146 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 60 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Transcription" 
+        xmin = 0 
+        xmax = 60 
+        intervals: size = 33 
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.392 
+            text = "#" 
+        intervals [2]:
+            xmin = 1.392 
+            xmax = 1.717 
+            text = "pour la" 
+        intervals [3]:
+            xmin = 1.717 
+            xmax = 5.187 
+            text = "#" 
+        intervals [4]:
+            xmin = 5.187 
+            xmax = 5.68 
+            text = "mais ***" 
+        intervals [5]:
+            xmin = 5.68 
+            xmax = 6.026 
+            text = "#" 
+        intervals [6]:
+            xmin = 6.026 
+            xmax = 6.33 
+            text = "mais quand" 
+        intervals [7]:
+            xmin = 6.33 
+            xmax = 8.002 
+            text = "#" 
+        intervals [8]:
+            xmin = 8.002 
+            xmax = 10.552 
+            text = "mais contrairement à ce que je pensais c'est pas que des fruits rouges alors hein" 
+        intervals [9]:
+            xmin = 10.552 
+            xmax = 10.766 
+            text = "#" 
+        intervals [10]:
+            xmin = 10.766 
+            xmax = 11.508 
+            text = "y a aussi euh" 
+        intervals [11]:
+            xmin = 11.508 
+            xmax = 12.036 
+            text = "#" 
+        intervals [12]:
+            xmin = 12.036 
+            xmax = 16.065 
+            text = "c'est tous des fruits mais c'est pas que les fruits rouges je pensais qu'on allait avoir après la fraise la framboise" 
+        intervals [13]:
+            xmin = 16.065 
+            xmax = 16.142 
+            text = "#" 
+        intervals [14]:
+            xmin = 16.142 
+            xmax = 17.325 
+            text = "c'est la groseille ou le" 
+        intervals [15]:
+            xmin = 17.325 
+            xmax = 27.212 
+            text = "#" 
+        intervals [16]:
+            xmin = 27.212 
+            xmax = 27.507 
+            text = "non" 
+        intervals [17]:
+            xmin = 27.507 
+            xmax = 28.065 
+            text = "#" 
+        intervals [18]:
+            xmin = 28.065 
+            xmax = 30.926 
+            text = "ça doit pas être là ça doit pas être ça doit pas aller ensemble hein" 
+        intervals [19]:
+            xmin = 30.926 
+            xmax = 32.785 
+            text = "#" 
+        intervals [20]:
+            xmin = 32.785 
+            xmax = 37.119 
+            text = "c'est pas c'est les mêmes par contre les trois effectivement la framboise la fraise et la poire" 
+        intervals [21]:
+            xmin = 37.119 
+            xmax = 37.698 
+            text = "#" 
+        intervals [22]:
+            xmin = 37.698 
+            xmax = 38.542 
+            text = "euh ils sont tous pas" 
+        intervals [23]:
+            xmin = 38.542 
+            xmax = 38.867 
+            text = "#" 
+        intervals [24]:
+            xmin = 38.867 
+            xmax = 40.615 
+            text = "ça donne un peu l'impression d'un" 
+        intervals [25]:
+            xmin = 40.615 
+            xmax = 41.519 
+            text = "#" 
+        intervals [26]:
+            xmin = 41.519 
+            xmax = 45.756 
+            text = "un un tournoi de boxe où t'aurais les trois perdants ou les trois" 
+        intervals [27]:
+            xmin = 45.756 
+            xmax = 53.103 
+            text = "#" 
+        intervals [28]:
+            xmin = 53.103 
+            xmax = 53.682 
+            text = "ah ouais" 
+        intervals [29]:
+            xmin = 53.682 
+            xmax = 55.45 
+            text = "#" 
+        intervals [30]:
+            xmin = 55.45 
+            xmax = 56.344 
+            text = "ah ouais mais sauf que ceux de la" 
+        intervals [31]:
+            xmin = 56.344 
+            xmax = 56.644 
+            text = "#" 
+        intervals [32]:
+            xmin = 56.644 
+            xmax = 59.007 
+            text = "pub oasis ils sont en plein forme alors que eux c'est" 
+        intervals [33]:
+            xmin = 59.007 
+            xmax = 59.9516 
+            text = "#" 

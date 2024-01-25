@@ -1,0 +1,154 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 60 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Transcription" 
+        xmin = 0 
+        xmax = 60 
+        intervals: size = 35 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.823 
+            text = "#" 
+        intervals [2]:
+            xmin = 0.823 
+            xmax = 4.725 
+            text = "voilà donc là thierry il s'agit de l'image dont je te parlais tout à l'heure donc y a" 
+        intervals [3]:
+            xmin = 4.725 
+            xmax = 4.949 
+            text = "#" 
+        intervals [4]:
+            xmin = 4.949 
+            xmax = 5.375 
+            text = "la pomme" 
+        intervals [5]:
+            xmin = 5.375 
+            xmax = 5.965 
+            text = "#" 
+        intervals [6]:
+            xmin = 5.965 
+            xmax = 6.757 
+            text = "voilà la pomme" 
+        intervals [7]:
+            xmin = 6.757 
+            xmax = 7.042 
+            text = "#" 
+        intervals [8]:
+            xmin = 7.042 
+            xmax = 9.902 
+            text = "à l'envers avec euh on aurait dit le masque de spider man" 
+        intervals [9]:
+            xmin = 9.902 
+            xmax = 15.003 
+            text = "#" 
+        intervals [10]:
+            xmin = 15.003 
+            xmax = 19.378 
+            text = "c'est ça avec la pomme qui est complètement posée à l'envers donc euh qui fait sens avec euh" 
+        intervals [11]:
+            xmin = 19.378 
+            xmax = 19.85 
+            text = "#" 
+        intervals [12]:
+            xmin = 19.85 
+            xmax = 21.613 
+            text = "spider man et sa capacité à" 
+        intervals [13]:
+            xmin = 21.613 
+            xmax = 22.014 
+            text = "#" 
+        intervals [14]:
+            xmin = 22.014 
+            xmax = 24.153 
+            text = "à adhérer aux surfaces et aux plafonds pourquoi pas" 
+        intervals [15]:
+            xmin = 24.153 
+            xmax = 25.561 
+            text = "#" 
+        intervals [16]:
+            xmin = 25.561 
+            xmax = 25.718 
+            text = "***" 
+        intervals [17]:
+            xmin = 25.718 
+            xmax = 26.086 
+            text = "#" 
+        intervals [18]:
+            xmin = 26.086 
+            xmax = 26.592 
+            text = "donc voilà" 
+        intervals [19]:
+            xmin = 26.592 
+            xmax = 40.747 
+            text = "#" 
+        intervals [20]:
+            xmin = 40.747 
+            xmax = 40.925 
+            text = "***" 
+        intervals [21]:
+            xmin = 40.925 
+            xmax = 42.124 
+            text = "#" 
+        intervals [22]:
+            xmin = 42.124 
+            xmax = 42.464 
+            text = "ouais" 
+        intervals [23]:
+            xmin = 42.464 
+            xmax = 42.728 
+            text = "#" 
+        intervals [24]:
+            xmin = 42.728 
+            xmax = 45.939 
+            text = "peut-être le citron citron vert parce que c'est vert comme les tortues ninjas" 
+        intervals [25]:
+            xmin = 45.939 
+            xmax = 46.706 
+            text = "#" 
+        intervals [26]:
+            xmin = 46.706 
+            xmax = 48.093 
+            text = "voilà c'est ce qui fait sens" 
+        intervals [27]:
+            xmin = 48.093 
+            xmax = 48.993 
+            text = "#" 
+        intervals [28]:
+            xmin = 48.993 
+            xmax = 50.207 
+            text = "j'ai l'impression que c'est" 
+        intervals [29]:
+            xmin = 50.207 
+            xmax = 50.649 
+            text = "#" 
+        intervals [30]:
+            xmin = 50.649 
+            xmax = 52.991 
+            text = "voilà c'est j'ai l'impression que c'est pour rendre amusant" 
+        intervals [31]:
+            xmin = 52.991 
+            xmax = 53.601 
+            text = "#" 
+        intervals [32]:
+            xmin = 53.601 
+            xmax = 54.536 
+            text = "euh des fruits et légumes" 
+        intervals [33]:
+            xmin = 54.536 
+            xmax = 54.947 
+            text = "#" 
+        intervals [34]:
+            xmin = 54.947 
+            xmax = 55.775 
+            text = "aux yeux des enfants" 
+        intervals [35]:
+            xmin = 55.775 
+            xmax = 59.9044 
+            text = "#" 

@@ -1,0 +1,98 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 60 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Transcription" 
+        xmin = 0 
+        xmax = 60 
+        intervals: size = 21 
+        intervals [1]:
+            xmin = 0 
+            xmax = 2.149 
+            text = "#" 
+        intervals [2]:
+            xmin = 2.149 
+            xmax = 2.713 
+            text = "tu penses que" 
+        intervals [3]:
+            xmin = 2.713 
+            xmax = 3.221 
+            text = "#" 
+        intervals [4]:
+            xmin = 3.221 
+            xmax = 3.607 
+            text = "qu'elle est" 
+        intervals [5]:
+            xmin = 3.607 
+            xmax = 5.712 
+            text = "#" 
+        intervals [6]:
+            xmin = 5.712 
+            xmax = 8.546 
+            text = "tu penses que c'est quoi la différence avec les premiers qu'on a vu" 
+        intervals [7]:
+            xmin = 8.546 
+            xmax = 15.664 
+            text = "#" 
+        intervals [8]:
+            xmin = 15.664 
+            xmax = 17.244 
+            text = "oui c'est sûr que mais pourquoi" 
+        intervals [9]:
+            xmin = 17.244 
+            xmax = 28.845 
+            text = "#" 
+        intervals [10]:
+            xmin = 28.845 
+            xmax = 29.412 
+            text = "sûrement" 
+        intervals [11]:
+            xmin = 29.412 
+            xmax = 31.571 
+            text = "#" 
+        intervals [12]:
+            xmin = 31.571 
+            xmax = 33.339 
+            text = "il y a un message derrière tu penses" 
+        intervals [13]:
+            xmin = 33.339 
+            xmax = 41.331 
+            text = "#" 
+        intervals [14]:
+            xmin = 41.331 
+            xmax = 42.113 
+            text = "comme quoi" 
+        intervals [15]:
+            xmin = 42.113 
+            xmax = 47.809 
+            text = "#" 
+        intervals [16]:
+            xmin = 47.809 
+            xmax = 49.328 
+            text = "moi j'arrive pas pas à me faire une idée" 
+        intervals [17]:
+            xmin = 49.328 
+            xmax = 49.699 
+            text = "#" 
+        intervals [18]:
+            xmin = 49.699 
+            xmax = 50.735 
+            text = "de pour quoi ça peut être" 
+        intervals [19]:
+            xmin = 50.735 
+            xmax = 58.869 
+            text = "#" 
+        intervals [20]:
+            xmin = 58.869 
+            xmax = 59.669 
+            text = "c'est peut-être ça" 
+        intervals [21]:
+            xmin = 59.669 
+            xmax = 59.9044 
+            text = "#" 

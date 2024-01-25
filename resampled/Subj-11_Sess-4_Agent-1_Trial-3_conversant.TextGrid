@@ -1,0 +1,98 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 60 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Transcription" 
+        xmin = 0 
+        xmax = 60 
+        intervals: size = 21 
+        intervals [1]:
+            xmin = 0 
+            xmax = 4.217 
+            text = "#" 
+        intervals [2]:
+            xmin = 4.217 
+            xmax = 5.396 
+            text = "pour le côté quoi défoncé" 
+        intervals [3]:
+            xmin = 5.396 
+            xmax = 15.521 
+            text = "#" 
+        intervals [4]:
+            xmin = 15.521 
+            xmax = 19.586 
+            text = "alors je sais pas parce que tu vois tu me disais euh" 
+        intervals [5]:
+            xmin = 19.586 
+            xmax = 19.967 
+            text = "#" 
+        intervals [6]:
+            xmin = 19.967 
+            xmax = 25.169 
+            text = "que c'était trop complexe et que du coup ça faisait dessins animés mais je suis pas sûre que la complexité soit synonyme de dessins animés" 
+        intervals [7]:
+            xmin = 25.169 
+            xmax = 26.313 
+            text = "#" 
+        intervals [8]:
+            xmin = 26.313 
+            xmax = 33.228 
+            text = "quand tu regardes les les mangas par exemple le principe c'est carrément de simplifier les visages et les émotions et caricaturer un peu tout ça pareil pour les comics" 
+        intervals [9]:
+            xmin = 33.228 
+            xmax = 36.057 
+            text = "#" 
+        intervals [10]:
+            xmin = 36.057 
+            xmax = 36.327 
+            text = "ouais" 
+        intervals [11]:
+            xmin = 36.327 
+            xmax = 43.582 
+            text = "#" 
+        intervals [12]:
+            xmin = 43.582 
+            xmax = 44.456 
+            text = "euh $Oasis$" 
+        intervals [13]:
+            xmin = 44.456 
+            xmax = 45.324 
+            text = "#" 
+        intervals [14]:
+            xmin = 45.324 
+            xmax = 45.472 
+            text = "ouais" 
+        intervals [15]:
+            xmin = 45.472 
+            xmax = 47.631 
+            text = "#" 
+        intervals [16]:
+            xmin = 47.631 
+            xmax = 48.032 
+            text = "ouais ouais" 
+        intervals [17]:
+            xmin = 48.032 
+            xmax = 49.272 
+            text = "#" 
+        intervals [18]:
+            xmin = 49.272 
+            xmax = 55.674 
+            text = "c'est euh c'est assez étrange c'est les légumes qu'ont l'air plus sérieux et qui là sont extrêmement simplifiés et les fruits qui euh" 
+        intervals [19]:
+            xmin = 55.674 
+            xmax = 58.885 
+            text = "#" 
+        intervals [20]:
+            xmin = 58.885 
+            xmax = 59.738 
+            text = "ouais ouais ouais" 
+        intervals [21]:
+            xmin = 59.738 
+            xmax = 59.9516 
+            text = "#" 

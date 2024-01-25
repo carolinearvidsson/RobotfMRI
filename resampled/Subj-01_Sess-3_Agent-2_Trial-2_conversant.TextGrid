@@ -1,0 +1,90 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 60 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Transcription" 
+        xmin = 0 
+        xmax = 60 
+        intervals: size = 19 
+        intervals [1]:
+            xmin = 0 
+            xmax = 4.471 
+            text = "#" 
+        intervals [2]:
+            xmin = 4.471 
+            xmax = 4.837 
+            text = "oui" 
+        intervals [3]:
+            xmin = 4.837 
+            xmax = 6 
+            text = "#" 
+        intervals [4]:
+            xmin = 6 
+            xmax = 8.119 
+            text = "elle combat les pesticides peut-être" 
+        intervals [5]:
+            xmin = 8.119 
+            xmax = 13.992 
+            text = "#" 
+        intervals [6]:
+            xmin = 13.992 
+            xmax = 16.289 
+            text = "c'est une campagne contre les pesticides" 
+        intervals [7]:
+            xmin = 16.289 
+            xmax = 20.714 
+            text = "#" 
+        intervals [8]:
+            xmin = 20.714 
+            xmax = 23.198 
+            text = "ça peut-être une pub pour manger des fruits locaux" 
+        intervals [9]:
+            xmin = 23.198 
+            xmax = 25.327 
+            text = "#" 
+        intervals [10]:
+            xmin = 25.327 
+            xmax = 27.71 
+            text = "ça peut-être une pub pour manger plus de fruits" 
+        intervals [11]:
+            xmin = 27.71 
+            xmax = 29.463 
+            text = "#" 
+        intervals [12]:
+            xmin = 29.463 
+            xmax = 30.149 
+            text = "n'est-ce pas" 
+        intervals [13]:
+            xmin = 30.149 
+            xmax = 39.299 
+            text = "#" 
+        intervals [14]:
+            xmin = 39.299 
+            xmax = 40.086 
+            text = "oui en effet" 
+        intervals [15]:
+            xmin = 40.086 
+            xmax = 46.884 
+            text = "#" 
+        intervals [16]:
+            xmin = 46.884 
+            xmax = 48.5 
+            text = "la pomme a l'air méchante" 
+        intervals [17]:
+            xmin = 48.5 
+            xmax = 57.289 
+            text = "#" 
+        intervals [18]:
+            xmin = 57.289 
+            xmax = 58.559 
+            text = "elle a l'air forte" 
+        intervals [19]:
+            xmin = 58.559 
+            xmax = 59.9516 
+            text = "#" 

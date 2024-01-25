@@ -1,0 +1,142 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 60 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Transcription" 
+        xmin = 0 
+        xmax = 60 
+        intervals: size = 32 
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.356 
+            text = "#" 
+        intervals [2]:
+            xmin = 1.356 
+            xmax = 2.693 
+            text = "ah c'est à moi de deviner hein" 
+        intervals [3]:
+            xmin = 2.693 
+            xmax = 3.165 
+            text = "#" 
+        intervals [4]:
+            xmin = 3.165 
+            xmax = 4.908 
+            text = "euh là c'est $Spiderman$" 
+        intervals [5]:
+            xmin = 4.908 
+            xmax = 6.259 
+            text = "#" 
+        intervals [6]:
+            xmin = 6.259 
+            xmax = 10.354 
+            text = "avec que les yeux qui dépassent qui normalement sont noirs et puis euh le le" 
+        intervals [7]:
+            xmin = 10.354 
+            xmax = 10.888 
+            text = "#" 
+        intervals [8]:
+            xmin = 10.888 
+            xmax = 12.315 
+            text = "ah la la" 
+        intervals [9]:
+            xmin = 12.315 
+            xmax = 12.971 
+            text = "#" 
+        intervals [10]:
+            xmin = 12.971 
+            xmax = 13.647 
+            text = "la tête en bas" 
+        intervals [11]:
+            xmin = 13.647 
+            xmax = 14.744 
+            text = "#" 
+        intervals [12]:
+            xmin = 14.744 
+            xmax = 15.15 
+            text = "c'est ça hein" 
+        intervals [13]:
+            xmin = 15.15 
+            xmax = 17.01 
+            text = "#" 
+        intervals [14]:
+            xmin = 17.01 
+            xmax = 21.532 
+            text = "bon on pourrait même deviner les suivants maintenant si on cherchait un petit peu on va avoir euh" 
+        intervals [15]:
+            xmin = 21.532 
+            xmax = 22.375 
+            text = "#" 
+        intervals [16]:
+            xmin = 22.375 
+            xmax = 22.919 
+            text = "je sais pas moi" 
+        intervals [17]:
+            xmin = 22.919 
+            xmax = 29.148 
+            text = "#" 
+        intervals [18]:
+            xmin = 29.148 
+            xmax = 30.447 
+            text = "ouais parce qu'il a pas de masque" 
+        intervals [19]:
+            xmin = 30.447 
+            xmax = 31.886 
+            text = "#" 
+        intervals [20]:
+            xmin = 31.886 
+            xmax = 34.274 
+            text = "mais euh ouais c'est pareil $Hulk$ il a pas de masque bon enfin" 
+        intervals [21]:
+            xmin = 34.274 
+            xmax = 34.467 
+            text = "#" 
+        intervals [22]:
+            xmin = 34.467 
+            xmax = 37.383 
+            text = "dans l'idéal il faudrait un $Ironman$ un $Ironman$ en en tomate" 
+        intervals [23]:
+            xmin = 37.383 
+            xmax = 39.903 
+            text = "#" 
+        intervals [24]:
+            xmin = 39.903 
+            xmax = 40.615 
+            text = "ça serait pas mal" 
+        intervals [25]:
+            xmin = 40.615 
+            xmax = 40.991 
+            text = "#" 
+        intervals [26]:
+            xmin = 40.991 
+            xmax = 45.558 
+            text = "bon ben donc effevtivement ça doit être pour pour manger les fruits et légumes ça normalement parce que c'est" 
+        intervals [27]:
+            xmin = 45.558 
+            xmax = 53.138 
+            text = "#" 
+        intervals [28]:
+            xmin = 53.138 
+            xmax = 53.723 
+            text = "mouais" 
+        intervals [29]:
+            xmin = 53.723 
+            xmax = 53.997 
+            text = "#" 
+        intervals [30]:
+            xmin = 53.997 
+            xmax = 58.539 
+            text = "mais y a un petit truc qui me dérange quand même un petit peu mais euh après je sais pas" 
+        intervals [31]:
+            xmin = 58.539 
+            xmax = 59.235 
+            text = "#" 
+        intervals [32]:
+            xmin = 59.235 
+            xmax = 59.9516 
+            text = "peut-être avoir une meill-" 

@@ -1,0 +1,146 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 60 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Transcription" 
+        xmin = 0 
+        xmax = 60 
+        intervals: size = 33 
+        intervals [1]:
+            xmin = 0 
+            xmax = 3.198 
+            text = "#" 
+        intervals [2]:
+            xmin = 3.198 
+            xmax = 4.786 
+            text = "oui donc là c'est une fraise" 
+        intervals [3]:
+            xmin = 4.786 
+            xmax = 6.046 
+            text = "#" 
+        intervals [4]:
+            xmin = 6.046 
+            xmax = 8.261 
+            text = "avec un corps avec les pieds les" 
+        intervals [5]:
+            xmin = 8.261 
+            xmax = 8.749 
+            text = "#" 
+        intervals [6]:
+            xmin = 8.749 
+            xmax = 10.263 
+            text = "les les mains etcetera" 
+        intervals [7]:
+            xmin = 10.263 
+            xmax = 11.263 
+            text = "#" 
+        intervals [8]:
+            xmin = 11.263 
+            xmax = 15.557 
+            text = "qui pareil qui a l'air un peu triste pas triste mais un peu blasée un peu" 
+        intervals [9]:
+            xmin = 15.557 
+            xmax = 15.801 
+            text = "#" 
+        intervals [10]:
+            xmin = 15.801 
+            xmax = 16.248 
+            text = "euh" 
+        intervals [11]:
+            xmin = 16.248 
+            xmax = 17.472 
+            text = "#" 
+        intervals [12]:
+            xmin = 17.472 
+            xmax = 20.734 
+            text = "un peu é- pas énervée je sais pas si c'est énervée même" 
+        intervals [13]:
+            xmin = 20.734 
+            xmax = 26.125 
+            text = "#" 
+        intervals [14]:
+            xmin = 26.125 
+            xmax = 27.466 
+            text = "ouais parce qu'elle a des poings" 
+        intervals [15]:
+            xmin = 27.466 
+            xmax = 29.27 
+            text = "#" 
+        intervals [16]:
+            xmin = 29.27 
+            xmax = 30.27 
+            text = "des des poings serrés" 
+        intervals [17]:
+            xmin = 30.27 
+            xmax = 32.496 
+            text = "#" 
+        intervals [18]:
+            xmin = 32.496 
+            xmax = 33.705 
+            text = "et les yeux un peu" 
+        intervals [19]:
+            xmin = 33.705 
+            xmax = 34.208 
+            text = "#" 
+        intervals [20]:
+            xmin = 34.208 
+            xmax = 34.543 
+            text = "éner-" 
+        intervals [21]:
+            xmin = 34.543 
+            xmax = 35.999 
+            text = "#" 
+        intervals [22]:
+            xmin = 35.999 
+            xmax = 37.058 
+            text = "ah j'ai pas remarqué" 
+        intervals [23]:
+            xmin = 37.058 
+            xmax = 41.488 
+            text = "#" 
+        intervals [24]:
+            xmin = 41.488 
+            xmax = 42.139 
+            text = "alors elles sont" 
+        intervals [25]:
+            xmin = 42.139 
+            xmax = 43.76 
+            text = "#" 
+        intervals [26]:
+            xmin = 43.76 
+            xmax = 47.057 
+            text = "déformés oui mais est-ce que est-ce qu'ils ont tous les poings serrés je sais pas" 
+        intervals [27]:
+            xmin = 47.057 
+            xmax = 52.907 
+            text = "#" 
+        intervals [28]:
+            xmin = 52.907 
+            xmax = 54.332 
+            text = "mais en tout cas tous les trois ils sont" 
+        intervals [29]:
+            xmin = 54.332 
+            xmax = 54.655 
+            text = "#" 
+        intervals [30]:
+            xmin = 54.655 
+            xmax = 55.921 
+            text = "c'est des * qui veulent vivre" 
+        intervals [31]:
+            xmin = 55.921 
+            xmax = 58.981 
+            text = "#" 
+        intervals [32]:
+            xmin = 58.981 
+            xmax = 59.494 
+            text = "oui voilà" 
+        intervals [33]:
+            xmin = 59.494 
+            xmax = 59.9044 
+            text = "#" 

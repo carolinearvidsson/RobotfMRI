@@ -1,0 +1,118 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 60 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Transcription" 
+        xmin = 0 
+        xmax = 60 
+        intervals: size = 26 
+        intervals [1]:
+            xmin = 0 
+            xmax = 2.588 
+            text = "#" 
+        intervals [2]:
+            xmin = 2.588 
+            xmax = 2.939 
+            text = "euh" 
+        intervals [3]:
+            xmin = 2.939 
+            xmax = 3.854 
+            text = "#" 
+        intervals [4]:
+            xmin = 3.854 
+            xmax = 4.141 
+            text = "ouais" 
+        intervals [5]:
+            xmin = 4.141 
+            xmax = 4.512 
+            text = "#" 
+        intervals [6]:
+            xmin = 4.512 
+            xmax = 6.071 
+            text = "euh mh" 
+        intervals [7]:
+            xmin = 6.071 
+            xmax = 9.892 
+            text = "#" 
+        intervals [8]:
+            xmin = 9.892 
+            xmax = 14.6 
+            text = "bah moi il me semble plus euh un petit peu un peu véner un peu en colère" 
+        intervals [9]:
+            xmin = 14.6 
+            xmax = 15.607 
+            text = "#" 
+        intervals [10]:
+            xmin = 15.607 
+            xmax = 16.447 
+            text = "ouais je dirais" 
+        intervals [11]:
+            xmin = 16.447 
+            xmax = 17.39 
+            text = "#" 
+        intervals [12]:
+            xmin = 17.39 
+            xmax = 17.977 
+            text = "tu sais elle est" 
+        intervals [13]:
+            xmin = 17.977 
+            xmax = 18.763 
+            text = "#" 
+        intervals [14]:
+            xmin = 18.763 
+            xmax = 23.713 
+            text = "av- elle avait les bras écartés avec les poings fermés comme si comme si elle partait au combat presque" 
+        intervals [15]:
+            xmin = 23.713 
+            xmax = 25.927 
+            text = "#" 
+        intervals [16]:
+            xmin = 25.927 
+            xmax = 26.467 
+            text = "euh" 
+        intervals [17]:
+            xmin = 26.467 
+            xmax = 37.968 
+            text = "#" 
+        intervals [18]:
+            xmin = 37.968 
+            xmax = 38.204 
+            text = "ouais" 
+        intervals [19]:
+            xmin = 38.204 
+            xmax = 45.766 
+            text = "#" 
+        intervals [20]:
+            xmin = 45.766 
+            xmax = 46.42 
+            text = "@" 
+        intervals [21]:
+            xmin = 46.42 
+            xmax = 49.486 
+            text = "#" 
+        intervals [22]:
+            xmin = 49.486 
+            xmax = 54.402 
+            text = "en même temps ça serait quand même assez surprenant une campagne euh qui dise manger pas de fruits ouais" 
+        intervals [23]:
+            xmin = 54.402 
+            xmax = 56.543 
+            text = "#" 
+        intervals [24]:
+            xmin = 56.543 
+            xmax = 57.442 
+            text = "euh" 
+        intervals [25]:
+            xmin = 57.442 
+            xmax = 58.019 
+            text = "#" 
+        intervals [26]:
+            xmin = 58.019 
+            xmax = 59.9516 
+            text = "je sais pas c'est peut-être contre euh" 

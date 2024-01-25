@@ -1,0 +1,106 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 60 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Transcription" 
+        xmin = 0 
+        xmax = 60 
+        intervals: size = 23 
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.585 
+            text = "#" 
+        intervals [2]:
+            xmin = 1.585 
+            xmax = 3.445 
+            text = "alors euh c'est à nouveau l'aubergine" 
+        intervals [3]:
+            xmin = 3.445 
+            xmax = 8.358 
+            text = "#" 
+        intervals [4]:
+            xmin = 8.358 
+            xmax = 10.07 
+            text = "en fait elle a l'air assez vindicative" 
+        intervals [5]:
+            xmin = 10.07 
+            xmax = 11.548 
+            text = "#" 
+        intervals [6]:
+            xmin = 11.548 
+            xmax = 12.244 
+            text = "ouais ouais" 
+        intervals [7]:
+            xmin = 12.244 
+            xmax = 20.638 
+            text = "#" 
+        intervals [8]:
+            xmin = 20.638 
+            xmax = 21.153 
+            text = "ah ouais" 
+        intervals [9]:
+            xmin = 21.153 
+            xmax = 21.771 
+            text = "#" 
+        intervals [10]:
+            xmin = 21.771 
+            xmax = 23.34 
+            text = "c'est peut-être la couleur aussi euh" 
+        intervals [11]:
+            xmin = 23.34 
+            xmax = 25.424 
+            text = "#" 
+        intervals [12]:
+            xmin = 25.424 
+            xmax = 27.08 
+            text = "puis comme elle est noire euh" 
+        intervals [13]:
+            xmin = 27.08 
+            xmax = 27.344 
+            text = "#" 
+        intervals [14]:
+            xmin = 27.344 
+            xmax = 27.623 
+            text = "-fin" 
+        intervals [15]:
+            xmin = 27.623 
+            xmax = 28.37 
+            text = "#" 
+        intervals [16]:
+            xmin = 28.37 
+            xmax = 30.149 
+            text = "elle fait très noire très sombre" 
+        intervals [17]:
+            xmin = 30.149 
+            xmax = 31.215 
+            text = "#" 
+        intervals [18]:
+            xmin = 31.215 
+            xmax = 32.486 
+            text = "ça tranche avec euh" 
+        intervals [19]:
+            xmin = 32.486 
+            xmax = 41.407 
+            text = "#" 
+        intervals [20]:
+            xmin = 41.407 
+            xmax = 42.2 
+            text = "euh" 
+        intervals [21]:
+            xmin = 42.2 
+            xmax = 44.029 
+            text = "#" 
+        intervals [22]:
+            xmin = 44.029 
+            xmax = 45.553 
+            text = "dans les super héros tu veux dire" 
+        intervals [23]:
+            xmin = 45.553 
+            xmax = 59.9044 
+            text = "#" 

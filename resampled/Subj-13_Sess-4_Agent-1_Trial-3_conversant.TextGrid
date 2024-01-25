@@ -1,0 +1,130 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 60 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Transcription" 
+        xmin = 0 
+        xmax = 60 
+        intervals: size = 29 
+        intervals [1]:
+            xmin = 0 
+            xmax = 6.701 
+            text = "#" 
+        intervals [2]:
+            xmin = 6.701 
+            xmax = 6.833 
+            text = "ah" 
+        intervals [3]:
+            xmin = 6.833 
+            xmax = 9.094 
+            text = "#" 
+        intervals [4]:
+            xmin = 9.094 
+            xmax = 15.852 
+            text = "euh je je c'est par rapport à tu sais ce qu'on avait dit juste avant où euh on parlait des fruits qui étaient maltraités" 
+        intervals [5]:
+            xmin = 15.852 
+            xmax = 16.111 
+            text = "#" 
+        intervals [6]:
+            xmin = 16.111 
+            xmax = 17.62 
+            text = "tu sais elle a l'air d'être plutôt une battante" 
+        intervals [7]:
+            xmin = 17.62 
+            xmax = 20.551 
+            text = "#" 
+        intervals [8]:
+            xmin = 20.551 
+            xmax = 22.573 
+            text = "est-ce que tu allais dire quelque chose je t'ai interrompu" 
+        intervals [9]:
+            xmin = 22.573 
+            xmax = 30.555 
+            text = "#" 
+        intervals [10]:
+            xmin = 30.555 
+            xmax = 31.276 
+            text = "@" 
+        intervals [11]:
+            xmin = 31.276 
+            xmax = 32.232 
+            text = "#" 
+        intervals [12]:
+            xmin = 32.232 
+            xmax = 33.39 
+            text = "ouais c'est possible ouais" 
+        intervals [13]:
+            xmin = 33.39 
+            xmax = 34.127 
+            text = "#" 
+        intervals [14]:
+            xmin = 34.127 
+            xmax = 37.109 
+            text = "elle fait un peu cramé elle a pas l'expression de quelqu'un qui est en train de cramer" 
+        intervals [15]:
+            xmin = 37.109 
+            xmax = 37.444 
+            text = "#" 
+        intervals [16]:
+            xmin = 37.444 
+            xmax = 40.848 
+            text = "elle fait trop trop triste blasée euh tu vois" 
+        intervals [17]:
+            xmin = 40.848 
+            xmax = 43.963 
+            text = "#" 
+        intervals [18]:
+            xmin = 43.963 
+            xmax = 44.268 
+            text = "ouais" 
+        intervals [19]:
+            xmin = 44.268 
+            xmax = 44.512 
+            text = "#" 
+        intervals [20]:
+            xmin = 44.512 
+            xmax = 45.03 
+            text = "ouais ouais" 
+        intervals [21]:
+            xmin = 45.03 
+            xmax = 48.937 
+            text = "#" 
+        intervals [22]:
+            xmin = 48.937 
+            xmax = 53.131 
+            text = "ouais ça serait peut-être euh une espèce de réaction face à la violence mais une autre type de réaction" 
+        intervals [23]:
+            xmin = 53.131 
+            xmax = 54.901 
+            text = "#" 
+        intervals [24]:
+            xmin = 54.901 
+            xmax = 55.216 
+            text = "peut-être" 
+        intervals [25]:
+            xmin = 55.216 
+            xmax = 55.753 
+            text = "#" 
+        intervals [26]:
+            xmin = 55.753 
+            xmax = 56.391 
+            text = "je sais pas tu vois" 
+        intervals [27]:
+            xmin = 56.391 
+            xmax = 57.046 
+            text = "#" 
+        intervals [28]:
+            xmin = 57.046 
+            xmax = 58.854 
+            text = "et tu me disais quoi sur les enfants tout à l'heure" 
+        intervals [29]:
+            xmin = 58.854 
+            xmax = 59.9516 
+            text = "#" 

@@ -1,0 +1,154 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 60 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Transcription" 
+        xmin = 0 
+        xmax = 60 
+        intervals: size = 35 
+        intervals [1]:
+            xmin = 0 
+            xmax = 2.281 
+            text = "#" 
+        intervals [2]:
+            xmin = 2.281 
+            xmax = 4.258 
+            text = "alors ici on a" 
+        intervals [3]:
+            xmin = 4.258 
+            xmax = 4.669 
+            text = "#" 
+        intervals [4]:
+            xmin = 4.669 
+            xmax = 5.721 
+            text = "un citron" 
+        intervals [5]:
+            xmin = 5.721 
+            xmax = 7.342 
+            text = "#" 
+        intervals [6]:
+            xmin = 7.342 
+            xmax = 7.773 
+            text = "ou un" 
+        intervals [7]:
+            xmin = 7.773 
+            xmax = 8.093 
+            text = "#" 
+        intervals [8]:
+            xmin = 8.093 
+            xmax = 9.948 
+            text = "citron déguisé" 
+        intervals [9]:
+            xmin = 9.948 
+            xmax = 10.868 
+            text = "#" 
+        intervals [10]:
+            xmin = 10.868 
+            xmax = 13.464 
+            text = "-fin auquel on a fait des un déguisement" 
+        intervals [11]:
+            xmin = 13.464 
+            xmax = 15.003 
+            text = "#" 
+        intervals [12]:
+            xmin = 15.003 
+            xmax = 16.004 
+            text = "euh" 
+        intervals [13]:
+            xmin = 16.004 
+            xmax = 16.283 
+            text = "#" 
+        intervals [14]:
+            xmin = 16.283 
+            xmax = 16.736 
+            text = "on a t-" 
+        intervals [15]:
+            xmin = 16.736 
+            xmax = 17.01 
+            text = "#" 
+        intervals [16]:
+            xmin = 17.01 
+            xmax = 18.402 
+            text = "pris le citron pour euh" 
+        intervals [17]:
+            xmin = 18.402 
+            xmax = 18.814 
+            text = "#" 
+        intervals [18]:
+            xmin = 18.814 
+            xmax = 20.414 
+            text = "faire un détour de" 
+        intervals [19]:
+            xmin = 20.414 
+            xmax = 20.729 
+            text = "#" 
+        intervals [20]:
+            xmin = 20.729 
+            xmax = 21.389 
+            text = "de masque" 
+        intervals [21]:
+            xmin = 21.389 
+            xmax = 23.859 
+            text = "#" 
+        intervals [22]:
+            xmin = 23.859 
+            xmax = 24.377 
+            text = "euh" 
+        intervals [23]:
+            xmin = 24.377 
+            xmax = 27.664 
+            text = "#" 
+        intervals [24]:
+            xmin = 27.664 
+            xmax = 28.584 
+            text = "oui voilà" 
+        intervals [25]:
+            xmin = 28.584 
+            xmax = 31.708 
+            text = "#" 
+        intervals [26]:
+            xmin = 31.708 
+            xmax = 32.384 
+            text = "euh" 
+        intervals [27]:
+            xmin = 32.384 
+            xmax = 39.838 
+            text = "#" 
+        intervals [28]:
+            xmin = 39.838 
+            xmax = 42.992 
+            text = "ben gentil tu c'est" 
+        intervals [29]:
+            xmin = 42.992 
+            xmax = 43.998 
+            text = "#" 
+        intervals [30]:
+            xmin = 43.998 
+            xmax = 45.655 
+            text = "je sais pas trop quoi penser en fait c'est" 
+        intervals [31]:
+            xmin = 45.655 
+            xmax = 52.498 
+            text = "#" 
+        intervals [32]:
+            xmin = 52.498 
+            xmax = 52.808 
+            text = "oh non" 
+        intervals [33]:
+            xmin = 52.808 
+            xmax = 53.199 
+            text = "#" 
+        intervals [34]:
+            xmin = 53.199 
+            xmax = 56.466 
+            text = "je sais pas c'est pas celui qui m'inspire le plus" 
+        intervals [35]:
+            xmin = 56.466 
+            xmax = 59.9044 
+            text = "#" 

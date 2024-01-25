@@ -1,0 +1,154 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 60 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Transcription" 
+        xmin = 0 
+        xmax = 60 
+        intervals: size = 35 
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.392 
+            text = "#" 
+        intervals [2]:
+            xmin = 1.392 
+            xmax = 4.984 
+            text = "cette poire elle a une bosse euh bizarre au niveau du bas" 
+        intervals [3]:
+            xmin = 4.984 
+            xmax = 7.463 
+            text = "#" 
+        intervals [4]:
+            xmin = 7.463 
+            xmax = 8.261 
+            text = "je dirais ouais euh" 
+        intervals [5]:
+            xmin = 8.261 
+            xmax = 8.683 
+            text = "#" 
+        intervals [6]:
+            xmin = 8.683 
+            xmax = 9.409 
+            text = "ouais c'est pas" 
+        intervals [7]:
+            xmin = 9.409 
+            xmax = 10.446 
+            text = "#" 
+        intervals [8]:
+            xmin = 10.446 
+            xmax = 11.98 
+            text = "elle comme si elle s'était fait tabassée ou" 
+        intervals [9]:
+            xmin = 11.98 
+            xmax = 14.49 
+            text = "#" 
+        intervals [10]:
+            xmin = 14.49 
+            xmax = 14.785 
+            text = "ouais" 
+        intervals [11]:
+            xmin = 14.785 
+            xmax = 18.727 
+            text = "#" 
+        intervals [12]:
+            xmin = 18.727 
+            xmax = 19.825 
+            text = "fatiguée ou" 
+        intervals [13]:
+            xmin = 19.825 
+            xmax = 20.826 
+            text = "#" 
+        intervals [14]:
+            xmin = 20.826 
+            xmax = 22.589 
+            text = "ou alors comme si elle s'était pris ouais euh" 
+        intervals [15]:
+            xmin = 22.589 
+            xmax = 23.117 
+            text = "#" 
+        intervals [16]:
+            xmin = 23.117 
+            xmax = 26.145 
+            text = "si comme si elle s'était bagarrée et que elle avait pris plein de coups quoi" 
+        intervals [17]:
+            xmin = 26.145 
+            xmax = 31.058 
+            text = "#" 
+        intervals [18]:
+            xmin = 31.058 
+            xmax = 31.388 
+            text = "ouais" 
+        intervals [19]:
+            xmin = 31.388 
+            xmax = 35.829 
+            text = "#" 
+        intervals [20]:
+            xmin = 35.829 
+            xmax = 38.765 
+            text = "euh ça m'étonnerait ça quand même pourquoi ils mettraient des fruits" 
+        intervals [21]:
+            xmin = 38.765 
+            xmax = 40.422 
+            text = "#" 
+        intervals [22]:
+            xmin = 40.422 
+            xmax = 41.082 
+            text = "je vois pas le rapport" 
+        intervals [23]:
+            xmin = 41.082 
+            xmax = 45.345 
+            text = "#" 
+        intervals [24]:
+            xmin = 45.345 
+            xmax = 46.732 
+            text = "non je vois plus euh" 
+        intervals [25]:
+            xmin = 46.732 
+            xmax = 46.976 
+            text = "#" 
+        intervals [26]:
+            xmin = 46.976 
+            xmax = 49.069 
+            text = "une pub pour des fruits -fin pour des" 
+        intervals [27]:
+            xmin = 49.069 
+            xmax = 50.471 
+            text = "#" 
+        intervals [28]:
+            xmin = 50.471 
+            xmax = 52.605 
+            text = "manger sainement manger bio manger" 
+        intervals [29]:
+            xmin = 52.605 
+            xmax = 53.514 
+            text = "#" 
+        intervals [30]:
+            xmin = 53.514 
+            xmax = 54.027 
+            text = "euh" 
+        intervals [31]:
+            xmin = 54.027 
+            xmax = 55.181 
+            text = "#" 
+        intervals [32]:
+            xmin = 55.181 
+            xmax = 56.527 
+            text = "c'est peut-être contre les $OGM$" 
+        intervals [33]:
+            xmin = 56.527 
+            xmax = 56.769 
+            text = "#" 
+        intervals [34]:
+            xmin = 56.769 
+            xmax = 57.564 
+            text = "possible aussi" 
+        intervals [35]:
+            xmin = 57.564 
+            xmax = 59.9044 
+            text = "#" 

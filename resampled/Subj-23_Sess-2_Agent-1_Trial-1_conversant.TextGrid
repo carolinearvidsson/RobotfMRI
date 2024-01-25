@@ -1,0 +1,178 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 60 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Transcription" 
+        xmin = 0 
+        xmax = 60 
+        intervals: size = 41 
+        intervals [1]:
+            xmin = 0 
+            xmax = 6.244 
+            text = "#" 
+        intervals [2]:
+            xmin = 6.244 
+            xmax = 7.184 
+            text = "c'est euh" 
+        intervals [3]:
+            xmin = 7.184 
+            xmax = 8.469 
+            text = "#" 
+        intervals [4]:
+            xmin = 8.469 
+            xmax = 9.094 
+            text = "c'est une" 
+        intervals [5]:
+            xmin = 9.094 
+            xmax = 9.491 
+            text = "#" 
+        intervals [6]:
+            xmin = 9.491 
+            xmax = 10.587 
+            text = "framboise peut-être" 
+        intervals [7]:
+            xmin = 10.587 
+            xmax = 12.94 
+            text = "#" 
+        intervals [8]:
+            xmin = 12.94 
+            xmax = 13.342 
+            text = "tu crois" 
+        intervals [9]:
+            xmin = 13.342 
+            xmax = 14.028 
+            text = "#" 
+        intervals [10]:
+            xmin = 14.028 
+            xmax = 16.045 
+            text = "pas sûr parce qu'elle est quand même bien moche hein" 
+        intervals [11]:
+            xmin = 16.045 
+            xmax = 17.914 
+            text = "#" 
+        intervals [12]:
+            xmin = 17.914 
+            xmax = 18.31 
+            text = "euh" 
+        intervals [13]:
+            xmin = 18.31 
+            xmax = 20.983 
+            text = "#" 
+        intervals [14]:
+            xmin = 20.983 
+            xmax = 21.999 
+            text = "pourtant elle semble familière" 
+        intervals [15]:
+            xmin = 21.999 
+            xmax = 22.223 
+            text = "#" 
+        intervals [16]:
+            xmin = 22.223 
+            xmax = 24.214 
+            text = "euh moi je pense que je l'ai déjà vu quelque part et toi" 
+        intervals [17]:
+            xmin = 24.214 
+            xmax = 26.775 
+            text = "#" 
+        intervals [18]:
+            xmin = 26.775 
+            xmax = 29.376 
+            text = "je pense que je l'ai déjà vu quelque part cete framboise et toi" 
+        intervals [19]:
+            xmin = 29.376 
+            xmax = 31.469 
+            text = "#" 
+        intervals [20]:
+            xmin = 31.469 
+            xmax = 31.774 
+            text = "ah ouais" 
+        intervals [21]:
+            xmin = 31.774 
+            xmax = 34.503 
+            text = "#" 
+        intervals [22]:
+            xmin = 34.503 
+            xmax = 35.092 
+            text = "euh je cherche" 
+        intervals [23]:
+            xmin = 35.092 
+            xmax = 36.967 
+            text = "#" 
+        intervals [24]:
+            xmin = 36.967 
+            xmax = 38.542 
+            text = "euh oui oui oui ça doit être ça" 
+        intervals [25]:
+            xmin = 38.542 
+            xmax = 38.897 
+            text = "#" 
+        intervals [26]:
+            xmin = 38.897 
+            xmax = 39.37 
+            text = "ça doit être ça" 
+        intervals [27]:
+            xmin = 39.37 
+            xmax = 40.213 
+            text = "#" 
+        intervals [28]:
+            xmin = 40.213 
+            xmax = 44.72 
+            text = "ouais je te dis moi je regardais pas beaucoup la télé du coup j'ai un petit peu de mal à me rappeler de ces références mais euh" 
+        intervals [29]:
+            xmin = 44.72 
+            xmax = 45.619 
+            text = "#" 
+        intervals [30]:
+            xmin = 45.619 
+            xmax = 46.285 
+            text = "ça doit être ça ouais" 
+        intervals [31]:
+            xmin = 46.285 
+            xmax = 46.62 
+            text = "#" 
+        intervals [32]:
+            xmin = 46.62 
+            xmax = 48.622 
+            text = "les fruits qui sautent dans la cascade" 
+        intervals [33]:
+            xmin = 48.622 
+            xmax = 49.765 
+            text = "#" 
+        intervals [34]:
+            xmin = 49.765 
+            xmax = 49.983 
+            text = "ouais" 
+        intervals [35]:
+            xmin = 49.983 
+            xmax = 51.076 
+            text = "#" 
+        intervals [36]:
+            xmin = 51.076 
+            xmax = 51.569 
+            text = "ouais ouais" 
+        intervals [37]:
+            xmin = 51.569 
+            xmax = 51.843 
+            text = "#" 
+        intervals [38]:
+            xmin = 51.843 
+            xmax = 52.646 
+            text = "si je je vois" 
+        intervals [39]:
+            xmin = 52.646 
+            xmax = 54.617 
+            text = "#" 
+        intervals [40]:
+            xmin = 54.617 
+            xmax = 59.698 
+            text = "euh d'accord pourquoi est ce qu'on est passé des super héros à $Oasis$ euh d'un coup" 
+        intervals [41]:
+            xmin = 59.698 
+            xmax = 59.9516 
+            text = "#" 

@@ -1,0 +1,110 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 60 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Transcription" 
+        xmin = 0 
+        xmax = 60 
+        intervals: size = 24 
+        intervals [1]:
+            xmin = 0 
+            xmax = 2.362 
+            text = "#" 
+        intervals [2]:
+            xmin = 2.362 
+            xmax = 2.51 
+            text = "bah" 
+        intervals [3]:
+            xmin = 2.51 
+            xmax = 4.705 
+            text = "#" 
+        intervals [4]:
+            xmin = 4.705 
+            xmax = 10.842 
+            text = "ouais et elle donne -fin moi elle me donne envie de lui faire un calin tu vois en mode elle est elle est toute triste peuchère et tout et euh" 
+        intervals [5]:
+            xmin = 10.842 
+            xmax = 11.147 
+            text = "#" 
+        intervals [6]:
+            xmin = 11.147 
+            xmax = 11.289 
+            text = "ouais" 
+        intervals [7]:
+            xmin = 11.289 
+            xmax = 22.223 
+            text = "#" 
+        intervals [8]:
+            xmin = 22.223 
+            xmax = 22.548 
+            text = "ah ouais" 
+        intervals [9]:
+            xmin = 22.548 
+            xmax = 29.884 
+            text = "#" 
+        intervals [10]:
+            xmin = 29.884 
+            xmax = 30.311 
+            text = "d'accord" 
+        intervals [11]:
+            xmin = 30.311 
+            xmax = 30.672 
+            text = "#" 
+        intervals [12]:
+            xmin = 30.672 
+            xmax = 33.563 
+            text = "mais du coup les fruits locaux ça serait les premiers ou les deuxièmes" 
+        intervals [13]:
+            xmin = 33.563 
+            xmax = 35.534 
+            text = "#" 
+        intervals [14]:
+            xmin = 35.534 
+            xmax = 40.416 
+            text = "euh mais en même temps les premiers ils ont l'air tout brillants euh tout euh presque radioactifs euh" 
+        intervals [15]:
+            xmin = 40.416 
+            xmax = 41.041 
+            text = "#" 
+        intervals [16]:
+            xmin = 41.041 
+            xmax = 42.159 
+            text = "pour la pour la la couleur" 
+        intervals [17]:
+            xmin = 42.159 
+            xmax = 48.49 
+            text = "#" 
+        intervals [18]:
+            xmin = 48.49 
+            xmax = 50.41 
+            text = "d'accord en fait ils auraient été abîmés par les trajets" 
+        intervals [19]:
+            xmin = 50.41 
+            xmax = 57.025 
+            text = "#" 
+        intervals [20]:
+            xmin = 57.025 
+            xmax = 57.279 
+            text = "ouais" 
+        intervals [21]:
+            xmin = 57.279 
+            xmax = 57.874 
+            text = "#" 
+        intervals [22]:
+            xmin = 57.874 
+            xmax = 58.377 
+            text = "ouais ouais faudrait" 
+        intervals [23]:
+            xmin = 58.377 
+            xmax = 59.596 
+            text = "#" 
+        intervals [24]:
+            xmin = 59.596 
+            xmax = 59.9516 
+            text = "c'est euh" 

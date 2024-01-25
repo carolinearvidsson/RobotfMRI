@@ -1,0 +1,126 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 60 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Transcription" 
+        xmin = 0 
+        xmax = 60 
+        intervals: size = 28 
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.839 
+            text = "#" 
+        intervals [2]:
+            xmin = 1.839 
+            xmax = 3.323 
+            text = "alors là nous avons une fraise" 
+        intervals [3]:
+            xmin = 3.323 
+            xmax = 5.258 
+            text = "#" 
+        intervals [4]:
+            xmin = 5.258 
+            xmax = 5.822 
+            text = "euh" 
+        intervals [5]:
+            xmin = 5.822 
+            xmax = 8.078 
+            text = "#" 
+        intervals [6]:
+            xmin = 8.078 
+            xmax = 10.034 
+            text = "avec des yeux mais pas de bouche" 
+        intervals [7]:
+            xmin = 10.034 
+            xmax = 12.143 
+            text = "#" 
+        intervals [8]:
+            xmin = 12.143 
+            xmax = 13.418 
+            text = "elle serre les poings" 
+        intervals [9]:
+            xmin = 13.418 
+            xmax = 17.527 
+            text = "#" 
+        intervals [10]:
+            xmin = 17.527 
+            xmax = 18.068 
+            text = "elle est" 
+        intervals [11]:
+            xmin = 18.068 
+            xmax = 22.785 
+            text = "#" 
+        intervals [12]:
+            xmin = 22.785 
+            xmax = 23.137 
+            text = "oui" 
+        intervals [13]:
+            xmin = 23.137 
+            xmax = 23.554 
+            text = "#" 
+        intervals [14]:
+            xmin = 23.554 
+            xmax = 24.966 
+            text = "tout jaune jaune" 
+        intervals [15]:
+            xmin = 24.966 
+            xmax = 30.626 
+            text = "#" 
+        intervals [16]:
+            xmin = 30.626 
+            xmax = 31.057 
+            text = "euh" 
+        intervals [17]:
+            xmin = 31.057 
+            xmax = 33.471 
+            text = "#" 
+        intervals [18]:
+            xmin = 33.471 
+            xmax = 35.255 
+            text = "c'est comme une fraise du jardin" 
+        intervals [19]:
+            xmin = 35.255 
+            xmax = 42.431 
+            text = "#" 
+        intervals [20]:
+            xmin = 42.431 
+            xmax = 43.826 
+            text = "et euh" 
+        intervals [21]:
+            xmin = 43.826 
+            xmax = 51.655 
+            text = "#" 
+        intervals [22]:
+            xmin = 51.655 
+            xmax = 51.914 
+            text = "oui" 
+        intervals [23]:
+            xmin = 51.914 
+            xmax = 52.798 
+            text = "#" 
+        intervals [24]:
+            xmin = 52.798 
+            xmax = 53.194 
+            text = "voilà" 
+        intervals [25]:
+            xmin = 53.194 
+            xmax = 55.923 
+            text = "#" 
+        intervals [26]:
+            xmin = 55.923 
+            xmax = 57.36 
+            text = "non j'aurais pas dit malade" 
+        intervals [27]:
+            xmin = 57.36 
+            xmax = 59.108 
+            text = "#" 
+        intervals [28]:
+            xmin = 59.108 
+            xmax = 59.9044 
+            text = "juste pas" 

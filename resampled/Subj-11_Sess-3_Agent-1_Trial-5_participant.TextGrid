@@ -1,0 +1,126 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 60 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Transcription" 
+        xmin = 0 
+        xmax = 60 
+        intervals: size = 28 
+        intervals [1]:
+            xmin = 0 
+            xmax = 3.592 
+            text = "#" 
+        intervals [2]:
+            xmin = 3.592 
+            xmax = 3.861 
+            text = "oui" 
+        intervals [3]:
+            xmin = 3.861 
+            xmax = 5.7 
+            text = "#" 
+        intervals [4]:
+            xmin = 5.7 
+            xmax = 5.944 
+            text = "oui" 
+        intervals [5]:
+            xmin = 5.944 
+            xmax = 11.249 
+            text = "#" 
+        intervals [6]:
+            xmin = 11.249 
+            xmax = 11.594 
+            text = "ah" 
+        intervals [7]:
+            xmin = 11.594 
+            xmax = 18.209 
+            text = "#" 
+        intervals [8]:
+            xmin = 18.209 
+            xmax = 18.504 
+            text = "ouais" 
+        intervals [9]:
+            xmin = 18.504 
+            xmax = 19.174 
+            text = "#" 
+        intervals [10]:
+            xmin = 19.174 
+            xmax = 21.105 
+            text = "toi tu vois qu'y a un côté mesquin un peu" 
+        intervals [11]:
+            xmin = 21.105 
+            xmax = 23.102 
+            text = "#" 
+        intervals [12]:
+            xmin = 23.102 
+            xmax = 24.311 
+            text = "ouais ah ouais c'est" 
+        intervals [13]:
+            xmin = 24.311 
+            xmax = 31.556 
+            text = "#" 
+        intervals [14]:
+            xmin = 31.556 
+            xmax = 31.881 
+            text = "oui" 
+        intervals [15]:
+            xmin = 31.881 
+            xmax = 32.569 
+            text = "#" 
+        intervals [16]:
+            xmin = 32.569 
+            xmax = 36.739 
+            text = "bah peut-être que dans ce cas c'est un truc contre les pesticides" 
+        intervals [17]:
+            xmin = 36.739 
+            xmax = 37.536 
+            text = "#" 
+        intervals [18]:
+            xmin = 37.536 
+            xmax = 38.603 
+            text = "j'avais vu ça une fois" 
+        intervals [19]:
+            xmin = 38.603 
+            xmax = 39.131 
+            text = "#" 
+        intervals [20]:
+            xmin = 39.131 
+            xmax = 45.797 
+            text = "où y avait des des fruits en fait qui étaient mal présentés et en fait c'était parce que c'était bourré de pesticides" 
+        intervals [21]:
+            xmin = 45.797 
+            xmax = 47.387 
+            text = "#" 
+        intervals [22]:
+            xmin = 47.387 
+            xmax = 49.882 
+            text = "bah peut-être que c'est dans ce sens là aussi je sais pas" 
+        intervals [23]:
+            xmin = 49.882 
+            xmax = 54.338 
+            text = "#" 
+        intervals [24]:
+            xmin = 54.338 
+            xmax = 55.679 
+            text = "mais quand même c'est" 
+        intervals [25]:
+            xmin = 55.679 
+            xmax = 55.902 
+            text = "#" 
+        intervals [26]:
+            xmin = 55.902 
+            xmax = 58.099 
+            text = "-fin ils sont marrants je pense pas que ce soit" 
+        intervals [27]:
+            xmin = 58.099 
+            xmax = 58.788 
+            text = "#" 
+        intervals [28]:
+            xmin = 58.788 
+            xmax = 59.9044 
+            text = "dans un but négatif" 

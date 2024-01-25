@@ -1,0 +1,146 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 60 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Transcription" 
+        xmin = 0 
+        xmax = 60 
+        intervals: size = 33 
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.909 
+            text = "#" 
+        intervals [2]:
+            xmin = 1.909 
+            xmax = 3.45 
+            text = "alors salut robot" 
+        intervals [3]:
+            xmin = 3.45 
+            xmax = 7.143 
+            text = "#" 
+        intervals [4]:
+            xmin = 7.143 
+            xmax = 8.617 
+            text = "là c'était une poire qui était" 
+        intervals [5]:
+            xmin = 8.617 
+            xmax = 8.901 
+            text = "#" 
+        intervals [6]:
+            xmin = 8.901 
+            xmax = 10.796 
+            text = "complètement abimée quoi" 
+        intervals [7]:
+            xmin = 10.796 
+            xmax = 14.658 
+            text = "#" 
+        intervals [8]:
+            xmin = 14.658 
+            xmax = 15.457 
+            text = "poire jaune ouais" 
+        intervals [9]:
+            xmin = 15.457 
+            xmax = 17.281 
+            text = "#" 
+        intervals [10]:
+            xmin = 17.281 
+            xmax = 17.545 
+            text = "et" 
+        intervals [11]:
+            xmin = 17.545 
+            xmax = 19.002 
+            text = "#" 
+        intervals [12]:
+            xmin = 19.002 
+            xmax = 19.601 
+            text = "moche" 
+        intervals [13]:
+            xmin = 19.601 
+            xmax = 21.095 
+            text = "#" 
+        intervals [14]:
+            xmin = 21.095 
+            xmax = 23.645 
+            text = "ouais ouais ouais effectivement ouais tout le temps moche" 
+        intervals [15]:
+            xmin = 23.645 
+            xmax = 24.684 
+            text = "#" 
+        intervals [16]:
+            xmin = 24.684 
+            xmax = 25.04 
+            text = "et" 
+        intervals [17]:
+            xmin = 25.04 
+            xmax = 25.784 
+            text = "#" 
+        intervals [18]:
+            xmin = 25.784 
+            xmax = 27.811 
+            text = "mais qui était une poire de dessin animé un peu peut-être" 
+        intervals [19]:
+            xmin = 27.811 
+            xmax = 32.897 
+            text = "#" 
+        intervals [20]:
+            xmin = 32.897 
+            xmax = 33.923 
+            text = "la poire et quoi" 
+        intervals [21]:
+            xmin = 33.923 
+            xmax = 38.496 
+            text = "#" 
+        intervals [22]:
+            xmin = 38.496 
+            xmax = 38.821 
+            text = "mh" 
+        intervals [23]:
+            xmin = 38.821 
+            xmax = 39.025 
+            text = "#" 
+        intervals [24]:
+            xmin = 39.025 
+            xmax = 39.634 
+            text = "abimée" 
+        intervals [25]:
+            xmin = 39.634 
+            xmax = 41.636 
+            text = "#" 
+        intervals [26]:
+            xmin = 41.636 
+            xmax = 42.812 
+            text = "ouais ouais ouais il se retrouve" 
+        intervals [27]:
+            xmin = 42.812 
+            xmax = 45.929 
+            text = "#" 
+        intervals [28]:
+            xmin = 45.929 
+            xmax = 46.377 
+            text = "et le" 
+        intervals [29]:
+            xmin = 46.377 
+            xmax = 48.033 
+            text = "#" 
+        intervals [30]:
+            xmin = 48.033 
+            xmax = 50.588 
+            text = "tu devais pas me donner des informations supplémentaires" 
+        intervals [31]:
+            xmin = 50.588 
+            xmax = 54.581 
+            text = "#" 
+        intervals [32]:
+            xmin = 54.581 
+            xmax = 56.029 
+            text = "ouais c'est possible mais c'est pas sûr" 
+        intervals [33]:
+            xmin = 56.029 
+            xmax = 59.9516 
+            text = "#" 

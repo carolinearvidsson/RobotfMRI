@@ -1,0 +1,78 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 60 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Transcription" 
+        xmin = 0 
+        xmax = 60 
+        intervals: size = 16 
+        intervals [1]:
+            xmin = 0 
+            xmax = 3.76 
+            text = "#" 
+        intervals [2]:
+            xmin = 3.76 
+            xmax = 4.044 
+            text = "oui" 
+        intervals [3]:
+            xmin = 4.044 
+            xmax = 11.757 
+            text = "#" 
+        intervals [4]:
+            xmin = 11.757 
+            xmax = 12.529 
+            text = "je ne sais pas" 
+        intervals [5]:
+            xmin = 12.529 
+            xmax = 18.615 
+            text = "#" 
+        intervals [6]:
+            xmin = 18.615 
+            xmax = 19.764 
+            text = "non c'est impossible" 
+        intervals [7]:
+            xmin = 19.764 
+            xmax = 26.846 
+            text = "#" 
+        intervals [8]:
+            xmin = 26.846 
+            xmax = 28.116 
+            text = "la poire a l'air malade" 
+        intervals [9]:
+            xmin = 28.116 
+            xmax = 28.904 
+            text = "#" 
+        intervals [10]:
+            xmin = 28.904 
+            xmax = 30.611 
+            text = "peut-être que quelqu'un l'a frappé" 
+        intervals [11]:
+            xmin = 30.611 
+            xmax = 38.73 
+            text = "#" 
+        intervals [12]:
+            xmin = 38.73 
+            xmax = 39.741 
+            text = "oui c'est possible" 
+        intervals [13]:
+            xmin = 39.741 
+            xmax = 47.733 
+            text = "#" 
+        intervals [14]:
+            xmin = 47.733 
+            xmax = 49.13 
+            text = "tu as une idée du message" 
+        intervals [15]:
+            xmin = 49.13 
+            xmax = 57.132 
+            text = "#" 
+        intervals [16]:
+            xmin = 57.132 
+            xmax = 59.9516 
+            text = "c'est une campagne pour les fruits locaux qui ne viennent pas de" 

@@ -1,0 +1,130 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 60 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Transcription" 
+        xmin = 0 
+        xmax = 60 
+        intervals: size = 29 
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.392 
+            text = "#" 
+        intervals [2]:
+            xmin = 1.392 
+            xmax = 2.754 
+            text = "et donc là on a notre combattante" 
+        intervals [3]:
+            xmin = 2.754 
+            xmax = 5.233 
+            text = "#" 
+        intervals [4]:
+            xmin = 5.233 
+            xmax = 5.457 
+            text = "ouais" 
+        intervals [5]:
+            xmin = 5.457 
+            xmax = 7.032 
+            text = "#" 
+        intervals [6]:
+            xmin = 7.032 
+            xmax = 16.248 
+            text = "euh mais ça serait peut-être plutôt une combattante du du quotidien tu sais avec les euh les autres légumes qui étaient tout beaux tout lisses un peu surréaliste mais en super héros donc des trucs qui existent pas" 
+        intervals [7]:
+            xmin = 16.248 
+            xmax = 17.681 
+            text = "#" 
+        intervals [8]:
+            xmin = 17.681 
+            xmax = 22.365 
+            text = "et euh et là c'est si ben elle est un peu plus réaliste quand même" 
+        intervals [9]:
+            xmin = 22.365 
+            xmax = 22.797 
+            text = "#" 
+        intervals [10]:
+            xmin = 22.797 
+            xmax = 24.309 
+            text = "mais en même temps elle a quand même l'air d'une battante" 
+        intervals [11]:
+            xmin = 24.309 
+            xmax = 28.01 
+            text = "#" 
+        intervals [12]:
+            xmin = 28.01 
+            xmax = 29.234 
+            text = "non on a pas envie de la manger" 
+        intervals [13]:
+            xmin = 29.234 
+            xmax = 30.103 
+            text = "#" 
+        intervals [14]:
+            xmin = 30.103 
+            xmax = 30.758 
+            text = "mais euh" 
+        intervals [15]:
+            xmin = 30.758 
+            xmax = 31.398 
+            text = "#" 
+        intervals [16]:
+            xmin = 31.398 
+            xmax = 36.245 
+            text = "mais moi elle m'inspire de la sympathie tu vois dans le sens ou euh j'ai l'impression que c'est quelqu'un qui se laisse pas faire" 
+        intervals [17]:
+            xmin = 36.245 
+            xmax = 44.496 
+            text = "#" 
+        intervals [18]:
+            xmin = 44.496 
+            xmax = 45.269 
+            text = "ah ouais" 
+        intervals [19]:
+            xmin = 45.269 
+            xmax = 45.746 
+            text = "#" 
+        intervals [20]:
+            xmin = 45.746 
+            xmax = 46.813 
+            text = "mais oui c'est possible" 
+        intervals [21]:
+            xmin = 46.813 
+            xmax = 49.709 
+            text = "#" 
+        intervals [22]:
+            xmin = 49.709 
+            xmax = 49.922 
+            text = "ouais" 
+        intervals [23]:
+            xmin = 49.922 
+            xmax = 51.675 
+            text = "#" 
+        intervals [24]:
+            xmin = 51.675 
+            xmax = 51.873 
+            text = "ouais" 
+        intervals [25]:
+            xmin = 51.873 
+            xmax = 55.912 
+            text = "#" 
+        intervals [26]:
+            xmin = 55.912 
+            xmax = 57.767 
+            text = "ouais ouais t'as t'as t'as complètement raison" 
+        intervals [27]:
+            xmin = 57.767 
+            xmax = 58.468 
+            text = "#" 
+        intervals [28]:
+            xmin = 58.468 
+            xmax = 58.925 
+            text = "et euh" 
+        intervals [29]:
+            xmin = 58.925 
+            xmax = 59.9516 
+            text = "#" 

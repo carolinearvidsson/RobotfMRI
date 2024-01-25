@@ -1,0 +1,174 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 60 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Transcription" 
+        xmin = 0 
+        xmax = 60 
+        intervals: size = 40 
+        intervals [1]:
+            xmin = 0 
+            xmax = 2.637 
+            text = "#" 
+        intervals [2]:
+            xmin = 2.637 
+            xmax = 4.867 
+            text = "le citron on est retombé sur le citron" 
+        intervals [3]:
+            xmin = 4.867 
+            xmax = 5.637 
+            text = "#" 
+        intervals [4]:
+            xmin = 5.637 
+            xmax = 5.965 
+            text = "de euh" 
+        intervals [5]:
+            xmin = 5.965 
+            xmax = 7.169 
+            text = "#" 
+        intervals [6]:
+            xmin = 7.169 
+            xmax = 8.993 
+            text = "voilà tout à l'heure" 
+        intervals [7]:
+            xmin = 8.993 
+            xmax = 9.877 
+            text = "#" 
+        intervals [8]:
+            xmin = 9.877 
+            xmax = 14.968 
+            text = "tu m- tu m'avais dit moi j'ai l'impression que c'est découpé moi j'avais l'impression que c'était rajouté" 
+        intervals [9]:
+            xmin = 14.968 
+            xmax = 16.238 
+            text = "#" 
+        intervals [10]:
+            xmin = 16.238 
+            xmax = 17.549 
+            text = "et euh là euh" 
+        intervals [11]:
+            xmin = 17.549 
+            xmax = 19.703 
+            text = "#" 
+        intervals [12]:
+            xmin = 19.703 
+            xmax = 24.115 
+            text = "ben tu as raison c'est peut-être découpé c'est peut-être un citron vert qui est découpé en fait" 
+        intervals [13]:
+            xmin = 24.115 
+            xmax = 27.674 
+            text = "#" 
+        intervals [14]:
+            xmin = 27.674 
+            xmax = 29.519 
+            text = "ouais ouais et maintenant que j'ai revu t'as" 
+        intervals [15]:
+            xmin = 29.519 
+            xmax = 30.438 
+            text = "#" 
+        intervals [16]:
+            xmin = 30.438 
+            xmax = 30.961 
+            text = "tu as raison" 
+        intervals [17]:
+            xmin = 30.961 
+            xmax = 31.221 
+            text = "#" 
+        intervals [18]:
+            xmin = 31.221 
+            xmax = 31.835 
+            text = "ouais ouais" 
+        intervals [19]:
+            xmin = 31.835 
+            xmax = 32.277 
+            text = "#" 
+        intervals [20]:
+            xmin = 32.277 
+            xmax = 35.168 
+            text = "bon le jaune par contre il a pas l'air très naturel hein" 
+        intervals [21]:
+            xmin = 35.168 
+            xmax = 37.175 
+            text = "#" 
+        intervals [22]:
+            xmin = 37.175 
+            xmax = 39.212 
+            text = "ouais le jaune est très * un peu" 
+        intervals [23]:
+            xmin = 39.212 
+            xmax = 44.034 
+            text = "#" 
+        intervals [24]:
+            xmin = 44.034 
+            xmax = 44.639 
+            text = "ouais c'est vrai" 
+        intervals [25]:
+            xmin = 44.639 
+            xmax = 46.823 
+            text = "#" 
+        intervals [26]:
+            xmin = 46.823 
+            xmax = 47.309 
+            text = "ouais" 
+        intervals [27]:
+            xmin = 47.309 
+            xmax = 47.971 
+            text = "#" 
+        intervals [28]:
+            xmin = 47.971 
+            xmax = 48.297 
+            text = "ouais" 
+        intervals [29]:
+            xmin = 48.297 
+            xmax = 49.75 
+            text = "#" 
+        intervals [30]:
+            xmin = 49.75 
+            xmax = 50.552 
+            text = "c'est clair" 
+        intervals [31]:
+            xmin = 50.552 
+            xmax = 50.954 
+            text = "#" 
+        intervals [32]:
+            xmin = 50.954 
+            xmax = 53.824 
+            text = "moi de toute façon ça me faisait penser aux pes- aux pesticides sur les pommes" 
+        intervals [33]:
+            xmin = 53.824 
+            xmax = 54.185 
+            text = "#" 
+        intervals [34]:
+            xmin = 54.185 
+            xmax = 54.84 
+            text = "ouais c'est ça" 
+        intervals [35]:
+            xmin = 54.84 
+            xmax = 58.671 
+            text = "#" 
+        intervals [36]:
+            xmin = 58.671 
+            xmax = 58.905 
+            text = "ouais" 
+        intervals [37]:
+            xmin = 58.905 
+            xmax = 59.179 
+            text = "#" 
+        intervals [38]:
+            xmin = 59.179 
+            xmax = 59.372 
+            text = "ouais" 
+        intervals [39]:
+            xmin = 59.372 
+            xmax = 59.616 
+            text = "#" 
+        intervals [40]:
+            xmin = 59.616 
+            xmax = 59.9044 
+            text = "ça dé-" 

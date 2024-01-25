@@ -1,0 +1,126 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 60 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Transcription" 
+        xmin = 0 
+        xmax = 60 
+        intervals: size = 28 
+        intervals [1]:
+            xmin = 0 
+            xmax = 2.738 
+            text = "#" 
+        intervals [2]:
+            xmin = 2.738 
+            xmax = 2.967 
+            text = "ouais" 
+        intervals [3]:
+            xmin = 2.967 
+            xmax = 3.18 
+            text = "#" 
+        intervals [4]:
+            xmin = 3.18 
+            xmax = 4.034 
+            text = "ouais ouais je trouve" 
+        intervals [5]:
+            xmin = 4.034 
+            xmax = 4.466 
+            text = "#" 
+        intervals [6]:
+            xmin = 4.466 
+            xmax = 6.209 
+            text = "que c'est euh c'est bien fait le masque" 
+        intervals [7]:
+            xmin = 6.209 
+            xmax = 11.03 
+            text = "#" 
+        intervals [8]:
+            xmin = 11.03 
+            xmax = 13.438 
+            text = "euh c'est un truc de dessin animé je pense" 
+        intervals [9]:
+            xmin = 13.438 
+            xmax = 14.378 
+            text = "#" 
+        intervals [10]:
+            xmin = 14.378 
+            xmax = 16.239 
+            text = "ça doit être euh" 
+        intervals [11]:
+            xmin = 16.239 
+            xmax = 18.123 
+            text = "#" 
+        intervals [12]:
+            xmin = 18.123 
+            xmax = 20.089 
+            text = "j'ai je ça me rappelle quelque chose hein" 
+        intervals [13]:
+            xmin = 20.089 
+            xmax = 23.33 
+            text = "#" 
+        intervals [14]:
+            xmin = 23.33 
+            xmax = 23.88 
+            text = "mh" 
+        intervals [15]:
+            xmin = 23.88 
+            xmax = 27.181 
+            text = "#" 
+        intervals [16]:
+            xmin = 27.181 
+            xmax = 27.994 
+            text = "de euh" 
+        intervals [17]:
+            xmin = 27.994 
+            xmax = 39.212 
+            text = "#" 
+        intervals [18]:
+            xmin = 39.212 
+            xmax = 39.964 
+            text = "aux pubs $Mac do$" 
+        intervals [19]:
+            xmin = 39.964 
+            xmax = 43.506 
+            text = "#" 
+        intervals [20]:
+            xmin = 43.506 
+            xmax = 44.557 
+            text = "euh je sais pas" 
+        intervals [21]:
+            xmin = 44.557 
+            xmax = 47.829 
+            text = "#" 
+        intervals [22]:
+            xmin = 47.829 
+            xmax = 49.008 
+            text = "c'est une pub qui passe à la télé" 
+        intervals [23]:
+            xmin = 49.008 
+            xmax = 56.888 
+            text = "#" 
+        intervals [24]:
+            xmin = 56.888 
+            xmax = 57.279 
+            text = "d'accord" 
+        intervals [25]:
+            xmin = 57.279 
+            xmax = 58.087 
+            text = "#" 
+        intervals [26]:
+            xmin = 58.087 
+            xmax = 58.539 
+            text = "euh" 
+        intervals [27]:
+            xmin = 58.539 
+            xmax = 59.484 
+            text = "#" 
+        intervals [28]:
+            xmin = 59.484 
+            xmax = 59.9516 
+            text = "ben là c-" 

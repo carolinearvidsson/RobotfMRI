@@ -1,0 +1,102 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 60 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Transcription" 
+        xmin = 0 
+        xmax = 60 
+        intervals: size = 22 
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.622 
+            text = "#" 
+        intervals [2]:
+            xmin = 1.622 
+            xmax = 3.249 
+            text = "euh c'est à nouveau la framboise $Oasis$" 
+        intervals [3]:
+            xmin = 3.249 
+            xmax = 4.608 
+            text = "#" 
+        intervals [4]:
+            xmin = 4.608 
+            xmax = 9.413 
+            text = "euh tu s- j'ai réfléchi pendant euh là pendant le temps qu'on a eu" 
+        intervals [5]:
+            xmin = 9.413 
+            xmax = 10.449 
+            text = "#" 
+        intervals [6]:
+            xmin = 10.449 
+            xmax = 11.691 
+            text = "et euh" 
+        intervals [7]:
+            xmin = 11.691 
+            xmax = 12.227 
+            text = "#" 
+        intervals [8]:
+            xmin = 12.227 
+            xmax = 15.443 
+            text = "tu sais ce que tu disais par rapport aux aux fruits et légumes trop beaux" 
+        intervals [9]:
+            xmin = 15.443 
+            xmax = 16.764 
+            text = "#" 
+        intervals [10]:
+            xmin = 16.764 
+            xmax = 21.358 
+            text = "euh y a aussi une différence sur les sur les émotions parce que les premiers ils sont masqués" 
+        intervals [11]:
+            xmin = 21.358 
+            xmax = 22.162 
+            text = "#" 
+        intervals [12]:
+            xmin = 22.162 
+            xmax = 25.742 
+            text = "et les deuxièmes ils ont tous une émotion différente ils sont un peu plus nature en quelque sorte" 
+        intervals [13]:
+            xmin = 25.742 
+            xmax = 35.356 
+            text = "#" 
+        intervals [14]:
+            xmin = 35.356 
+            xmax = 37.155 
+            text = "la deuxième serait contre le gaspillage ouais" 
+        intervals [15]:
+            xmin = 37.155 
+            xmax = 38.247 
+            text = "#" 
+        intervals [16]:
+            xmin = 38.247 
+            xmax = 40.563 
+            text = "et du coup ils seraient en colère d'être jetés" 
+        intervals [17]:
+            xmin = 40.563 
+            xmax = 42.86 
+            text = "#" 
+        intervals [18]:
+            xmin = 42.86 
+            xmax = 52.185 
+            text = "mais euh pourquoi est ce qu'ils seraient gaspillés parce que y a y a plein de raison tu sais t'as les t'as les déchets t'as t'as les les les problèmes d'importation et de consommation" 
+        intervals [19]:
+            xmin = 52.185 
+            xmax = 52.817 
+            text = "#" 
+        intervals [20]:
+            xmin = 52.817 
+            xmax = 54.605 
+            text = "ça peut être pas mal de choses" 
+        intervals [21]:
+            xmin = 54.605 
+            xmax = 59.076 
+            text = "#" 
+        intervals [22]:
+            xmin = 59.076 
+            xmax = 59.9516 
+            text = "mh" 

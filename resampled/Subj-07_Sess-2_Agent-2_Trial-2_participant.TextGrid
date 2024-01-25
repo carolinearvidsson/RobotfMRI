@@ -1,0 +1,82 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 60 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Transcription" 
+        xmin = 0 
+        xmax = 60 
+        intervals: size = 17 
+        intervals [1]:
+            xmin = 0 
+            xmax = 7.453 
+            text = "#" 
+        intervals [2]:
+            xmin = 7.453 
+            xmax = 8.444 
+            text = "donc c'était une poire" 
+        intervals [3]:
+            xmin = 8.444 
+            xmax = 9.729 
+            text = "#" 
+        intervals [4]:
+            xmin = 9.729 
+            xmax = 10.049 
+            text = "oui" 
+        intervals [5]:
+            xmin = 10.049 
+            xmax = 14.912 
+            text = "#" 
+        intervals [6]:
+            xmin = 14.912 
+            xmax = 17.02 
+            text = "poire jaune qui a l'air naturelle" 
+        intervals [7]:
+            xmin = 17.02 
+            xmax = 25.134 
+            text = "#" 
+        intervals [8]:
+            xmin = 25.134 
+            xmax = 25.515 
+            text = "non" 
+        intervals [9]:
+            xmin = 25.515 
+            xmax = 28.365 
+            text = "#" 
+        intervals [10]:
+            xmin = 28.365 
+            xmax = 29.478 
+            text = "elle a l'air naturelle" 
+        intervals [11]:
+            xmin = 29.478 
+            xmax = 47.602 
+            text = "#" 
+        intervals [12]:
+            xmin = 47.602 
+            xmax = 47.974 
+            text = "mh" 
+        intervals [13]:
+            xmin = 47.974 
+            xmax = 50.436 
+            text = "#" 
+        intervals [14]:
+            xmin = 50.436 
+            xmax = 52.117 
+            text = "ça change rien à sa" 
+        intervals [15]:
+            xmin = 52.117 
+            xmax = 53.108 
+            text = "#" 
+        intervals [16]:
+            xmin = 53.108 
+            xmax = 54.251 
+            text = "sa qualité de poire" 
+        intervals [17]:
+            xmin = 54.251 
+            xmax = 59.9044 
+            text = "#" 

@@ -1,0 +1,86 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 60 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Transcription" 
+        xmin = 0 
+        xmax = 60 
+        intervals: size = 18 
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.372 
+            text = "#" 
+        intervals [2]:
+            xmin = 1.372 
+            xmax = 2.864 
+            text = "ok on l'a déjà vu celle là" 
+        intervals [3]:
+            xmin = 2.864 
+            xmax = 4.501 
+            text = "#" 
+        intervals [4]:
+            xmin = 4.501 
+            xmax = 5.558 
+            text = "euh" 
+        intervals [5]:
+            xmin = 5.558 
+            xmax = 13.276 
+            text = "#" 
+        intervals [6]:
+            xmin = 13.276 
+            xmax = 18.138 
+            text = "d'accord donc là ceux là ça serait les fruits méchants et en fait ils attaqueraient les deuxièmes" 
+        intervals [7]:
+            xmin = 18.138 
+            xmax = 22.162 
+            text = "#" 
+        intervals [8]:
+            xmin = 22.162 
+            xmax = 24.425 
+            text = "mais euh pourquoi est ce que y en aurait des euh" 
+        intervals [9]:
+            xmin = 24.425 
+            xmax = 25.434 
+            text = "#" 
+        intervals [10]:
+            xmin = 25.434 
+            xmax = 28.482 
+            text = "des des méchants et gentils je pense que c'est lié euh" 
+        intervals [11]:
+            xmin = 28.482 
+            xmax = 28.711 
+            text = "#" 
+        intervals [12]:
+            xmin = 28.711 
+            xmax = 34.355 
+            text = "aux fruits et légumes c'est à dire qu'on essaye de faire passer un message sur les fruits et légumes ou qu'on utilise les fruits et légumes pour faire passer un message sur autre chose" 
+        intervals [13]:
+            xmin = 34.355 
+            xmax = 40.035 
+            text = "#" 
+        intervals [14]:
+            xmin = 40.035 
+            xmax = 40.488 
+            text = "d'accord" 
+        intervals [15]:
+            xmin = 40.488 
+            xmax = 40.97 
+            text = "#" 
+        intervals [16]:
+            xmin = 40.97 
+            xmax = 46.269 
+            text = "donc ce serait je sais pas quelque chose contre le harcèlement et la persécution par exemple" 
+        intervals [17]:
+            xmin = 46.269 
+            xmax = 55.44 
+            text = "#" 
+        intervals [18]:
+            xmin = 55.44 
+            xmax = 59.9516 
+            text = "et c'est peut-être quelque chose pour les euh pour les écoles vu que en général tout ce qui est personnificati-" 

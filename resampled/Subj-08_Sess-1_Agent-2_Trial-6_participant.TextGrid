@@ -1,0 +1,142 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 60 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Transcription" 
+        xmin = 0 
+        xmax = 60 
+        intervals: size = 32 
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.748 
+            text = "#" 
+        intervals [2]:
+            xmin = 1.748 
+            xmax = 2.174 
+            text = "coucou" 
+        intervals [3]:
+            xmin = 2.174 
+            xmax = 2.916 
+            text = "#" 
+        intervals [4]:
+            xmin = 2.916 
+            xmax = 4.867 
+            text = "euh du coup" 
+        intervals [5]:
+            xmin = 4.867 
+            xmax = 5.111 
+            text = "#" 
+        intervals [6]:
+            xmin = 5.111 
+            xmax = 7.143 
+            text = "j'ai vu un citron vert" 
+        intervals [7]:
+            xmin = 7.143 
+            xmax = 12.138 
+            text = "#" 
+        intervals [8]:
+            xmin = 12.138 
+            xmax = 12.854 
+            text = "avec s-" 
+        intervals [9]:
+            xmin = 12.854 
+            xmax = 14.094 
+            text = "#" 
+        intervals [10]:
+            xmin = 14.094 
+            xmax = 15.374 
+            text = "voilà et découpé" 
+        intervals [11]:
+            xmin = 15.374 
+            xmax = 15.953 
+            text = "#" 
+        intervals [12]:
+            xmin = 15.953 
+            xmax = 18.605 
+            text = "euh avec euh un masque" 
+        intervals [13]:
+            xmin = 18.605 
+            xmax = 20.216 
+            text = "#" 
+        intervals [14]:
+            xmin = 20.216 
+            xmax = 22.917 
+            text = "euh qui repré- des yeux -fin on voit les yeux" 
+        intervals [15]:
+            xmin = 22.917 
+            xmax = 25.586 
+            text = "#" 
+        intervals [16]:
+            xmin = 25.586 
+            xmax = 26.348 
+            text = "voilà ah bon" 
+        intervals [17]:
+            xmin = 26.348 
+            xmax = 27.466 
+            text = "#" 
+        intervals [18]:
+            xmin = 27.466 
+            xmax = 27.832 
+            text = "ah" 
+        intervals [19]:
+            xmin = 27.832 
+            xmax = 29.95 
+            text = "#" 
+        intervals [20]:
+            xmin = 29.95 
+            xmax = 33.217 
+            text = "un peu tout à l'heure ça me fait penser aux $Tortues Ninja$" 
+        intervals [21]:
+            xmin = 33.217 
+            xmax = 36.677 
+            text = "#" 
+        intervals [22]:
+            xmin = 36.677 
+            xmax = 36.936 
+            text = "ouais" 
+        intervals [23]:
+            xmin = 36.936 
+            xmax = 37.962 
+            text = "#" 
+        intervals [24]:
+            xmin = 37.962 
+            xmax = 41.387 
+            text = "et euh du coup ça me fait ça me fait penser à ça et euh" 
+        intervals [25]:
+            xmin = 41.387 
+            xmax = 41.814 
+            text = "#" 
+        intervals [26]:
+            xmin = 41.814 
+            xmax = 46.224 
+            text = "ça reste euh des des j'allais dire des super héros ou des" 
+        intervals [27]:
+            xmin = 46.224 
+            xmax = 47.91 
+            text = "#" 
+        intervals [28]:
+            xmin = 47.91 
+            xmax = 48.52 
+            text = "tu vois" 
+        intervals [29]:
+            xmin = 48.52 
+            xmax = 52.951 
+            text = "#" 
+        intervals [30]:
+            xmin = 52.951 
+            xmax = 53.885 
+            text = "oui c'est ça" 
+        intervals [31]:
+            xmin = 53.885 
+            xmax = 57.188 
+            text = "#" 
+        intervals [32]:
+            xmin = 57.188 
+            xmax = 59.9044 
+            text = "oui c'était peut-être pour inciter à manger des fruits" 

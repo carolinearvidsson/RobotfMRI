@@ -1,0 +1,98 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 60 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Transcription" 
+        xmin = 0 
+        xmax = 60 
+        intervals: size = 21 
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.56 
+            text = "#" 
+        intervals [2]:
+            xmin = 1.56 
+            xmax = 2.063 
+            text = "salut" 
+        intervals [3]:
+            xmin = 2.063 
+            xmax = 3.46 
+            text = "#" 
+        intervals [4]:
+            xmin = 3.46 
+            xmax = 4.319 
+            text = "c'est une poire" 
+        intervals [5]:
+            xmin = 4.319 
+            xmax = 7.845 
+            text = "#" 
+        intervals [6]:
+            xmin = 7.845 
+            xmax = 8.952 
+            text = "c'est une poire pourrie" 
+        intervals [7]:
+            xmin = 8.952 
+            xmax = 10.791 
+            text = "#" 
+        intervals [8]:
+            xmin = 10.791 
+            xmax = 11.899 
+            text = "c'est une poire pourrie" 
+        intervals [9]:
+            xmin = 11.899 
+            xmax = 14.744 
+            text = "#" 
+        intervals [10]:
+            xmin = 14.744 
+            xmax = 16.126 
+            text = "la poire semble triste" 
+        intervals [11]:
+            xmin = 16.126 
+            xmax = 22.619 
+            text = "#" 
+        intervals [12]:
+            xmin = 22.619 
+            xmax = 23.869 
+            text = "la poire a l'air malade" 
+        intervals [13]:
+            xmin = 23.869 
+            xmax = 33.522 
+            text = "#" 
+        intervals [14]:
+            xmin = 33.522 
+            xmax = 35.554 
+            text = "elle est peut-être triste car elle est pourrie" 
+        intervals [15]:
+            xmin = 35.554 
+            xmax = 40.645 
+            text = "#" 
+        intervals [16]:
+            xmin = 40.645 
+            xmax = 41.489 
+            text = "qu'est ce que tu en dis" 
+        intervals [17]:
+            xmin = 41.489 
+            xmax = 47.357 
+            text = "#" 
+        intervals [18]:
+            xmin = 47.357 
+            xmax = 49.049 
+            text = "elle est pourrie parce qu'elle vient de loin" 
+        intervals [19]:
+            xmin = 49.049 
+            xmax = 51.375 
+            text = "#" 
+        intervals [20]:
+            xmin = 51.375 
+            xmax = 52.219 
+            text = "qu'est ce que tu en dis" 
+        intervals [21]:
+            xmin = 52.219 
+            xmax = 59.9516 
+            text = "#" 

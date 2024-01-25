@@ -1,0 +1,122 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 60 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Transcription" 
+        xmin = 0 
+        xmax = 60 
+        intervals: size = 27 
+        intervals [1]:
+            xmin = 0 
+            xmax = 2.998 
+            text = "#" 
+        intervals [2]:
+            xmin = 2.998 
+            xmax = 3.353 
+            text = "ouais" 
+        intervals [3]:
+            xmin = 3.353 
+            xmax = 3.628 
+            text = "#" 
+        intervals [4]:
+            xmin = 3.628 
+            xmax = 5.131 
+            text = "c'est une pomme on dirait $Spiderman$" 
+        intervals [5]:
+            xmin = 5.131 
+            xmax = 10.782 
+            text = "#" 
+        intervals [6]:
+            xmin = 10.782 
+            xmax = 11.098 
+            text = "ouais" 
+        intervals [7]:
+            xmin = 11.098 
+            xmax = 22.732 
+            text = "#" 
+        intervals [8]:
+            xmin = 22.732 
+            xmax = 24.743 
+            text = "ouais ou alors c'est pour inciter à" 
+        intervals [9]:
+            xmin = 24.743 
+            xmax = 25.027 
+            text = "#" 
+        intervals [10]:
+            xmin = 25.027 
+            xmax = 25.718 
+            text = "à manger" 
+        intervals [11]:
+            xmin = 25.718 
+            xmax = 25.932 
+            text = "#" 
+        intervals [12]:
+            xmin = 25.932 
+            xmax = 26.836 
+            text = "fruits et légumes" 
+        intervals [13]:
+            xmin = 26.836 
+            xmax = 27.288 
+            text = "#" 
+        intervals [14]:
+            xmin = 27.288 
+            xmax = 29.539 
+            text = "5 fois par jour comme on l'entend tous les jours à la télé" 
+        intervals [15]:
+            xmin = 29.539 
+            xmax = 30.209 
+            text = "#" 
+        intervals [16]:
+            xmin = 30.209 
+            xmax = 32.587 
+            text = "et si on le fait on devient un super héros" 
+        intervals [17]:
+            xmin = 32.587 
+            xmax = 33.979 
+            text = "#" 
+        intervals [18]:
+            xmin = 33.979 
+            xmax = 34.564 
+            text = "c'est l'idée" 
+        intervals [19]:
+            xmin = 34.564 
+            xmax = 42.327 
+            text = "#" 
+        intervals [20]:
+            xmin = 42.327 
+            xmax = 43.821 
+            text = "ouais c'est int- c'est inter-" 
+        intervals [21]:
+            xmin = 43.821 
+            xmax = 44.029 
+            text = "#" 
+        intervals [22]:
+            xmin = 44.029 
+            xmax = 45.553 
+            text = "intergénérationnel" 
+        intervals [23]:
+            xmin = 45.553 
+            xmax = 50.618 
+            text = "#" 
+        intervals [24]:
+            xmin = 50.618 
+            xmax = 51.269 
+            text = "exactement" 
+        intervals [25]:
+            xmin = 51.269 
+            xmax = 56.639 
+            text = "#" 
+        intervals [26]:
+            xmin = 56.639 
+            xmax = 57.462 
+            text = "bonne association" 
+        intervals [27]:
+            xmin = 57.462 
+            xmax = 59.9044 
+            text = "#" 

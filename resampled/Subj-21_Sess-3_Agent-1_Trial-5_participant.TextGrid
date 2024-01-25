@@ -1,0 +1,86 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 60 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Transcription" 
+        xmin = 0 
+        xmax = 60 
+        intervals: size = 18 
+        intervals [1]:
+            xmin = 0 
+            xmax = 3.688 
+            text = "#" 
+        intervals [2]:
+            xmin = 3.688 
+            xmax = 4.034 
+            text = "salut" 
+        intervals [3]:
+            xmin = 4.034 
+            xmax = 17.808 
+            text = "#" 
+        intervals [4]:
+            xmin = 17.808 
+            xmax = 18.382 
+            text = "c'est une pub" 
+        intervals [5]:
+            xmin = 18.382 
+            xmax = 18.656 
+            text = "#" 
+        intervals [6]:
+            xmin = 18.656 
+            xmax = 19.703 
+            text = "pour les pesticides" 
+        intervals [7]:
+            xmin = 19.703 
+            xmax = 22.502 
+            text = "#" 
+        intervals [8]:
+            xmin = 22.502 
+            xmax = 24.844 
+            text = "je suis pas sûre qu'ils aient le droit le gouvernement de faire ça" 
+        intervals [9]:
+            xmin = 24.844 
+            xmax = 27.999 
+            text = "#" 
+        intervals [10]:
+            xmin = 27.999 
+            xmax = 31.249 
+            text = "même si c'est pas le gouvernement c'est bizarre de faire une pub pour les pesticides" 
+        intervals [11]:
+            xmin = 31.249 
+            xmax = 36.85 
+            text = "#" 
+        intervals [12]:
+            xmin = 36.85 
+            xmax = 39.131 
+            text = "ouais pourquoi hein peut-être qu'ils ont le droit je sais pas trop" 
+        intervals [13]:
+            xmin = 39.131 
+            xmax = 49.064 
+            text = "#" 
+        intervals [14]:
+            xmin = 49.064 
+            xmax = 51.583 
+            text = "ouais voilà les super héros c'est pour les plus pour les enfants quand même" 
+        intervals [15]:
+            xmin = 51.583 
+            xmax = 53.616 
+            text = "#" 
+        intervals [16]:
+            xmin = 53.616 
+            xmax = 56.791 
+            text = "peut-être pour inciter les enfants à manger des fruits et légumes aussi mais" 
+        intervals [17]:
+            xmin = 56.791 
+            xmax = 58.453 
+            text = "#" 
+        intervals [18]:
+            xmin = 58.453 
+            xmax = 59.9044 
+            text = "pourquoi les deuxièmes images quoi" 

@@ -1,0 +1,98 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 60 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Transcription" 
+        xmin = 0 
+        xmax = 60 
+        intervals: size = 21 
+        intervals [1]:
+            xmin = 0 
+            xmax = 5.518 
+            text = "#" 
+        intervals [2]:
+            xmin = 5.518 
+            xmax = 5.822 
+            text = "non" 
+        intervals [3]:
+            xmin = 5.822 
+            xmax = 6.132 
+            text = "#" 
+        intervals [4]:
+            xmin = 6.132 
+            xmax = 8.611 
+            text = "euh ben comme les les deux derniers qu'on vient de voir là" 
+        intervals [5]:
+            xmin = 8.611 
+            xmax = 20.77 
+            text = "#" 
+        intervals [6]:
+            xmin = 20.77 
+            xmax = 21.024 
+            text = "tu" 
+        intervals [7]:
+            xmin = 21.024 
+            xmax = 23.859 
+            text = "#" 
+        intervals [8]:
+            xmin = 23.859 
+            xmax = 24.921 
+            text = "ouais" 
+        intervals [9]:
+            xmin = 24.921 
+            xmax = 25.566 
+            text = "#" 
+        intervals [10]:
+            xmin = 25.566 
+            xmax = 31.652 
+            text = "euh mais en général les insecticides on leur reproche plutôt d'être un peu trop beaux en quelque sorte non" 
+        intervals [11]:
+            xmin = 31.652 
+            xmax = 34.564 
+            text = "#" 
+        intervals [12]:
+            xmin = 34.564 
+            xmax = 34.867 
+            text = "euh" 
+        intervals [13]:
+            xmin = 34.867 
+            xmax = 36.926 
+            text = "#" 
+        intervals [14]:
+            xmin = 36.926 
+            xmax = 37.587 
+            text = "ah d'accord ok" 
+        intervals [15]:
+            xmin = 37.587 
+            xmax = 40.493 
+            text = "#" 
+        intervals [16]:
+            xmin = 40.493 
+            xmax = 42.606 
+            text = "ok ça pourrait être les déplacements sinon peut-être" 
+        intervals [17]:
+            xmin = 42.606 
+            xmax = 51.278 
+            text = "#" 
+        intervals [18]:
+            xmin = 51.278 
+            xmax = 51.69 
+            text = "mh mh" 
+        intervals [19]:
+            xmin = 51.69 
+            xmax = 57.574 
+            text = "#" 
+        intervals [20]:
+            xmin = 57.574 
+            xmax = 58.499 
+            text = "les les quoi" 
+        intervals [21]:
+            xmin = 58.499 
+            xmax = 59.9516 
+            text = "#" 

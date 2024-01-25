@@ -1,0 +1,126 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 60 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Transcription" 
+        xmin = 0 
+        xmax = 60 
+        intervals: size = 28 
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.834 
+            text = "#" 
+        intervals [2]:
+            xmin = 1.834 
+            xmax = 4.603 
+            text = "là les fruits ressemblent pas à des super héros mais à des" 
+        intervals [3]:
+            xmin = 4.603 
+            xmax = 4.791 
+            text = "#" 
+        intervals [4]:
+            xmin = 4.791 
+            xmax = 5.497 
+            text = "des êtres humains" 
+        intervals [5]:
+            xmin = 5.497 
+            xmax = 6.645 
+            text = "#" 
+        intervals [6]:
+            xmin = 6.645 
+            xmax = 10.334 
+            text = "ils ont des attributs humains des mains des pieds" 
+        intervals [7]:
+            xmin = 10.334 
+            xmax = 11.243 
+            text = "#" 
+        intervals [8]:
+            xmin = 11.243 
+            xmax = 13.342 
+            text = "et ses mains et ses pieds sont plus fins" 
+        intervals [9]:
+            xmin = 13.342 
+            xmax = 13.53 
+            text = "#" 
+        intervals [10]:
+            xmin = 13.53 
+            xmax = 14.236 
+            text = "comme si" 
+        intervals [11]:
+            xmin = 14.236 
+            xmax = 17.03 
+            text = "#" 
+        intervals [12]:
+            xmin = 17.03 
+            xmax = 17.711 
+            text = "ils implorent une" 
+        intervals [13]:
+            xmin = 17.711 
+            xmax = 18.168 
+            text = "#" 
+        intervals [14]:
+            xmin = 18.168 
+            xmax = 19.174 
+            text = "une certaine pitié" 
+        intervals [15]:
+            xmin = 19.174 
+            xmax = 19.398 
+            text = "#" 
+        intervals [16]:
+            xmin = 19.398 
+            xmax = 19.987 
+            text = "pitié non" 
+        intervals [17]:
+            xmin = 19.987 
+            xmax = 21.435 
+            text = "#" 
+        intervals [18]:
+            xmin = 21.435 
+            xmax = 23.686 
+            text = "tu trouves pas qu'ils font piti- qu'elle fait pitité cette poire" 
+        intervals [19]:
+            xmin = 23.686 
+            xmax = 25.647 
+            text = "#" 
+        intervals [20]:
+            xmin = 25.647 
+            xmax = 25.779 
+            text = "ouais" 
+        intervals [21]:
+            xmin = 25.779 
+            xmax = 29.122 
+            text = "#" 
+        intervals [22]:
+            xmin = 29.122 
+            xmax = 31.835 
+            text = "et à ton avis c'est une pub contre le gaspillage alimentaire" 
+        intervals [23]:
+            xmin = 31.835 
+            xmax = 50.761 
+            text = "#" 
+        intervals [24]:
+            xmin = 50.761 
+            xmax = 51.02 
+            text = "ouais" 
+        intervals [25]:
+            xmin = 51.02 
+            xmax = 56.09 
+            text = "#" 
+        intervals [26]:
+            xmin = 56.09 
+            xmax = 58.62 
+            text = "oui je pense que elle a l'air de" 
+        intervals [27]:
+            xmin = 58.62 
+            xmax = 58.986 
+            text = "#" 
+        intervals [28]:
+            xmin = 58.986 
+            xmax = 59.9044 
+            text = "d'être en mauvais état" 

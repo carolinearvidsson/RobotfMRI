@@ -1,0 +1,130 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 60 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Transcription" 
+        xmin = 0 
+        xmax = 60 
+        intervals: size = 29 
+        intervals [1]:
+            xmin = 0 
+            xmax = 4.654 
+            text = "#" 
+        intervals [2]:
+            xmin = 4.654 
+            xmax = 7.001 
+            text = "ouais blasée c'est un bon terme euh pour l'exprimer" 
+        intervals [3]:
+            xmin = 7.001 
+            xmax = 7.697 
+            text = "#" 
+        intervals [4]:
+            xmin = 7.697 
+            xmax = 13.159 
+            text = "euh moi elle me fait penser à tu sais à ces bonbons un peu un peu roses un peu chimiques" 
+        intervals [5]:
+            xmin = 13.159 
+            xmax = 14.754 
+            text = "#" 
+        intervals [6]:
+            xmin = 14.754 
+            xmax = 19.073 
+            text = "euh ouais peut-être ouais je crois tu sais elles sont un peu gélatineuses" 
+        intervals [7]:
+            xmin = 19.073 
+            xmax = 19.682 
+            text = "#" 
+        intervals [8]:
+            xmin = 19.682 
+            xmax = 20.577 
+            text = "euh roses violettes" 
+        intervals [9]:
+            xmin = 20.577 
+            xmax = 23.305 
+            text = "#" 
+        intervals [10]:
+            xmin = 23.305 
+            xmax = 26.45 
+            text = "euh je me rappelle plus exactement la marque je sais pas si tu vois ce que je veux dire" 
+        intervals [11]:
+            xmin = 26.45 
+            xmax = 28.502 
+            text = "#" 
+        intervals [12]:
+            xmin = 28.502 
+            xmax = 28.746 
+            text = "ah" 
+        intervals [13]:
+            xmin = 28.746 
+            xmax = 29.976 
+            text = "#" 
+        intervals [14]:
+            xmin = 29.976 
+            xmax = 32.181 
+            text = "euh ben je sais pas y a des bonbons qui ressemblent à ça" 
+        intervals [15]:
+            xmin = 32.181 
+            xmax = 41.301 
+            text = "#" 
+        intervals [16]:
+            xmin = 41.301 
+            xmax = 42.154 
+            text = "euh" 
+        intervals [17]:
+            xmin = 42.154 
+            xmax = 43.694 
+            text = "#" 
+        intervals [18]:
+            xmin = 43.694 
+            xmax = 45.817 
+            text = "euh je je suis désolée je regarde pas énormément la télé" 
+        intervals [19]:
+            xmin = 45.817 
+            xmax = 46.894 
+            text = "#" 
+        intervals [20]:
+            xmin = 46.894 
+            xmax = 47.646 
+            text = "euh d'où euh" 
+        intervals [21]:
+            xmin = 47.646 
+            xmax = 48.571 
+            text = "#" 
+        intervals [22]:
+            xmin = 48.571 
+            xmax = 51.386 
+            text = "d'où le fait que je connaissais pas trop trop les $Tortues Ninja$ non plus" 
+        intervals [23]:
+            xmin = 51.386 
+            xmax = 52.686 
+            text = "#" 
+        intervals [24]:
+            xmin = 52.686 
+            xmax = 54.302 
+            text = "euh" 
+        intervals [25]:
+            xmin = 54.302 
+            xmax = 54.724 
+            text = "#" 
+        intervals [26]:
+            xmin = 54.724 
+            xmax = 56.812 
+            text = "c'est euh c'est une pub qui passe à la télé" 
+        intervals [27]:
+            xmin = 56.812 
+            xmax = 57.137 
+            text = "#" 
+        intervals [28]:
+            xmin = 57.137 
+            xmax = 58.092 
+            text = "ou est ce qu'elle passe sur $Youtube$" 
+        intervals [29]:
+            xmin = 58.092 
+            xmax = 59.9516 
+            text = "#" 

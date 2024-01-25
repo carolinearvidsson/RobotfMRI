@@ -1,0 +1,194 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 60 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Transcription" 
+        xmin = 0 
+        xmax = 60 
+        intervals: size = 45 
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.194 
+            text = "#" 
+        intervals [2]:
+            xmin = 1.194 
+            xmax = 1.616 
+            text = "la" 
+        intervals [3]:
+            xmin = 1.616 
+            xmax = 1.798 
+            text = "#" 
+        intervals [4]:
+            xmin = 1.798 
+            xmax = 2.244 
+            text = "la pomme" 
+        intervals [5]:
+            xmin = 2.244 
+            xmax = 4.923 
+            text = "#" 
+        intervals [6]:
+            xmin = 4.923 
+            xmax = 5.319 
+            text = "ouais" 
+        intervals [7]:
+            xmin = 5.319 
+            xmax = 7.052 
+            text = "#" 
+        intervals [8]:
+            xmin = 7.052 
+            xmax = 7.773 
+            text = "@" 
+        intervals [9]:
+            xmin = 7.773 
+            xmax = 8.292 
+            text = "#" 
+        intervals [10]:
+            xmin = 8.292 
+            xmax = 8.927 
+            text = "oui c'est vrai" 
+        intervals [11]:
+            xmin = 8.927 
+            xmax = 9.506 
+            text = "#" 
+        intervals [12]:
+            xmin = 9.506 
+            xmax = 9.948 
+            text = "euh" 
+        intervals [13]:
+            xmin = 9.948 
+            xmax = 10.639 
+            text = "#" 
+        intervals [14]:
+            xmin = 10.639 
+            xmax = 11.635 
+            text = "et en fait euh" 
+        intervals [15]:
+            xmin = 11.635 
+            xmax = 12.397 
+            text = "#" 
+        intervals [16]:
+            xmin = 12.397 
+            xmax = 14.419 
+            text = "ils sont en train de personnifier les fruits euh" 
+        intervals [17]:
+            xmin = 14.419 
+            xmax = 15.12 
+            text = "#" 
+        intervals [18]:
+            xmin = 15.12 
+            xmax = 16.029 
+            text = "comme ils font des héros" 
+        intervals [19]:
+            xmin = 16.029 
+            xmax = 26.008 
+            text = "#" 
+        intervals [20]:
+            xmin = 26.008 
+            xmax = 27.43 
+            text = "@ c'est ça" 
+        intervals [21]:
+            xmin = 27.43 
+            xmax = 27.898 
+            text = "#" 
+        intervals [22]:
+            xmin = 27.898 
+            xmax = 29.234 
+            text = "mais c'est vrai que la pomme elle est à l'envers" 
+        intervals [23]:
+            xmin = 29.234 
+            xmax = 29.412 
+            text = "#" 
+        intervals [24]:
+            xmin = 29.412 
+            xmax = 30.862 
+            text = "ça peut faire un peu $Spiderman$" 
+        intervals [25]:
+            xmin = 30.862 
+            xmax = 32.415 
+            text = "#" 
+        intervals [26]:
+            xmin = 32.415 
+            xmax = 34.741 
+            text = "mais euh les yeux c'est un peu $Spiderman$ aussi" 
+        intervals [27]:
+            xmin = 34.741 
+            xmax = 35.316 
+            text = "#" 
+        intervals [28]:
+            xmin = 35.316 
+            xmax = 36.408 
+            text = "peut-être c'est peut-être" 
+        intervals [29]:
+            xmin = 36.408 
+            xmax = 38.567 
+            text = "#" 
+        intervals [30]:
+            xmin = 38.567 
+            xmax = 39.772 
+            text = "ouais c'est l'un ou l'autre" 
+        intervals [31]:
+            xmin = 39.772 
+            xmax = 41.27 
+            text = "#" 
+        intervals [32]:
+            xmin = 41.27 
+            xmax = 43.358 
+            text = "euh peut-être que ça veut dire que les fruits sont" 
+        intervals [33]:
+            xmin = 43.358 
+            xmax = 43.81 
+            text = "#" 
+        intervals [34]:
+            xmin = 43.81 
+            xmax = 45.228 
+            text = "aussi cools que des super héros" 
+        intervals [35]:
+            xmin = 45.228 
+            xmax = 45.482 
+            text = "#" 
+        intervals [36]:
+            xmin = 45.482 
+            xmax = 45.98 
+            text = "je sais pas" 
+        intervals [37]:
+            xmin = 45.98 
+            xmax = 49.218 
+            text = "#" 
+        intervals [38]:
+            xmin = 49.218 
+            xmax = 49.861 
+            text = "qui" 
+        intervals [39]:
+            xmin = 49.861 
+            xmax = 51.736 
+            text = "#" 
+        intervals [40]:
+            xmin = 51.736 
+            xmax = 52.442 
+            text = "ouais" 
+        intervals [41]:
+            xmin = 52.442 
+            xmax = 52.676 
+            text = "#" 
+        intervals [42]:
+            xmin = 52.676 
+            xmax = 53.499 
+            text = "c'est vrai que" 
+        intervals [43]:
+            xmin = 53.499 
+            xmax = 53.906 
+            text = "#" 
+        intervals [44]:
+            xmin = 53.906 
+            xmax = 55.836 
+            text = "on les montre aimés un peu de tous et euh" 
+        intervals [45]:
+            xmin = 55.836 
+            xmax = 59.9044 
+            text = "#" 

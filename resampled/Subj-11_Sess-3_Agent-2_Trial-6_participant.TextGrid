@@ -1,0 +1,162 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 60 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Transcription" 
+        xmin = 0 
+        xmax = 60 
+        intervals: size = 37 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.655 
+            text = "#" 
+        intervals [2]:
+            xmin = 0.655 
+            xmax = 4.278 
+            text = "ok celui ci c'est vraiment le plus funky tous pour moi" 
+        intervals [3]:
+            xmin = 4.278 
+            xmax = 5.009 
+            text = "#" 
+        intervals [4]:
+            xmin = 5.009 
+            xmax = 6.452 
+            text = "$Morgane$ pensait que c'était la pomme" 
+        intervals [5]:
+            xmin = 6.452 
+            xmax = 7.016 
+            text = "#" 
+        intervals [6]:
+            xmin = 7.016 
+            xmax = 8.708 
+            text = "mais du coup euh" 
+        intervals [7]:
+            xmin = 8.708 
+            xmax = 8.967 
+            text = "#" 
+        intervals [8]:
+            xmin = 8.967 
+            xmax = 9.785 
+            text = "c'est" 
+        intervals [9]:
+            xmin = 9.785 
+            xmax = 10.042 
+            text = "#" 
+        intervals [10]:
+            xmin = 10.042 
+            xmax = 11.614 
+            text = "c'est coloré et" 
+        intervals [11]:
+            xmin = 11.614 
+            xmax = 12.239 
+            text = "#" 
+        intervals [12]:
+            xmin = 12.239 
+            xmax = 15.049 
+            text = "mignon on va dire ouais je pense que c'est plus mignon que les deux autres" 
+        intervals [13]:
+            xmin = 15.049 
+            xmax = 16.593 
+            text = "#" 
+        intervals [14]:
+            xmin = 16.593 
+            xmax = 16.878 
+            text = "ouais" 
+        intervals [15]:
+            xmin = 16.878 
+            xmax = 17.091 
+            text = "#" 
+        intervals [16]:
+            xmin = 17.091 
+            xmax = 24.519 
+            text = "si on devait faire un classement ça serait celle ci la moins agressif ensuite la pomme ensuite le la patate aubergine" 
+        intervals [17]:
+            xmin = 24.519 
+            xmax = 30.352 
+            text = "#" 
+        intervals [18]:
+            xmin = 30.352 
+            xmax = 31.53 
+            text = "mais change ceux là mais euh" 
+        intervals [19]:
+            xmin = 31.53 
+            xmax = 32.409 
+            text = "#" 
+        intervals [20]:
+            xmin = 32.409 
+            xmax = 33.197 
+            text = "chaque * oui" 
+        intervals [21]:
+            xmin = 33.197 
+            xmax = 40.259 
+            text = "#" 
+        intervals [22]:
+            xmin = 40.259 
+            xmax = 40.493 
+            text = "@" 
+        intervals [23]:
+            xmin = 40.493 
+            xmax = 42.029 
+            text = "#" 
+        intervals [24]:
+            xmin = 42.029 
+            xmax = 42.943 
+            text = "ben ouais" 
+        intervals [25]:
+            xmin = 42.943 
+            xmax = 44.755 
+            text = "#" 
+        intervals [26]:
+            xmin = 44.755 
+            xmax = 45.963 
+            text = "c'est un citron qui *" 
+        intervals [27]:
+            xmin = 45.963 
+            xmax = 46.754 
+            text = "#" 
+        intervals [28]:
+            xmin = 46.754 
+            xmax = 46.976 
+            text = "ouais" 
+        intervals [29]:
+            xmin = 46.976 
+            xmax = 49.653 
+            text = "#" 
+        intervals [30]:
+            xmin = 49.653 
+            xmax = 51.081 
+            text = "ouais peut-être que" 
+        intervals [31]:
+            xmin = 51.081 
+            xmax = 53.347 
+            text = "#" 
+        intervals [32]:
+            xmin = 53.347 
+            xmax = 55.186 
+            text = "ouais mais plus euh crédible euh" 
+        intervals [33]:
+            xmin = 55.186 
+            xmax = 55.648 
+            text = "#" 
+        intervals [34]:
+            xmin = 55.648 
+            xmax = 56.182 
+            text = "plus euh" 
+        intervals [35]:
+            xmin = 56.182 
+            xmax = 57.223 
+            text = "#" 
+        intervals [36]:
+            xmin = 57.223 
+            xmax = 58.478 
+            text = "sympathique effectivement ouais" 
+        intervals [37]:
+            xmin = 58.478 
+            xmax = 59.9044 
+            text = "#" 

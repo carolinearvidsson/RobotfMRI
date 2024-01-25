@@ -1,0 +1,82 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 60 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Transcription" 
+        xmin = 0 
+        xmax = 60 
+        intervals: size = 17 
+        intervals [1]:
+            xmin = 0 
+            xmax = 4.308 
+            text = "#" 
+        intervals [2]:
+            xmin = 4.308 
+            xmax = 4.623 
+            text = "salut" 
+        intervals [3]:
+            xmin = 4.623 
+            xmax = 6.376 
+            text = "#" 
+        intervals [4]:
+            xmin = 6.376 
+            xmax = 7.184 
+            text = "c'est un citron" 
+        intervals [5]:
+            xmin = 7.184 
+            xmax = 15.105 
+            text = "#" 
+        intervals [6]:
+            xmin = 15.105 
+            xmax = 15.516 
+            text = "oui" 
+        intervals [7]:
+            xmin = 15.516 
+            xmax = 15.821 
+            text = "#" 
+        intervals [8]:
+            xmin = 15.821 
+            xmax = 16.532 
+            text = "ça se pourrait" 
+        intervals [9]:
+            xmin = 16.532 
+            xmax = 20.038 
+            text = "#" 
+        intervals [10]:
+            xmin = 20.038 
+            xmax = 21.105 
+            text = "oui c'est possible" 
+        intervals [11]:
+            xmin = 21.105 
+            xmax = 27.085 
+            text = "#" 
+        intervals [12]:
+            xmin = 27.085 
+            xmax = 27.608 
+            text = "je crois" 
+        intervals [13]:
+            xmin = 27.608 
+            xmax = 43.13 
+            text = "#" 
+        intervals [14]:
+            xmin = 43.13 
+            xmax = 44.11 
+            text = "je suis d'accord" 
+        intervals [15]:
+            xmin = 44.11 
+            xmax = 56.73 
+            text = "#" 
+        intervals [16]:
+            xmin = 56.73 
+            xmax = 57.218 
+            text = "peut-être" 
+        intervals [17]:
+            xmin = 57.218 
+            xmax = 59.9516 
+            text = "#" 

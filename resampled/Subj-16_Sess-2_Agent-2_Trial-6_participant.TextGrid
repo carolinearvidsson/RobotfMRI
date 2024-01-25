@@ -1,0 +1,122 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 60 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Transcription" 
+        xmin = 0 
+        xmax = 60 
+        intervals: size = 27 
+        intervals [1]:
+            xmin = 0 
+            xmax = 2.271 
+            text = "#" 
+        intervals [2]:
+            xmin = 2.271 
+            xmax = 2.952 
+            text = "salut toi" 
+        intervals [3]:
+            xmin = 2.952 
+            xmax = 8.378 
+            text = "#" 
+        intervals [4]:
+            xmin = 8.378 
+            xmax = 9.887 
+            text = "c'est une fraise oui oui" 
+        intervals [5]:
+            xmin = 9.887 
+            xmax = 10.72 
+            text = "#" 
+        intervals [6]:
+            xmin = 10.72 
+            xmax = 11.411 
+            text = "si si" 
+        intervals [7]:
+            xmin = 11.411 
+            xmax = 11.589 
+            text = "#" 
+        intervals [8]:
+            xmin = 11.589 
+            xmax = 12.834 
+            text = "c'est c'est une fraise" 
+        intervals [9]:
+            xmin = 12.834 
+            xmax = 14.51 
+            text = "#" 
+        intervals [10]:
+            xmin = 14.51 
+            xmax = 16.045 
+            text = "c'est une fraise un peu hargneuse" 
+        intervals [11]:
+            xmin = 16.045 
+            xmax = 19.51 
+            text = "#" 
+        intervals [12]:
+            xmin = 19.51 
+            xmax = 21.024 
+            text = "elle a pas l'air très contente" 
+        intervals [13]:
+            xmin = 21.024 
+            xmax = 27.085 
+            text = "#" 
+        intervals [14]:
+            xmin = 27.085 
+            xmax = 28.577 
+            text = "non elle a pas l'air contente" 
+        intervals [15]:
+            xmin = 28.577 
+            xmax = 32.821 
+            text = "#" 
+        intervals [16]:
+            xmin = 32.821 
+            xmax = 36.55 
+            text = "oui plutôt plutôt en colère plus en colère que malheureuse" 
+        intervals [17]:
+            xmin = 36.55 
+            xmax = 40.721 
+            text = "#" 
+        intervals [18]:
+            xmin = 40.721 
+            xmax = 41.021 
+            text = "oui" 
+        intervals [19]:
+            xmin = 41.021 
+            xmax = 41.529 
+            text = "#" 
+        intervals [20]:
+            xmin = 41.529 
+            xmax = 42.073 
+            text = "je crois" 
+        intervals [21]:
+            xmin = 42.073 
+            xmax = 45.812 
+            text = "#" 
+        intervals [22]:
+            xmin = 45.812 
+            xmax = 46.183 
+            text = "oui" 
+        intervals [23]:
+            xmin = 46.183 
+            xmax = 46.442 
+            text = "#" 
+        intervals [24]:
+            xmin = 46.442 
+            xmax = 47.971 
+            text = "elle a les pieds sales en plus" 
+        intervals [25]:
+            xmin = 47.971 
+            xmax = 54.739 
+            text = "#" 
+        intervals [26]:
+            xmin = 54.739 
+            xmax = 56.039 
+            text = "est-ce que tu peux répéter" 
+        intervals [27]:
+            xmin = 56.039 
+            xmax = 59.9044 
+            text = "#" 

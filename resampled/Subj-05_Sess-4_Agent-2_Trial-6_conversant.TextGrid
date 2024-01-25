@@ -1,0 +1,134 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 60 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Transcription" 
+        xmin = 0 
+        xmax = 60 
+        intervals: size = 30 
+        intervals [1]:
+            xmin = 0 
+            xmax = 2.677 
+            text = "#" 
+        intervals [2]:
+            xmin = 2.677 
+            xmax = 3.282 
+            text = "salut" 
+        intervals [3]:
+            xmin = 3.282 
+            xmax = 3.694 
+            text = "#" 
+        intervals [4]:
+            xmin = 3.694 
+            xmax = 4.766 
+            text = "je suis d'accord" 
+        intervals [5]:
+            xmin = 4.766 
+            xmax = 6.478 
+            text = "#" 
+        intervals [6]:
+            xmin = 6.478 
+            xmax = 7.834 
+            text = "elle n'a pas l'air contente" 
+        intervals [7]:
+            xmin = 7.834 
+            xmax = 12.737 
+            text = "#" 
+        intervals [8]:
+            xmin = 12.737 
+            xmax = 14.602 
+            text = "peut-être que quelqu'un l'a frappé" 
+        intervals [9]:
+            xmin = 14.602 
+            xmax = 15.288 
+            text = "#" 
+        intervals [10]:
+            xmin = 15.288 
+            xmax = 16.919 
+            text = "elle est moche parce qu'elle vient de loin" 
+        intervals [11]:
+            xmin = 16.919 
+            xmax = 27.105 
+            text = "#" 
+        intervals [12]:
+            xmin = 27.105 
+            xmax = 27.974 
+            text = "je ne sais pas" 
+        intervals [13]:
+            xmin = 27.974 
+            xmax = 29.158 
+            text = "#" 
+        intervals [14]:
+            xmin = 29.158 
+            xmax = 30.555 
+            text = "tu as une idée du message" 
+        intervals [15]:
+            xmin = 30.555 
+            xmax = 34.721 
+            text = "#" 
+        intervals [16]:
+            xmin = 34.721 
+            xmax = 35.148 
+            text = "ah oui" 
+        intervals [17]:
+            xmin = 35.148 
+            xmax = 36.713 
+            text = "#" 
+        intervals [18]:
+            xmin = 36.713 
+            xmax = 37.2 
+            text = "hum" 
+        intervals [19]:
+            xmin = 37.2 
+            xmax = 37.851 
+            text = "#" 
+        intervals [20]:
+            xmin = 37.851 
+            xmax = 38.664 
+            text = "peut-être" 
+        intervals [21]:
+            xmin = 38.664 
+            xmax = 46.711 
+            text = "#" 
+        intervals [22]:
+            xmin = 46.711 
+            xmax = 47.118 
+            text = "oui" 
+        intervals [23]:
+            xmin = 47.118 
+            xmax = 47.311 
+            text = "#" 
+        intervals [24]:
+            xmin = 47.311 
+            xmax = 48.195 
+            text = "je crois aussi" 
+        intervals [25]:
+            xmin = 48.195 
+            xmax = 53.616 
+            text = "#" 
+        intervals [26]:
+            xmin = 53.616 
+            xmax = 53.987 
+            text = "oui" 
+        intervals [27]:
+            xmin = 53.987 
+            xmax = 55.216 
+            text = "#" 
+        intervals [28]:
+            xmin = 55.216 
+            xmax = 55.877 
+            text = "merci" 
+        intervals [29]:
+            xmin = 55.877 
+            xmax = 57.02 
+            text = "#" 
+        intervals [30]:
+            xmin = 57.02 
+            xmax = 59.9516 
+            text = "c'est peut-être une campagne pour favoriser les fruits" 

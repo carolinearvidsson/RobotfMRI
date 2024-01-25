@@ -1,0 +1,118 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 60 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Transcription" 
+        xmin = 0 
+        xmax = 60 
+        intervals: size = 26 
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.936 
+            text = "#" 
+        intervals [2]:
+            xmin = 1.936 
+            xmax = 3.932 
+            text = "ah ça marche pas pour la" 
+        intervals [3]:
+            xmin = 3.932 
+            xmax = 4.354 
+            text = "#" 
+        intervals [4]:
+            xmin = 4.354 
+            xmax = 6.087 
+            text = "pour la les légumes tu sais ce que tu me disais" 
+        intervals [5]:
+            xmin = 6.087 
+            xmax = 6.874 
+            text = "#" 
+        intervals [6]:
+            xmin = 6.874 
+            xmax = 8.23 
+            text = "parce que euh" 
+        intervals [7]:
+            xmin = 8.23 
+            xmax = 8.754 
+            text = "#" 
+        intervals [8]:
+            xmin = 8.754 
+            xmax = 9.602 
+            text = "la pomme c'est un fruit" 
+        intervals [9]:
+            xmin = 9.602 
+            xmax = 11.782 
+            text = "#" 
+        intervals [10]:
+            xmin = 11.782 
+            xmax = 13.982 
+            text = "et et on a la trouve dans la dans la" 
+        intervals [11]:
+            xmin = 13.982 
+            xmax = 14.561 
+            text = "#" 
+        intervals [12]:
+            xmin = 14.561 
+            xmax = 15.78 
+            text = "on la trouve en $Spiderman$" 
+        intervals [13]:
+            xmin = 15.78 
+            xmax = 17.223 
+            text = "#" 
+        intervals [14]:
+            xmin = 17.223 
+            xmax = 18.321 
+            text = "ou en $Deadpool$ je sais pas" 
+        intervals [15]:
+            xmin = 18.321 
+            xmax = 26.252 
+            text = "#" 
+        intervals [16]:
+            xmin = 26.252 
+            xmax = 28.157 
+            text = "peut-être que les premiers ils protègent les deuxièmes" 
+        intervals [17]:
+            xmin = 28.157 
+            xmax = 34.015 
+            text = "#" 
+        intervals [18]:
+            xmin = 34.015 
+            xmax = 34.274 
+            text = "ouais" 
+        intervals [19]:
+            xmin = 34.274 
+            xmax = 36.418 
+            text = "#" 
+        intervals [20]:
+            xmin = 36.418 
+            xmax = 38.115 
+            text = "donc ils ont besoin d'être protégés" 
+        intervals [21]:
+            xmin = 38.115 
+            xmax = 45.274 
+            text = "#" 
+        intervals [22]:
+            xmin = 45.274 
+            xmax = 47.179 
+            text = "ou alors ils sont tristes parce qu'on les oublie" 
+        intervals [23]:
+            xmin = 47.179 
+            xmax = 55.483 
+            text = "#" 
+        intervals [24]:
+            xmin = 55.483 
+            xmax = 55.845 
+            text = "euh" 
+        intervals [25]:
+            xmin = 55.845 
+            xmax = 59.616 
+            text = "#" 
+        intervals [26]:
+            xmin = 59.616 
+            xmax = 59.9516 
+            text = "tu sais pas toi" 

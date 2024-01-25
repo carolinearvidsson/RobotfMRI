@@ -1,0 +1,106 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 60 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Transcription" 
+        xmin = 0 
+        xmax = 60 
+        intervals: size = 23 
+        intervals [1]:
+            xmin = 0 
+            xmax = 5.584 
+            text = "#" 
+        intervals [2]:
+            xmin = 5.584 
+            xmax = 5.914 
+            text = "oui" 
+        intervals [3]:
+            xmin = 5.914 
+            xmax = 15.572 
+            text = "#" 
+        intervals [4]:
+            xmin = 15.572 
+            xmax = 16.39 
+            text = "oui c'est vrai" 
+        intervals [5]:
+            xmin = 16.39 
+            xmax = 18.057 
+            text = "#" 
+        intervals [6]:
+            xmin = 18.057 
+            xmax = 19.987 
+            text = "elle est plutôt euh" 
+        intervals [7]:
+            xmin = 19.987 
+            xmax = 20.5 
+            text = "#" 
+        intervals [8]:
+            xmin = 20.5 
+            xmax = 22.324 
+            text = "déjà le goûter donne plus envie d'être mangé" 
+        intervals [9]:
+            xmin = 22.324 
+            xmax = 23.436 
+            text = "#" 
+        intervals [10]:
+            xmin = 23.436 
+            xmax = 25.312 
+            text = "les fruits donnent plus envie d'être mangés" 
+        intervals [11]:
+            xmin = 25.312 
+            xmax = 26.511 
+            text = "#" 
+        intervals [12]:
+            xmin = 26.511 
+            xmax = 27.369 
+            text = "-fin le légume" 
+        intervals [13]:
+            xmin = 27.369 
+            xmax = 29.082 
+            text = "#" 
+        intervals [14]:
+            xmin = 29.082 
+            xmax = 31.063 
+            text = "oui il est plus beau que les autres" 
+        intervals [15]:
+            xmin = 31.063 
+            xmax = 49.231 
+            text = "#" 
+        intervals [16]:
+            xmin = 49.231 
+            xmax = 49.536 
+            text = "oui" 
+        intervals [17]:
+            xmin = 49.536 
+            xmax = 53.718 
+            text = "#" 
+        intervals [18]:
+            xmin = 53.718 
+            xmax = 54.129 
+            text = "pour euh" 
+        intervals [19]:
+            xmin = 54.129 
+            xmax = 54.439 
+            text = "#" 
+        intervals [20]:
+            xmin = 54.439 
+            xmax = 55.714 
+            text = "oui plastifiés" 
+        intervals [21]:
+            xmin = 55.714 
+            xmax = 56.507 
+            text = "#" 
+        intervals [22]:
+            xmin = 56.507 
+            xmax = 57.828 
+            text = "très plastique" 
+        intervals [23]:
+            xmin = 57.828 
+            xmax = 59.9044 
+            text = "#" 

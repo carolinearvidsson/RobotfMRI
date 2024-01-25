@@ -1,0 +1,82 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 60 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Transcription" 
+        xmin = 0 
+        xmax = 60 
+        intervals: size = 17 
+        intervals [1]:
+            xmin = 0 
+            xmax = 4.496 
+            text = "#" 
+        intervals [2]:
+            xmin = 4.496 
+            xmax = 6.107 
+            text = "nous avons encore un super héros" 
+        intervals [3]:
+            xmin = 6.107 
+            xmax = 10.182 
+            text = "#" 
+        intervals [4]:
+            xmin = 10.182 
+            xmax = 10.679 
+            text = "oui" 
+        intervals [5]:
+            xmin = 10.679 
+            xmax = 14.556 
+            text = "#" 
+        intervals [6]:
+            xmin = 14.556 
+            xmax = 15.638 
+            text = "je suis d'accord avec toi" 
+        intervals [7]:
+            xmin = 15.638 
+            xmax = 16.573 
+            text = "#" 
+        intervals [8]:
+            xmin = 16.573 
+            xmax = 19.134 
+            text = "du coup toi tu penses que c'est quoi comme campagne" 
+        intervals [9]:
+            xmin = 19.134 
+            xmax = 27.161 
+            text = "#" 
+        intervals [10]:
+            xmin = 27.161 
+            xmax = 28.523 
+            text = "et pourquoi en super héros" 
+        intervals [11]:
+            xmin = 28.523 
+            xmax = 37.119 
+            text = "#" 
+        intervals [12]:
+            xmin = 37.119 
+            xmax = 37.851 
+            text = "c'est possible" 
+        intervals [13]:
+            xmin = 37.851 
+            xmax = 44.217 
+            text = "#" 
+        intervals [14]:
+            xmin = 44.217 
+            xmax = 45.756 
+            text = "manger des fruits et légumes locaux" 
+        intervals [15]:
+            xmin = 45.756 
+            xmax = 57.848 
+            text = "#" 
+        intervals [16]:
+            xmin = 57.848 
+            xmax = 59.108 
+            text = "et manger équilibré" 
+        intervals [17]:
+            xmin = 59.108 
+            xmax = 59.9044 
+            text = "#" 

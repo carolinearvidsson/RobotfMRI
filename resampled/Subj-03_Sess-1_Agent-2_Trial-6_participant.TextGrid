@@ -1,0 +1,202 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 60 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Transcription" 
+        xmin = 0 
+        xmax = 60 
+        intervals: size = 47 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.942 
+            text = "#" 
+        intervals [2]:
+            xmin = 0.942 
+            xmax = 3.326 
+            text = "ah je crois que j'ai trouvé quel dessin animé c'était" 
+        intervals [3]:
+            xmin = 3.326 
+            xmax = 3.929 
+            text = "#" 
+        intervals [4]:
+            xmin = 3.929 
+            xmax = 5.318 
+            text = "je crois que c'est les tortues ninja" 
+        intervals [5]:
+            xmin = 5.318 
+            xmax = 9.719 
+            text = "#" 
+        intervals [6]:
+            xmin = 9.719 
+            xmax = 10.741 
+            text = "ouais les tortues ninja" 
+        intervals [7]:
+            xmin = 10.741 
+            xmax = 11.33 
+            text = "#" 
+        intervals [8]:
+            xmin = 11.33 
+            xmax = 12.005 
+            text = "quand j'étais jeune" 
+        intervals [9]:
+            xmin = 12.005 
+            xmax = 14.185 
+            text = "#" 
+        intervals [10]:
+            xmin = 14.185 
+            xmax = 14.429 
+            text = "ouais" 
+        intervals [11]:
+            xmin = 14.429 
+            xmax = 15.369 
+            text = "#" 
+        intervals [12]:
+            xmin = 15.369 
+            xmax = 16.959 
+            text = "bah du coup ça fait passer euh" 
+        intervals [13]:
+            xmin = 16.959 
+            xmax = 17.838 
+            text = "#" 
+        intervals [14]:
+            xmin = 17.838 
+            xmax = 18.788 
+            text = "en fruits et -fin" 
+        intervals [15]:
+            xmin = 18.788 
+            xmax = 19.108 
+            text = "#" 
+        intervals [16]:
+            xmin = 19.108 
+            xmax = 19.52 
+            text = "en légumes" 
+        intervals [17]:
+            xmin = 19.52 
+            xmax = 19.891 
+            text = "#" 
+        intervals [18]:
+            xmin = 19.891 
+            xmax = 20.592 
+            text = "le citron c'est un légume" 
+        intervals [19]:
+            xmin = 20.592 
+            xmax = 20.973 
+            text = "#" 
+        intervals [20]:
+            xmin = 20.973 
+            xmax = 21.654 
+            text = "euh" 
+        intervals [21]:
+            xmin = 21.654 
+            xmax = 22.171 
+            text = "#" 
+        intervals [22]:
+            xmin = 22.171 
+            xmax = 24.235 
+            text = "ou en super héros euh de dessin animé" 
+        intervals [23]:
+            xmin = 24.235 
+            xmax = 24.728 
+            text = "#" 
+        intervals [24]:
+            xmin = 24.728 
+            xmax = 26.043 
+            text = "toujours pour cibler un public jeune" 
+        intervals [25]:
+            xmin = 26.043 
+            xmax = 30.967 
+            text = "#" 
+        intervals [26]:
+            xmin = 30.967 
+            xmax = 31.876 
+            text = "ah ouais pas mal" 
+        intervals [27]:
+            xmin = 31.876 
+            xmax = 32.914 
+            text = "#" 
+        intervals [28]:
+            xmin = 32.914 
+            xmax = 33.246 
+            text = "ah ouais" 
+        intervals [29]:
+            xmin = 33.246 
+            xmax = 33.464 
+            text = "#" 
+        intervals [30]:
+            xmin = 33.464 
+            xmax = 34.281 
+            text = "c'est une bonne idée ça" 
+        intervals [31]:
+            xmin = 34.281 
+            xmax = 37.419 
+            text = "#" 
+        intervals [32]:
+            xmin = 37.419 
+            xmax = 38.135 
+            text = "ouais je pense" 
+        intervals [33]:
+            xmin = 38.135 
+            xmax = 45.914 
+            text = "#" 
+        intervals [34]:
+            xmin = 45.914 
+            xmax = 48.967 
+            text = "bah le message ce serait de manger plus de fruits et légumes euh" 
+        intervals [35]:
+            xmin = 48.967 
+            xmax = 49.572 
+            text = "#" 
+        intervals [36]:
+            xmin = 49.572 
+            xmax = 49.948 
+            text = "euh" 
+        intervals [37]:
+            xmin = 49.948 
+            xmax = 51.188 
+            text = "#" 
+        intervals [38]:
+            xmin = 51.188 
+            xmax = 51.365 
+            text = "*" 
+        intervals [39]:
+            xmin = 51.365 
+            xmax = 51.782 
+            text = "#" 
+        intervals [40]:
+            xmin = 51.782 
+            xmax = 53.012 
+            text = "c'est un message pour les enfants" 
+        intervals [41]:
+            xmin = 53.012 
+            xmax = 53.255 
+            text = "#" 
+        intervals [42]:
+            xmin = 53.255 
+            xmax = 55.634 
+            text = "et que les fruits et légumes ça permet euh de devenir euh" 
+        intervals [43]:
+            xmin = 55.634 
+            xmax = 56.126 
+            text = "#" 
+        intervals [44]:
+            xmin = 56.126 
+            xmax = 56.934 
+            text = "plus fort euh de" 
+        intervals [45]:
+            xmin = 56.934 
+            xmax = 58.02 
+            text = "#" 
+        intervals [46]:
+            xmin = 58.02 
+            xmax = 58.835 
+            text = "des super héros quoi" 
+        intervals [47]:
+            xmin = 58.835 
+            xmax = 59.9044 
+            text = "#" 

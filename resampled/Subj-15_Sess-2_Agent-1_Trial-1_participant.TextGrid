@@ -1,0 +1,130 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 60 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Transcription" 
+        xmin = 0 
+        xmax = 60 
+        intervals: size = 29 
+        intervals [1]:
+            xmin = 0 
+            xmax = 4.964 
+            text = "#" 
+        intervals [2]:
+            xmin = 4.964 
+            xmax = 5.294 
+            text = "alors" 
+        intervals [3]:
+            xmin = 5.294 
+            xmax = 5.497 
+            text = "#" 
+        intervals [4]:
+            xmin = 5.497 
+            xmax = 7.037 
+            text = "c'est une c'est une fraise" 
+        intervals [5]:
+            xmin = 7.037 
+            xmax = 14.373 
+            text = "#" 
+        intervals [6]:
+            xmin = 14.373 
+            xmax = 14.719 
+            text = "d'accord" 
+        intervals [7]:
+            xmin = 14.719 
+            xmax = 15.944 
+            text = "#" 
+        intervals [8]:
+            xmin = 15.944 
+            xmax = 16.248 
+            text = "ok" 
+        intervals [9]:
+            xmin = 16.248 
+            xmax = 19.317 
+            text = "#" 
+        intervals [10]:
+            xmin = 19.317 
+            xmax = 19.601 
+            text = "ouais" 
+        intervals [11]:
+            xmin = 19.601 
+            xmax = 25.164 
+            text = "#" 
+        intervals [12]:
+            xmin = 25.164 
+            xmax = 26.47 
+            text = "ouais elle avait pas l'air euh" 
+        intervals [13]:
+            xmin = 26.47 
+            xmax = 26.922 
+            text = "#" 
+        intervals [14]:
+            xmin = 26.922 
+            xmax = 28.624 
+            text = "l'air un peu cabossée" 
+        intervals [15]:
+            xmin = 28.624 
+            xmax = 31.663 
+            text = "#" 
+        intervals [16]:
+            xmin = 31.663 
+            xmax = 32.262 
+            text = "peut-être ouais" 
+        intervals [17]:
+            xmin = 32.262 
+            xmax = 38.715 
+            text = "#" 
+        intervals [18]:
+            xmin = 38.715 
+            xmax = 40.005 
+            text = "ouais ouais c'est vrai que ça fait" 
+        intervals [19]:
+            xmin = 40.005 
+            xmax = 41.463 
+            text = "#" 
+        intervals [20]:
+            xmin = 41.463 
+            xmax = 46.006 
+            text = "elle a pas l'air c'est pas la belle fraise qu'on voit dans le supermarché ou dans la pub" 
+        intervals [21]:
+            xmin = 46.006 
+            xmax = 47.245 
+            text = "#" 
+        intervals [22]:
+            xmin = 47.245 
+            xmax = 48.297 
+            text = "non c'était pas une fraise c'était" 
+        intervals [23]:
+            xmin = 48.297 
+            xmax = 51.851 
+            text = "#" 
+        intervals [24]:
+            xmin = 51.851 
+            xmax = 52.666 
+            text = "ouais peut-être ouais" 
+        intervals [25]:
+            xmin = 52.666 
+            xmax = 57.432 
+            text = "#" 
+        intervals [26]:
+            xmin = 57.432 
+            xmax = 58.112 
+            text = "ouais c'est vrai ouais" 
+        intervals [27]:
+            xmin = 58.112 
+            xmax = 59.113 
+            text = "#" 
+        intervals [28]:
+            xmin = 59.113 
+            xmax = 59.535 
+            text = "ouais oui x-" 
+        intervals [29]:
+            xmin = 59.535 
+            xmax = 59.9044 
+            text = "#" 

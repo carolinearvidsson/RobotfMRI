@@ -1,0 +1,130 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 60 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Transcription" 
+        xmin = 0 
+        xmax = 60 
+        intervals: size = 29 
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.163 
+            text = "#" 
+        intervals [2]:
+            xmin = 1.163 
+            xmax = 2.726 
+            text = "ça a remis euh le premier truc" 
+        intervals [3]:
+            xmin = 2.726 
+            xmax = 5.294 
+            text = "#" 
+        intervals [4]:
+            xmin = 5.294 
+            xmax = 5.914 
+            text = "y a un changement" 
+        intervals [5]:
+            xmin = 5.914 
+            xmax = 11.762 
+            text = "#" 
+        intervals [6]:
+            xmin = 11.762 
+            xmax = 13.037 
+            text = "ah mince j'ai pas fait attention" 
+        intervals [7]:
+            xmin = 13.037 
+            xmax = 14.165 
+            text = "#" 
+        intervals [8]:
+            xmin = 14.165 
+            xmax = 16.248 
+            text = "euh j'ai euh j'ai revu un peu le même truc" 
+        intervals [9]:
+            xmin = 16.248 
+            xmax = 18.504 
+            text = "#" 
+        intervals [10]:
+            xmin = 18.504 
+            xmax = 20.109 
+            text = "et euh elle avait elle avait changé" 
+        intervals [11]:
+            xmin = 20.109 
+            xmax = 25.601 
+            text = "#" 
+        intervals [12]:
+            xmin = 25.601 
+            xmax = 26.287 
+            text = "ah d'accord" 
+        intervals [13]:
+            xmin = 26.287 
+            xmax = 27.085 
+            text = "#" 
+        intervals [14]:
+            xmin = 27.085 
+            xmax = 27.872 
+            text = "bah oui c'est sûr" 
+        intervals [15]:
+            xmin = 27.872 
+            xmax = 28.106 
+            text = "#" 
+        intervals [16]:
+            xmin = 28.106 
+            xmax = 29.844 
+            text = "elle est euh en meilleur état clairement" 
+        intervals [17]:
+            xmin = 29.844 
+            xmax = 34.33 
+            text = "#" 
+        intervals [18]:
+            xmin = 34.33 
+            xmax = 35.331 
+            text = "ouais et euh" 
+        intervals [19]:
+            xmin = 35.331 
+            xmax = 35.651 
+            text = "#" 
+        intervals [20]:
+            xmin = 35.651 
+            xmax = 36.509 
+            text = "bah toute" 
+        intervals [21]:
+            xmin = 36.509 
+            xmax = 36.809 
+            text = "#" 
+        intervals [22]:
+            xmin = 36.809 
+            xmax = 39.192 
+            text = "toute bien y a pas de bosse y a pas de rayure" 
+        intervals [23]:
+            xmin = 39.192 
+            xmax = 39.751 
+            text = "#" 
+        intervals [24]:
+            xmin = 39.751 
+            xmax = 43.791 
+            text = "pas du tout abimée etcetera et elle a l'air forte comme un super héros justement" 
+        intervals [25]:
+            xmin = 43.791 
+            xmax = 52.204 
+            text = "#" 
+        intervals [26]:
+            xmin = 52.204 
+            xmax = 52.442 
+            text = "ouais" 
+        intervals [27]:
+            xmin = 52.442 
+            xmax = 53.357 
+            text = "#" 
+        intervals [28]:
+            xmin = 53.357 
+            xmax = 56.161 
+            text = "l'aspect bio c'est meilleur etcetera peut-être aussi" 
+        intervals [29]:
+            xmin = 56.161 
+            xmax = 59.9044 
+            text = "#" 

@@ -1,0 +1,170 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 60 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Transcription" 
+        xmin = 0 
+        xmax = 60 
+        intervals: size = 39 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.488 
+            text = "#" 
+        intervals [2]:
+            xmin = 0.488 
+            xmax = 3.277 
+            text = "alors là c'est une fraise qui est encore abîmée" 
+        intervals [3]:
+            xmin = 3.277 
+            xmax = 3.923 
+            text = "#" 
+        intervals [4]:
+            xmin = 3.923 
+            xmax = 6.696 
+            text = "et et qui avait l'air" 
+        intervals [5]:
+            xmin = 6.696 
+            xmax = 7.413 
+            text = "#" 
+        intervals [6]:
+            xmin = 7.413 
+            xmax = 7.895 
+            text = "perdue" 
+        intervals [7]:
+            xmin = 7.895 
+            xmax = 8.322 
+            text = "#" 
+        intervals [8]:
+            xmin = 8.322 
+            xmax = 9.419 
+            text = "et défoncée" 
+        intervals [9]:
+            xmin = 9.419 
+            xmax = 9.638 
+            text = "#" 
+        intervals [10]:
+            xmin = 9.638 
+            xmax = 10.151 
+            text = "pour moi" 
+        intervals [11]:
+            xmin = 10.151 
+            xmax = 11.005 
+            text = "#" 
+        intervals [12]:
+            xmin = 11.005 
+            xmax = 11.675 
+            text = "euh" 
+        intervals [13]:
+            xmin = 11.675 
+            xmax = 13.022 
+            text = "#" 
+        intervals [14]:
+            xmin = 13.022 
+            xmax = 13.647 
+            text = "euh non" 
+        intervals [15]:
+            xmin = 13.647 
+            xmax = 14.566 
+            text = "#" 
+        intervals [16]:
+            xmin = 14.566 
+            xmax = 18.748 
+            text = "pas trop non les autres ils avaient plus une expression euh de douleur ou euh" 
+        intervals [17]:
+            xmin = 18.748 
+            xmax = 20.328 
+            text = "#" 
+        intervals [18]:
+            xmin = 20.328 
+            xmax = 20.597 
+            text = "*" 
+        intervals [19]:
+            xmin = 20.597 
+            xmax = 21.318 
+            text = "#" 
+        intervals [20]:
+            xmin = 21.318 
+            xmax = 21.857 
+            text = "et euh" 
+        intervals [21]:
+            xmin = 21.857 
+            xmax = 24.707 
+            text = "#" 
+        intervals [22]:
+            xmin = 24.707 
+            xmax = 25.068 
+            text = "voilà" 
+        intervals [23]:
+            xmin = 25.068 
+            xmax = 32.658 
+            text = "#" 
+        intervals [24]:
+            xmin = 32.658 
+            xmax = 33.095 
+            text = "oui" 
+        intervals [25]:
+            xmin = 33.095 
+            xmax = 34.284 
+            text = "#" 
+        intervals [26]:
+            xmin = 34.284 
+            xmax = 35.046 
+            text = "sur les côtés" 
+        intervals [27]:
+            xmin = 35.046 
+            xmax = 40.188 
+            text = "#" 
+        intervals [28]:
+            xmin = 40.188 
+            xmax = 40.838 
+            text = "euh" 
+        intervals [29]:
+            xmin = 40.838 
+            xmax = 43.719 
+            text = "#" 
+        intervals [30]:
+            xmin = 43.719 
+            xmax = 45.797 
+            text = "bah pourrie je sais pas mais déformée oui" 
+        intervals [31]:
+            xmin = 45.797 
+            xmax = 48.556 
+            text = "#" 
+        intervals [32]:
+            xmin = 48.556 
+            xmax = 49.069 
+            text = "abîmée" 
+        intervals [33]:
+            xmin = 49.069 
+            xmax = 54.459 
+            text = "#" 
+        intervals [34]:
+            xmin = 54.459 
+            xmax = 55.084 
+            text = "ouh ben là c-" 
+        intervals [35]:
+            xmin = 55.084 
+            xmax = 55.375 
+            text = "#" 
+        intervals [36]:
+            xmin = 55.375 
+            xmax = 55.857 
+            text = "c'est comme" 
+        intervals [37]:
+            xmin = 55.857 
+            xmax = 56.08 
+            text = "#" 
+        intervals [38]:
+            xmin = 56.08 
+            xmax = 57.178 
+            text = "comme la poire en fait" 
+        intervals [39]:
+            xmin = 57.178 
+            xmax = 59.9044 
+            text = "#" 

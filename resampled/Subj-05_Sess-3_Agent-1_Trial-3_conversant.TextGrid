@@ -1,0 +1,154 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 60 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Transcription" 
+        xmin = 0 
+        xmax = 60 
+        intervals: size = 35 
+        intervals [1]:
+            xmin = 0 
+            xmax = 2.835 
+            text = "#" 
+        intervals [2]:
+            xmin = 2.835 
+            xmax = 3.201 
+            text = "@" 
+        intervals [3]:
+            xmin = 3.201 
+            xmax = 3.577 
+            text = "#" 
+        intervals [4]:
+            xmin = 3.577 
+            xmax = 4.461 
+            text = "tu disais à Fuhrat" 
+        intervals [5]:
+            xmin = 4.461 
+            xmax = 8.591 
+            text = "#" 
+        intervals [6]:
+            xmin = 8.591 
+            xmax = 9.135 
+            text = "ah c'est bien" 
+        intervals [7]:
+            xmin = 9.135 
+            xmax = 9.557 
+            text = "#" 
+        intervals [8]:
+            xmin = 9.557 
+            xmax = 9.745 
+            text = "@" 
+        intervals [9]:
+            xmin = 9.745 
+            xmax = 10.903 
+            text = "#" 
+        intervals [10]:
+            xmin = 10.903 
+            xmax = 12.082 
+            text = "et" 
+        intervals [11]:
+            xmin = 12.082 
+            xmax = 14.795 
+            text = "#" 
+        intervals [12]:
+            xmin = 14.795 
+            xmax = 17.469 
+            text = "non euh" 
+        intervals [13]:
+            xmin = 17.469 
+            xmax = 19.2 
+            text = "#" 
+        intervals [14]:
+            xmin = 19.2 
+            xmax = 21.455 
+            text = "je peux rien dire moi j'ai vécu au Japon alors euh c'est" 
+        intervals [15]:
+            xmin = 21.455 
+            xmax = 22.421 
+            text = "#" 
+        intervals [16]:
+            xmin = 22.421 
+            xmax = 28.177 
+            text = "ah d'accord ok @ euh bon d'accord un petit peu non tu crois vraiment que" 
+        intervals [17]:
+            xmin = 28.177 
+            xmax = 28.787 
+            text = "#" 
+        intervals [18]:
+            xmin = 28.787 
+            xmax = 29.62 
+            text = "ça avait été euh" 
+        intervals [19]:
+            xmin = 29.62 
+            xmax = 30.479 
+            text = "#" 
+        intervals [20]:
+            xmin = 30.479 
+            xmax = 30.718 
+            text = "ah" 
+        intervals [21]:
+            xmin = 30.718 
+            xmax = 32.567 
+            text = "#" 
+        intervals [22]:
+            xmin = 32.567 
+            xmax = 35.453 
+            text = "en tout cas c'est drôle parce qu'effectivement je l'avais jamais vu venir celle là" 
+        intervals [23]:
+            xmin = 35.453 
+            xmax = 35.88 
+            text = "#" 
+        intervals [24]:
+            xmin = 35.88 
+            xmax = 36.814 
+            text = "euh" 
+        intervals [25]:
+            xmin = 36.814 
+            xmax = 37.206 
+            text = "#" 
+        intervals [26]:
+            xmin = 37.206 
+            xmax = 44.699 
+            text = "ouais mais ils ont fait pas bridé quoi ils ont pas trop rajouté puis les $Tortues Ninja$ et c'est des tortues des elles sont aux Etats-Unis je crois elles sont pas elles sont pas au Japon" 
+        intervals [27]:
+            xmin = 44.699 
+            xmax = 46.579 
+            text = "#" 
+        intervals [28]:
+            xmin = 46.579 
+            xmax = 49.109 
+            text = "mais euh elles brillent quand même comme comme tous les autres" 
+        intervals [29]:
+            xmin = 49.109 
+            xmax = 49.358 
+            text = "#" 
+        intervals [30]:
+            xmin = 49.358 
+            xmax = 50.857 
+            text = "euh est ce que ça serait" 
+        intervals [31]:
+            xmin = 50.857 
+            xmax = 51.594 
+            text = "#" 
+        intervals [32]:
+            xmin = 51.594 
+            xmax = 53.845 
+            text = "puis c'est pour ça que j'étais en train de réfléchir là en arrivant" 
+        intervals [33]:
+            xmin = 53.845 
+            xmax = 54.226 
+            text = "#" 
+        intervals [34]:
+            xmin = 54.226 
+            xmax = 59.393 
+            text = "est ce que ça serait possible que les deux ils soient l'inverse de ce qu'ils voulaient dire instinctivement et que c'est pour ça que" 
+        intervals [35]:
+            xmin = 59.393 
+            xmax = 59.9516 
+            text = "#" 

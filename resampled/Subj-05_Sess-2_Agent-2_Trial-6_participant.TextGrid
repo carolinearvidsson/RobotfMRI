@@ -1,0 +1,130 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 60 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Transcription" 
+        xmin = 0 
+        xmax = 60 
+        intervals: size = 29 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.97 
+            text = "#" 
+        intervals [2]:
+            xmin = 0.97 
+            xmax = 2.266 
+            text = "et là c'était une fraise" 
+        intervals [3]:
+            xmin = 2.266 
+            xmax = 3.755 
+            text = "#" 
+        intervals [4]:
+            xmin = 3.755 
+            xmax = 3.892 
+            text = "*" 
+        intervals [5]:
+            xmin = 3.892 
+            xmax = 5.949 
+            text = "#" 
+        intervals [6]:
+            xmin = 5.949 
+            xmax = 9.846 
+            text = "et tu c'est une fraise qui joue les costauds ou quoi là elle a les bras levés" 
+        intervals [7]:
+            xmin = 9.846 
+            xmax = 11.269 
+            text = "#" 
+        intervals [8]:
+            xmin = 11.269 
+            xmax = 12.671 
+            text = "comme si elle essayait de gonfler les muscles" 
+        intervals [9]:
+            xmin = 12.671 
+            xmax = 15.821 
+            text = "#" 
+        intervals [10]:
+            xmin = 15.821 
+            xmax = 16.065 
+            text = "ouais" 
+        intervals [11]:
+            xmin = 16.065 
+            xmax = 18.198 
+            text = "#" 
+        intervals [12]:
+            xmin = 18.198 
+            xmax = 20.536 
+            text = "et tu crois qu'elle s'est fait frappé ou qu'elle a frappé quelqu'un" 
+        intervals [13]:
+            xmin = 20.536 
+            xmax = 24.392 
+            text = "#" 
+        intervals [14]:
+            xmin = 24.392 
+            xmax = 26.125 
+            text = "ouais moi j'ai l'impression que c'est une f-" 
+        intervals [15]:
+            xmin = 26.125 
+            xmax = 28.274 
+            text = "#" 
+        intervals [16]:
+            xmin = 28.274 
+            xmax = 29.173 
+            text = "elle aussi tu crois" 
+        intervals [17]:
+            xmin = 29.173 
+            xmax = 32.089 
+            text = "#" 
+        intervals [18]:
+            xmin = 32.089 
+            xmax = 32.867 
+            text = "et tu sais c-" 
+        intervals [19]:
+            xmin = 32.867 
+            xmax = 33.131 
+            text = "#" 
+        intervals [20]:
+            xmin = 33.131 
+            xmax = 38.704 
+            text = "c'est peut-être pour les vieux fruits et légumes euh tu sais les fruits et les légumes moches t'as entendu parler des fruits et des légumes moches" 
+        intervals [21]:
+            xmin = 38.704 
+            xmax = 42.423 
+            text = "#" 
+        intervals [22]:
+            xmin = 42.423 
+            xmax = 46 
+            text = "et oui c'est des produits d'importation qui sont tout moches" 
+        intervals [23]:
+            xmin = 46 
+            xmax = 47.916 
+            text = "#" 
+        intervals [24]:
+            xmin = 47.916 
+            xmax = 48.515 
+            text = "ah ouais" 
+        intervals [25]:
+            xmin = 48.515 
+            xmax = 49.003 
+            text = "#" 
+        intervals [26]:
+            xmin = 49.003 
+            xmax = 49.191 
+            text = "oui" 
+        intervals [27]:
+            xmin = 49.191 
+            xmax = 53.499 
+            text = "#" 
+        intervals [28]:
+            xmin = 53.499 
+            xmax = 58.112 
+            text = "euh ouais ou peut-être les fruits qui sont sans pesticides et qui sont pas traités" 
+        intervals [29]:
+            xmin = 58.112 
+            xmax = 59.9044 
+            text = "#" 

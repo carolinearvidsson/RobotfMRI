@@ -1,0 +1,146 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 60 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Transcription" 
+        xmin = 0 
+        xmax = 60 
+        intervals: size = 33 
+        intervals [1]:
+            xmin = 0 
+            xmax = 2.52 
+            text = "#" 
+        intervals [2]:
+            xmin = 2.52 
+            xmax = 4.435 
+            text = "du coup cette aubergine là elle est euh" 
+        intervals [3]:
+            xmin = 4.435 
+            xmax = 5.761 
+            text = "#" 
+        intervals [4]:
+            xmin = 5.761 
+            xmax = 9.313 
+            text = "elle est toute brillante toute elle a l'air très très bonne" 
+        intervals [5]:
+            xmin = 9.313 
+            xmax = 10.517 
+            text = "#" 
+        intervals [6]:
+            xmin = 10.517 
+            xmax = 13.242 
+            text = "par rapport aux autres fruits et légumes qui étaient abimés la poire et tout" 
+        intervals [7]:
+            xmin = 13.242 
+            xmax = 18.448 
+            text = "#" 
+        intervals [8]:
+            xmin = 18.448 
+            xmax = 19.073 
+            text = "et euh" 
+        intervals [9]:
+            xmin = 19.073 
+            xmax = 22.827 
+            text = "#" 
+        intervals [10]:
+            xmin = 22.827 
+            xmax = 26.023 
+            text = "plus sainement ou alors euh des produits qui sont plus locaux" 
+        intervals [11]:
+            xmin = 26.023 
+            xmax = 26.404 
+            text = "#" 
+        intervals [12]:
+            xmin = 26.404 
+            xmax = 26.938 
+            text = "parce que" 
+        intervals [13]:
+            xmin = 26.938 
+            xmax = 27.786 
+            text = "#" 
+        intervals [14]:
+            xmin = 27.786 
+            xmax = 28.462 
+            text = "en soi euh" 
+        intervals [15]:
+            xmin = 28.462 
+            xmax = 30.446 
+            text = "#" 
+        intervals [16]:
+            xmin = 30.446 
+            xmax = 31.591 
+            text = "c'est toujours des fruits et légumes" 
+        intervals [17]:
+            xmin = 31.591 
+            xmax = 33.969 
+            text = "#" 
+        intervals [18]:
+            xmin = 33.969 
+            xmax = 34.213 
+            text = "ouais" 
+        intervals [19]:
+            xmin = 34.213 
+            xmax = 35.387 
+            text = "#" 
+        intervals [20]:
+            xmin = 35.387 
+            xmax = 41.346 
+            text = "parce qu'on oppose pas les légumes euh bons à d'autres choses qui sont grasses ou quoi c'est comparé à d'autres fruits et légumes" 
+        intervals [21]:
+            xmin = 41.346 
+            xmax = 42.027 
+            text = "#" 
+        intervals [22]:
+            xmin = 42.027 
+            xmax = 42.647 
+            text = "qui sont abimés" 
+        intervals [23]:
+            xmin = 42.647 
+            xmax = 43.287 
+            text = "#" 
+        intervals [24]:
+            xmin = 43.287 
+            xmax = 45.309 
+            text = "pour moi ça serait plus l'aspect local" 
+        intervals [25]:
+            xmin = 45.309 
+            xmax = 45.557 
+            text = "#" 
+        intervals [26]:
+            xmin = 45.557 
+            xmax = 47.423 
+            text = "que l'aspect exporté euh" 
+        intervals [27]:
+            xmin = 47.423 
+            xmax = 48.28 
+            text = "#" 
+        intervals [28]:
+            xmin = 48.28 
+            xmax = 51.64 
+            text = "euh tout ça qui a été mal transporté qui a été abimé" 
+        intervals [29]:
+            xmin = 51.64 
+            xmax = 52.215 
+            text = "#" 
+        intervals [30]:
+            xmin = 52.215 
+            xmax = 52.71 
+            text = "etcetera" 
+        intervals [31]:
+            xmin = 52.71 
+            xmax = 57.36 
+            text = "#" 
+        intervals [32]:
+            xmin = 57.36 
+            xmax = 57.665 
+            text = "tu vois" 
+        intervals [33]:
+            xmin = 57.665 
+            xmax = 59.9044 
+            text = "#" 

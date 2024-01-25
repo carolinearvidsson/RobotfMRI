@@ -1,0 +1,94 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 60 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Transcription" 
+        xmin = 0 
+        xmax = 60 
+        intervals: size = 20 
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.504 
+            text = "#" 
+        intervals [2]:
+            xmin = 1.504 
+            xmax = 4.562 
+            text = "là c'était la fraise qui allait avec la framboise tu sais ça fait un peu le" 
+        intervals [3]:
+            xmin = 4.562 
+            xmax = 8.378 
+            text = "#" 
+        intervals [4]:
+            xmin = 8.378 
+            xmax = 9.094 
+            text = "les desserts d'été" 
+        intervals [5]:
+            xmin = 9.094 
+            xmax = 15.689 
+            text = "#" 
+        intervals [6]:
+            xmin = 15.689 
+            xmax = 22.055 
+            text = "par contre elles sont dessinées à enfin dessinées un peu de la même manière que la framboise quoi avec les deux pieds les deux bras" 
+        intervals [7]:
+            xmin = 22.055 
+            xmax = 23.112 
+            text = "#" 
+        intervals [8]:
+            xmin = 23.112 
+            xmax = 23.77 
+            text = "les yeux" 
+        intervals [9]:
+            xmin = 23.77 
+            xmax = 42.047 
+            text = "#" 
+        intervals [10]:
+            xmin = 42.047 
+            xmax = 42.972 
+            text = "ah" 
+        intervals [11]:
+            xmin = 42.972 
+            xmax = 44.451 
+            text = "#" 
+        intervals [12]:
+            xmin = 44.451 
+            xmax = 45.289 
+            text = "il faut manger local" 
+        intervals [13]:
+            xmin = 45.289 
+            xmax = 49.638 
+            text = "#" 
+        intervals [14]:
+            xmin = 49.638 
+            xmax = 50.029 
+            text = "ben" 
+        intervals [15]:
+            xmin = 50.029 
+            xmax = 53.895 
+            text = "#" 
+        intervals [16]:
+            xmin = 53.895 
+            xmax = 56.786 
+            text = "ouais des fraises ou des framboises enfin c'est des choses qu'on trouve euh" 
+        intervals [17]:
+            xmin = 56.786 
+            xmax = 57.461 
+            text = "#" 
+        intervals [18]:
+            xmin = 57.461 
+            xmax = 58.417 
+            text = "assez facilement" 
+        intervals [19]:
+            xmin = 58.417 
+            xmax = 58.829 
+            text = "#" 
+        intervals [20]:
+            xmin = 58.829 
+            xmax = 59.9516 
+            text = "surtout qu'en plus celle qui" 

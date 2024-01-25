@@ -1,0 +1,158 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 60 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Transcription" 
+        xmin = 0 
+        xmax = 60 
+        intervals: size = 36 
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.87 
+            text = "#" 
+        intervals [2]:
+            xmin = 1.87 
+            xmax = 2.921 
+            text = "ah" 
+        intervals [3]:
+            xmin = 2.921 
+            xmax = 3.135 
+            text = "#" 
+        intervals [4]:
+            xmin = 3.135 
+            xmax = 5.111 
+            text = "donc si c'est lié à l'éducation" 
+        intervals [5]:
+            xmin = 5.111 
+            xmax = 6.214 
+            text = "#" 
+        intervals [6]:
+            xmin = 6.214 
+            xmax = 12.122 
+            text = "ça pourrait être ça pourrait être à destination des enfants tu sais quelque chose que tu mettrais dans les écoles" 
+        intervals [7]:
+            xmin = 12.122 
+            xmax = 12.727 
+            text = "#" 
+        intervals [8]:
+            xmin = 12.727 
+            xmax = 13.931 
+            text = "une campagne" 
+        intervals [9]:
+            xmin = 13.931 
+            xmax = 18.615 
+            text = "#" 
+        intervals [10]:
+            xmin = 18.615 
+            xmax = 18.864 
+            text = "ouais" 
+        intervals [11]:
+            xmin = 18.864 
+            xmax = 20.231 
+            text = "#" 
+        intervals [12]:
+            xmin = 20.231 
+            xmax = 20.556 
+            text = "ouais" 
+        intervals [13]:
+            xmin = 20.556 
+            xmax = 21.105 
+            text = "#" 
+        intervals [14]:
+            xmin = 21.105 
+            xmax = 24.316 
+            text = "et euh de manière générale personnifier euh" 
+        intervals [15]:
+            xmin = 24.316 
+            xmax = 24.799 
+            text = "#" 
+        intervals [16]:
+            xmin = 24.799 
+            xmax = 33.034 
+            text = "personnifier les légumes c'est c'est un peu euh y a la fois le côté de jouer avec la nourriture et de rendre le côté humain pour les enfants" 
+        intervals [17]:
+            xmin = 33.034 
+            xmax = 34.564 
+            text = "#" 
+        intervals [18]:
+            xmin = 34.564 
+            xmax = 34.99 
+            text = "euh" 
+        intervals [19]:
+            xmin = 34.99 
+            xmax = 38.389 
+            text = "#" 
+        intervals [20]:
+            xmin = 38.389 
+            xmax = 38.664 
+            text = "ouais" 
+        intervals [21]:
+            xmin = 38.664 
+            xmax = 40.798 
+            text = "#" 
+        intervals [22]:
+            xmin = 40.798 
+            xmax = 41.062 
+            text = "ouais" 
+        intervals [23]:
+            xmin = 41.062 
+            xmax = 41.275 
+            text = "#" 
+        intervals [24]:
+            xmin = 41.275 
+            xmax = 41.768 
+            text = "ouais ouais" 
+        intervals [25]:
+            xmin = 41.768 
+            xmax = 44.075 
+            text = "#" 
+        intervals [26]:
+            xmin = 44.075 
+            xmax = 45.492 
+            text = "ouais ouais ouais genre" 
+        intervals [27]:
+            xmin = 45.492 
+            xmax = 46.005 
+            text = "#" 
+        intervals [28]:
+            xmin = 46.005 
+            xmax = 47.87 
+            text = "regardez c'est des super héros ils sont cools" 
+        intervals [29]:
+            xmin = 47.87 
+            xmax = 49.132 
+            text = "#" 
+        intervals [30]:
+            xmin = 49.132 
+            xmax = 49.618 
+            text = "mh mh" 
+        intervals [31]:
+            xmin = 49.618 
+            xmax = 52.036 
+            text = "#" 
+        intervals [32]:
+            xmin = 52.036 
+            xmax = 52.722 
+            text = "euh" 
+        intervals [33]:
+            xmin = 52.722 
+            xmax = 53.662 
+            text = "#" 
+        intervals [34]:
+            xmin = 53.662 
+            xmax = 54.5 
+            text = "du coup ce serait" 
+        intervals [35]:
+            xmin = 54.5 
+            xmax = 55.816 
+            text = "#" 
+        intervals [36]:
+            xmin = 55.816 
+            xmax = 59.9516 
+            text = "dans quel euh si on a l'objectif à ton avis ça vient" 

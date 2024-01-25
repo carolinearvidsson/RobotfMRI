@@ -1,0 +1,110 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 60 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Transcription" 
+        xmin = 0 
+        xmax = 60 
+        intervals: size = 24 
+        intervals [1]:
+            xmin = 0 
+            xmax = 3.211 
+            text = "#" 
+        intervals [2]:
+            xmin = 3.211 
+            xmax = 4.176 
+            text = "encore la framboise" 
+        intervals [3]:
+            xmin = 4.176 
+            xmax = 8.17 
+            text = "#" 
+        intervals [4]:
+            xmin = 8.17 
+            xmax = 9.663 
+            text = "ouais parce qu'en fait si c'était" 
+        intervals [5]:
+            xmin = 9.663 
+            xmax = 10.735 
+            text = "#" 
+        intervals [6]:
+            xmin = 10.735 
+            xmax = 12.915 
+            text = "celle là qui était sans pesticides" 
+        intervals [7]:
+            xmin = 12.915 
+            xmax = 13.418 
+            text = "#" 
+        intervals [8]:
+            xmin = 13.418 
+            xmax = 15.984 
+            text = "je l'aurais dessiné quand même avec un sourire et tout je pense" 
+        intervals [9]:
+            xmin = 15.984 
+            xmax = 25.088 
+            text = "#" 
+        intervals [10]:
+            xmin = 25.088 
+            xmax = 27.242 
+            text = "je sais pas parce que le robot il a dit aussi euh" 
+        intervals [11]:
+            xmin = 27.242 
+            xmax = 28.187 
+            text = "#" 
+        intervals [12]:
+            xmin = 28.187 
+            xmax = 31.429 
+            text = "pour les super héros peut-être qu'ils combattent les mauvaises habitudes alimentaires" 
+        intervals [13]:
+            xmin = 31.429 
+            xmax = 32.694 
+            text = "#" 
+        intervals [14]:
+            xmin = 32.694 
+            xmax = 35.265 
+            text = "mais ça colle pas -fin là la framboise" 
+        intervals [15]:
+            xmin = 35.265 
+            xmax = 35.752 
+            text = "#" 
+        intervals [16]:
+            xmin = 35.752 
+            xmax = 36.611 
+            text = "-fin ça reste un fruit quoi" 
+        intervals [17]:
+            xmin = 36.611 
+            xmax = 41.214 
+            text = "#" 
+        intervals [18]:
+            xmin = 41.214 
+            xmax = 43.765 
+            text = "ben c'est quand même une bonne habitude alimentaire de manger une framboise" 
+        intervals [19]:
+            xmin = 43.765 
+            xmax = 44.654 
+            text = "#" 
+        intervals [20]:
+            xmin = 44.654 
+            xmax = 45.045 
+            text = "mince" 
+        intervals [21]:
+            xmin = 45.045 
+            xmax = 53.631 
+            text = "#" 
+        intervals [22]:
+            xmin = 53.631 
+            xmax = 54.048 
+            text = "de quoi" 
+        intervals [23]:
+            xmin = 54.048 
+            xmax = 57.869 
+            text = "#" 
+        intervals [24]:
+            xmin = 57.869 
+            xmax = 59.9044 
+            text = "ben non non c'est ça doit pas être ça du coup je sais" 

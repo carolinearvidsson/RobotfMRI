@@ -1,0 +1,130 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 60 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Transcription" 
+        xmin = 0 
+        xmax = 60 
+        intervals: size = 29 
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.961 
+            text = "#" 
+        intervals [2]:
+            xmin = 1.961 
+            xmax = 2.144 
+            text = "oui" 
+        intervals [3]:
+            xmin = 2.144 
+            xmax = 2.799 
+            text = "#" 
+        intervals [4]:
+            xmin = 2.799 
+            xmax = 6.287 
+            text = "en fait je cherchais le mot tout à l'heure mais elle difforme cette framboise" 
+        intervals [5]:
+            xmin = 6.287 
+            xmax = 9.846 
+            text = "#" 
+        intervals [6]:
+            xmin = 9.846 
+            xmax = 10.095 
+            text = "ouais" 
+        intervals [7]:
+            xmin = 10.095 
+            xmax = 13.875 
+            text = "#" 
+        intervals [8]:
+            xmin = 13.875 
+            xmax = 14.084 
+            text = "oui" 
+        intervals [9]:
+            xmin = 14.084 
+            xmax = 14.835 
+            text = "#" 
+        intervals [10]:
+            xmin = 14.835 
+            xmax = 18.241 
+            text = "en fait c'est une campagne de pub contre les pesticides" 
+        intervals [11]:
+            xmin = 18.241 
+            xmax = 21.237 
+            text = "#" 
+        intervals [12]:
+            xmin = 21.237 
+            xmax = 23.523 
+            text = "si j'ai bien compris ouais et euh" 
+        intervals [13]:
+            xmin = 23.523 
+            xmax = 30.098 
+            text = "#" 
+        intervals [14]:
+            xmin = 30.098 
+            xmax = 32.059 
+            text = "ben l'aubergine par exemple" 
+        intervals [15]:
+            xmin = 32.059 
+            xmax = 35.539 
+            text = "#" 
+        intervals [16]:
+            xmin = 35.539 
+            xmax = 36.266 
+            text = "ouais c'est ça ouais" 
+        intervals [17]:
+            xmin = 36.266 
+            xmax = 38.044 
+            text = "#" 
+        intervals [18]:
+            xmin = 38.044 
+            xmax = 40.188 
+            text = "là je comprends pas trop le message des" 
+        intervals [19]:
+            xmin = 40.188 
+            xmax = 42.113 
+            text = "#" 
+        intervals [20]:
+            xmin = 42.113 
+            xmax = 44.293 
+            text = "des fruits en fait ils sont fatigués" 
+        intervals [21]:
+            xmin = 44.293 
+            xmax = 44.918 
+            text = "#" 
+        intervals [22]:
+            xmin = 44.918 
+            xmax = 48.866 
+            text = "parce que la poire elle faisait pas très elle faisait pas traitée par pesticides" 
+        intervals [23]:
+            xmin = 48.866 
+            xmax = 50.954 
+            text = "#" 
+        intervals [24]:
+            xmin = 50.954 
+            xmax = 52.95 
+            text = "la fraise oui c'est possible" 
+        intervals [25]:
+            xmin = 52.95 
+            xmax = 53.819 
+            text = "#" 
+        intervals [26]:
+            xmin = 53.819 
+            xmax = 55.714 
+            text = "mais elle en a elle a subit des" 
+        intervals [27]:
+            xmin = 55.714 
+            xmax = 57.498 
+            text = "#" 
+        intervals [28]:
+            xmin = 57.498 
+            xmax = 59.088 
+            text = "des des effets secondaires on va dire" 
+        intervals [29]:
+            xmin = 59.088 
+            xmax = 59.9044 
+            text = "#" 

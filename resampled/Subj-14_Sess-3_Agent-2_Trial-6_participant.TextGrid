@@ -1,0 +1,142 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 60 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Transcription" 
+        xmin = 0 
+        xmax = 60 
+        intervals: size = 32 
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.248 
+            text = "#" 
+        intervals [2]:
+            xmin = 1.248 
+            xmax = 4.034 
+            text = "alors je continue à réfléchir sur le fait que ça puisse être une" 
+        intervals [3]:
+            xmin = 4.034 
+            xmax = 4.735 
+            text = "#" 
+        intervals [4]:
+            xmin = 4.735 
+            xmax = 5.599 
+            text = "une campagne" 
+        intervals [5]:
+            xmin = 5.599 
+            xmax = 6.148 
+            text = "#" 
+        intervals [6]:
+            xmin = 6.148 
+            xmax = 7.062 
+            text = "contre les pesticides" 
+        intervals [7]:
+            xmin = 7.062 
+            xmax = 8.335 
+            text = "#" 
+        intervals [8]:
+            xmin = 8.335 
+            xmax = 9.927 
+            text = "c'est vrai que" 
+        intervals [9]:
+            xmin = 9.927 
+            xmax = 10.197 
+            text = "#" 
+        intervals [10]:
+            xmin = 10.197 
+            xmax = 15.882 
+            text = "que ce soit le citron là qui a un jaune qui est pas très naturel que ce soit la pomme" 
+        intervals [11]:
+            xmin = 15.882 
+            xmax = 16.502 
+            text = "#" 
+        intervals [12]:
+            xmin = 16.502 
+            xmax = 20.312 
+            text = "elle doit être beaucoup euh peut-être je sais là" 
+        intervals [13]:
+            xmin = 20.312 
+            xmax = 20.993 
+            text = "#" 
+        intervals [14]:
+            xmin = 20.993 
+            xmax = 22.914 
+            text = "mais en même temps les fruits euh" 
+        intervals [15]:
+            xmin = 22.914 
+            xmax = 25.3 
+            text = "#" 
+        intervals [16]:
+            xmin = 25.3 
+            xmax = 26.978 
+            text = "qui auraient l'air plus naturels" 
+        intervals [17]:
+            xmin = 26.978 
+            xmax = 27.568 
+            text = "#" 
+        intervals [18]:
+            xmin = 27.568 
+            xmax = 29.966 
+            text = "ils sont vraiment pas beaux ils font la tête" 
+        intervals [19]:
+            xmin = 29.966 
+            xmax = 31.317 
+            text = "#" 
+        intervals [20]:
+            xmin = 31.317 
+            xmax = 33.888 
+            text = "et les mêmes ils font naturels ils sont tordus" 
+        intervals [21]:
+            xmin = 33.888 
+            xmax = 34.574 
+            text = "#" 
+        intervals [22]:
+            xmin = 34.574 
+            xmax = 36.103 
+            text = "la poire on dirait qu'elle a des coups" 
+        intervals [23]:
+            xmin = 36.103 
+            xmax = 38.669 
+            text = "#" 
+        intervals [24]:
+            xmin = 38.669 
+            xmax = 41.773 
+            text = "euh même s'ils sont pas traités ils sont pas sensés avoir des coups" 
+        intervals [25]:
+            xmin = 41.773 
+            xmax = 44.161 
+            text = "#" 
+        intervals [26]:
+            xmin = 44.161 
+            xmax = 45.086 
+            text = "je suis pas sûre" 
+        intervals [27]:
+            xmin = 45.086 
+            xmax = 47.824 
+            text = "#" 
+        intervals [28]:
+            xmin = 47.824 
+            xmax = 49.496 
+            text = "ils ont vraiment l'air malade les autres" 
+        intervals [29]:
+            xmin = 49.496 
+            xmax = 53.662 
+            text = "#" 
+        intervals [30]:
+            xmin = 53.662 
+            xmax = 56.588 
+            text = "et ils ont prêtés si on dit cette pub pour euh" 
+        intervals [31]:
+            xmin = 56.588 
+            xmax = 58.201 
+            text = "#" 
+        intervals [32]:
+            xmin = 58.201 
+            xmax = 59.9044 
+            text = "contre les pesticides et font" 

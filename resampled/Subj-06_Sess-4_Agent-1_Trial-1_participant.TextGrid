@@ -1,0 +1,206 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 60 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Transcription" 
+        xmin = 0 
+        xmax = 60 
+        intervals: size = 48 
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.433 
+            text = "#" 
+        intervals [2]:
+            xmin = 1.433 
+            xmax = 2.205 
+            text = "salut $Thierry$" 
+        intervals [3]:
+            xmin = 2.205 
+            xmax = 2.891 
+            text = "#" 
+        intervals [4]:
+            xmin = 2.891 
+            xmax = 4.928 
+            text = "bon ap- apparemment c'est des vegans qui ont fait la pub" 
+        intervals [5]:
+            xmin = 4.928 
+            xmax = 5.441 
+            text = "#" 
+        intervals [6]:
+            xmin = 5.441 
+            xmax = 6.229 
+            text = "@" 
+        intervals [7]:
+            xmin = 6.229 
+            xmax = 6.833 
+            text = "#" 
+        intervals [8]:
+            xmin = 6.833 
+            xmax = 7.021 
+            text = "@" 
+        intervals [9]:
+            xmin = 7.021 
+            xmax = 9.288 
+            text = "#" 
+        intervals [10]:
+            xmin = 9.288 
+            xmax = 10.131 
+            text = "j'ai pas bien compris" 
+        intervals [11]:
+            xmin = 10.131 
+            xmax = 12.331 
+            text = "#" 
+        intervals [12]:
+            xmin = 12.331 
+            xmax = 14.378 
+            text = "euh c'est ouais c'est $Fuhrat$ qui m'a dit ça" 
+        intervals [13]:
+            xmin = 14.378 
+            xmax = 14.587 
+            text = "#" 
+        intervals [14]:
+            xmin = 14.587 
+            xmax = 15.577 
+            text = "$Fuhrat$ il s'appelle $Fuhrat$ ouais" 
+        intervals [15]:
+            xmin = 15.577 
+            xmax = 17.284 
+            text = "#" 
+        intervals [16]:
+            xmin = 17.284 
+            xmax = 18.849 
+            text = "je sais pas pourquoi ça doit être autrichien" 
+        intervals [17]:
+            xmin = 18.849 
+            xmax = 19.713 
+            text = "#" 
+        intervals [18]:
+            xmin = 19.713 
+            xmax = 20.353 
+            text = "@" 
+        intervals [19]:
+            xmin = 20.353 
+            xmax = 22.009 
+            text = "#" 
+        intervals [20]:
+            xmin = 22.009 
+            xmax = 22.528 
+            text = "et et" 
+        intervals [21]:
+            xmin = 22.528 
+            xmax = 22.863 
+            text = "#" 
+        intervals [22]:
+            xmin = 22.863 
+            xmax = 25.698 
+            text = "$Fuhrat$ ça a une consonance turque donc on dit $Fuhrat$ à la place" 
+        intervals [23]:
+            xmin = 25.698 
+            xmax = 26.165 
+            text = "#" 
+        intervals [24]:
+            xmin = 26.165 
+            xmax = 26.45 
+            text = "*" 
+        intervals [25]:
+            xmin = 26.45 
+            xmax = 26.816 
+            text = "#" 
+        intervals [26]:
+            xmin = 26.816 
+            xmax = 28.096 
+            text = "là je te propose" 
+        intervals [27]:
+            xmin = 28.096 
+            xmax = 29.01 
+            text = "#" 
+        intervals [28]:
+            xmin = 29.01 
+            xmax = 29.722 
+            text = "ouais @" 
+        intervals [29]:
+            xmin = 29.722 
+            xmax = 36.752 
+            text = "#" 
+        intervals [30]:
+            xmin = 36.752 
+            xmax = 37.018 
+            text = "ok" 
+        intervals [31]:
+            xmin = 37.018 
+            xmax = 39.962 
+            text = "#" 
+        intervals [32]:
+            xmin = 39.962 
+            xmax = 40.269 
+            text = "ok" 
+        intervals [33]:
+            xmin = 40.269 
+            xmax = 44.095 
+            text = "#" 
+        intervals [34]:
+            xmin = 44.095 
+            xmax = 46.691 
+            text = "et il a dit quand même c'est une association de végétarien $Fuhrat$" 
+        intervals [35]:
+            xmin = 46.691 
+            xmax = 47.123 
+            text = "#" 
+        intervals [36]:
+            xmin = 47.123 
+            xmax = 47.448 
+            text = "euh" 
+        intervals [37]:
+            xmin = 47.448 
+            xmax = 48.632 
+            text = "#" 
+        intervals [38]:
+            xmin = 48.632 
+            xmax = 49.572 
+            text = "mais ça reste un organisme" 
+        intervals [39]:
+            xmin = 49.572 
+            xmax = 49.765 
+            text = "#" 
+        intervals [40]:
+            xmin = 49.765 
+            xmax = 51.162 
+            text = "la promo faire la promotion du" 
+        intervals [41]:
+            xmin = 51.162 
+            xmax = 51.65 
+            text = "#" 
+        intervals [42]:
+            xmin = 51.65 
+            xmax = 51.833 
+            text = "bio" 
+        intervals [43]:
+            xmin = 51.833 
+            xmax = 52.62 
+            text = "#" 
+        intervals [44]:
+            xmin = 52.62 
+            xmax = 53.128 
+            text = "et du local" 
+        intervals [45]:
+            xmin = 53.128 
+            xmax = 55.155 
+            text = "#" 
+        intervals [46]:
+            xmin = 55.155 
+            xmax = 55.369 
+            text = "voilà" 
+        intervals [47]:
+            xmin = 55.369 
+            xmax = 57.99 
+            text = "#" 
+        intervals [48]:
+            xmin = 57.99 
+            xmax = 59.9044 
+            text = "et ils s'attaquent aux enfants parce que c'est des cibles" 

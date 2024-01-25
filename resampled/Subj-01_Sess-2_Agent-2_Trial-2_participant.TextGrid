@@ -1,0 +1,154 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 60 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Transcription" 
+        xmin = 0 
+        xmax = 60 
+        intervals: size = 35 
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.671 
+            text = "#" 
+        intervals [2]:
+            xmin = 1.671 
+            xmax = 3.831 
+            text = "donc là encore une fois il s'agissait d'un fruit" 
+        intervals [3]:
+            xmin = 3.831 
+            xmax = 4.105 
+            text = "#" 
+        intervals [4]:
+            xmin = 4.105 
+            xmax = 4.364 
+            text = "poire" 
+        intervals [5]:
+            xmin = 4.364 
+            xmax = 5.573 
+            text = "#" 
+        intervals [6]:
+            xmin = 5.573 
+            xmax = 6.391 
+            text = "et qui avait une" 
+        intervals [7]:
+            xmin = 6.391 
+            xmax = 7.57 
+            text = "#" 
+        intervals [8]:
+            xmin = 7.57 
+            xmax = 9.196 
+            text = "c'est avec une drôle de forme" 
+        intervals [9]:
+            xmin = 9.196 
+            xmax = 12.183 
+            text = "#" 
+        intervals [10]:
+            xmin = 12.183 
+            xmax = 13.199 
+            text = "pourrie euh" 
+        intervals [11]:
+            xmin = 13.199 
+            xmax = 13.814 
+            text = "#" 
+        intervals [12]:
+            xmin = 13.814 
+            xmax = 17.244 
+            text = "euh probablement oui elle avait une drôle d'expression son visage euh" 
+        intervals [13]:
+            xmin = 17.244 
+            xmax = 18.356 
+            text = "#" 
+        intervals [14]:
+            xmin = 18.356 
+            xmax = 21.273 
+            text = "semblait être euh la poire semblait être un peu triste" 
+        intervals [15]:
+            xmin = 21.273 
+            xmax = 23.986 
+            text = "#" 
+        intervals [16]:
+            xmin = 23.986 
+            xmax = 24.499 
+            text = "donc là euh" 
+        intervals [17]:
+            xmin = 24.499 
+            xmax = 26.546 
+            text = "#" 
+        intervals [18]:
+            xmin = 26.546 
+            xmax = 27.974 
+            text = "oui elle semble un peu" 
+        intervals [19]:
+            xmin = 27.974 
+            xmax = 28.167 
+            text = "#" 
+        intervals [20]:
+            xmin = 28.167 
+            xmax = 29.071 
+            text = "désespérée" 
+        intervals [21]:
+            xmin = 29.071 
+            xmax = 29.991 
+            text = "#" 
+        intervals [22]:
+            xmin = 29.991 
+            xmax = 30.575 
+            text = "peut-être pas si" 
+        intervals [23]:
+            xmin = 30.575 
+            xmax = 35.422 
+            text = "#" 
+        intervals [24]:
+            xmin = 35.422 
+            xmax = 38.806 
+            text = "oui peut-être parce qu'elle a elle a pas une forme parfaite" 
+        intervals [25]:
+            xmin = 38.806 
+            xmax = 40.549 
+            text = "#" 
+        intervals [26]:
+            xmin = 40.549 
+            xmax = 44.659 
+            text = "est ce que c'est lié aux fruits et légumes qui sont moches peut-être" 
+        intervals [27]:
+            xmin = 44.659 
+            xmax = 46.539 
+            text = "#" 
+        intervals [28]:
+            xmin = 46.539 
+            xmax = 47.443 
+            text = "***" 
+        intervals [29]:
+            xmin = 47.443 
+            xmax = 48.708 
+            text = "#" 
+        intervals [30]:
+            xmin = 48.708 
+            xmax = 49.44 
+            text = "d'accord ok" 
+        intervals [31]:
+            xmin = 49.44 
+            xmax = 49.806 
+            text = "#" 
+        intervals [32]:
+            xmin = 49.806 
+            xmax = 54.19 
+            text = "donc euh par rapport à la promotion des des de manger locaux local peut-être peut-être" 
+        intervals [33]:
+            xmin = 54.19 
+            xmax = 57.711 
+            text = "#" 
+        intervals [34]:
+            xmin = 57.711 
+            xmax = 58.322 
+            text = "d'accord" 
+        intervals [35]:
+            xmin = 58.322 
+            xmax = 59.9044 
+            text = "#" 

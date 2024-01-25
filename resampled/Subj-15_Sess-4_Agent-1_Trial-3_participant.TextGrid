@@ -1,0 +1,118 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 60 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Transcription" 
+        xmin = 0 
+        xmax = 60 
+        intervals: size = 26 
+        intervals [1]:
+            xmin = 0 
+            xmax = 2.535 
+            text = "#" 
+        intervals [2]:
+            xmin = 2.535 
+            xmax = 2.713 
+            text = "allo" 
+        intervals [3]:
+            xmin = 2.713 
+            xmax = 3.795 
+            text = "#" 
+        intervals [4]:
+            xmin = 3.795 
+            xmax = 3.937 
+            text = "ouais" 
+        intervals [5]:
+            xmin = 3.937 
+            xmax = 9.79 
+            text = "#" 
+        intervals [6]:
+            xmin = 9.79 
+            xmax = 11.452 
+            text = "oui c'est ça semble possible ouais" 
+        intervals [7]:
+            xmin = 11.452 
+            xmax = 13.54 
+            text = "#" 
+        intervals [8]:
+            xmin = 13.54 
+            xmax = 14.083 
+            text = "ouais peut-être" 
+        intervals [9]:
+            xmin = 14.083 
+            xmax = 21.857 
+            text = "#" 
+        intervals [10]:
+            xmin = 21.857 
+            xmax = 22.771 
+            text = "ouais ou euh ouais" 
+        intervals [11]:
+            xmin = 22.771 
+            xmax = 25.078 
+            text = "#" 
+        intervals [12]:
+            xmin = 25.078 
+            xmax = 28.624 
+            text = "ouais et ou comnbattre la malbouffe par les fruits légumes quoi en gros" 
+        intervals [13]:
+            xmin = 28.624 
+            xmax = 28.906 
+            text = "#" 
+        intervals [14]:
+            xmin = 28.906 
+            xmax = 29.151 
+            text = "voilà" 
+        intervals [15]:
+            xmin = 29.151 
+            xmax = 30.494 
+            text = "#" 
+        intervals [16]:
+            xmin = 30.494 
+            xmax = 30.921 
+            text = "ouais voilà" 
+        intervals [17]:
+            xmin = 30.921 
+            xmax = 37.759 
+            text = "#" 
+        intervals [18]:
+            xmin = 37.759 
+            xmax = 38.197 
+            text = "peut-être" 
+        intervals [19]:
+            xmin = 38.197 
+            xmax = 38.476 
+            text = "#" 
+        intervals [20]:
+            xmin = 38.476 
+            xmax = 43.48 
+            text = "bah les les consommer les produits locaux parce que voilà la fraise elle vient de d'Afrique du Sud et euh" 
+        intervals [21]:
+            xmin = 43.48 
+            xmax = 44.334 
+            text = "#" 
+        intervals [22]:
+            xmin = 44.334 
+            xmax = 47.545 
+            text = "et elle est tout abîmée toute toute raplapla à cause de son trajet quoi" 
+        intervals [23]:
+            xmin = 47.545 
+            xmax = 52.402 
+            text = "#" 
+        intervals [24]:
+            xmin = 52.402 
+            xmax = 53.291 
+            text = "oui ça a plus de sens" 
+        intervals [25]:
+            xmin = 53.291 
+            xmax = 57.493 
+            text = "#" 
+        intervals [26]:
+            xmin = 57.493 
+            xmax = 59.9044 
+            text = "oui peut-être un truc du du ministère de la santé euh" 

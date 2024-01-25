@@ -1,0 +1,106 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 60 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Transcription" 
+        xmin = 0 
+        xmax = 60 
+        intervals: size = 23 
+        intervals [1]:
+            xmin = 0 
+            xmax = 2.469 
+            text = "#" 
+        intervals [2]:
+            xmin = 2.469 
+            xmax = 5.66 
+            text = "allo ouais euh donc on est revenus sur la" 
+        intervals [3]:
+            xmin = 5.66 
+            xmax = 7.204 
+            text = "#" 
+        intervals [4]:
+            xmin = 7.204 
+            xmax = 12.711 
+            text = "le l'aubergine la première les trois premières images donc c'était l'aubergine la l'aubergine" 
+        intervals [5]:
+            xmin = 12.711 
+            xmax = 15.526 
+            text = "#" 
+        intervals [6]:
+            xmin = 15.526 
+            xmax = 20.399 
+            text = "l'aubergine $Batman$ la pomme $Spiderman$ le citron $Tortue Ninja$" 
+        intervals [7]:
+            xmin = 20.399 
+            xmax = 27.969 
+            text = "#" 
+        intervals [8]:
+            xmin = 27.969 
+            xmax = 28.378 
+            text = "ah" 
+        intervals [9]:
+            xmin = 28.378 
+            xmax = 28.965 
+            text = "#" 
+        intervals [10]:
+            xmin = 28.965 
+            xmax = 30.006 
+            text = "ah le tour d'avant" 
+        intervals [11]:
+            xmin = 30.006 
+            xmax = 30.545 
+            text = "#" 
+        intervals [12]:
+            xmin = 30.545 
+            xmax = 31.043 
+            text = "et" 
+        intervals [13]:
+            xmin = 31.043 
+            xmax = 32.262 
+            text = "#" 
+        intervals [14]:
+            xmin = 32.262 
+            xmax = 33.766 
+            text = "ça serait les victimes des super héros" 
+        intervals [15]:
+            xmin = 33.766 
+            xmax = 38.344 
+            text = "#" 
+        intervals [16]:
+            xmin = 38.344 
+            xmax = 39.614 
+            text = "euh" 
+        intervals [17]:
+            xmin = 39.614 
+            xmax = 45.482 
+            text = "#" 
+        intervals [18]:
+            xmin = 45.482 
+            xmax = 46.407 
+            text = "euh ils sont" 
+        intervals [19]:
+            xmin = 46.407 
+            xmax = 47.951 
+            text = "#" 
+        intervals [20]:
+            xmin = 47.951 
+            xmax = 52.204 
+            text = "ils sont pas un peu ambivalent non pas vraiment c'est super héros c'est les gentils hein" 
+        intervals [21]:
+            xmin = 52.204 
+            xmax = 53.479 
+            text = "#" 
+        intervals [22]:
+            xmin = 53.479 
+            xmax = 59.007 
+            text = "non non il y a pas de il y a pas de raisons alors je cherchais un truc un petit peu bizarre avec des contre mais non" 
+        intervals [23]:
+            xmin = 59.007 
+            xmax = 59.9516 
+            text = "#" 

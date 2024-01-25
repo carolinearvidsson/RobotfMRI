@@ -1,0 +1,82 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 60 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Transcription" 
+        xmin = 0 
+        xmax = 60 
+        intervals: size = 17 
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.041 
+            text = "#" 
+        intervals [2]:
+            xmin = 1.041 
+            xmax = 1.565 
+            text = "salut" 
+        intervals [3]:
+            xmin = 1.565 
+            xmax = 4.506 
+            text = "#" 
+        intervals [4]:
+            xmin = 4.506 
+            xmax = 5.457 
+            text = "c'est un citron" 
+        intervals [5]:
+            xmin = 5.457 
+            xmax = 17.767 
+            text = "#" 
+        intervals [6]:
+            xmin = 17.767 
+            xmax = 18.544 
+            text = "je ne sais pas" 
+        intervals [7]:
+            xmin = 18.544 
+            xmax = 26.374 
+            text = "#" 
+        intervals [8]:
+            xmin = 26.374 
+            xmax = 26.775 
+            text = "ah non" 
+        intervals [9]:
+            xmin = 26.775 
+            xmax = 33.954 
+            text = "#" 
+        intervals [10]:
+            xmin = 33.954 
+            xmax = 34.741 
+            text = "je ne sais pas" 
+        intervals [11]:
+            xmin = 34.741 
+            xmax = 39.69 
+            text = "#" 
+        intervals [12]:
+            xmin = 39.69 
+            xmax = 41.163 
+            text = "il a un visage le citron" 
+        intervals [13]:
+            xmin = 41.163 
+            xmax = 47.133 
+            text = "#" 
+        intervals [14]:
+            xmin = 47.133 
+            xmax = 47.484 
+            text = "ouais" 
+        intervals [15]:
+            xmin = 47.484 
+            xmax = 54.089 
+            text = "#" 
+        intervals [16]:
+            xmin = 54.089 
+            xmax = 55.044 
+            text = "qu'est ce que t'en penses" 
+        intervals [17]:
+            xmin = 55.044 
+            xmax = 59.9516 
+            text = "#" 

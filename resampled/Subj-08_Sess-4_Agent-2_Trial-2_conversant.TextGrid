@@ -1,0 +1,90 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 60 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Transcription" 
+        xmin = 0 
+        xmax = 60 
+        intervals: size = 19 
+        intervals [1]:
+            xmin = 0 
+            xmax = 3.114 
+            text = "#" 
+        intervals [2]:
+            xmin = 3.114 
+            xmax = 4.258 
+            text = "elle smeble fatiguée" 
+        intervals [3]:
+            xmin = 4.258 
+            xmax = 11.889 
+            text = "#" 
+        intervals [4]:
+            xmin = 11.889 
+            xmax = 12.204 
+            text = "oui" 
+        intervals [5]:
+            xmin = 12.204 
+            xmax = 12.463 
+            text = "#" 
+        intervals [6]:
+            xmin = 12.463 
+            xmax = 13.078 
+            text = "tu as raison" 
+        intervals [7]:
+            xmin = 13.078 
+            xmax = 18.58 
+            text = "#" 
+        intervals [8]:
+            xmin = 18.58 
+            xmax = 20.373 
+            text = "peut-être qu'elle est malade et qu'elle pourrie" 
+        intervals [9]:
+            xmin = 20.373 
+            xmax = 37.109 
+            text = "#" 
+        intervals [10]:
+            xmin = 37.109 
+            xmax = 38.826 
+            text = "elle est pourrie parce qu'elle vient de loin" 
+        intervals [11]:
+            xmin = 38.826 
+            xmax = 40.183 
+            text = "#" 
+        intervals [12]:
+            xmin = 40.183 
+            xmax = 40.94 
+            text = "tu ne crois pas" 
+        intervals [13]:
+            xmin = 40.94 
+            xmax = 45.802 
+            text = "#" 
+        intervals [14]:
+            xmin = 45.802 
+            xmax = 46.117 
+            text = "oui" 
+        intervals [15]:
+            xmin = 46.117 
+            xmax = 46.346 
+            text = "#" 
+        intervals [16]:
+            xmin = 46.346 
+            xmax = 47.138 
+            text = "ça se pourrait" 
+        intervals [17]:
+            xmin = 47.138 
+            xmax = 55.78 
+            text = "#" 
+        intervals [18]:
+            xmin = 55.78 
+            xmax = 58.986 
+            text = "c'est une campagne pour les fruits locaux qui ne viennent pas de loin" 
+        intervals [19]:
+            xmin = 58.986 
+            xmax = 59.9516 
+            text = "#" 

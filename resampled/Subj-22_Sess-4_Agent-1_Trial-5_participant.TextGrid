@@ -1,0 +1,138 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 60 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Transcription" 
+        xmin = 0 
+        xmax = 60 
+        intervals: size = 31 
+        intervals [1]:
+            xmin = 0 
+            xmax = 4.09 
+            text = "#" 
+        intervals [2]:
+            xmin = 4.09 
+            xmax = 9.704 
+            text = "c'est peut-être en fait peut-être le sens si si on considère que les deux séries sont de la même campagne" 
+        intervals [3]:
+            xmin = 9.704 
+            xmax = 9.973 
+            text = "#" 
+        intervals [4]:
+            xmin = 9.973 
+            xmax = 12.056 
+            text = "le sens serait que" 
+        intervals [5]:
+            xmin = 12.056 
+            xmax = 12.661 
+            text = "#" 
+        intervals [6]:
+            xmin = 12.661 
+            xmax = 17.838 
+            text = "si on mange des fruits frais on est plus un super héros et si on mange pas des fruits frais ben" 
+        intervals [7]:
+            xmin = 17.838 
+            xmax = 18.275 
+            text = "#" 
+        intervals [8]:
+            xmin = 18.275 
+            xmax = 18.971 
+            text = "ben déjà" 
+        intervals [9]:
+            xmin = 18.971 
+            xmax = 20.795 
+            text = "#" 
+        intervals [10]:
+            xmin = 20.795 
+            xmax = 21.247 
+            text = "voilà" 
+        intervals [11]:
+            xmin = 21.247 
+            xmax = 21.654 
+            text = "#" 
+        intervals [12]:
+            xmin = 21.654 
+            xmax = 22.481 
+            text = "voilà exactement" 
+        intervals [13]:
+            xmin = 22.481 
+            xmax = 23.29 
+            text = "#" 
+        intervals [14]:
+            xmin = 23.29 
+            xmax = 23.889 
+            text = "c'est dommage" 
+        intervals [15]:
+            xmin = 23.889 
+            xmax = 24.336 
+            text = "#" 
+        intervals [16]:
+            xmin = 24.336 
+            xmax = 25.291 
+            text = "ils sont tristes les fruits" 
+        intervals [17]:
+            xmin = 25.291 
+            xmax = 29.545 
+            text = "#" 
+        intervals [18]:
+            xmin = 29.545 
+            xmax = 30.81 
+            text = "je pense que c'est ça" 
+        intervals [19]:
+            xmin = 30.81 
+            xmax = 37.8 
+            text = "#" 
+        intervals [20]:
+            xmin = 37.8 
+            xmax = 38.034 
+            text = "ouais" 
+        intervals [21]:
+            xmin = 38.034 
+            xmax = 40.757 
+            text = "#" 
+        intervals [22]:
+            xmin = 40.757 
+            xmax = 41.036 
+            text = "ouais" 
+        intervals [23]:
+            xmin = 41.036 
+            xmax = 41.428 
+            text = "#" 
+        intervals [24]:
+            xmin = 41.428 
+            xmax = 42.2 
+            text = "grave @" 
+        intervals [25]:
+            xmin = 42.2 
+            xmax = 42.984 
+            text = "#" 
+        intervals [26]:
+            xmin = 42.984 
+            xmax = 43.369 
+            text = "c'est ça" 
+        intervals [27]:
+            xmin = 43.369 
+            xmax = 45.822 
+            text = "#" 
+        intervals [28]:
+            xmin = 45.822 
+            xmax = 46.61 
+            text = "@" 
+        intervals [29]:
+            xmin = 46.61 
+            xmax = 51.396 
+            text = "#" 
+        intervals [30]:
+            xmin = 51.396 
+            xmax = 51.772 
+            text = "c'est ça" 
+        intervals [31]:
+            xmin = 51.772 
+            xmax = 59.9044 
+            text = "#" 

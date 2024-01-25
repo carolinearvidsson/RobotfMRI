@@ -1,0 +1,166 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 60 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Transcription" 
+        xmin = 0 
+        xmax = 60 
+        intervals: size = 38 
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.138 
+            text = "tout ce qu'on avait" 
+        intervals [2]:
+            xmin = 1.138 
+            xmax = 1.748 
+            text = "#" 
+        intervals [3]:
+            xmin = 1.748 
+            xmax = 2.815 
+            text = "c'était avec la" 
+        intervals [4]:
+            xmin = 2.815 
+            xmax = 3.272 
+            text = "#" 
+        intervals [5]:
+            xmin = 3.272 
+            xmax = 3.567 
+            text = "pardon" 
+        intervals [6]:
+            xmin = 3.567 
+            xmax = 3.978 
+            text = "#" 
+        intervals [7]:
+            xmin = 3.978 
+            xmax = 9.033 
+            text = "euh j'étais en train de refaire le point sur ce qu'on avait dit et si ça marchait bien" 
+        intervals [8]:
+            xmin = 9.033 
+            xmax = 9.374 
+            text = "#" 
+        intervals [9]:
+            xmin = 9.374 
+            xmax = 10.944 
+            text = "donc ça ça serait une poire française" 
+        intervals [10]:
+            xmin = 10.944 
+            xmax = 15.323 
+            text = "#" 
+        intervals [11]:
+            xmin = 15.323 
+            xmax = 16.837 
+            text = "ah ouais la framboise putain" 
+        intervals [12]:
+            xmin = 16.837 
+            xmax = 17.772 
+            text = "#" 
+        intervals [13]:
+            xmin = 17.772 
+            xmax = 18.483 
+            text = "pas réveillé hein" 
+        intervals [14]:
+            xmin = 18.483 
+            xmax = 19.134 
+            text = "#" 
+        intervals [15]:
+            xmin = 19.134 
+            xmax = 23.788 
+            text = "euh mais enfin c'est pareil elle française ouais -fin c'est @ ça donne moins envie d'un seul coup" 
+        intervals [16]:
+            xmin = 23.788 
+            xmax = 24.26 
+            text = "#" 
+        intervals [17]:
+            xmin = 24.26 
+            xmax = 25.007 
+            text = "euh" 
+        intervals [18]:
+            xmin = 25.007 
+            xmax = 30.291 
+            text = "#" 
+        intervals [19]:
+            xmin = 30.291 
+            xmax = 33.075 
+            text = "et que donc il faut que nous on les défende" 
+        intervals [20]:
+            xmin = 33.075 
+            xmax = 34.66 
+            text = "#" 
+        intervals [21]:
+            xmin = 34.66 
+            xmax = 36.835 
+            text = "en achetant euh en achetant des trucs locaux" 
+        intervals [22]:
+            xmin = 36.835 
+            xmax = 37.231 
+            text = "#" 
+        intervals [23]:
+            xmin = 37.231 
+            xmax = 42.992 
+            text = "et ça peut peut-être aller aussi avec les super héros ils sont plein de pesticides et d'hormones et de" 
+        intervals [24]:
+            xmin = 42.992 
+            xmax = 43.78 
+            text = "#" 
+        intervals [25]:
+            xmin = 43.78 
+            xmax = 46.874 
+            text = "ouais voilà et d'$OGM$ et de trucs comme ça alors que les euh" 
+        intervals [26]:
+            xmin = 46.874 
+            xmax = 47.387 
+            text = "#" 
+        intervals [27]:
+            xmin = 47.387 
+            xmax = 49.841 
+            text = "les locaux ils ont moins bonne mine mais au moins" 
+        intervals [28]:
+            xmin = 49.841 
+            xmax = 50.197 
+            text = "#" 
+        intervals [29]:
+            xmin = 50.197 
+            xmax = 51.284 
+            text = "bah par contre ils ont quand même" 
+        intervals [30]:
+            xmin = 51.284 
+            xmax = 51.635 
+            text = "#" 
+        intervals [31]:
+            xmin = 51.635 
+            xmax = 51.914 
+            text = "-fin" 
+        intervals [32]:
+            xmin = 51.914 
+            xmax = 53.413 
+            text = "#" 
+        intervals [33]:
+            xmin = 53.413 
+            xmax = 55.552 
+            text = "ça reste hein ouais franchement la framboise c'est un peu" 
+        intervals [34]:
+            xmin = 55.552 
+            xmax = 56.136 
+            text = "#" 
+        intervals [35]:
+            xmin = 56.136 
+            xmax = 58.519 
+            text = "s'il nous demande leur avis on va leur dire que la framboise faut la" 
+        intervals [36]:
+            xmin = 58.519 
+            xmax = 58.89 
+            text = "#" 
+        intervals [37]:
+            xmin = 58.89 
+            xmax = 59.657 
+            text = "faut la refaire quoi" 
+        intervals [38]:
+            xmin = 59.657 
+            xmax = 59.9516 
+            text = "#" 

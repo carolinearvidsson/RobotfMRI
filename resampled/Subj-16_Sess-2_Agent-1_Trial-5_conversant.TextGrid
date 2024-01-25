@@ -1,0 +1,130 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 60 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Transcription" 
+        xmin = 0 
+        xmax = 60 
+        intervals: size = 29 
+        intervals [1]:
+            xmin = 0 
+            xmax = 2.728 
+            text = "#" 
+        intervals [2]:
+            xmin = 2.728 
+            xmax = 3.099 
+            text = "euh" 
+        intervals [3]:
+            xmin = 3.099 
+            xmax = 5.462 
+            text = "#" 
+        intervals [4]:
+            xmin = 5.462 
+            xmax = 6.026 
+            text = "euh ah bon" 
+        intervals [5]:
+            xmin = 6.026 
+            xmax = 6.224 
+            text = "#" 
+        intervals [6]:
+            xmin = 6.224 
+            xmax = 6.534 
+            text = "encore" 
+        intervals [7]:
+            xmin = 6.534 
+            xmax = 8.932 
+            text = "#" 
+        intervals [8]:
+            xmin = 8.932 
+            xmax = 9.663 
+            text = "ah d'accord ok" 
+        intervals [9]:
+            xmin = 9.663 
+            xmax = 10.034 
+            text = "#" 
+        intervals [10]:
+            xmin = 10.034 
+            xmax = 10.517 
+            text = "ok ok" 
+        intervals [11]:
+            xmin = 10.517 
+            xmax = 11.143 
+            text = "#" 
+        intervals [12]:
+            xmin = 11.143 
+            xmax = 11.513 
+            text = "je vois" 
+        intervals [13]:
+            xmin = 11.513 
+            xmax = 25.982 
+            text = "#" 
+        intervals [14]:
+            xmin = 25.982 
+            xmax = 26.165 
+            text = "ouais" 
+        intervals [15]:
+            xmin = 26.165 
+            xmax = 29.986 
+            text = "#" 
+        intervals [16]:
+            xmin = 29.986 
+            xmax = 30.27 
+            text = "bah" 
+        intervals [17]:
+            xmin = 30.27 
+            xmax = 31.144 
+            text = "#" 
+        intervals [18]:
+            xmin = 31.144 
+            xmax = 36.225 
+            text = "moi j'ai des sentiments différents là selon les sur les trois qu'on vient de voir parce que euh la" 
+        intervals [19]:
+            xmin = 36.225 
+            xmax = 36.489 
+            text = "#" 
+        intervals [20]:
+            xmin = 36.489 
+            xmax = 39.477 
+            text = "tu vois la fraise j'ai peut-être un peu plus d'admiration parce que je trouvais que c'était une battante" 
+        intervals [21]:
+            xmin = 39.477 
+            xmax = 40.452 
+            text = "#" 
+        intervals [22]:
+            xmin = 40.452 
+            xmax = 44.171 
+            text = "mais euh là la poire elle me fait un petit peu pitié je me sens triste pour elle" 
+        intervals [23]:
+            xmin = 44.171 
+            xmax = 47.529 
+            text = "#" 
+        intervals [24]:
+            xmin = 47.529 
+            xmax = 49.618 
+            text = "ouais après je pense pas qu'elle soit mauvaise non plus hein" 
+        intervals [25]:
+            xmin = 49.618 
+            xmax = 50.411 
+            text = "#" 
+        intervals [26]:
+            xmin = 50.411 
+            xmax = 50.957 
+            text = "c'est euh" 
+        intervals [27]:
+            xmin = 50.957 
+            xmax = 54.891 
+            text = "#" 
+        intervals [28]:
+            xmin = 54.891 
+            xmax = 59.027 
+            text = "ouais ouais mon père a tendance à dire ça et attendre qui euh qui mûrissent bien en général" 
+        intervals [29]:
+            xmin = 59.027 
+            xmax = 59.9516 
+            text = "#" 

@@ -1,0 +1,90 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 60 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Transcription" 
+        xmin = 0 
+        xmax = 60 
+        intervals: size = 19 
+        intervals [1]:
+            xmin = 0 
+            xmax = 15.831 
+            text = "#" 
+        intervals [2]:
+            xmin = 15.831 
+            xmax = 17.173 
+            text = "c'est une framboise moche" 
+        intervals [3]:
+            xmin = 17.173 
+            xmax = 21.232 
+            text = "#" 
+        intervals [4]:
+            xmin = 21.232 
+            xmax = 22.583 
+            text = "c'est une framboise moche" 
+        intervals [5]:
+            xmin = 22.583 
+            xmax = 23.351 
+            text = "#" 
+        intervals [6]:
+            xmin = 23.351 
+            xmax = 24.804 
+            text = "elle n'a pas l'air contente" 
+        intervals [7]:
+            xmin = 24.804 
+            xmax = 33.334 
+            text = "#" 
+        intervals [8]:
+            xmin = 33.334 
+            xmax = 33.71 
+            text = "ouais" 
+        intervals [9]:
+            xmin = 33.71 
+            xmax = 34.371 
+            text = "#" 
+        intervals [10]:
+            xmin = 34.371 
+            xmax = 34.965 
+            text = "hum" 
+        intervals [11]:
+            xmin = 34.965 
+            xmax = 35.397 
+            text = "#" 
+        intervals [12]:
+            xmin = 35.397 
+            xmax = 35.94 
+            text = "peut-être" 
+        intervals [13]:
+            xmin = 35.94 
+            xmax = 47.291 
+            text = "#" 
+        intervals [14]:
+            xmin = 47.291 
+            xmax = 47.921 
+            text = "je crois" 
+        intervals [15]:
+            xmin = 47.921 
+            xmax = 51.167 
+            text = "#" 
+        intervals [16]:
+            xmin = 51.167 
+            xmax = 55.064 
+            text = "c'est une campagne pour des fruits locaux et qui ne viennent pas de loin" 
+        intervals [17]:
+            xmin = 55.064 
+            xmax = 55.714 
+            text = "#" 
+        intervals [18]:
+            xmin = 55.714 
+            xmax = 56.527 
+            text = "tu ne crois pas" 
+        intervals [19]:
+            xmin = 56.527 
+            xmax = 59.9516 
+            text = "#" 

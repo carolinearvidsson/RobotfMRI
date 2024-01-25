@@ -1,0 +1,122 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 60 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Transcription" 
+        xmin = 0 
+        xmax = 60 
+        intervals: size = 27 
+        intervals [1]:
+            xmin = 0 
+            xmax = 6.163 
+            text = "#" 
+        intervals [2]:
+            xmin = 6.163 
+            xmax = 6.971 
+            text = "@" 
+        intervals [3]:
+            xmin = 6.971 
+            xmax = 7.357 
+            text = "#" 
+        intervals [4]:
+            xmin = 7.357 
+            xmax = 10.182 
+            text = "ou des sous-titres -fin ou des des indications en-dessous peut-être" 
+        intervals [5]:
+            xmin = 10.182 
+            xmax = 12.188 
+            text = "#" 
+        intervals [6]:
+            xmin = 12.188 
+            xmax = 12.824 
+            text = "euh" 
+        intervals [7]:
+            xmin = 12.824 
+            xmax = 15.674 
+            text = "#" 
+        intervals [8]:
+            xmin = 15.674 
+            xmax = 15.974 
+            text = "ouais" 
+        intervals [9]:
+            xmin = 15.974 
+            xmax = 21.217 
+            text = "#" 
+        intervals [10]:
+            xmin = 21.217 
+            xmax = 23.168 
+            text = "euh ben je pensais à quelque chose" 
+        intervals [11]:
+            xmin = 23.168 
+            xmax = 23.803 
+            text = "#" 
+        intervals [12]:
+            xmin = 23.803 
+            xmax = 24.966 
+            text = "euh" 
+        intervals [13]:
+            xmin = 24.966 
+            xmax = 27.1 
+            text = "#" 
+        intervals [14]:
+            xmin = 27.1 
+            xmax = 31.439 
+            text = "c'est c'est peut-être quelque chose contre la tu sais la discrimination ou le" 
+        intervals [15]:
+            xmin = 31.439 
+            xmax = 33.217 
+            text = "#" 
+        intervals [16]:
+            xmin = 33.217 
+            xmax = 36.784 
+            text = "ou euh ou le harcèlement ou quelque chose parce que tu disais t'as les t'as les ch-" 
+        intervals [17]:
+            xmin = 36.784 
+            xmax = 37.348 
+            text = "#" 
+        intervals [18]:
+            xmin = 37.348 
+            xmax = 39.385 
+            text = "super héros d'un côté les victimes de l'autre" 
+        intervals [19]:
+            xmin = 39.385 
+            xmax = 40.284 
+            text = "#" 
+        intervals [20]:
+            xmin = 40.284 
+            xmax = 41.214 
+            text = "euh" 
+        intervals [21]:
+            xmin = 41.214 
+            xmax = 43.272 
+            text = "#" 
+        intervals [22]:
+            xmin = 43.272 
+            xmax = 44.298 
+            text = "et euh" 
+        intervals [23]:
+            xmin = 44.298 
+            xmax = 49.349 
+            text = "#" 
+        intervals [24]:
+            xmin = 49.349 
+            xmax = 49.63 
+            text = "ouais" 
+        intervals [25]:
+            xmin = 52.813 
+            xmax = 53.387 
+            text = "euh" 
+        intervals [26]:
+            xmin = 53.387 
+            xmax = 54.175 
+            text = "#" 
+        intervals [27]:
+            xmin = 54.175 
+            xmax = 59.9516 
+            text = "et il y a peut-être justement un contraste entre les trois premiers euh très très brill-" 

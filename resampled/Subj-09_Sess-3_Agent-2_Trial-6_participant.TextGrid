@@ -1,0 +1,122 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 60 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Transcription" 
+        xmin = 0 
+        xmax = 60 
+        intervals: size = 27 
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.702 
+            text = "#" 
+        intervals [2]:
+            xmin = 1.702 
+            xmax = 6.391 
+            text = "le citron a vraiment l'air gentil on dirait qu'il est en mouvement peut-être à cause" 
+        intervals [3]:
+            xmin = 6.391 
+            xmax = 6.905 
+            text = "#" 
+        intervals [4]:
+            xmin = 6.905 
+            xmax = 7.55 
+            text = "des bandeaux" 
+        intervals [5]:
+            xmin = 7.55 
+            xmax = 9.521 
+            text = "#" 
+        intervals [6]:
+            xmin = 9.521 
+            xmax = 11.613 
+            text = "dans les cheveux -fin derrière sa tête" 
+        intervals [7]:
+            xmin = 11.613 
+            xmax = 16.156 
+            text = "#" 
+        intervals [8]:
+            xmin = 16.156 
+            xmax = 18.28 
+            text = "je trouve qu'il brille moins que les autres" 
+        intervals [9]:
+            xmin = 18.28 
+            xmax = 19.225 
+            text = "#" 
+        intervals [10]:
+            xmin = 19.225 
+            xmax = 23.25 
+            text = "et au contraire on a l'impression qu'il va venir vers nous qui" 
+        intervals [11]:
+            xmin = 23.25 
+            xmax = 24.519 
+            text = "#" 
+        intervals [12]:
+            xmin = 24.519 
+            xmax = 29.803 
+            text = "il est en approche quoi mais vraiment dans un souci de bien-être de de gentillesse" 
+        intervals [13]:
+            xmin = 29.803 
+            xmax = 33.441 
+            text = "#" 
+        intervals [14]:
+            xmin = 33.441 
+            xmax = 33.868 
+            text = "euh" 
+        intervals [15]:
+            xmin = 33.868 
+            xmax = 37.642 
+            text = "#" 
+        intervals [16]:
+            xmin = 37.642 
+            xmax = 38.887 
+            text = "le message" 
+        intervals [17]:
+            xmin = 38.887 
+            xmax = 39.385 
+            text = "#" 
+        intervals [18]:
+            xmin = 39.385 
+            xmax = 44.049 
+            text = "faire attention aux apparences parfois trompeuses des fruits et des légumes et que" 
+        intervals [19]:
+            xmin = 44.049 
+            xmax = 45.228 
+            text = "#" 
+        intervals [20]:
+            xmin = 45.228 
+            xmax = 47.423 
+            text = "faut les éplucher les laver et" 
+        intervals [21]:
+            xmin = 47.423 
+            xmax = 48.403 
+            text = "#" 
+        intervals [22]:
+            xmin = 48.403 
+            xmax = 50.187 
+            text = "poser un peu peut-être" 
+        intervals [23]:
+            xmin = 50.187 
+            xmax = 51.452 
+            text = "#" 
+        intervals [24]:
+            xmin = 51.452 
+            xmax = 52.356 
+            text = "pour en manger le" 
+        intervals [25]:
+            xmin = 52.356 
+            xmax = 52.91 
+            text = "#" 
+        intervals [26]:
+            xmin = 52.91 
+            xmax = 53.953 
+            text = "le bon contenu" 
+        intervals [27]:
+            xmin = 53.953 
+            xmax = 59.9044 
+            text = "#" 

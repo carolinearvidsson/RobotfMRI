@@ -1,0 +1,82 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 60 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Transcription" 
+        xmin = 0 
+        xmax = 60 
+        intervals: size = 17 
+        intervals [1]:
+            xmin = 0 
+            xmax = 4.435 
+            text = "#" 
+        intervals [2]:
+            xmin = 4.435 
+            xmax = 4.827 
+            text = "oui" 
+        intervals [3]:
+            xmin = 4.827 
+            xmax = 7.174 
+            text = "#" 
+        intervals [4]:
+            xmin = 7.174 
+            xmax = 8.424 
+            text = "cette pomme a des grands yeux" 
+        intervals [5]:
+            xmin = 8.424 
+            xmax = 17.005 
+            text = "#" 
+        intervals [6]:
+            xmin = 17.005 
+            xmax = 17.955 
+            text = "je suis d'accord" 
+        intervals [7]:
+            xmin = 17.955 
+            xmax = 24.951 
+            text = "#" 
+        intervals [8]:
+            xmin = 24.951 
+            xmax = 26.043 
+            text = "je ne suis pas sûre" 
+        intervals [9]:
+            xmin = 26.043 
+            xmax = 26.841 
+            text = "#" 
+        intervals [10]:
+            xmin = 26.841 
+            xmax = 28.38 
+            text = "on dirait * cette pomme" 
+        intervals [11]:
+            xmin = 28.38 
+            xmax = 40.315 
+            text = "#" 
+        intervals [12]:
+            xmin = 40.315 
+            xmax = 40.716 
+            text = "ah oui" 
+        intervals [13]:
+            xmin = 40.716 
+            xmax = 50.933 
+            text = "#" 
+        intervals [14]:
+            xmin = 50.933 
+            xmax = 51.69 
+            text = "je ne sais pas" 
+        intervals [15]:
+            xmin = 51.69 
+            xmax = 54.525 
+            text = "#" 
+        intervals [16]:
+            xmin = 54.525 
+            xmax = 55.755 
+            text = "elle semble être en colère" 
+        intervals [17]:
+            xmin = 55.755 
+            xmax = 59.9516 
+            text = "#" 

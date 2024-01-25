@@ -1,0 +1,118 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 60 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Transcription" 
+        xmin = 0 
+        xmax = 60 
+        intervals: size = 26 
+        intervals [1]:
+            xmin = 0 
+            xmax = 2.07 
+            text = "#" 
+        intervals [2]:
+            xmin = 2.07 
+            xmax = 6.249 
+            text = "une poire pourrie qui a été oubliée dans un panier à salade" 
+        intervals [3]:
+            xmin = 6.249 
+            xmax = 9.968 
+            text = "#" 
+        intervals [4]:
+            xmin = 9.968 
+            xmax = 12.895 
+            text = "oui elle est triste elle est difforme elle est euh" 
+        intervals [5]:
+            xmin = 12.895 
+            xmax = 13.931 
+            text = "#" 
+        intervals [6]:
+            xmin = 13.931 
+            xmax = 15.659 
+            text = "elle a des bleus elle a" 
+        intervals [7]:
+            xmin = 15.659 
+            xmax = 18.585 
+            text = "#" 
+        intervals [8]:
+            xmin = 18.585 
+            xmax = 20.265 
+            text = "elle est toujours pas appétissante @" 
+        intervals [9]:
+            xmin = 20.265 
+            xmax = 24.352 
+            text = "#" 
+        intervals [10]:
+            xmin = 24.352 
+            xmax = 25.756 
+            text = "oui c'est ça elle fait pitié" 
+        intervals [11]:
+            xmin = 25.756 
+            xmax = 26.454 
+            text = "#" 
+        intervals [12]:
+            xmin = 26.454 
+            xmax = 31.326 
+            text = "et tu disais c'était quoi la question avec les autres fruits tout à l'heure s'ils étaient du même sexe c'est ça que" 
+        intervals [13]:
+            xmin = 31.326 
+            xmax = 33.68 
+            text = "#" 
+        intervals [14]:
+            xmin = 33.68 
+            xmax = 36.08 
+            text = "par rapport à la framboise et la fraise" 
+        intervals [15]:
+            xmin = 36.08 
+            xmax = 46.177 
+            text = "#" 
+        intervals [16]:
+            xmin = 46.177 
+            xmax = 46.625 
+            text = "oui j'ai" 
+        intervals [17]:
+            xmin = 46.625 
+            xmax = 46.959 
+            text = "#" 
+        intervals [18]:
+            xmin = 46.959 
+            xmax = 47.199 
+            text = "oui" 
+        intervals [19]:
+            xmin = 47.199 
+            xmax = 47.758 
+            text = "#" 
+        intervals [20]:
+            xmin = 47.758 
+            xmax = 55.125 
+            text = "elles sont pas belles comme si elles étaient parce qu'au départ je pensais -fin la fraise donne plus une pub pour des fruits non calibrés qui sont bonnes" 
+        intervals [21]:
+            xmin = 55.125 
+            xmax = 55.587 
+            text = "#" 
+        intervals [22]:
+            xmin = 55.587 
+            xmax = 56.182 
+            text = "elles sont bons" 
+        intervals [23]:
+            xmin = 56.182 
+            xmax = 56.893 
+            text = "#" 
+        intervals [24]:
+            xmin = 56.893 
+            xmax = 58.905 
+            text = "et alors que la framboise et la" 
+        intervals [25]:
+            xmin = 58.905 
+            xmax = 59.784 
+            text = "#" 
+        intervals [26]:
+            xmin = 59.784 
+            xmax = 59.9044 
+            text = "et" 

@@ -1,0 +1,142 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 60 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Transcription" 
+        xmin = 0 
+        xmax = 60 
+        intervals: size = 32 
+        intervals [1]:
+            xmin = 0 
+            xmax = 2.962 
+            text = "#" 
+        intervals [2]:
+            xmin = 2.962 
+            xmax = 3.567 
+            text = "de quoi" 
+        intervals [3]:
+            xmin = 3.567 
+            xmax = 5.187 
+            text = "#" 
+        intervals [4]:
+            xmin = 5.187 
+            xmax = 5.7 
+            text = "oui pourquoi" 
+        intervals [5]:
+            xmin = 5.7 
+            xmax = 12.361 
+            text = "#" 
+        intervals [6]:
+            xmin = 12.361 
+            xmax = 12.671 
+            text = "ouais" 
+        intervals [7]:
+            xmin = 12.671 
+            xmax = 19.571 
+            text = "#" 
+        intervals [8]:
+            xmin = 19.571 
+            xmax = 21.227 
+            text = "non c'est" 
+        intervals [9]:
+            xmin = 21.227 
+            xmax = 22.446 
+            text = "#" 
+        intervals [10]:
+            xmin = 22.446 
+            xmax = 23.564 
+            text = "@" 
+        intervals [11]:
+            xmin = 23.564 
+            xmax = 23.94 
+            text = "#" 
+        intervals [12]:
+            xmin = 23.94 
+            xmax = 24.479 
+            text = "euh" 
+        intervals [13]:
+            xmin = 24.479 
+            xmax = 24.733 
+            text = "#" 
+        intervals [14]:
+            xmin = 24.733 
+            xmax = 26.551 
+            text = "pour les pesticides ah ben c'est super alors" 
+        intervals [15]:
+            xmin = 26.551 
+            xmax = 26.77 
+            text = "#" 
+        intervals [16]:
+            xmin = 26.77 
+            xmax = 28.213 
+            text = "en fait on était parti angéliques" 
+        intervals [17]:
+            xmin = 28.213 
+            xmax = 30.956 
+            text = "#" 
+        intervals [18]:
+            xmin = 30.956 
+            xmax = 32.384 
+            text = "mais non en fait c'est $Monsanto$" 
+        intervals [19]:
+            xmin = 32.384 
+            xmax = 33.964 
+            text = "#" 
+        intervals [20]:
+            xmin = 33.964 
+            xmax = 34.498 
+            text = "@" 
+        intervals [21]:
+            xmin = 34.498 
+            xmax = 36.093 
+            text = "#" 
+        intervals [22]:
+            xmin = 36.093 
+            xmax = 42.581 
+            text = "c'est pour avoir les les pesticides les graines bien formatées les fruits bien tous pareils" 
+        intervals [23]:
+            xmin = 42.581 
+            xmax = 46.021 
+            text = "#" 
+        intervals [24]:
+            xmin = 46.021 
+            xmax = 48.988 
+            text = "alors que ça ça serait contre intuitif en fait on était trop ouais" 
+        intervals [25]:
+            xmin = 48.988 
+            xmax = 49.181 
+            text = "#" 
+        intervals [26]:
+            xmin = 49.181 
+            xmax = 53.072 
+            text = "on était parti avec agriculture biologique agriculture locale" 
+        intervals [27]:
+            xmin = 53.072 
+            xmax = 56.065 
+            text = "#" 
+        intervals [28]:
+            xmin = 56.065 
+            xmax = 56.624 
+            text = "@" 
+        intervals [29]:
+            xmin = 56.624 
+            xmax = 57.025 
+            text = "#" 
+        intervals [30]:
+            xmin = 57.025 
+            xmax = 58.803 
+            text = "@ oui il défend sa euh" 
+        intervals [31]:
+            xmin = 58.803 
+            xmax = 59.306 
+            text = "#" 
+        intervals [32]:
+            xmin = 59.306 
+            xmax = 59.9516 
+            text = "il défend sa part" 

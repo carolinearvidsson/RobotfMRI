@@ -1,0 +1,154 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 60 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Transcription" 
+        xmin = 0 
+        xmax = 60 
+        intervals: size = 35 
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.809 
+            text = "#" 
+        intervals [2]:
+            xmin = 1.809 
+            xmax = 2.063 
+            text = "bon" 
+        intervals [3]:
+            xmin = 2.063 
+            xmax = 2.53 
+            text = "#" 
+        intervals [4]:
+            xmin = 2.53 
+            xmax = 3.749 
+            text = "ça sera pas des fruits rouges" 
+        intervals [5]:
+            xmin = 3.749 
+            xmax = 6.153 
+            text = "#" 
+        intervals [6]:
+            xmin = 6.153 
+            xmax = 6.574 
+            text = "euh non" 
+        intervals [7]:
+            xmin = 6.574 
+            xmax = 7.336 
+            text = "#" 
+        intervals [8]:
+            xmin = 7.336 
+            xmax = 9.379 
+            text = "ça sera des fruits par contre parce que là c'est une poire" 
+        intervals [9]:
+            xmin = 9.379 
+            xmax = 10.928 
+            text = "#" 
+        intervals [10]:
+            xmin = 10.928 
+            xmax = 15.516 
+            text = "ça fait bizarre quand on compare la poire de cette série avec la pomme de la série précédente" 
+        intervals [11]:
+            xmin = 15.516 
+            xmax = 22.766 
+            text = "#" 
+        intervals [12]:
+            xmin = 22.766 
+            xmax = 24.357 
+            text = "elle brille pas et" 
+        intervals [13]:
+            xmin = 24.357 
+            xmax = 24.971 
+            text = "#" 
+        intervals [14]:
+            xmin = 24.971 
+            xmax = 26.861 
+            text = "elle a pas la peau toute lisse" 
+        intervals [15]:
+            xmin = 26.861 
+            xmax = 27.878 
+            text = "#" 
+        intervals [16]:
+            xmin = 27.878 
+            xmax = 29.381 
+            text = "non c'est pas du tout le même" 
+        intervals [17]:
+            xmin = 29.381 
+            xmax = 30.779 
+            text = "#" 
+        intervals [18]:
+            xmin = 30.779 
+            xmax = 31.937 
+            text = "c'est pas du tout le même topo" 
+        intervals [19]:
+            xmin = 31.937 
+            xmax = 32.47 
+            text = "#" 
+        intervals [20]:
+            xmin = 32.47 
+            xmax = 33.746 
+            text = "euh bon" 
+        intervals [21]:
+            xmin = 33.746 
+            xmax = 33.949 
+            text = "#" 
+        intervals [22]:
+            xmin = 33.949 
+            xmax = 34.823 
+            text = "ils sont tous abîmés" 
+        intervals [23]:
+            xmin = 34.823 
+            xmax = 41.677 
+            text = "#" 
+        intervals [24]:
+            xmin = 41.677 
+            xmax = 43.379 
+            text = "de s'être battus" 
+        intervals [25]:
+            xmin = 43.379 
+            xmax = 43.998 
+            text = "#" 
+        intervals [26]:
+            xmin = 43.998 
+            xmax = 44.821 
+            text = "euh" 
+        intervals [27]:
+            xmin = 44.821 
+            xmax = 45.441 
+            text = "#" 
+        intervals [28]:
+            xmin = 45.441 
+            xmax = 47.341 
+            text = "ils donnent pas l'impression d'être vieux" 
+        intervals [29]:
+            xmin = 47.341 
+            xmax = 47.667 
+            text = "#" 
+        intervals [30]:
+            xmin = 47.667 
+            xmax = 49.353 
+            text = "d'être abîmés parce qu'ils sont vieux" 
+        intervals [31]:
+            xmin = 49.353 
+            xmax = 50.06 
+            text = "#" 
+        intervals [32]:
+            xmin = 50.06 
+            xmax = 53.296 
+            text = "c'est vraiment plus abîmés par la vie mais pas euh" 
+        intervals [33]:
+            xmin = 53.296 
+            xmax = 55.084 
+            text = "#" 
+        intervals [34]:
+            xmin = 55.084 
+            xmax = 58.946 
+            text = "non parce qu'on aurait pu croire que les autres c'était des fruits jeunes et que là c'était des fruits vieux mais" 
+        intervals [35]:
+            xmin = 58.946 
+            xmax = 59.9516 
+            text = "#" 

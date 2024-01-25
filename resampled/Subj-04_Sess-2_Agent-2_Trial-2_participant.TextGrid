@@ -1,0 +1,238 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 60 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Transcription" 
+        xmin = 0 
+        xmax = 60 
+        intervals: size = 56 
+        intervals [1]:
+            xmin = 0 
+            xmax = 5.192 
+            text = "#" 
+        intervals [2]:
+            xmin = 5.192 
+            xmax = 5.736 
+            text = "oui" 
+        intervals [3]:
+            xmin = 5.736 
+            xmax = 11.423 
+            text = "#" 
+        intervals [4]:
+            xmin = 11.423 
+            xmax = 12.13 
+            text = "oui" 
+        intervals [5]:
+            xmin = 12.13 
+            xmax = 19.576 
+            text = "#" 
+        intervals [6]:
+            xmin = 19.576 
+            xmax = 21.071 
+            text = "j'en pense qu'elle a pas l'air contente" 
+        intervals [7]:
+            xmin = 21.071 
+            xmax = 25.373 
+            text = "#" 
+        intervals [8]:
+            xmin = 25.373 
+            xmax = 25.688 
+            text = "#" 
+        intervals [9]:
+            xmin = 25.688 
+            xmax = 25.865 
+            text = "*" 
+        intervals [10]:
+            xmin = 25.865 
+            xmax = 26.16 
+            text = "#" 
+        intervals [11]:
+            xmin = 26.16 
+            xmax = 26.999 
+            text = "*" 
+        intervals [12]:
+            xmin = 26.999 
+            xmax = 27.725 
+            text = "#" 
+        intervals [13]:
+            xmin = 27.725 
+            xmax = 30.067 
+            text = "*" 
+        intervals [14]:
+            xmin = 30.067 
+            xmax = 30.311 
+            text = "#" 
+        intervals [15]:
+            xmin = 30.311 
+            xmax = 30.738 
+            text = "*" 
+        intervals [16]:
+            xmin = 30.738 
+            xmax = 31.124 
+            text = "#" 
+        intervals [17]:
+            xmin = 31.124 
+            xmax = 31.348 
+            text = "*" 
+        intervals [18]:
+            xmin = 31.348 
+            xmax = 31.586 
+            text = "#" 
+        intervals [19]:
+            xmin = 31.586 
+            xmax = 33.868 
+            text = "oui" 
+        intervals [20]:
+            xmin = 33.868 
+            xmax = 34.05 
+            text = "#" 
+        intervals [21]:
+            xmin = 34.05 
+            xmax = 34.904 
+            text = "*" 
+        intervals [22]:
+            xmin = 34.904 
+            xmax = 40.64 
+            text = "#" 
+        intervals [23]:
+            xmin = 40.64 
+            xmax = 42.388 
+            text = "ouais possible ouais" 
+        intervals [24]:
+            xmin = 42.388 
+            xmax = 42.688 
+            text = "#" 
+        intervals [25]:
+            xmin = 42.688 
+            xmax = 43.399 
+            text = "*" 
+        intervals [26]:
+            xmin = 43.399 
+            xmax = 43.577 
+            text = "#" 
+        intervals [27]:
+            xmin = 43.577 
+            xmax = 44.13 
+            text = "*" 
+        intervals [28]:
+            xmin = 44.13 
+            xmax = 44.329 
+            text = "#" 
+        intervals [29]:
+            xmin = 44.329 
+            xmax = 45.086 
+            text = "*" 
+        intervals [30]:
+            xmin = 45.086 
+            xmax = 45.746 
+            text = "#" 
+        intervals [31]:
+            xmin = 45.746 
+            xmax = 45.98 
+            text = "*" 
+        intervals [32]:
+            xmin = 45.98 
+            xmax = 46.361 
+            text = "#" 
+        intervals [33]:
+            xmin = 46.361 
+            xmax = 46.752 
+            text = "*" 
+        intervals [34]:
+            xmin = 46.752 
+            xmax = 46.976 
+            text = "#" 
+        intervals [35]:
+            xmin = 46.976 
+            xmax = 47.199 
+            text = "*" 
+        intervals [36]:
+            xmin = 47.199 
+            xmax = 47.448 
+            text = "#" 
+        intervals [37]:
+            xmin = 47.448 
+            xmax = 48.154 
+            text = "*" 
+        intervals [38]:
+            xmin = 48.154 
+            xmax = 48.535 
+            text = "#" 
+        intervals [39]:
+            xmin = 48.535 
+            xmax = 49.719 
+            text = "oui" 
+        intervals [40]:
+            xmin = 49.719 
+            xmax = 50.512 
+            text = "#" 
+        intervals [41]:
+            xmin = 50.512 
+            xmax = 51.223 
+            text = "*" 
+        intervals [42]:
+            xmin = 51.223 
+            xmax = 53.154 
+            text = "#" 
+        intervals [43]:
+            xmin = 53.154 
+            xmax = 54.007 
+            text = "oui" 
+        intervals [44]:
+            xmin = 54.007 
+            xmax = 54.195 
+            text = "#" 
+        intervals [45]:
+            xmin = 54.195 
+            xmax = 54.617 
+            text = "*" 
+        intervals [46]:
+            xmin = 54.617 
+            xmax = 54.932 
+            text = "#" 
+        intervals [47]:
+            xmin = 54.932 
+            xmax = 55.084 
+            text = "*" 
+        intervals [48]:
+            xmin = 55.084 
+            xmax = 55.277 
+            text = "#" 
+        intervals [49]:
+            xmin = 55.277 
+            xmax = 55.572 
+            text = "*" 
+        intervals [50]:
+            xmin = 55.572 
+            xmax = 56.837 
+            text = "#" 
+        intervals [51]:
+            xmin = 56.837 
+            xmax = 57.198 
+            text = "*" 
+        intervals [52]:
+            xmin = 57.198 
+            xmax = 57.792 
+            text = "#" 
+        intervals [53]:
+            xmin = 57.792 
+            xmax = 58.763 
+            text = "*" 
+        intervals [54]:
+            xmin = 58.763 
+            xmax = 58.951 
+            text = "#" 
+        intervals [55]:
+            xmin = 58.951 
+            xmax = 59.576 
+            text = "*" 
+        intervals [56]:
+            xmin = 59.576 
+            xmax = 59.9044 
+            text = "#" 

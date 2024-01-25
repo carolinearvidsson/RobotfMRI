@@ -1,0 +1,98 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 60 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Transcription" 
+        xmin = 0 
+        xmax = 60 
+        intervals: size = 21 
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.717 
+            text = "#" 
+        intervals [2]:
+            xmin = 1.717 
+            xmax = 5.314 
+            text = "sur cette image $Batman$ a pas l'air d'être un super héros gentil" 
+        intervals [3]:
+            xmin = 5.314 
+            xmax = 6.102 
+            text = "#" 
+        intervals [4]:
+            xmin = 6.102 
+            xmax = 6.899 
+            text = "il a l'air méchant" 
+        intervals [5]:
+            xmin = 6.899 
+            xmax = 16.558 
+            text = "#" 
+        intervals [6]:
+            xmin = 16.558 
+            xmax = 17.874 
+            text = "il ressemble à une citrouille" 
+        intervals [7]:
+            xmin = 17.874 
+            xmax = 22.004 
+            text = "#" 
+        intervals [8]:
+            xmin = 22.004 
+            xmax = 22.71 
+            text = "qui fait peur" 
+        intervals [9]:
+            xmin = 22.71 
+            xmax = 27.7 
+            text = "#" 
+        intervals [10]:
+            xmin = 27.7 
+            xmax = 28.157 
+            text = "c'est ça" 
+        intervals [11]:
+            xmin = 28.157 
+            xmax = 30.428 
+            text = "#" 
+        intervals [12]:
+            xmin = 30.428 
+            xmax = 32.086 
+            text = "euh le même découpe en tout cas" 
+        intervals [13]:
+            xmin = 32.086 
+            xmax = 34.411 
+            text = "#" 
+        intervals [14]:
+            xmin = 34.411 
+            xmax = 36.916 
+            text = "c'est ça c'est pour ça que j'ai pensé au $Joker$ tout à l'heure" 
+        intervals [15]:
+            xmin = 36.916 
+            xmax = 40.371 
+            text = "#" 
+        intervals [16]:
+            xmin = 40.371 
+            xmax = 42.972 
+            text = "ça serait un légume pas bio mais euh" 
+        intervals [17]:
+            xmin = 42.972 
+            xmax = 43.384 
+            text = "#" 
+        intervals [18]:
+            xmin = 43.384 
+            xmax = 44.537 
+            text = "rempli d'insecticides" 
+        intervals [19]:
+            xmin = 44.537 
+            xmax = 45.228 
+            text = "#" 
+        intervals [20]:
+            xmin = 45.228 
+            xmax = 45.858 
+            text = "un poison" 
+        intervals [21]:
+            xmin = 45.858 
+            xmax = 59.9044 
+            text = "#" 

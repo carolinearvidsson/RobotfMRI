@@ -1,0 +1,166 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 60 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Transcription" 
+        xmin = 0 
+        xmax = 60 
+        intervals: size = 38 
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.793 
+            text = "#" 
+        intervals [2]:
+            xmin = 1.793 
+            xmax = 1.976 
+            text = "re" 
+        intervals [3]:
+            xmin = 1.976 
+            xmax = 2.692 
+            text = "#" 
+        intervals [4]:
+            xmin = 2.692 
+            xmax = 3.119 
+            text = "euh" 
+        intervals [5]:
+            xmin = 3.119 
+            xmax = 5.533 
+            text = "#" 
+        intervals [6]:
+            xmin = 5.533 
+            xmax = 6.452 
+            text = "c'est clair" 
+        intervals [7]:
+            xmin = 6.452 
+            xmax = 10.582 
+            text = "#" 
+        intervals [8]:
+            xmin = 10.582 
+            xmax = 13.159 
+            text = "oui moi aussi j'ai vu une pomme euh" 
+        intervals [9]:
+            xmin = 13.159 
+            xmax = 13.657 
+            text = "#" 
+        intervals [10]:
+            xmin = 13.657 
+            xmax = 14.663 
+            text = "à l'envers" 
+        intervals [11]:
+            xmin = 14.663 
+            xmax = 15.582 
+            text = "#" 
+        intervals [12]:
+            xmin = 15.582 
+            xmax = 16.492 
+            text = "en plein pied" 
+        intervals [13]:
+            xmin = 16.492 
+            xmax = 18.929 
+            text = "#" 
+        intervals [14]:
+            xmin = 18.929 
+            xmax = 19.55 
+            text = "euh" 
+        intervals [15]:
+            xmin = 19.55 
+            xmax = 20.963 
+            text = "#" 
+        intervals [16]:
+            xmin = 20.963 
+            xmax = 23.178 
+            text = "voilà euh elle est rouge" 
+        intervals [17]:
+            xmin = 23.178 
+            xmax = 27.412 
+            text = "#" 
+        intervals [18]:
+            xmin = 27.412 
+            xmax = 29.701 
+            text = "voilà elle a des grands yeux euh" 
+        intervals [19]:
+            xmin = 29.701 
+            xmax = 31.063 
+            text = "#" 
+        intervals [20]:
+            xmin = 31.063 
+            xmax = 32.486 
+            text = "plutôt sévères" 
+        intervals [21]:
+            xmin = 32.486 
+            xmax = 36.809 
+            text = "#" 
+        intervals [22]:
+            xmin = 36.809 
+            xmax = 37.424 
+            text = "euh oui" 
+        intervals [23]:
+            xmin = 37.424 
+            xmax = 38.557 
+            text = "#" 
+        intervals [24]:
+            xmin = 38.557 
+            xmax = 39.985 
+            text = "euh moi pas trop" 
+        intervals [25]:
+            xmin = 39.985 
+            xmax = 41.102 
+            text = "#" 
+        intervals [26]:
+            xmin = 41.102 
+            xmax = 42.322 
+            text = "elle me donne pas très envie" 
+        intervals [27]:
+            xmin = 42.322 
+            xmax = 44.232 
+            text = "#" 
+        intervals [28]:
+            xmin = 44.232 
+            xmax = 45.37 
+            text = "avec ses yeux" 
+        intervals [29]:
+            xmin = 45.37 
+            xmax = 48.916 
+            text = "#" 
+        intervals [30]:
+            xmin = 48.916 
+            xmax = 49.15 
+            text = "et euh" 
+        intervals [31]:
+            xmin = 49.15 
+            xmax = 53.149 
+            text = "#" 
+        intervals [32]:
+            xmin = 53.149 
+            xmax = 53.992 
+            text = "euh oui" 
+        intervals [33]:
+            xmin = 53.992 
+            xmax = 54.317 
+            text = "#" 
+        intervals [34]:
+            xmin = 54.317 
+            xmax = 55.227 
+            text = "ben je sais pas" 
+        intervals [35]:
+            xmin = 55.227 
+            xmax = 56.639 
+            text = "#" 
+        intervals [36]:
+            xmin = 56.639 
+            xmax = 57.747 
+            text = "manquait la cape" 
+        intervals [37]:
+            xmin = 57.747 
+            xmax = 59.022 
+            text = "#" 
+        intervals [38]:
+            xmin = 59.022 
+            xmax = 59.9044 
+            text = "non il manque la cape" 

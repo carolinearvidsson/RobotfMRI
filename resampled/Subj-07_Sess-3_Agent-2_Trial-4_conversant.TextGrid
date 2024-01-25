@@ -1,0 +1,98 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 60 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Transcription" 
+        xmin = 0 
+        xmax = 60 
+        intervals: size = 21 
+        intervals [1]:
+            xmin = 0 
+            xmax = 4.471 
+            text = "#" 
+        intervals [2]:
+            xmin = 4.471 
+            xmax = 6.325 
+            text = "on dirait qu'elle a un rire sardonique" 
+        intervals [3]:
+            xmin = 6.325 
+            xmax = 12.178 
+            text = "#" 
+        intervals [4]:
+            xmin = 12.178 
+            xmax = 13.423 
+            text = "elle a l'air agressive" 
+        intervals [5]:
+            xmin = 13.423 
+            xmax = 17.046 
+            text = "#" 
+        intervals [6]:
+            xmin = 17.046 
+            xmax = 17.767 
+            text = "oui en effet" 
+        intervals [7]:
+            xmin = 17.767 
+            xmax = 19.52 
+            text = "#" 
+        intervals [8]:
+            xmin = 19.52 
+            xmax = 20.475 
+            text = "elle a l'air forte" 
+        intervals [9]:
+            xmin = 20.475 
+            xmax = 20.688 
+            text = "#" 
+        intervals [10]:
+            xmin = 20.688 
+            xmax = 21.374 
+            text = "comme la pomme" 
+        intervals [11]:
+            xmin = 21.374 
+            xmax = 28.289 
+            text = "#" 
+        intervals [12]:
+            xmin = 28.289 
+            xmax = 29.071 
+            text = "tu ne crois pas" 
+        intervals [13]:
+            xmin = 29.071 
+            xmax = 32.78 
+            text = "#" 
+        intervals [14]:
+            xmin = 32.78 
+            xmax = 33.156 
+            text = "ouais" 
+        intervals [15]:
+            xmin = 33.156 
+            xmax = 36.413 
+            text = "#" 
+        intervals [16]:
+            xmin = 36.413 
+            xmax = 38.765 
+            text = "c'est une campagne de pub ciblant les enfants" 
+        intervals [17]:
+            xmin = 38.765 
+            xmax = 40.772 
+            text = "#" 
+        intervals [18]:
+            xmin = 40.772 
+            xmax = 41.61 
+            text = "tu ne penses pas" 
+        intervals [19]:
+            xmin = 41.61 
+            xmax = 51.182 
+            text = "#" 
+        intervals [20]:
+            xmin = 51.182 
+            xmax = 53.906 
+            text = "c'est peut-être une pub pour manger plus sainement" 
+        intervals [21]:
+            xmin = 53.906 
+            xmax = 59.9516 
+            text = "#" 

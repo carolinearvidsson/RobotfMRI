@@ -1,0 +1,138 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 60 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Transcription" 
+        xmin = 0 
+        xmax = 60 
+        intervals: size = 31 
+        intervals [1]:
+            xmin = 0 
+            xmax = 2.812 
+            text = "#" 
+        intervals [2]:
+            xmin = 2.812 
+            xmax = 4.952 
+            text = "euh du coup c'était" 
+        intervals [3]:
+            xmin = 4.952 
+            xmax = 5.292 
+            text = "#" 
+        intervals [4]:
+            xmin = 5.292 
+            xmax = 6.005 
+            text = "une pomme" 
+        intervals [5]:
+            xmin = 6.005 
+            xmax = 6.523 
+            text = "#" 
+        intervals [6]:
+            xmin = 6.523 
+            xmax = 6.757 
+            text = "ah" 
+        intervals [7]:
+            xmin = 6.757 
+            xmax = 7.608 
+            text = "#" 
+        intervals [8]:
+            xmin = 7.608 
+            xmax = 7.914 
+            text = "oui" 
+        intervals [9]:
+            xmin = 7.914 
+            xmax = 8.17 
+            text = "#" 
+        intervals [10]:
+            xmin = 8.17 
+            xmax = 10.273 
+            text = "c'était une pomme avec un masque" 
+        intervals [11]:
+            xmin = 10.273 
+            xmax = 12.251 
+            text = "#" 
+        intervals [12]:
+            xmin = 12.251 
+            xmax = 13.003 
+            text = "hm" 
+        intervals [13]:
+            xmin = 13.003 
+            xmax = 13.474 
+            text = "#" 
+        intervals [14]:
+            xmin = 13.474 
+            xmax = 14.541 
+            text = "rouge et" 
+        intervals [15]:
+            xmin = 14.541 
+            xmax = 16.71 
+            text = "#" 
+        intervals [16]:
+            xmin = 16.71 
+            xmax = 17.998 
+            text = "voilà et -fin c'est tout" 
+        intervals [17]:
+            xmin = 17.998 
+            xmax = 19.027 
+            text = "#" 
+        intervals [18]:
+            xmin = 19.027 
+            xmax = 19.581 
+            text = "à l'envers" 
+        intervals [19]:
+            xmin = 19.581 
+            xmax = 28.208 
+            text = "#" 
+        intervals [20]:
+            xmin = 28.208 
+            xmax = 28.472 
+            text = "oui" 
+        intervals [21]:
+            xmin = 28.472 
+            xmax = 36.337 
+            text = "#" 
+        intervals [22]:
+            xmin = 36.337 
+            xmax = 36.611 
+            text = "-fin" 
+        intervals [23]:
+            xmin = 36.611 
+            xmax = 37.945 
+            text = "#" 
+        intervals [24]:
+            xmin = 37.945 
+            xmax = 38.44 
+            text = "oui" 
+        intervals [25]:
+            xmin = 38.44 
+            xmax = 39.04 
+            text = "#" 
+        intervals [26]:
+            xmin = 39.04 
+            xmax = 39.521 
+            text = "ou" 
+        intervals [27]:
+            xmin = 39.521 
+            xmax = 40.189 
+            text = "#" 
+        intervals [28]:
+            xmin = 40.189 
+            xmax = 41.123 
+            text = "oui on peut dire ça oui" 
+        intervals [29]:
+            xmin = 41.123 
+            xmax = 51.022 
+            text = "#" 
+        intervals [30]:
+            xmin = 51.022 
+            xmax = 51.413 
+            text = "oui" 
+        intervals [31]:
+            xmin = 51.413 
+            xmax = 59.9044 
+            text = "#" 
