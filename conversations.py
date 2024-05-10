@@ -12,8 +12,10 @@ class Conversations:
             self.get_conversation(datastr, path)
 
         def get_conversation(self, datastr, path):
-            with open('resampled/modalities.csv', 'w', newline='') as modalityfile:
-                writer = csv.writer(modalityfile)
+            #with open('resampled/modalities.csv', 'w', newline='') as modalityfile:
+            #    modwriter = csv.writer(modalityfile)
+            with open('resampled/transitions.csv', 'w', newline='') as transfile:
+                transwriter = csv.writer(transfile)
 
                 for participant in datastr:
                     print(participant)
@@ -37,11 +39,12 @@ class Conversations:
                             for transition in Transitions(grids_merged).transitions_data:
                                 transitions_datarows = [participant, condition, session, convers] + transition
                                 self.transitions_data.append(transitions_datarows)
+                                transwriter.writerow(transitions_datarows)
                                                 
                             for mod_data_row in Modality(grids_merged).modality_data:
                                 modality_datarow = [participant, condition, session, convers] + mod_data_row
                                 self.modality.append(modality_datarow)
-                                writer.writerow(modality_datarow)
+                                #modwriter.writerow(modality_datarow)
 
 
 
